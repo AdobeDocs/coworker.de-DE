@@ -8,7 +8,7 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+source-git-commit: 12ee914ed944c82694b9373f611e19cf040e2229
 workflow-type: tm+mt
 source-wordcount: '1719'
 ht-degree: 4%
@@ -17,7 +17,7 @@ ht-degree: 4%
 
 Orientieren Sie sich an der Oberfläche des Coworker Chat . In diesem Handbuch wird alles behandelt, vom Zugriff auf die App und der Navigation im Arbeitsbereich bis hin zur optimalen Nutzung von Unterhaltungen, der Verwaltung des Verlaufs und der Anpassung des Setups.
 
->[!VIDEO](https://video.tv.adobe.com/v/3498574?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
 
 ## Zugriff auf Coworker Chat
 
@@ -25,7 +25,7 @@ Wenn Ihr Unternehmen Zugriff auf Kollegen erhält, können Sie seine Funktionen 
 
 >[!NOTE]
 >
->Auf das produktinterne Erlebnis kann über das Symbol „Mitarbeiter![&#x200B; (Symbol „Mitarbeiter](./assets/icon-coworker.png) oben rechts zugegriffen werden. Die Details des immersiven Erlebnisses sind [&#x200B; unten beschrieben](#immersive).
+>Auf das produktinterne Erlebnis kann über das Symbol „Mitarbeiter![ (Symbol „Mitarbeiter](./assets/icon-coworker.png) oben rechts zugegriffen werden. Die Details des immersiven Erlebnisses sind [ unten beschrieben](#immersive).
 
 In der folgenden Tabelle wird erfasst, wann diese Erlebnisse für jedes CX Enterprise-Programm verfügbar sein werden.
 
@@ -36,7 +36,7 @@ In der folgenden Tabelle wird erfasst, wann diese Erlebnisse für jedes CX Enter
 | CJA | Jetzt verfügbar | Bald verfügbar |
 | Workfront | Jetzt verfügbar | Bald verfügbar:<br><br>* Anfang September 2026 in der Vorschauinstanz für ausgewählte geeignete Workfront-Systemadministratoren<br><br>* Mitte September 2026 in der Produktionsinstanz für geeignete Kunden von Workfront mit Schnellveröffentlichung<br><br>* Mitte Oktober 2026 in der Produktionsinstanz für geeignete Kunden von Workfront mit vierteljährlicher Veröffentlichung |
 | Target | Jetzt verfügbar | Jetzt verfügbar |
-| AEM | Jetzt verfügbar | Bald verfügbar |
+| AEM | Jetzt verfügbar | Jetzt verfügbar |
 | Marketo Engage | Jetzt verfügbar | Bald verfügbar |
 
 ### immersives Erlebnis {#immersive}
