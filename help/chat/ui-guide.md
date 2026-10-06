@@ -25,7 +25,7 @@ Wenn Ihr Unternehmen Zugriff auf Kollegen erhält, können Sie seine Funktionen 
 
 >[!NOTE]
 >
->Auf das produktinterne Erlebnis kann über das Symbol „Mitarbeiter![ (Symbol „Mitarbeiter](./assets/icon-coworker.png) oben rechts zugegriffen werden. Die Details des immersiven Erlebnisses sind [ unten beschrieben](#immersive).
+>Auf das produktinterne Erlebnis kann über das Symbol „Mitarbeiter![&#x200B; (Symbol „Mitarbeiter](./assets/icon-coworker.png) oben rechts zugegriffen werden. Die Details des immersiven Erlebnisses sind [&#x200B; unten beschrieben](#immersive).
 
 In der folgenden Tabelle wird erfasst, wann diese Erlebnisse für jedes CX Enterprise-Programm verfügbar sein werden.
 
