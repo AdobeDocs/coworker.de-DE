@@ -23,7 +23,7 @@ ht-degree: 1%
 
 Verwenden Sie die Agentenfertigkeiten der Sandbox-Werkzeuge, um Objektmetadaten - einschließlich Schemata und Zielgruppen - in Adobe Experience Platform-Umgebungen zu verschieben, indem Sie beschreiben, was Sie in natürlicher Sprache erreichen möchten. Mithilfe von CX Coworker können Sie die erforderlichen Metadaten ermitteln, Abhängigkeiten automatisch identifizieren, Migrationspakete erstellen und Objekte im Rahmen eines Gesprächserlebnisses migrieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496706?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496715?captions=ger&learn=on)
 
 ## Voraussetzungen {#prerequisites}
 

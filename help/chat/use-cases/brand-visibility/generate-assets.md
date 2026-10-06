@@ -27,4 +27,4 @@ Um zum Beispiel einen Instagram-Kaffeepost zu erstellen, können Sie eine kurze 
 
 Coworker bietet zudem Flexibilität bei der weiteren Anpassung. Sie können Assets ändern, Varianten erstellen oder Inhalte für verschiedene Formate, wie z. B. Instagram-Stories, anpassen. Dieser Ansatz ermöglicht es Ihnen, sich auf Ihre Ziele zu konzentrieren, während ein Mitarbeiter die technischen Details verwaltet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3502692/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502718/?captions=ger&learn=on&enablevpops)

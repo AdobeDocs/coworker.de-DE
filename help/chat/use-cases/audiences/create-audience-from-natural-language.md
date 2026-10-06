@@ -24,4 +24,4 @@ ht-degree: 0%
 
 Das Auditing der Verbindung zwischen Zielgruppen, Journey, Datensätzen und Zielen ist normalerweise eine manuelle, zeitaufwendige Übung. In diesem Video erfahren Sie, wie Coworker eine vollständige Übersicht über Ihre Adobe Experience Platform (AEP)-Umgebung erstellen, diese mit Best Practices der Branche vergleichen und diese Erkenntnisse nutzen können, um eine neue Audience zu erstellen - alles in einem einzigen Gespräch.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496848/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496874/?captions=ger&learn=on&enablevpops)

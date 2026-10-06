@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Wenn Sie einen digitalen Launch für eine neue Eigenschaft planen, müssen Sie in der Regel Analyse-, Zielgruppen-, Kreativ- und Web-Teams für Arbeiten gewinnen, die Wochen dauern können. In diesem Video erfahren Sie, wie Adobe Enterprise Coworker aus einem einzigen Gespräch heraus den digitalen Launch einer neuen Immobilie in Miami plant. Coworker verstehen das Ziel und den Verlauf der ersten Nachricht, kombinieren First-Party-Experience Platform-Daten mit Live-Marktinformationen von Semrush und erstellen dann die Zielgruppe, Kunden-Journey, Inhaltsexperimente und Landingpages - während Governance, Einverständnis und Geschäftsregeln in Kraft bleiben, wobei die Prüfung durch einen Mitarbeiter an den erforderlichen Stellen durchgeführt werden muss.
 
->[!VIDEO](https://video.tv.adobe.com/v/3503873?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3503880?captions=ger&learn=on)
 
 ## Priorisieren Sie Ihren Tag und artikulieren Sie ein Ziel
 

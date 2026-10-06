@@ -28,4 +28,4 @@ Beispielsweise kann ein Mitarbeiter automatisch generierte Inhalte wie eine Inst
 
 Ein Mitarbeiter identifiziert nicht nur Probleme, sondern bietet umsetzbare Vorschläge. Wenn eine Beschriftung beispielsweise zu generisch ist oder keine call to action enthält, wird eine überarbeitete Version bereitgestellt, die Ihren Markenstandards entspricht und relevante Tags enthält. Dieser Prozess optimiert die Inhaltserstellung und stellt die Markenkonformität mit minimalem Aufwand sicher.
 
->[!VIDEO](https://video.tv.adobe.com/v/3502691/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502711/?captions=ger&learn=on&enablevpops)

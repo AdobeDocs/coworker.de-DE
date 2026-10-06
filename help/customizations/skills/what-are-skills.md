@@ -22,7 +22,7 @@ Kenntnisse sind wiederverwendbare Playbooks, mit denen Adobe CX Coworker Orchest
  
 In diesem Video erfahren Sie, wie Fähigkeiten funktionieren, wann sie verwendet werden und wie sie Teams dabei helfen, wiederholbare Praktiken für Kundenerlebnisse zu skalieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3502322/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502330/?captions=ger&learn=on&enablevpops)
 
 Eine Qualifikation bietet:
 

@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Wiederverwendbare KI-Fähigkeiten helfen Teams bei der Durchführung konsistenter, wiederholbarer Aufgaben. Mit der Weiterentwicklung der geschäftlichen Anforderungen müssen sich diese Fähigkeiten jedoch auch weiterentwickeln. In diesem Video wird ein praktischer Ansatz für das Management des gesamten Lebenszyklus von auf Governance fokussierten KI-Fähigkeiten gezeigt, von der Bewertung und Verbesserung bis hin zur Validierung und Pensionierung.
 
->[!VIDEO](https://video.tv.adobe.com/v/3503566/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3503573/?captions=ger&learn=on)
 
 ## Warum eine Baseline wichtig ist
 

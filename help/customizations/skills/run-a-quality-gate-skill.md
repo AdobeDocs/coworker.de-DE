@@ -21,7 +21,7 @@ Die Herausforderung besteht darin, dass diese Kontrollen häufig auf dem Wissen 
 
 In diesem Video erfahren Sie, wie benutzerdefinierte Kollegen als Aktivierungs-Gate fungieren und Zielgruppen automatisch anhand der Aktivierungsstandards Ihres Unternehmens validieren, bevor sie nachgelagert werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3503162/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3503172/?captions=ger&learn=on&enablevpops)
 
 ## Beispiel-Aktivierungs-Qualitäts-Gate-Kenntnisse
  

@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Verschaffen Sie sich einen schnellen Überblick über Integrationen in Coworker, einschließlich einer Integration, der Gründe für die Verwendung einer Integration und der Verwendung der Oberfläche.
 
->[!VIDEO](https://video.tv.adobe.com/v/3503744/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3503752/?captions=ger&learn=on&enablevpops)

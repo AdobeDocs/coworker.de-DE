@@ -25,7 +25,7 @@ In dieser Demonstration erfahren Sie, wie die Treue zu Adobe Journey Optimizer (
  
 In diesem Video werden das Loyalty-Plug-in und dessen Challenge-Management-Fähigkeiten vorgestellt, eine KI-gestützte Funktion, mit der Marketing-Experten Herausforderungen im Zusammenhang mit dem Treueprogramm in natürlicher Sprache erstellen, bearbeiten und verwalten können, anstatt jede Einstellung in der Benutzeroberfläche manuell zu konfigurieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496528/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496545/?captions=ger&learn=on&enablevpops)
 
 ## Siehe auch
 

@@ -19,7 +19,7 @@ ht-degree: 1%
 
 Anstatt dieselben Anweisungen jedes Mal zu wiederholen, wenn Sie ein neues Gespräch beginnen, ermöglicht der Arbeitsspeicher es Mitarbeitern, ausgewählte Informationen sitzungsübergreifend weiterzugeben und so schnellere und relevantere Antworten zu liefern.
 
->[!VIDEO](https://video.tv.adobe.com/v/3503657/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3503673/?captions=ger&learn=on&enablevpops)
 
 ## Grundlegendes zum Speicher
 
