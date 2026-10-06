@@ -22,7 +22,7 @@ Mit Adobe Coworker-Kampagnen können Sie Ihr Marketo Engage-Konto verbinden, um 
 >
 >* Ein gültiges Marketo Engage-Konto
 >* Ihre Marketo **Instanz-URL**
->* Ein [benutzerdefinierter Service](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/custom-services#custom-services-1) der für Coworker-Kampagnen in Marketo erstellt wurde, mit [Client-ID und &#x200B;](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication#creating-an-access-token) Client-Geheimnis)
+>* Ein [benutzerdefinierter Service](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/custom-services#custom-services-1) der für Coworker-Kampagnen in Marketo erstellt wurde, mit [Client-ID und &#x200B;](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/authentication#creating-an-access-token) Client-Geheimnis)
 
 ## So verbinden Sie sich
 

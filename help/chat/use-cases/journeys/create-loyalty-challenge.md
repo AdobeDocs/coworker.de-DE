@@ -29,6 +29,6 @@ In diesem Video werden das Loyalty-Plug-in und dessen Challenge-Management-Fähi
 
 ## Siehe auch
 
-- [Journey Agent](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent) für andere AJO-KI-Funktionen, die über den Coworker Chat verfügbar sind, wie z. B. die Erstellung, Analyse und Simulation von Journey.
+- [Journey Agent](https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent) für andere AJO-KI-Funktionen, die über den Coworker Chat verfügbar sind, wie z. B. die Erstellung, Analyse und Simulation von Journey.
 - [Verwaltung von Loyalitätsproblemen](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/essentials/ajo-coworker-skills#loyalty-challenge-management){target="_blank"} in der Dokumentation zu Adobe Journey Optimizer.
 - [Weitere Anwendungsfälle für den Coworker Chat](../overview.md#journeys)

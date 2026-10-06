@@ -19,22 +19,22 @@ Mit Anpassungen können Sie Coworker erweitern und personalisieren, sodass sie d
 <!--
 CARDS
 
-* https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/skills/what-are-skills
+* https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/skills/what-are-skills
   {title = What are skills?}
   {description = Learn about skills in Adobe CX Coworker, reusable playbooks that standardize workflows and deliver consistent results across conversations and users.}
   {cta = Watch}
 
-* https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/integrations/understanding-integrations-in-coworker
+* https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/integrations/understanding-integrations-in-coworker
   {title = What are integrations?}
   {description = Get a quick tour and overview of integrations in Coworker, including what an integration is, why you'd use one, and how to use the interface.}
   {cta = Watch}
 
-* https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/plugins/what-are-plugins
+* https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/plugins/what-are-plugins
   {title = What are plugins?}
   {description = Learn about Adobe CX Coworker plugins, installable packages that bundle skills and MCP servers to extend functionality for a specific business need.}
   {cta = Watch}
 
-* https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/memory/what-is-memory
+* https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/memory/what-is-memory
   {title = What is memory?}
   {description = Learn how Coworker CX Memory helps personalize AI interactions by remembering preferences, work styles, and reporting defaults across conversations.}
   {cta = Watch}
@@ -45,7 +45,7 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/skills/what-are-skills" title="Was sind Fähigkeiten?" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/skills/what-are-skills" title="Was sind Fähigkeiten?" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502322/?format=jpeg&nocache=1790273741021" alt="Was sind Fähigkeiten?"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -54,11 +54,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/skills/what-are-skills" target="_blank" rel="referrer" title="Was sind Fähigkeiten?">Was sind Fähigkeiten?</a>
+                        <a href="https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/skills/what-are-skills" target="_blank" rel="referrer" title="Was sind Fähigkeiten?">Was sind Fähigkeiten?</a>
                     </p>
                     <p class="is-size-6">Erfahren Sie mehr über Kenntnisse in Adobe CX Coworker und wiederverwendbare Playbooks, die Workflows standardisieren und konsistente Ergebnisse für Konversationen und Anwender liefern.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/skills/what-are-skills" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/skills/what-are-skills" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
@@ -68,7 +68,7 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/integrations/understanding-integrations-in-coworker" title="Was sind Integrationen?" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/integrations/understanding-integrations-in-coworker" title="Was sind Integrationen?" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3503744/?format=jpeg&nocache=1790273741207" alt="Was sind Integrationen?"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -77,11 +77,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/integrations/understanding-integrations-in-coworker" target="_blank" rel="referrer" title="Was sind Integrationen?">Was sind Integrationen?</a>
+                        <a href="https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/integrations/understanding-integrations-in-coworker" target="_blank" rel="referrer" title="Was sind Integrationen?">Was sind Integrationen?</a>
                     </p>
                     <p class="is-size-6">Verschaffen Sie sich einen schnellen Überblick über Integrationen in Coworker, einschließlich einer Integration, der Gründe für die Verwendung einer Integration und der Verwendung der Oberfläche.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/integrations/understanding-integrations-in-coworker" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/integrations/understanding-integrations-in-coworker" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
@@ -91,7 +91,7 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/plugins/what-are-plugins" title="Was sind Plug-ins?" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/plugins/what-are-plugins" title="Was sind Plug-ins?" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3503656/?format=jpeg&nocache=1790273741022" alt="Was sind Plug-ins?"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -100,11 +100,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/plugins/what-are-plugins" target="_blank" rel="referrer" title="Was sind Plug-ins?">Was sind Plug-ins?</a>
+                        <a href="https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/plugins/what-are-plugins" target="_blank" rel="referrer" title="Was sind Plug-ins?">Was sind Plug-ins?</a>
                     </p>
                     <p class="is-size-6">Erfahren Sie mehr über Adobe CX Coworker-Plug-ins, installierbare Pakete, die Kenntnisse und MCP-Server bündeln, um die Funktionalität für eine bestimmte Geschäftsanforderung zu erweitern.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/plugins/what-are-plugins" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/plugins/what-are-plugins" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
@@ -114,7 +114,7 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/memory/what-is-memory" title="Was ist Speicher?" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/memory/what-is-memory" title="Was ist Speicher?" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3503657/?format=jpeg&nocache=1790273741019" alt="Was ist Speicher?"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -123,11 +123,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/memory/what-is-memory" target="_blank" rel="referrer" title="Was ist Speicher?">Was ist Speicher?</a>
+                        <a href="https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/memory/what-is-memory" target="_blank" rel="referrer" title="Was ist Speicher?">Was ist Speicher?</a>
                     </p>
                     <p class="is-size-6">Erfahren Sie, wie der Coworker CX-Speicher bei der Personalisierung von KI-Interaktionen hilft, indem Voreinstellungen, Arbeitsstile und Berichtsstandardwerte über Konversationen hinweg gespeichert werden.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/memory/what-is-memory" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/memory/what-is-memory" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>

@@ -30,5 +30,5 @@ Durch die Automatisierung des anfänglichen Einrichtungsprozesses können Teams 
 
 ## Siehe auch
 
-- [Journey Agent](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent#journey-create), die zugrunde liegende KI-Funktion, die die Journey-Erstellung im Coworker Chat ermöglicht.
+- [Journey Agent](https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent#journey-create), die zugrunde liegende KI-Funktion, die die Journey-Erstellung im Coworker Chat ermöglicht.
 - [Weitere Anwendungsfälle für den Coworker Chat](../overview.md#journeys)
