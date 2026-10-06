@@ -186,4 +186,4 @@ Verwenden Sie die folgenden Eingabeaufforderungen als Beispiele für die Interak
 
 Nach dem Lesen dieses Handbuchs sollten Sie wissen, wie Sie mithilfe von Warnhinweiskenntnissen in CX Coworker die Warnhinweisaktivität überprüfen, Warnhinweistrends analysieren, Warnhinweisabonnements verwalten und operative Probleme mithilfe von Gesprächen in natürlicher Sprache untersuchen können.
 
-Weitere Informationen zu Warnhinweisen finden Sie unter [Übersicht über ](https://experienceleague.adobe.com/de/docs/experience-platform/observability/alerts/overview).
+Weitere Informationen zu Warnhinweisen finden Sie unter [Übersicht über &#x200B;](https://experienceleague.adobe.com/de/docs/experience-platform/observability/alerts/overview).

@@ -25,7 +25,7 @@ Mit Adobe Coworker Campaign können Sie Ihr HubSpot-Konto verbinden, um Kontaktl
 
 ## So verbinden Sie sich
 
-1. Klicken Sie auf der [Startseite von ](https://coworker-campaigns.experience.adobe.com/)-Kampagnen auf **Anpassen** und wählen Sie **Connectoren**.
+1. Klicken Sie auf der [Startseite von &#x200B;](https://coworker-campaigns.experience.adobe.com/)-Kampagnen auf **Anpassen** und wählen Sie **Connectoren**.
 
    ![Das Menü „Anpassen“ wurde in der Seitenleiste erweitert, wobei Connectoren ausgewählt sind](./assets/hubspot-1.png)
 

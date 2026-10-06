@@ -51,7 +51,7 @@ Bevor Sie diese Fähigkeiten verwenden, beachten Sie die folgenden Einschränkun
 
 * **Nur Planung**: Diese Kenntnisse greifen nicht auf Ihre Adobe-Systeme zu und nehmen keine Änderungen vor. Sie führen die Implementierung nicht durch und überprüfen sie auch nicht anhand eines Live-Mandanten.
 * **Eine Produktoberfläche pro Qualifikation**: Jede Qualifikation deckt einen einzelnen Implementierungspfad ab. Wenn sich Ihre Anfrage auf eine andere Produktoberfläche bezieht, werden Sie von der Kenntnis zur richtigen geleitet, anstatt direkt zu antworten.
-* **Allein kein Projekt-Tracking**: Diese Fähigkeiten generieren einen Plan und Exporte, verfolgen jedoch nicht den aktuellen Status, die Zusammenarbeit oder die Genehmigungen selbst. Um Ihren Plan im Laufe der Zeit zu verfolgen, wandeln Sie ihn mithilfe eines vordefinierten Playbooks in ein Co-Worker-Projekt um. Siehe [Generieren einer Implementierungs-Checkliste mit ](./intelligent-checklist.md).
+* **Allein kein Projekt-Tracking**: Diese Fähigkeiten generieren einen Plan und Exporte, verfolgen jedoch nicht den aktuellen Status, die Zusammenarbeit oder die Genehmigungen selbst. Um Ihren Plan im Laufe der Zeit zu verfolgen, wandeln Sie ihn mithilfe eines vordefinierten Playbooks in ein Co-Worker-Projekt um. Siehe [Generieren einer Implementierungs-Checkliste mit &#x200B;](./intelligent-checklist.md).
 
 ## Starten einer Implementierungsplanungssitzung
 

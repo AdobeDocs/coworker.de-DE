@@ -162,4 +162,4 @@ Am besten geeignet für: Jede Zielgruppe, die ruhig geworden ist.
 
 ## Bereit zum Bau?
 
-Wählen Sie oben einen Anwendungsfall aus[ besuchen Sie „E-Mail](./)Kampagne erstellen“, um die vollständige Anleitung zu erhalten, und probieren Sie sie aus.
+Wählen Sie oben einen Anwendungsfall aus[ besuchen Sie „E-Mail] (./)Kampagne erstellen“, um die vollständige Anleitung zu erhalten, und probieren Sie sie aus.
