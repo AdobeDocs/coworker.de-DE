@@ -25,8 +25,8 @@ Adobe CX Enterprise stellt Produkt-Tools über einen einzigen MCP bereit. Der Zu
 | Journey Optimizer | Beta | Aktive Journey Optimizer-Lizenz, Beta-Aktivierung für Ihr Adobe-Unternehmen und Berechtigungen zum Anzeigen von Kampagnen, Journey und Kanalkonfigurationen. |
 | Customer Journey Analytics | Verfügbar | Aktive Customer Journey Analytics-Lizenz und ein Produktprofil, das das Berechtigungselement **MCP-Zugriff** in Adobe Admin Console enthält. Produktberechtigungen steuern weiterhin, auf welche Datenansichten, Komponenten, Berichte, Projekte und Zielgruppen Sie zugreifen oder sie ändern können. |
 | Adobe Analytics | Verfügbar | Aktive Adobe Analytics-Lizenz und ein Produktprofil, das das Berechtigungselement **MCP-Zugriff** in Adobe Admin Console enthält. Produktberechtigungen steuern weiterhin, auf welche Report Suites, Komponenten, Berichte, Segmente, Datumsbereiche und Projekte Sie zugreifen oder sie ändern können. |
-| Workfront | Vorschau | Aktive Workfront-Lizenz und Aktivierung von Workfront MCP. Siehe die [Workfront MCP-Dokumentation](https://experienceleague.adobe.com/en/docs/workfront/using/basics/workfront-mcp-server/workfront-mcp-server-overview). |
-| Target | Beta | Active Target-Lizenz mit einer Adobe Experience Platform-Organisation. Siehe die [Target MCP-Dokumentation](https://experienceleague.adobe.com/en/docs/target/using/mcp/target-mcp-get-started). |
+| Workfront | Vorschau | Aktive Workfront-Lizenz und Aktivierung von Workfront MCP. Siehe die [Workfront MCP-Dokumentation](https://experienceleague.adobe.com/de/docs/workfront/using/basics/workfront-mcp-server/workfront-mcp-server-overview). |
+| Target | Beta | Active Target-Lizenz mit einer Adobe Experience Platform-Organisation. Siehe die [Target MCP-Dokumentation](https://experienceleague.adobe.com/de/docs/target/using/mcp/target-mcp-get-started). |
 
 
 
