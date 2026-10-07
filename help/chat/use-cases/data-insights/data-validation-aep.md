@@ -10,15 +10,15 @@ jira: PLAT-302857
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+source-git-commit: 2bf31c1348054a16ba7e7c0c26c0ff913634aa27
 workflow-type: tm+mt
-source-wordcount: '1054'
+source-wordcount: '1058'
 ht-degree: 0%
 ---
 
 # Validieren Ihrer Experience Platform-Daten mit einem Kollegen
 
-Ein Mitarbeiter verfügt über die Fähigkeit zur Datenvalidierung, die die Datenqualität Ihrer Experience Platform-Datensätze überprüft. Verwenden Sie es, um statistische und semantische Validierungen für Datensätze durchzuführen, Datensatzfelder zu analysieren und Datenqualitätsprobleme zu identifizieren, und zwar alles über eine einzige Konversation im Coworker Chat.
+Adobe CX Enterprise Coworker umfasst die Fähigkeit zur Datenvalidierung, die die Datenqualität Ihrer Experience Platform-Datensätze überprüft. Verwenden Sie es, um statistische und semantische Validierungen für Datensätze durchzuführen, Datensatzfelder zu analysieren und Datenqualitätsprobleme zu identifizieren, und zwar alles über eine einzige Konversation im Coworker Chat.
 
 Dateningenieure, Datenadministratoren und Implementierungstechniker verwenden es für schnelle Qualitätsprüfungen, ohne SQL-Abfragen oder komplexe Schemahierarchien.
 
@@ -156,5 +156,5 @@ Wenn Ihre Validierungsanforderungen erschöpfender sind oder komplexe Geschäfts
 
 * [Validieren von Adobe Analytics in Customer Journey Analytics-Daten beim Upgrade](./data-validation-aa-cja.md)
 * [Validieren von Customer Journey Analytics-Daten mit der Datenvalidierungs-Fähigkeit in Coworker](./validate-dataset-quality-for-cja.md)
-* [Validieren Ihrer Daten (KI-Assistent)](https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/agents/data-validation)
-* [Trust Your Customer Journey Analytics Reporting: Data Validation Skill in Adobe CX Coworker](https://www.youtube.com/watch?v=gCSm_QYSYhk) (Video)
+* [Validieren Ihrer Daten (KI-Assistent)](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/data-validation)
+* [Trust Your Customer Journey Analytics Reporting: Data Validation Skill in Adobe CX Enterprise Coworker](https://www.youtube.com/watch?v=gCSm_QYSYhk) (Video)
