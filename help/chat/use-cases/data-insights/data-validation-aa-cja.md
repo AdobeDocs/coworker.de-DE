@@ -45,7 +45,7 @@ Zur Datenvalidierung im Rahmen des Upgrades benötigen Sie Folgendes:
 
 Sie müssen nicht wissen, wie Ihre Implementierung aufgebaut ist. Die Qualifikation erkennt automatisch, ob Ihre Customer Journey Analytics-Implementierung den Analytics Source Connector oder eine neue Implementierung der Experience Platform Web SDK verwendet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496846/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496864/?captions=ger&learn=on&enablevpops)
 
 ## Starten einer Validierungssitzung
 

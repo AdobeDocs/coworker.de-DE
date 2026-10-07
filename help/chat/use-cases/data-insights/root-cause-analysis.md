@@ -26,4 +26,4 @@ Um zu verstehen, warum sich Metriken häufig ändern, müssen Sie oft in mehrere
  
 In natürlicher Sprache können Analysten und Marketing-Experten Fragen zu ihren Daten stellen, visualisierte Ergebnisse erhalten, aussagekräftige Trends identifizieren und die Faktoren für die Leistung aufdecken - alles in einem einzigen Gespräch.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496847/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496859/?captions=ger&learn=on&enablevpops)

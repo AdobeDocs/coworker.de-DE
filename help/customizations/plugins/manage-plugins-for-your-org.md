@@ -54,7 +54,7 @@ ht-degree: 0%
 
 Erfahren Sie, wie Administratoren den Adobe Coworker Chat mit genehmigten Plug-ins erweitern, Marketplaces verwalten und den Zugriff auf Kenntnisse und verbundene Tools steuern können, während sie die Abstimmung mit bestehenden Adobe-Berechtigungen beibehalten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504182/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504189/?captions=ger&learn=on&enablevpops)
 
 ## Was Sie lernen werden
  
