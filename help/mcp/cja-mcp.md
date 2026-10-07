@@ -83,11 +83,11 @@ Produktberechtigungen sind weiterhin gültig. Ihr Konto muss in der Lage sein, d
 
 **Übersicht**
 
->[!VIDEO](https://video.tv.adobe.com/v/3486313/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3486323/?captions=ger&learn=on&enablevpops)
 
 **In Aktion**
 
->[!VIDEO](https://video.tv.adobe.com/v/3486314/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3486334/?captions=ger&learn=on&enablevpops)
 
 ## Weitere Informationen {#mcp-more}
 
