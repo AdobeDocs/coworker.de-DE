@@ -6,9 +6,9 @@ description: Erfahren Sie mehr über KI-Tools in CX Enterprise. Verbessern Sie I
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
 hide: true
-source-git-commit: 6c126810936bea3e883d74e6ff685991cb40cd4a
+source-git-commit: e35e97f90153da41a9236a9fa761be65d3bd73c1
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '220'
 ht-degree: 20%
 ---
 
@@ -65,6 +65,7 @@ ht-degree: 20%
   - Speicher {#memory}
     - [Was ist Speicher?](./customizations/memory/what-is-memory.md)
 - Kampagnen {#campaigns}
+  - {hide-from-toc}[Neues Team-Erlebnis](./campaigns/new-teams-experience.md)
   - [Übersicht](./campaigns/overview.md)
   - [Erstellen einer E-Mail-Kampagne](./campaigns/create-an-email-campaign.md)
   - [Starten und Verwalten einer Kampagne](./campaigns/launch-manage-campaign.md)
