@@ -2,15 +2,15 @@
 title: Planen der Implementierung von Customer Journey Analytics oder Streaming-Medien mit Kollegen
 description: Erfahren Sie, wie die Fähigkeiten des Implementierungshandbuchs für Mitarbeiter ein Discovery-Gespräch in einen personalisierten, geordneten Implementierungsplan mit exportierbaren Checklisten verwandeln.
 hold: true
-source-git-commit: 94cf399a48d13ee83c702804b50fdccd4baa9d71
+source-git-commit: 2bf31c1348054a16ba7e7c0c26c0ff913634aa27
 workflow-type: tm+mt
-source-wordcount: '1236'
+source-wordcount: '1239'
 ht-degree: 1%
 ---
 
 # Implementierung mit Kollegen planen
 
-Coworker umfasst fünf Implementierungshandbücher, eine für jede Produktoberfläche: Customer Journey Analytics, ein Upgrade von Adobe Analytics auf Customer Journey Analytics, Content Analytics (ACA), Marketing Campaign Analytics (MCA) und Streaming-Medien. Jede Fähigkeit verwandelt ein kurzes Discovery-Gespräch in einen personalisierten, abhängigkeitsbewussten Implementierungsplan, komplett mit einer interaktiven Checkliste und einsatzbereiten Exporten, alles innerhalb eines einzigen Coworker Chat-Gesprächs.
+Adobe CX Enterprise Coworker umfasst fünf Implementierungshandbücher, eine für jede Produktoberfläche: Customer Journey Analytics, ein Upgrade von Adobe Analytics auf Customer Journey Analytics, Content Analytics (ACA), Marketing Campaign Analytics (MCA) und Streaming Media. Jede Fähigkeit verwandelt ein kurzes Discovery-Gespräch in einen personalisierten, abhängigkeitsbewussten Implementierungsplan, komplett mit einer interaktiven Checkliste und einsatzbereiten Exporten, alles innerhalb eines einzigen Coworker Chat-Gesprächs.
 
 Wenn Sie für eines dieser Produkte eintreten oder zu einem dieser Produkte migrieren, können Sie diese Kenntnisse nutzen, um einen geordneten, schrittweisen Plan zu erhalten, ohne die Implementierungsanforderungen von Adobe manuell zu untersuchen oder einen Projektplan von Grund auf neu zu erstellen.
 

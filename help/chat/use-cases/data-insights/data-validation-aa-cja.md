@@ -14,9 +14,9 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+source-git-commit: 2bf31c1348054a16ba7e7c0c26c0ff913634aa27
 workflow-type: tm+mt
-source-wordcount: '1527'
+source-wordcount: '1530'
 ht-degree: 0%
 ---
 # Validieren von Daten mit einem Kollegen beim Upgrade von Adobe Analytics auf Customer Journey Analytics
@@ -25,7 +25,7 @@ ht-degree: 0%
 > 
 >Befolgen Sie die Schritte auf dieser Seite erst, nachdem Sie alle vorherigen Upgrade-Schritte abgeschlossen haben. Sie können die empfohlenen Upgrade-Schritte (empfohlen für die meisten Unternehmen) oder die für Ihr Unternehmen dynamisch generierten Schritte mit dem Customer Journey Analytics Upgrade Guide ausführen. <ul><li>**Empfohlene Upgrade-Schritte** (für die meisten Unternehmen empfohlen)<p>Eine Reihe von Schritten, die zu einer optimalen Customer Journey Analytics-Implementierung führen.</p><p>Detaillierte Informationen finden Sie unter [Upgrade von Adobe Analytics auf Customer Journey Analytics](https://experienceleague.adobe.com/de/docs/analytics-platform/using/compare-aa-cja/upgrade-to-cja/cja-upgrade-recommendations).</p></li><li>**Customer Journey Analytics-Aktualisierungshandbuch** (Benutzerdefinierte Schritte, die auf die spezifischen Anforderungen Ihres Unternehmens zugeschnitten sind)<p>Es ist ein neues Upgrade-Handbuch verfügbar, in dem dynamisch Upgrade-Schritte generiert werden, die für Ihr Unternehmen und Ihre individuellen Bedingungen maßgeschneidert sind.</p><p>Um über Customer Journey Analytics auf das Handbuch zuzugreifen, wählen Sie die Registerkarte **[!UICONTROL Workspace]** und dann **[!UICONTROL Upgrade auf Customer Journey Analytics]** im linken Bereich aus. Befolgen Sie die Anweisungen auf dem Bildschirm.</p></li></ul>
 
-Der -Mitarbeiter verfügt über eine Validierungsfertigkeit, mit der Sie Daten beim Upgrade von Adobe Analytics auf Customer Journey Analytics validieren können. Die Datenvalidierung wird in einer einzigen Konversation abgeschlossen.
+Adobe CX Enterprise Coworker verfügt über eine Validierungsfertigkeit, mit der Sie Daten beim Upgrade von Adobe Analytics auf Customer Journey Analytics validieren können. Die Datenvalidierung wird in einer einzigen Konversation abgeschlossen.
 
 Diese Qualifikation vergleicht automatisch:
 
