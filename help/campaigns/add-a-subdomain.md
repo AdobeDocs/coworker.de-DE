@@ -42,9 +42,9 @@ ANLEITUNG
 
    SCREENSHOT
 
-   >>
+   &#x200B;>>
    >
-   Wenn Sie mit Ihrem LEEREN Formular die Felder stapelweise hochladen können, können Sie auf CSV exportieren klicken, um alle Felder zu exportieren.
+   >Wenn Sie mit Ihrem LEEREN Formular die Felder stapelweise hochladen können, können Sie auf CSV exportieren klicken, um alle Felder zu exportieren.
 
 1. Wenn Sie fertig sind, klicken Sie **Ich habe diese Datensätze hinzugefügt** in Coworker Campaign , um fortzufahren.
 
