@@ -37,7 +37,7 @@ Heute beginnt das Daten-Onboarding mit der Schemaerstellung in der Experience Pl
 So verwenden Sie die Data Onboarding-Kenntnisse:
 
 1. Navigieren Sie in Adobe Experience Platform zu **[!UICONTROL Schemata]** und wählen Sie dann **[!UICONTROL Schema erstellen]** aus.
-1. Wählen **[!UICONTROL Dialogfeld „Schema erstellen]** die Option **[!UICONTROL Daten mit KI]** und dann **[!UICONTROL Auswählen]**.
+1. Wählen Sie im **[!UICONTROL Dialogfeld „Schema erstellen“]** die Option **[!UICONTROL Daten mit KI]** und dann **[!UICONTROL Auswählen]**.
 
    ![Das Dialogfeld „Schema erstellen“ mit ausgewählter Option „Daten integrieren“.](./assets/data-onboarding-skill/create-a-schema-dialog.png)
 
