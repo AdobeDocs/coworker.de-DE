@@ -5,11 +5,10 @@ user-guide-description: Erfahren Sie mehr über Adobe CX Enterprise Coworker, ei
 description: Erfahren Sie mehr über KI-Tools in CX Enterprise. Verbessern Sie Ihr Produktwissen und erhalten Sie operative Erkenntnisse mithilfe von KI in CX Enterprise.
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
-hide: true
-source-git-commit: e35e97f90153da41a9236a9fa761be65d3bd73c1
+source-git-commit: 8a3d0d693aebf0a40fcece3fde80558f6d02696c
 workflow-type: tm+mt
-source-wordcount: '220'
-ht-degree: 20%
+source-wordcount: '228'
+ht-degree: 19%
 ---
 
 # CX Enterprise Coworker {#content}
@@ -29,6 +28,8 @@ ht-degree: 20%
       - [Validieren von AA zu CJA-Daten beim Upgrade](./chat/use-cases/data-insights/data-validation-aa-cja.md)
       - [Validieren der Datensatzqualität für CJA-Berichte](./chat/use-cases/data-insights/validate-dataset-quality-for-cja.md)
       - [Validieren der Experience Platform-Daten](./chat/use-cases/data-insights/data-validation-aep.md)
+    - Daten-Onboarding {#data-onboarding}
+      - {hide-from-toc}[Onboarding von Daten mit Kollegen](./agents/data-onboarding-skill.md)
     - Daten-Management {#data-management}
       - [Verwalten der Data Lake-Aufbewahrung](./chat/use-cases/data-management/manage-data-lake-retention.md)
     - Zielgruppen {#audiences}
@@ -39,6 +40,7 @@ ht-degree: 20%
       - [Erstellen einer Herausforderung zur Treue und Aufdecken von Einblicken](./chat/use-cases/journeys/create-loyalty-challenge.md)
     - Optimierung {#optimization}
       - [Target-Aktivitäten starten](./chat/use-cases/optimization/target.md)
+      - [Experiment beschleunigen](./chat/use-cases/optimization/accelerate-experimentation.md)
     - Sandbox-Werkzeuge {#sandbox-tooling}
       - [Sandbox Tooling Agent Kenntnisse](./chat/use-cases/sandbox-tooling/sandbox-tooling.md)
     - Warnhinweise {#alerts}

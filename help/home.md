@@ -8,9 +8,9 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: ee990126b1447f2eb2634761d27358f9d2e4586d
+source-git-commit: 0bdba61cab438bc8e3ad4f7ca04f1df2cd3711b7
 workflow-type: tm+mt
-source-wordcount: '802'
+source-wordcount: '800'
 ht-degree: 15%
 ---
 # Übersicht über CX Enterprise Coworker {#overview}
@@ -155,9 +155,9 @@ CARDS
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-## Kollegen-Teams (ehemals Kampagnen)
+## Kollegen-Kampagnen
 
-Coworker Teams ist eine Vorlagenfunktion für kleine agile Teams, um Kampagnen aufzustehen und auszuführen.
+Coworker Campaign ist eine Vorlagenfunktion, mit der kleine agile Teams Kampagnen aufbauen und ausführen können.
 
 * [Übersicht](./campaigns/overview.md)
 * [Erstellen einer E-Mail-Kampagne](./campaigns/create-an-email-campaign.md)
