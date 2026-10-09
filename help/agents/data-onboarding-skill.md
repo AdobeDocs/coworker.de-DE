@@ -28,7 +28,7 @@ Bevor Sie beginnen, stellen Sie Folgendes sicher:
 - Zugriff auf Adobe CX Enterprise Coworker mit aktiviertem Data Onboarding für Ihr Unternehmen.
 - Berechtigung zum Erstellen von Schemata in Adobe Experience Platform.
 
-Anweisungen zum Installieren von Plug-ins finden Sie im [Handbuch zur Coworker-Benutzeroberfläche](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/ui-guide).
+Anweisungen zum Installieren von Plug-ins finden Sie im [Handbuch zur Coworker-Benutzeroberfläche](https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/ui-guide).
 
 ## Verwenden der Data Onboarding-Kenntnisse {#use-the-data-onboarding-skill}
 
@@ -48,7 +48,7 @@ So verwenden Sie die Data Onboarding-Kenntnisse:
 
 1. Setzen Sie das Gespräch mit Ihrem Kollegen fort, indem Sie die Datenqualität, die semantische Anreicherung, die Schemazuordnung und die Schemaerstellung überprüfen und jeden Schritt bei der Durchführung bestätigen.
 
-Weitere Informationen zur Verwendung von CX Coworker finden Sie im [Handbuch zur Benutzeroberfläche für Kollegen](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/ui-guide).
+Weitere Informationen zur Verwendung von CX Coworker finden Sie im [Handbuch zur Benutzeroberfläche für Kollegen](https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/ui-guide).
 
 ## Unterstützte Anwendungsfälle {#supported-use-cases}
 
@@ -78,4 +78,4 @@ Ein Mitarbeiter schließt das Onboarding ab, indem er den Datenfluss erstellt, d
 
 Nach dem Lesen dieses Handbuchs sollten Sie verstehen, wie Sie mit der Schemaerstellung beginnen und was Sie damit in CX Coworker erreichen können.
 
-Informationen zum Verfahren der Experience Platform-Benutzeroberfläche und zu Zugriffs-/Eignungsszenarien finden Sie [Onboarding von Daten mit KI](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/ui/resources/schemas#data-onboarding-skill) im Handbuch zur Benutzeroberfläche für Schemata .
+Informationen zum Verfahren der Experience Platform-Benutzeroberfläche und zu Zugriffs-/Eignungsszenarien finden Sie [Onboarding von Daten mit KI](https://experienceleague.adobe.com/de/docs/experience-platform/xdm/ui/resources/schemas#data-onboarding-skill) im Handbuch zur Benutzeroberfläche für Schemata .
