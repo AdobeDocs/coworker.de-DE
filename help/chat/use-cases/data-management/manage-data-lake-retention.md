@@ -16,7 +16,7 @@ ht-degree: 1%
 
 Verwenden Sie CX Coworker, um den Wert von Erlebnisereignisdaten in Ihrer Sandbox zu verstehen und Daten zu identifizieren, die von der Optimierung profitieren können. Sie können mit einer allgemeinen Anfrage beginnen, z. B. mit der Bitte an Kollegen, Ihre Sandbox-Daten zu optimieren oder Datensätze zu bereinigen. Ein Mitarbeiter nutzt den Data Management Agent, um Datensätze darzustellen, die es wert sind, untersucht zu werden, zu analysieren, wie aktiv ein Datensatz verwendet wird, die Auswirkungen einer Aufbewahrungsfrist zu modellieren und Sie bei Bedarf bei der Verwaltung seiner Data-Lake-Aufbewahrungsrichtlinie zu unterstützen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504095?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504103?captions=ger&learn=on)
 
 ## Voraussetzungen {#before-you-begin}
 
