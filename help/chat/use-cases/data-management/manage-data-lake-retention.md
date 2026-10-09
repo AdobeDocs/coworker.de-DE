@@ -1,7 +1,13 @@
 ---
 title: Verwalten der Data Lake-Aufbewahrung
 description: Erfahren Sie, wie Sie mit CX Coworker Erlebnisereignisdaten identifizieren, die optimiert werden sollten, die Auswirkungen auf die Datensatznutzung und -speicherung analysieren und Data-Lake-Aufbewahrungsrichtlinien verwalten können.
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+role: Developer
+level: Beginner, Intermediate
+doc-type: Feature Video
+duration: 160
+last-substantial-update: 2026-10-09
+jira: KT-22762
+source-git-commit: 7ae11e6865d847c6a3c316ffa26b2e4303f7e40d
 workflow-type: tm+mt
 source-wordcount: '1316'
 ht-degree: 1%
@@ -10,9 +16,11 @@ ht-degree: 1%
 
 Verwenden Sie CX Coworker, um den Wert von Erlebnisereignisdaten in Ihrer Sandbox zu verstehen und Daten zu identifizieren, die von der Optimierung profitieren können. Sie können mit einer allgemeinen Anfrage beginnen, z. B. mit der Bitte an Kollegen, Ihre Sandbox-Daten zu optimieren oder Datensätze zu bereinigen. Ein Mitarbeiter nutzt den Data Management Agent, um Datensätze darzustellen, die es wert sind, untersucht zu werden, zu analysieren, wie aktiv ein Datensatz verwendet wird, die Auswirkungen einer Aufbewahrungsfrist zu modellieren und Sie bei Bedarf bei der Verwaltung seiner Data-Lake-Aufbewahrungsrichtlinie zu unterstützen.
 
+>[!VIDEO](https://video.tv.adobe.com/v/3504095?learn=on)
+
 ## Voraussetzungen {#before-you-begin}
 
-Stellen Sie sicher, dass Sie in der Sandbox arbeiten, die die Datensätze enthält, die Sie überprüfen möchten. Sie benötigen außerdem Zugriff auf den Data Management Agent und die erforderlichen Adobe Experience Platform-Berechtigungen. Siehe [Voraussetzungen für den Data Management Agent](https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/agents/data-management#prerequisites).
+Stellen Sie sicher, dass Sie in der Sandbox arbeiten, die die Datensätze enthält, die Sie überprüfen möchten. Sie benötigen außerdem Zugriff auf den Data Management Agent und die erforderlichen Adobe Experience Platform-Berechtigungen. Siehe [Voraussetzungen für den Data Management Agent](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/data-management#prerequisites).
 
 ## Optimieren von Daten in Ihrer Sandbox {#optimize-data-in-your-sandbox}
 
@@ -26,7 +34,7 @@ Um zu entscheiden, wo Sie anfangen sollen, bitten Sie Ihren Kollegen, Erlebniser
 
 Sobald Sie die Liste eingegrenzt haben, können Sie die Fähigkeit zur Analyse der Datensatznutzung verwenden, um herauszufinden, wie aktiv ein bestimmter Datensatz verwendet wird.
 
-Nicht jeder ungenutzte oder aufgegebene Datensatz, auf den diese Kenntnisse zutreffen, ist ein guter Kandidat für eine Data-Lake-Aufbewahrungsrichtlinie. Wenn Sie einen ganzen Datensatz entfernen oder Daten in einem anderen Experience Platform-Store verwalten müssen, finden Sie weitere Informationen unter [Auswahl der richtigen Data Lifecycle Management-Funktion](https://experienceleague.adobe.com/de/docs/experience-platform/data-lifecycle/choose-a-capability). Bevor Sie eine Data-Lake-Aufbewahrungsrichtlinie festlegen, überprüfen Sie, ob der Datensatz ein Erlebnisereignis-Datensatz ist.
+Nicht jeder ungenutzte oder aufgegebene Datensatz, auf den diese Kenntnisse zutreffen, ist ein guter Kandidat für eine Data-Lake-Aufbewahrungsrichtlinie. Wenn Sie einen ganzen Datensatz entfernen oder Daten in einem anderen Experience Platform-Store verwalten müssen, finden Sie weitere Informationen unter [Auswahl der richtigen Data Lifecycle Management-Funktion](https://experienceleague.adobe.com/en/docs/experience-platform/data-lifecycle/choose-a-capability). Bevor Sie eine Data-Lake-Aufbewahrungsrichtlinie festlegen, überprüfen Sie, ob der Datensatz ein Erlebnisereignis-Datensatz ist.
 
 Beispiel-Eingabeaufforderungen:
 
@@ -78,7 +86,7 @@ Sobald Sie sich für eine Aufbewahrungsfrist entschieden haben, verwenden Sie di
 
 ![Mitarbeiter, der die vorgeschlagene Data-Lake-Aufbewahrungsrichtlinie, ihre Auswirkungen und die erforderliche Bestätigung anzeigt, bevor die Änderung angewendet wird.](../../assets/data-management/retention-impact-preview.png)
 
-Nachdem Sie eine Aufbewahrungsrichtlinie bestätigt haben, kann es einige Zeit dauern, bis die Änderung in der Adobe Experience Platform-Benutzeroberfläche angezeigt wird. Die Aufbewahrungsrichtlinie löscht abgelaufene Daten nicht sofort. Der anfängliche Aufbewahrungsauftrag beginnt innerhalb von 24 Stunden nach der Anwendung der Richtlinie. Nach dem ersten Durchlauf bewertet und löscht ein geplanter Auftrag abgelaufene Datensätze alle 30 Tage. Weitere Informationen [&#x200B; Aufbewahrung und Bereinigung finden Sie &#x200B;](https://experienceleague.adobe.com/de/docs/experience-platform/catalog/datasets/experience-event-dataset-retention-ttl-guide) Handbuch zur Erlebnisereignis-Datensatzaufbewahrung (TTL) .
+Nachdem Sie eine Aufbewahrungsrichtlinie bestätigt haben, kann es einige Zeit dauern, bis die Änderung in der Adobe Experience Platform-Benutzeroberfläche angezeigt wird. Die Aufbewahrungsrichtlinie löscht abgelaufene Daten nicht sofort. Der anfängliche Aufbewahrungsauftrag beginnt innerhalb von 24 Stunden nach der Anwendung der Richtlinie. Nach dem ersten Durchlauf bewertet und löscht ein geplanter Auftrag abgelaufene Datensätze alle 30 Tage. Weitere Informationen [ Aufbewahrung und Bereinigung finden Sie ](https://experienceleague.adobe.com/en/docs/experience-platform/catalog/datasets/experience-event-dataset-retention-ttl-guide) Handbuch zur Erlebnisereignis-Datensatzaufbewahrung (TTL) .
 
 Jede Änderung der Aufbewahrungsrichtlinie wird in einem Audit-Protokoll aufgezeichnet, auch wenn eine Richtlinie festgelegt, geändert oder entfernt wird. Das Audit-Protokoll zeichnet auf, wer jede Änderung vorgenommen hat, wann sie stattgefunden hat und was geändert wurde. Sie können dem Link folgen, der von einem Kollegen bereitgestellt wurde, um diese Ereignisse auf der Registerkarte Administratorprotokoll des Datensatzes in Adobe Experience Platform zu überprüfen. Weitere Informationen finden Sie unter [Übersicht über Auditprotokolle](https://experienceleague.adobe.com/de/docs/experience-platform/landing/governance-privacy-security/audit-logs/overview).
 
@@ -99,4 +107,4 @@ Beachten Sie bei der Verwendung des Data Management-Agenten die folgenden Best P
 
 ## Nächste Schritte {#next-steps}
 
-Weitere Informationen zu den Fähigkeiten, dem Umfang, dem Verhalten und den Einschränkungen des Datenverwaltungsagenten finden Sie unter [Übersicht über den Datenverwaltungsagenten](https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/agents/data-management). Weitere Informationen zur Funktionsweise von Data-Lake-Aufbewahrungsrichtlinien in Adobe Experience Platform finden Sie [&#x200B; Handbuch zur Erlebnisereignis-Datensatzaufbewahrung (Experience Event Dataset Retention, TTL)](https://experienceleague.adobe.com/de/docs/experience-platform/catalog/datasets/experience-event-dataset-retention-ttl-guide).
+Weitere Informationen zu den Fähigkeiten, dem Umfang, dem Verhalten und den Einschränkungen des Datenverwaltungsagenten finden Sie unter [Übersicht über den Datenverwaltungsagenten](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/data-management). Weitere Informationen zur Funktionsweise von Data-Lake-Aufbewahrungsrichtlinien in Adobe Experience Platform finden Sie [ Handbuch zur Erlebnisereignis-Datensatzaufbewahrung (Experience Event Dataset Retention, TTL)](https://experienceleague.adobe.com/en/docs/experience-platform/catalog/datasets/experience-event-dataset-retention-ttl-guide).
