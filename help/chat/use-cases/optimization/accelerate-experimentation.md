@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie CX Enterprise Coworker dazu beiträgt, Experimente auf Adobe Experience Manager (AEM)-Sites mithilfe von Adobe Target zu optimieren. Sehen Sie sich zunächst an, wie Coworker dabei hilft, eine Experimentierstrategie zu entwickeln, einen A/B-Test in Adobe Target zu erstellen, Bereitstellungsprobleme zu beheben und mehrere Erlebnisse erfolgreich auf einer AEM as a Cloud Service-Website auszuführen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504249/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504256/?captions=ger&learn=on&enablevpops)
