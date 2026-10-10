@@ -1,7 +1,13 @@
 ---
 title: Verwalten der Data Lake-Aufbewahrung
 description: Erfahren Sie, wie Sie mit CX Coworker Erlebnisereignisdaten identifizieren, die optimiert werden sollten, die Auswirkungen auf die Datensatznutzung und -speicherung analysieren und Data-Lake-Aufbewahrungsrichtlinien verwalten können.
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+role: Developer
+level: Beginner, Intermediate
+doc-type: Feature Video
+duration: 160
+last-substantial-update: 2026-10-09
+jira: KT-22762
+source-git-commit: 7ae11e6865d847c6a3c316ffa26b2e4303f7e40d
 workflow-type: tm+mt
 source-wordcount: '1316'
 ht-degree: 1%
@@ -9,6 +15,8 @@ ht-degree: 1%
 # Verwalten der Data Lake-Aufbewahrung
 
 Verwenden Sie CX Coworker, um den Wert von Erlebnisereignisdaten in Ihrer Sandbox zu verstehen und Daten zu identifizieren, die von der Optimierung profitieren können. Sie können mit einer allgemeinen Anfrage beginnen, z. B. mit der Bitte an Kollegen, Ihre Sandbox-Daten zu optimieren oder Datensätze zu bereinigen. Ein Mitarbeiter nutzt den Data Management Agent, um Datensätze darzustellen, die es wert sind, untersucht zu werden, zu analysieren, wie aktiv ein Datensatz verwendet wird, die Auswirkungen einer Aufbewahrungsfrist zu modellieren und Sie bei Bedarf bei der Verwaltung seiner Data-Lake-Aufbewahrungsrichtlinie zu unterstützen.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3504103?captions=ger&learn=on)
 
 ## Voraussetzungen {#before-you-begin}
 
