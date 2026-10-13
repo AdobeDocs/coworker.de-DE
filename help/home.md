@@ -8,7 +8,7 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 662ac793f7838834f84cddc5d78859dae97930aa
+source-git-commit: c09bea49262950dcc3fc9a3bdf33b18e9c1d7c4d
 workflow-type: tm+mt
 source-wordcount: '834'
 ht-degree: 14%
@@ -19,13 +19,13 @@ Coworker ist ein KI-basierter Teamkollege, der die Art der Arbeit für Organisat
 
 Die Mitarbeiter werden durch drei Erlebnisse bereitgestellt:
 
-* **[Coworker [!UICONTROL Chats]](./chat/overview.md):** Verwenden Sie eine natürliche Sprache für komplexe Anfragen, Erkenntnisse, die Erstellung von Inhalten und Aktionen in allen Adobe-Programmen.
+* **[Coworker [!UICONTROL Chat]](./chat/overview.md):** Verwenden Sie eine natürliche Sprache für komplexe Anfragen, Erkenntnisse, die Erstellung von Inhalten und Aktionen in allen Adobe-Programmen.
 * **[Coworker [!UICONTROL Kampagnen]](./campaigns/overview.md):** Wurde entwickelt, um agile Marketing-Teams von einem Kampagnenziel in die koordinierte Kampagnenausführung zu bringen.
 * **Coworker [!UICONTROL Projects] (in Kürze verfügbar):** Konzipiert für länger laufende, funktionsübergreifende Unternehmens-Workflows, in denen Teams Prozesse, Genehmigungen und den Grad der Autonomie von Coworker definieren.
 
-## Grundlagen für [!DNL Coworker] [!UICONTROL Chats]
+## Grundlagen für [!DNL Coworker] [!UICONTROL Chat]
 
-Unabhängig davon, ob Sie gerade erst anfangen oder Ihr Fachwissen vertiefen möchten, bieten diese Wiedergabelisten eine geführte Einführung in die Verwendung der [!UICONTROL Chats]-Funktion in [!DNL Coworker]. Erfahren Sie, wie Sie durch wichtige Funktionen navigieren, effektive Eingabeaufforderungen erstellen und praktische Beispiele sehen, wie Coworker Teams dabei hilft, effizienter in allen Adobe Experience Cloud-Produkten zu arbeiten.
+Unabhängig davon, ob Sie gerade erst anfangen oder Ihr Fachwissen vertiefen möchten, bieten diese Wiedergabelisten eine geführte Einführung in die Verwendung der [!UICONTROL Chat]-Funktion in [!DNL Coworker]. Erfahren Sie, wie Sie durch wichtige Funktionen navigieren, effektive Eingabeaufforderungen erstellen und praktische Beispiele sehen, wie Coworker Teams dabei hilft, effizienter in allen Adobe Experience Cloud-Produkten zu arbeiten.
 
 <!--
 CARDS
