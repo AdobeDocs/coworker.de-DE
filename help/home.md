@@ -8,7 +8,7 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 662ac793f7838834f84cddc5d78859dae97930aa
+source-git-commit: c09bea49262950dcc3fc9a3bdf33b18e9c1d7c4d
 workflow-type: tm+mt
 source-wordcount: '834'
 ht-degree: 14%
@@ -19,26 +19,26 @@ Coworker ist ein KI-basierter Teamkollege, der die Art der Arbeit für Organisat
 
 Die Mitarbeiter werden durch drei Erlebnisse bereitgestellt:
 
-* **[Coworker [!UICONTROL Chats]](./chat/overview.md):** Verwenden Sie eine natürliche Sprache für komplexe Anfragen, Erkenntnisse, die Erstellung von Inhalten und Aktionen in allen Adobe-Programmen.
+* **[Coworker [!UICONTROL Chat]](./chat/overview.md):** Verwenden Sie eine natürliche Sprache für komplexe Anfragen, Erkenntnisse, die Erstellung von Inhalten und Aktionen in allen Adobe-Programmen.
 * **[Coworker [!UICONTROL Kampagnen]](./campaigns/overview.md):** Wurde entwickelt, um agile Marketing-Teams von einem Kampagnenziel in die koordinierte Kampagnenausführung zu bringen.
 * **Coworker [!UICONTROL Projects] (in Kürze verfügbar):** Konzipiert für länger laufende, funktionsübergreifende Unternehmens-Workflows, in denen Teams Prozesse, Genehmigungen und den Grad der Autonomie von Coworker definieren.
 
-## Grundlagen für [!DNL Coworker] [!UICONTROL Chats]
+## Grundlagen für [!DNL Coworker] [!UICONTROL Chat]
 
-Unabhängig davon, ob Sie gerade erst anfangen oder Ihr Fachwissen vertiefen möchten, bieten diese Wiedergabelisten eine geführte Einführung in die Verwendung der [!UICONTROL Chats]-Funktion in [!DNL Coworker]. Erfahren Sie, wie Sie durch wichtige Funktionen navigieren, effektive Eingabeaufforderungen erstellen und praktische Beispiele sehen, wie Coworker Teams dabei hilft, effizienter in allen Adobe Experience Cloud-Produkten zu arbeiten.
+Unabhängig davon, ob Sie gerade erst anfangen oder Ihr Fachwissen vertiefen möchten, bieten diese Wiedergabelisten eine geführte Einführung in die Verwendung der [!UICONTROL Chat]-Funktion in [!DNL Coworker]. Erfahren Sie, wie Sie durch wichtige Funktionen navigieren, effektive Eingabeaufforderungen erstellen und praktische Beispiele sehen, wie Coworker Teams dabei hilft, effizienter in allen Adobe Experience Cloud-Produkten zu arbeiten.
 
 <!--
 CARDS
-* https://experienceleague.adobe.com/de/playlists/coworker-get-started-with-chat
+* https://experienceleague.adobe.com/en/playlists/coworker-get-started-with-chat
    {title = Get started with CX Enterprise Coworker Chat}
    {description = Learn the value of CX Enterprise Coworker Chat and start executing use cases.}
    {cta = Watch}
-   {image = https://video.tv.adobe.com/v/3498574?captions=ger&format=jpeg}    
-*  https://experienceleague.adobe.com/de/playlists/coworker-customize-chat
+   {image = https://video.tv.adobe.com/v/3498558?format=jpeg}    
+*  https://experienceleague.adobe.com/en/playlists/coworker-customize-chat
     {title = Customize CX Enterprise Coworker Chat}
     {description = Learn how Coworker can be customized with reusable skills, enterprise integrations, plugins, and memory to deliver context-aware, personalized, and business-specific AI experiences that fits how your team works.}
     {cta = Watch}
-    {image = https://video.tv.adobe.com/v/3502339?captions=ger&format=jpeg}
+    {image = https://video.tv.adobe.com/v/3502323?format=jpeg}
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -46,8 +46,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/playlists/coworker-get-started-with-chat" title="Erste Schritte mit dem CX Enterprise Coworker-Chat" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3498574?captions=ger&format=jpeg" alt="Erste Schritte mit dem CX Enterprise Coworker-Chat"
+                    <a href="https://experienceleague.adobe.com/en/playlists/coworker-get-started-with-chat" title="Erste Schritte mit dem CX Enterprise Coworker-Chat" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3498558?format=jpeg" alt="Erste Schritte mit dem CX Enterprise Coworker-Chat"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -55,11 +55,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/playlists/coworker-get-started-with-chat" target="_blank" rel="referrer" title="Erste Schritte mit dem CX Enterprise Coworker-Chat">Erste Schritte mit dem CX Enterprise Coworker-Chat</a>
+                        <a href="https://experienceleague.adobe.com/en/playlists/coworker-get-started-with-chat" target="_blank" rel="referrer" title="Erste Schritte mit dem CX Enterprise Coworker-Chat">Erste Schritte mit dem CX Enterprise Coworker-Chat</a>
                     </p>
                     <p class="is-size-6">Erfahren Sie mehr über den Wert von CX Enterprise Coworker Chat und beginnen Sie mit der Ausführung von Anwendungsfällen.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/de/playlists/coworker-get-started-with-chat" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/playlists/coworker-get-started-with-chat" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
@@ -69,8 +69,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/playlists/coworker-customize-chat" title="Anpassen des CX Enterprise Coworker-Chats" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502339?captions=ger&format=jpeg" alt="Anpassen des CX Enterprise Coworker-Chats"
+                    <a href="https://experienceleague.adobe.com/en/playlists/coworker-customize-chat" title="Anpassen des CX Enterprise Coworker-Chats" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502323?format=jpeg" alt="Anpassen des CX Enterprise Coworker-Chats"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -78,11 +78,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/playlists/coworker-customize-chat" target="_blank" rel="referrer" title="Anpassen des CX Enterprise Coworker-Chats">CX Enterprise Coworker-Chat anpassen</a>
+                        <a href="https://experienceleague.adobe.com/en/playlists/coworker-customize-chat" target="_blank" rel="referrer" title="Anpassen des CX Enterprise Coworker-Chats">CX Enterprise Coworker-Chat anpassen</a>
                     </p>
                     <p class="is-size-6">Erfahren Sie, wie Coworker mit wiederverwendbaren Fähigkeiten, Unternehmensintegrationen, Plug-ins und Arbeitsspeicher angepasst werden können, um kontextbezogene, personalisierte und geschäftsspezifische KI-Erlebnisse bereitzustellen, die zu Ihrer Arbeitsweise passen.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/de/playlists/coworker-customize-chat" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/playlists/coworker-customize-chat" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
