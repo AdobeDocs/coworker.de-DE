@@ -7,14 +7,14 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 2bf31c1348054a16ba7e7c0c26c0ff913634aa27
+source-git-commit: 60669850e4005be01c31d9f7818d1c4ad3ed8f3a
 workflow-type: tm+mt
 source-wordcount: '2094'
 ht-degree: 5%
 ---
 # Erste Schritte mit der Datenanalyse mit dem Coworker Chat
 
-Richten Sie Adobe CX Enterprise Coworker Chat ein, um Ihre Customer Journey Analytics-Datenansichten oder Adobe Analytics Report Suites zu analysieren, und folgen Sie dann einem Arbeitsbeispiel. Einen Überblick darüber, was Sie mit dem Coworker Chat tun können, einschließlich Anwendungsfällen, Fähigkeiten und Best Practices, finden Sie unter [Analysieren von Daten mit dem Coworker Chat](/help/chat/use-cases/data-insights/analytics-overview-v2.md).
+Richten Sie Adobe CX Enterprise Coworker Chat ein, um Ihre Customer Journey Analytics-Datenansichten oder Adobe Analytics Report Suites zu analysieren, und folgen Sie dann einem Arbeitsbeispiel. Einen Überblick darüber, was Sie mit dem Coworker Chat tun können, einschließlich Anwendungsfällen, Fähigkeiten und Best Practices, finden Sie unter [Analysieren von Daten mit dem Coworker Chat](/help/chat/use-cases/data-insights/analytics-overview.md).
 
 Bevor Sie beginnen, machen Sie sich mit der Oberfläche und den Konfigurationsoptionen des Coworker Chat vertraut und stellen Sie dann sicher, dass Coworker mit Customer Journey Analytics oder Adobe Analytics und den relevanten Datenansichten oder Report Suites verbunden ist.
 
@@ -331,4 +331,4 @@ Nachdem ein Kollege eine Visualisierung erstellt hat, können Sie sie in Analysi
 
 ## Nächste Schritte
 
-Weitere Anwendungsfälle, die Fähigkeiten, die Coworker Chat zur Analyse Ihrer Daten verwendet, und Best Practices für das Schreiben von Eingabeaufforderungen finden Sie unter [Analysieren von Daten mit dem Coworker Chat](/help/chat/use-cases/data-insights/analytics-overview-v2.md).
+Weitere Anwendungsfälle, die Fähigkeiten, die Coworker Chat zur Analyse Ihrer Daten verwendet, und Best Practices für das Schreiben von Eingabeaufforderungen finden Sie unter [Analysieren von Daten mit dem Coworker Chat](/help/chat/use-cases/data-insights/analytics-overview.md).

@@ -1,463 +1,143 @@
 ---
 title: Analysieren von Customer Journey Analytics-Daten mit dem Coworker Chat
 description: Erfahren Sie, wie Sie mit dem Adobe CX Enterprise Coworker-Chat Customer Journey Analytics-Daten analysieren, Trichter erstellen und herausfinden können, wo Kundinnen und Kunden auf der Journey abbrechen.
-hold: true
 product_v2:
   internal-label: CX Enterprise Coworker
 feature_v2:
   internal-label: CX Enterprise Coworker
-source-git-commit: 2bf31c1348054a16ba7e7c0c26c0ff913634aa27
+source-git-commit: 1406a6258a8f7ad3a7e5268a01c8ab2b449505b6
 workflow-type: tm+mt
-source-wordcount: '2354'
-ht-degree: 0%
+source-wordcount: '1915'
+ht-degree: 1%
 ---
 
-Adobe CX Enterprise Coworker Chat ermöglicht es Teams, Adobe-Produktaufgaben mithilfe natürlicher Sprache zu automatisieren und Ideen schnell in Maßnahmen mit flexibler Planung, anpassbaren Fähigkeiten und intelligenter Ausführung zu verwandeln. Weitere allgemeine Informationen zu Kollegen finden Sie unter [Übersicht über CX Enterprise Coworker](/help/home.md).
+# Analysieren von Daten mit dem Kollegen-Chat
 
-## Datenanalyse mit Coworker Chat
+Die Informationen auf dieser Seite bieten einen Überblick über den Adobe CX Enterprise Coworker-Chat und wie er Ihnen bei der Analyse von Daten für Ihr Unternehmen helfen kann.
 
-Coworker Chat kann erweiterte Datenanalysen durchführen, die zuvor nur in Analysis Workspace möglich waren. Coworker Chat greift auf Daten aus Ihren Customer Journey Analytics-Datenansichten oder Adobe Analytics-Report Suites zu, sodass Sie diese Daten untersuchen und Antworten auf Eingabeaufforderungen in natürlicher Sprache erhalten können.
+Der Coworker Chat ermöglicht es Teams, Adobe-Produktaufgaben mithilfe natürlicher Sprache zu automatisieren und Ideen schnell in Maßnahmen mit flexibler Planung, anpassbaren Fähigkeiten und intelligenter Ausführung zu verwandeln. Weitere allgemeine Informationen zu Kollegen finden Sie unter [Übersicht über CX Enterprise Coworker](/help/home.md).
+
+## Funktionsweise der Datenanalyse
+
+Coworker Chat kann erweiterte Datenanalysen durchführen, die zuvor nur in Analysis Workspace möglich waren. Der Coworker Chat greift auf Daten aus Ihren Customer Journey Analytics-Datenansichten oder Adobe Analytics-Report Suites zu, sodass Sie Daten untersuchen und Antworten mit Eingabeaufforderungen in natürlicher Sprache erhalten können.
+
+Der Coworker Chat erbt Berechtigungen von Customer Journey Analytics oder Adobe Analytics. Sie können nur auf die Datenansichten, Report Suites, Dimensionen, Metriken und Segmente zugreifen, die Ihnen in Analysis Workspace zur Verfügung stehen.
 
 Wenn Sie eine Visualisierung im Coworker Chat erstellen, können Sie sie jederzeit in Analysis Workspace öffnen, um eine manuelle Kontrolle zu erhalten.
 
-Die folgenden Informationen bieten einen Überblick darüber, wie Sie Daten im Coworker Chat analysieren können.
+## Schnelle Antworten und gründliche Arbeit
+
+Sie können den Coworker Chat auf zwei Arten verwenden, je nachdem, wie viel Analyse Sie benötigen:
+
+* **Schnelle Antworten** - Stellen Sie eine direkte, verständliche Frage und erhalten Sie eine sofortige Antwort. Business-Anwender nutzen den Coworker Chat oft auf diese Weise, und Analysten verwenden ihn auch, wenn sie eine schnelle Antwort für einen Stakeholder benötigen.
+* **Tief durchdachte Arbeit** - Führen Sie ein ausgedehntes, mehrgängiges Gespräch mit Coworker Chat, um ein Geschäftsproblem zu untersuchen, Ursachen auszuschließen und eine Empfehlung zu erhalten. Analysten verwenden diesen Ansatz normalerweise, um Daten eingehend zu untersuchen, bevor sie eine Empfehlung abgeben.
 
 ## Analysieren im Kollegen-Chat beginnen
 
 Beginnen Sie, indem Sie beschreiben, was Sie wissen möchten, in einfacher Sprache. Der Coworker Chat plant die Analyse, fragt Ihre Datenansichten oder Report Suites ab und erstellt Visualisierungen und Zusammenfassungen.
 
-Die folgenden Anwendungsfälle sind Beispiele. Sie können nach allen Daten fragen, für die Sie Zugriffsberechtigungen haben
+Die folgenden Anwendungsfälle sind nach Analyse-Domain gruppiert. Jede Gruppe listet die Rollen auf, für die sie am besten geeignet ist.
 
-### Häufige Anwendungsfälle
+### Data Governance und Validierung
 
-<!-- The following cards link to each of the stand-alone articles in this folder -->
+**Am besten geeignet für:** Admin, Analyst
 
-<!--
-CARDS
-
-* https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/data-insights/analytics-chat
-  {title = Analyze Customer Journey Analytics and Adobe Analytics data}
-  {description = Answers natural-language questions about your data views or report suites, builds funnels and other visualizations, and finds where customers drop off. You can open any visualization in Analysis Workspace for further analysis.}
-  {cta = Read}
-  {image = ../../assets/coworker-funnel-response-card.png}
-
-* https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/data-insights/root-cause-analysis
-  {title = Explore trends and root causes}
-  {description = Identifies trends in your Customer Journey Analytics and Adobe Analytics data and the factors that drive changes in performance, without manual queries.}
-  {cta = Read}
-  {image = ../../assets/data-validation-aa-cja/trend-line-card.png}
--->
-<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
-<div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Analyze Customer Journey Analytics and Adobe Analytics data">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/data-insights/analytics-chat" title="Analysieren von Customer Journey Analytics- und Adobe Analytics-Daten">
-                        <img class="is-bordered-r-small" src="../../assets/coworker-funnel-response-card.png" alt="Analysieren von Customer Journey Analytics- und Adobe Analytics-Daten"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/data-insights/analytics-chat" title="Analysieren von Customer Journey Analytics- und Adobe Analytics-Daten">Analysieren von Customer Journey Analytics- und Adobe Analytics-Daten</a>
-                    </p>
-                    <p class="is-size-6">Beantwortet Fragen in natürlicher Sprache zu Ihren Datenansichten oder Report Suites, erstellt Trichter und andere Visualisierungen und findet heraus, wo Kunden abbrechen. Sie können eine beliebige Visualisierung in Analysis Workspace zur weiteren Analyse öffnen.</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/data-insights/analytics-chat" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Lesen</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Explore trends and root causes">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/data-insights/root-cause-analysis" title="Trends und Grundursachen untersuchen">
-                        <img class="is-bordered-r-small" src="../../assets/data-validation-aa-cja/trend-line-card.png" alt="Trends und Grundursachen untersuchen"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/data-insights/root-cause-analysis" title="Trends und Grundursachen untersuchen">Erkunden von Trends und Grundursachen</a>
-                    </p>
-                    <p class="is-size-6">Identifiziert Trends in Ihren Customer Journey Analytics- und Adobe Analytics-Daten und die Faktoren, die zu Leistungsänderungen führen, ohne manuelle Abfragen.</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/data-insights/root-cause-analysis" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Lesen</span>
-                </a>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-
-<!--
-CARDS
-
-* https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/data-insights/implementation-guide
-  {title = Plan your implementation}
-  {description = Creates a personalized, step-by-step plan for implementing Customer Journey Analytics, upgrading from Adobe Analytics, or setting up Content Analytics, Marketing Campaign Analytics, or Streaming Media collection on the Edge. Plans include details such as owners, effort estimates, dependencies, and validation steps.}
-  {cta = Read}
-  {image = ../../assets/ui-guide-6.png}
-
-* https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/data-insights/intelligent-checklist
-  {title = Generate an implementation checklist}
-  {description = Turns your Customer Journey Analytics implementation plan into a checklist in Coworker Projects, where your team can assign steps, track status, and add approval gates.}
-  {cta = Read}
-  {image = ../../assets/data-validation-aa-cja/date-detail.png}
--->
-<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
-<div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Plan your implementation">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/data-insights/implementation-guide" title="Implementierung planen">
-                        <img class="is-bordered-r-small" src="../../assets/ui-guide-6.png" alt="Implementierung planen"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/data-insights/implementation-guide" title="Implementierung planen">Implementierung planen</a>
-                    </p>
-                    <p class="is-size-6">Erstellt einen personalisierten, schrittweisen Plan für die Implementierung von Customer Journey Analytics, die Aktualisierung von Adobe Analytics oder die Einrichtung von Content Analytics, Marketing Campaign Analytics oder Streaming Media Collection auf der Edge. Die Pläne enthalten Details wie Eigentümer, Aufwandsschätzungen, Abhängigkeiten und Validierungsschritte.</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/data-insights/implementation-guide" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Lesen</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Generate an implementation checklist">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/data-insights/intelligent-checklist" title="Erstellen einer Checkliste für die Implementierung">
-                        <img class="is-bordered-r-small" src="../../assets/data-validation-aa-cja/date-detail.png" alt="Erstellen einer Checkliste für die Implementierung"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/data-insights/intelligent-checklist" title="Erstellen einer Checkliste für die Implementierung">Erstellen einer Checkliste für die Implementierung</a>
-                    </p>
-                    <p class="is-size-6">Wandelt Ihren Customer Journey Analytics-Implementierungsplan in eine Checkliste in Co-Worker-Projekten um, in der Ihr Team Schritte zuweisen, den Status verfolgen und Validierungs-Gates hinzufügen kann.</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/data-insights/intelligent-checklist" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Lesen</span>
-                </a>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-
-<!--
-CARDS
-
-* https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/data-insights/data-validation-aa-cja
-  {title = Validate data when upgrading from Adobe Analytics to Customer Journey Analytics}
-  {description = Compares dimensions, metrics, and trends between your Adobe Analytics report suites and Customer Journey Analytics data views, then recommends fixes to support your upgrade.}
-  {cta = Read}
-  {image = ../../assets/data-validation-aa-cja/trend-bar-card.png}
-
-* https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/data-insights/streaming-media-validation
-  {title = Validate your Streaming Media implementation}
-  {description = Checks your datastream, schema, dataset, data view, and session data to confirm that streaming media tracking is configured and collecting data correctly.}
-  {cta = Read}
-  {image = ../../assets/ui-guide-8.png}
--->
-<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
-<div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Validate data when upgrading from Adobe Analytics to Customer Journey Analytics">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/data-insights/data-validation-aa-cja" title="Validieren von Daten beim Upgrade von Adobe Analytics auf Customer Journey Analytics">
-                        <img class="is-bordered-r-small" src="../../assets/data-validation-aa-cja/trend-bar-card.png" alt="Validieren von Daten beim Upgrade von Adobe Analytics auf Customer Journey Analytics"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/data-insights/data-validation-aa-cja" title="Validieren von Daten beim Upgrade von Adobe Analytics auf Customer Journey Analytics">Validieren von Daten beim Upgrade von Adobe Analytics auf Customer Journey Analytics</a>
-                    </p>
-                    <p class="is-size-6">Vergleicht Dimensionen, Metriken und Trends zwischen Ihren Adobe Analytics Report Suites und Customer Journey Analytics-Datenansichten und empfiehlt dann Fehlerbehebungen, um Ihr Upgrade zu unterstützen.</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/data-insights/data-validation-aa-cja" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Lesen</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Validate your Streaming Media implementation">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/data-insights/streaming-media-validation" title="Validieren der Implementierung von Streaming-Medien">
-                        <img class="is-bordered-r-small" src="../../assets/ui-guide-8.png" alt="Validieren der Implementierung von Streaming-Medien"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/data-insights/streaming-media-validation" title="Validieren der Implementierung von Streaming-Medien">Validieren der Implementierung von Streaming-Medien</a>
-                    </p>
-                    <p class="is-size-6">Überprüft Ihren Datenstrom, Ihr Schema, Ihren Datensatz, Ihre Datenansicht und Ihre Sitzungsdaten, um sicherzustellen, dass das Tracking von Streaming-Medien konfiguriert ist und die Daten korrekt erfasst werden.</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/data-insights/streaming-media-validation" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Lesen</span>
-                </a>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-
-<!--
-CARDS
-
-* https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/data-insights/validate-dataset-quality-for-cja
-  {title = Validate dataset quality for Customer Journey Analytics}
-  {description = Identifies the datasets that feed your Customer Journey Analytics reporting, then checks schemas, identity quality, and field quality so you can resolve issues before you build dashboards.}
-  {cta = Read}
-  {image = ../../assets/data-validation-aep/dataset-validation.png}
-
-* https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/data-insights/data-validation-aep
-  {title = Validate data after ingestion into Experience Platform}
-  {description = Runs statistical and semantic checks on Experience Platform datasets and fields to find data quality issues, such as invalid values or mapping problems.}
-  {cta = Read}
-  {image = ../../assets/data-validation-aep/null-values.png}
--->
-<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
-<div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Validate dataset quality for Customer Journey Analytics">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/data-insights/validate-dataset-quality-for-cja" title="Überprüfen der Datensatzqualität für Customer Journey Analytics">
-                        <img class="is-bordered-r-small" src="../../assets/data-validation-aep/dataset-validation.png" alt="Überprüfen der Datensatzqualität für Customer Journey Analytics"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/data-insights/validate-dataset-quality-for-cja" title="Überprüfen der Datensatzqualität für Customer Journey Analytics">Validieren der Datensatzqualität für Customer Journey Analytics</a>
-                    </p>
-                    <p class="is-size-6">Identifiziert die Datensätze, die Ihre Customer Journey Analytics-Berichte unterstützen, prüft dann Schemata, Identitätsqualität und Feldqualität, damit Sie Probleme beheben können, bevor Sie Dashboards erstellen.</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/data-insights/validate-dataset-quality-for-cja" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Lesen</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Validate data after ingestion into Experience Platform">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/data-insights/data-validation-aep" title="Validieren von Daten nach der Aufnahme in Experience Platform">
-                        <img class="is-bordered-r-small" src="../../assets/data-validation-aep/null-values.png" alt="Validieren von Daten nach der Aufnahme in Experience Platform"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/data-insights/data-validation-aep" title="Validieren von Daten nach der Aufnahme in Experience Platform">Validieren von Daten nach der Aufnahme in Experience Platform</a>
-                    </p>
-                    <p class="is-size-6">Führt statistische und semantische Prüfungen für Experience Platform-Datensätze und -Felder durch, um Probleme mit der Datenqualität zu ermitteln, z. B. ungültige Werte oder Zuordnungsprobleme.</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/data-insights/data-validation-aep" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Lesen</span>
-                </a>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-
-Weitere Informationen zu diesen Anwendungsfällen, einschließlich der von ihnen verwendeten Fähigkeiten und Beispielaufforderungen, finden Sie unter [Anwendungsfälle für Dateneinblicke](/help/chat/use-cases/overview.md#data-insights).
-
-### Erste Schritte
-
-Der Coworker Chat kann Ihnen auch helfen:
-
-* **Leistung vergleichen**: Metriken über Kanäle, Zeiträume oder Segmente hinweg nebeneinander vergleichen.
-* **Kampagnenleistung messen**: Sehen Sie, wie Kampagnen, Kanäle und Web-Eigenschaften über einen bestimmten Zeitraum ausgeführt wurden.
-* **Trichter analysieren**: Durchlaufen Sie mehrstufige Konversionstrichter und sehen Sie sich den Abbruch in jedem Stadium an.
-* **Prognosemetriken**: Projizieren Sie zukünftige Metrikwerte aus historischen Customer Journey Analytics- oder Adobe Analytics-Daten, z. B. ob Sie auf dem richtigen Weg sind, um ein Umsatzziel zu erreichen.
-* **Zusammenfassungen für Führungskräfte und KPI-Zusammenfassungen erstellen**: Erstellen Sie einsatzbereite Leistungszusammenfassungen, Empfehlungen und Folienübersichten.
-* **Analysieren Sie operative Trends und**: Fragen Sie historische Zeitreihendaten nach Zielgruppen, Datensätzen und Journey ab und identifizieren Sie, was zu einer Änderung geführt hat.
-* **Erstellen benutzerdefinierter Customer Journey Analytics-Kenntnisse**: Wandeln Sie eine Analyse, die Sie wiederholen, in eine wiederverwendbare Fähigkeit um, die sitzungsübergreifend persistent ist.
-
-<!--
-CARDS
-
-* https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/data-insights/analytics-chat
-  {title = Analyze data with Coworker Chat}
-  {description = Ask questions in natural language to build funnels, create visualizations, and find where customers drop off in the journey.}
-  {cta = Read}
-  {image = ../../assets/coworker-funnel-response-card.png}
-
-* https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/data-insights/root-cause-analysis
-  {title = Explore trends and root causes}
-  {description = Investigate changes in your Customer Journey Analytics data and uncover what drives them, without writing manual queries.}
-  {cta = Read}
-  {image = ../../assets/data-validation-aa-cja/trend-line-card.png}
--->
-<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
-<div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Analyze data with Coworker Chat">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/data-insights/analytics-chat" title="Analysieren von Daten mit dem Kollegen-Chat">
-                        <img class="is-bordered-r-small" src="../../assets/coworker-funnel-response-card.png" alt="Analysieren von Daten mit dem Kollegen-Chat"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/data-insights/analytics-chat" title="Analysieren von Daten mit dem Kollegen-Chat">Analysieren von Daten mit dem Kollegen-Chat</a>
-                    </p>
-                    <p class="is-size-6">Stellen Sie Fragen in natürlicher Sprache, um Trichter zu erstellen, Visualisierungen zu erstellen und herauszufinden, wo Kunden auf dem Journey abbrechen.</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/data-insights/analytics-chat" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Lesen</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Explore trends and root causes">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/data-insights/root-cause-analysis" title="Trends und Grundursachen untersuchen">
-                        <img class="is-bordered-r-small" src="../../assets/data-validation-aa-cja/trend-line-card.png" alt="Trends und Grundursachen untersuchen"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/data-insights/root-cause-analysis" title="Trends und Grundursachen untersuchen">Erkunden von Trends und Grundursachen</a>
-                    </p>
-                    <p class="is-size-6">Untersuchen Sie Änderungen an Ihren Customer Journey Analytics-Daten und entdecken Sie, was sie antreibt, ohne manuelle Abfragen zu schreiben.</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/data-insights/root-cause-analysis" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Lesen</span>
-                </a>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-
-<!--
-CARDS
-
-* https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/data-insights/validate-dataset-quality-for-cja
-  {title = Validate Customer Journey Analytics data}
-  {description = Check dataset quality with the data validation skill and resolve issues before you build dashboards.}
-  {cta = Read}
-  {image = ../../assets/data-validation-aep/dataset-validation.png}
-
-* https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/data-insights/data-validation-aa-cja
-  {title = Validate data during your upgrade}
-  {description = Compare Adobe Analytics and Customer Journey Analytics data to confirm that your upgrade is on track.}
-  {cta = Read}
-  {image = ../../assets/data-validation-aa-cja/trend-bar-card.png}
--->
-<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
-<div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Validate Customer Journey Analytics data">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/data-insights/validate-dataset-quality-for-cja" title="Validieren von Customer Journey Analytics-Daten">
-                        <img class="is-bordered-r-small" src="../../assets/data-validation-aep/dataset-validation.png" alt="Validieren von Customer Journey Analytics-Daten"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/data-insights/validate-dataset-quality-for-cja" title="Validieren von Customer Journey Analytics-Daten">Validieren von Customer Journey Analytics-Daten</a>
-                    </p>
-                    <p class="is-size-6">Überprüfen Sie die Datensatzqualität mit den Datenvalidierungsfähigkeiten und beheben Sie Probleme, bevor Sie Dashboards erstellen.</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/data-insights/validate-dataset-quality-for-cja" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Lesen</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Validate data during your upgrade">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/data-insights/data-validation-aa-cja" title="Validieren von Daten während des Upgrades">
-                        <img class="is-bordered-r-small" src="../../assets/data-validation-aa-cja/trend-bar-card.png" alt="Validieren von Daten während des Upgrades"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/data-insights/data-validation-aa-cja" title="Validieren von Daten während des Upgrades">Validieren von Daten während des Upgrades</a>
-                    </p>
-                    <p class="is-size-6">Vergleichen Sie Adobe Analytics- und Customer Journey Analytics-Daten, um zu bestätigen, dass Ihr Upgrade planmäßig verläuft.</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/data-insights/data-validation-aa-cja" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Lesen</span>
-                </a>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-
-
-
-## Tabellenlayout der wichtigsten Anwendungsfälle
-
-<!-- The following table are links to each of the stand-alone articles in this folder -->
-
-| Anwendungsfall | Beschreibung |
+| Anwendungsfall | Funktion |
 | --- | --- |
-| [Analysieren von Customer Journey Analytics- und Adobe Analytics-Daten](/help/chat/use-cases/data-insights/analytics-chat.md) | Beantwortet Fragen in natürlicher Sprache zu Ihren Datenansichten oder Report Suites, erstellt Trichter und andere Visualisierungen und findet heraus, wo Kunden abbrechen. Sie können eine beliebige Visualisierung in Analysis Workspace zur weiteren Analyse öffnen. |
-| [Erkunden von Trends und Grundursachen](/help/chat/use-cases/data-insights/root-cause-analysis.md) | Identifiziert Trends in Ihren Customer Journey Analytics- und Adobe Analytics-Daten und die Faktoren, die zu Leistungsänderungen führen, ohne manuelle Abfragen. |
-| [Implementierung planen](/help/chat/use-cases/data-insights/implementation-guide.md) | Erstellt einen personalisierten, schrittweisen Plan für die Implementierung von Customer Journey Analytics, die Aktualisierung von Adobe Analytics oder die Einrichtung von Content Analytics, Marketing Campaign Analytics oder Streaming Media Collection auf der Edge. Die Pläne enthalten Details wie Eigentümer, Aufwandsschätzungen, Abhängigkeiten und Validierungsschritte. |
-| [Erstellen einer Checkliste für die Implementierung](/help/chat/use-cases/data-insights/intelligent-checklist.md) | Wandelt Ihren Customer Journey Analytics-Implementierungsplan in eine Checkliste in Co-Worker-Projekten um, in der Ihr Team Schritte zuweisen, den Status verfolgen und Validierungs-Gates hinzufügen kann. |
-| [Validieren von Daten beim Upgrade von Adobe Analytics auf Customer Journey Analytics](/help/chat/use-cases/data-insights/data-validation-aa-cja.md) | Vergleicht Dimensionen, Metriken und Trends zwischen Ihren Adobe Analytics Report Suites und Customer Journey Analytics-Datenansichten und empfiehlt dann Fehlerbehebungen, um Ihr Upgrade zu unterstützen. |
-| [Validieren der Implementierung von Streaming-Medien](/help/chat/use-cases/data-insights/streaming-media-validation.md) | Überprüft Ihren Datenstrom, Ihr Schema, Ihren Datensatz, Ihre Datenansicht und Ihre Sitzungsdaten, um sicherzustellen, dass das Tracking von Streaming-Medien konfiguriert ist und die Daten korrekt erfasst werden. |
-| [Validieren der Datensatzqualität für Customer Journey Analytics](/help/chat/use-cases/data-insights/validate-dataset-quality-for-cja.md) | Identifiziert die Datensätze, die Ihre Customer Journey Analytics-Berichte unterstützen, prüft dann Schemata, Identitätsqualität und Feldqualität, damit Sie Probleme beheben können, bevor Sie Dashboards erstellen. |
-| [Validieren von Daten nach der Aufnahme in Experience Platform](/help/chat/use-cases/data-insights/data-validation-aep.md) | Führt statistische und semantische Prüfungen für Experience Platform-Datensätze und -Felder durch, um Probleme mit der Datenqualität zu ermitteln, z. B. ungültige Werte oder Zuordnungsprobleme. |
+| [Implementierung planen](/help/chat/use-cases/data-insights/implementation-guide.md)<p>![Implementierung planen](../../assets/ui-guide-6.png)</p> | Erstellt einen personalisierten, schrittweisen Plan für die Implementierung von Customer Journey Analytics, die Aktualisierung von Adobe Analytics oder die Einrichtung von Content Analytics, Marketing Campaign Analytics oder Streaming Media Collection auf der Edge. Die Pläne enthalten Details wie Eigentümer, Aufwandsschätzungen, Abhängigkeiten und Validierungsschritte.<p>**Beispielaufforderung:** „Helfen Sie mir, meine Implementierung von Customer Journey Analytics zu planen“</p><p>Weitere Informationen finden Sie unter [Implementierung mit Coworker planen](/help/chat/use-cases/data-insights/implementation-guide.md).</p> |
+| [Erstellen einer Checkliste für die Implementierung](/help/chat/use-cases/data-insights/intelligent-checklist.md)<p>![Erstellen einer Checkliste für die Implementierung](../../assets/data-validation-aa-cja/date-detail.png)</p> <p>experimentell</p> | Wandelt Ihren Customer Journey Analytics-Implementierungsplan in eine Checkliste in Co-Worker-Projekten um, in der Ihr Team Schritte zuweisen, den Status verfolgen und Validierungs-Gates hinzufügen kann.<p>Weitere Informationen finden Sie unter [Generieren einer Implementierungsprüfliste mit Co-Worker-Projekten](/help/chat/use-cases/data-insights/intelligent-checklist.md).</p> |
+| [Validieren von Daten beim Upgrade von Adobe Analytics auf Customer Journey Analytics](/help/chat/use-cases/data-insights/data-validation-aa-cja.md)<p>![Validieren von Daten beim Upgrade von Adobe Analytics auf Customer Journey Analytics](../../assets/data-validation-aa-cja/trend-bar-card.png)</p> | Vergleicht Dimensionen, Metriken und Trends zwischen Ihren Adobe Analytics Report Suites und Customer Journey Analytics-Datenansichten und empfiehlt dann Fehlerbehebungen, um Ihr Upgrade zu unterstützen.<p>**Beispielaufforderung:** „Meine AA-Report Suite mit meiner CJA-Datenansicht vergleichen“</p><p>Weitere Informationen finden Sie unter [Validieren von Daten mit einem Kollegen beim Upgrade von Adobe Analytics auf Customer Journey Analytics](/help/chat/use-cases/data-insights/data-validation-aa-cja.md).</p> |
+| [Validieren der Implementierung von Streaming-Medien](/help/chat/use-cases/data-insights/streaming-media-validation.md)<p>![Validieren der Implementierung von Streaming-Medien](../../assets/ui-guide-8.png)</p> <p>experimentell</p> | Überprüft Ihren Datenstrom, Ihr Schema, Ihren Datensatz, Ihre Datenansicht und Ihre Sitzungsdaten, um sicherzustellen, dass das Tracking von Streaming-Medien konfiguriert ist und die Daten korrekt erfasst werden.<p>**Beispielaufforderung:** „Wie gesund ist meine Implementierung von Streaming-Medien insgesamt?“</p><p>Weitere Informationen finden Sie unter [Validieren der Implementierung von Streaming-Medien mit Coworker](/help/chat/use-cases/data-insights/streaming-media-validation.md).</p> |
+| [Validieren der Datensatzqualität für Customer Journey Analytics](/help/chat/use-cases/data-insights/validate-dataset-quality-for-cja.md)<p>![Validieren der Datensatzqualität für Customer Journey Analytics](../../assets/data-validation-aep/dataset-validation.png)</p> <p>Experimentell (nächste Woche)</p> | Identifiziert die Datensätze, die Ihre Customer Journey Analytics-Berichte unterstützen, prüft dann Schemata, Identitätsqualität und Feldqualität, damit Sie Probleme beheben können, bevor Sie Dashboards erstellen.<p>Weitere Informationen finden Sie unter [Validieren von Customer Journey Analytics-Daten mit der Datenvalidierungsfertigkeit in Coworker](/help/chat/use-cases/data-insights/validate-dataset-quality-for-cja.md).</p> |
+| [Validieren von Daten nach der Aufnahme in Experience Platform](/help/chat/use-cases/data-insights/data-validation-aep.md)<p>![Validieren von Daten nach der Aufnahme in Experience Platform](../../assets/data-validation-aep/null-values.png)</p> | Führt statistische und semantische Prüfungen für Experience Platform-Datensätze und -Felder durch, um Probleme mit der Datenqualität zu ermitteln, z. B. ungültige Werte oder Zuordnungsprobleme.<p>**Beispielaufforderung:** „Validieren des Datensatzes „Electronics Sample 1000“</p><p>Weitere Informationen finden Sie unter [Validieren Ihrer Experience Platform-Daten mit Coworker](/help/chat/use-cases/data-insights/data-validation-aep.md).</p> |
 
-Weitere Informationen zu diesen Anwendungsfällen, einschließlich der von ihnen verwendeten Fähigkeiten und Beispielaufforderungen, finden Sie unter [Anwendungsfälle für Dateneinblicke](/help/chat/use-cases/overview.md#data-insights).
+### Journey-Analyse
+
+**Am besten geeignet für:** Analyst, Business-Anwender
+
+| Anwendungsfall | Funktion |
+| --- | --- |
+| [Analysieren von Customer Journey Analytics- und Adobe Analytics-Daten](/help/chat/use-cases/data-insights/analytics-chat.md)<p>![Analysieren von Customer Journey Analytics- und Adobe Analytics-Daten](../../assets/coworker-funnel-response-card.png)</p> | Beantwortet Fragen in natürlicher Sprache zu Ihren Datenansichten oder Report Suites, erstellt Trichter und andere Visualisierungen und findet heraus, wo Kunden abbrechen. Sie können eine beliebige Visualisierung in Analysis Workspace zur weiteren Analyse öffnen.<p>**Beispielaufforderung:** „Anzeigen von Seitenansichten für die letzten 30 Tage“</p><p>Weitere Informationen finden Sie unter [Erste Schritte mit der Datenanalyse mit dem Coworker Chat](/help/chat/use-cases/data-insights/analytics-chat.md).</p> |
+| [Analysieren von Trichtern](#skills-and-limitations) | Gehen Sie durch mehrstufige Konversionstrichter und sehen Sie sich den Abbruch in jedem Stadium an.<p>**Beispielaufforderung:** „Führen Sie mich durch den funnel-Checkout“</p><p>Weitere Informationen finden Sie unter [Kenntnisse und Einschränkungen](#skills-and-limitations).</p> |
+
+### Zielgruppen- und Segmentanalyse
+
+**Am besten geeignet für:** Analyst, Business-Anwender, Admin
+
+| Anwendungsfall | Funktion |
+| --- | --- |
+| [Leistung vergleichen](#skills-and-limitations) | Vergleichen Sie Metriken kanalübergreifend, über Zeiträume hinweg oder segmentübergreifend.<p>**Beispielaufforderung:** „Umsatz nach Kanal und Monat vergleichen“</p><p>Weitere Informationen finden Sie unter [Kenntnisse und Einschränkungen](#skills-and-limitations).</p> |
+| [Analyse operativer Trends und Ursachen](/help/chat/use-cases/overview.md#data-insights) | Abfragen historischer Zeitreihendaten für Zielgruppen, Datensätze und Journey und Identifizieren, was eine Änderung verursacht hat.<p>**Beispielaufforderung:** „Entwicklung der Zielgruppengröße in den letzten 90 Tagen anzeigen“</p><p>Weitere Informationen finden Sie unter [Dateneinblicke](/help/chat/use-cases/overview.md#data-insights) in Anwendungsfällen für den Coworker Chat.</p> |
+
+### Geschäftsergebnis
+
+**Am besten geeignet für:** Analyst, Business-Anwender
+
+| Anwendungsfall | Funktion |
+| --- | --- |
+| [Erkunden von Trends und Grundursachen](/help/chat/use-cases/data-insights/root-cause-analysis.md)<p>![Erkunden von Trends und Grundursachen](../../assets/data-validation-aa-cja/trend-line-card.png)</p> | Identifiziert Trends in Ihren Customer Journey Analytics- und Adobe Analytics-Daten und die Faktoren, die zu Leistungsänderungen führen, ohne manuelle Abfragen.<p>**Beispielaufforderung:** „Warum sind die Konversionen letzte Woche zurückgegangen?“</p><p>Weitere Informationen finden Sie unter [Customer Journey Analytics &amp; Coworker](/help/chat/use-cases/data-insights/root-cause-analysis.md).</p> |
+| [Prognosemetriken](#skills-and-limitations) | Projizieren Sie zukünftige Metrikwerte aus historischen Customer Journey Analytics- oder Adobe Analytics-Daten, z. B. ob Sie auf dem richtigen Weg sind, um ein Umsatzziel zu erreichen.<p>**Beispielaufforderung:** „Prognostizierte Sitzungen für die nächsten 30 Tage“</p><p>Weitere Informationen finden Sie unter [Kenntnisse und Einschränkungen](#skills-and-limitations).</p> |
+| [Erstellen von Zusammenfassungen und KPI-Übersichten](#skills-and-limitations) | Erstellen Sie für die Stakeholder geeignete Leistungszusammenfassungen, Empfehlungen und Folienübersichten.<p>**Beispielaufforderung:** „Geben Sie mir eine Zusammenfassung des letzten Monats“</p><p>Weitere Informationen finden Sie unter [Kenntnisse und Einschränkungen](#skills-and-limitations).</p> |
+| [Erstellen benutzerdefinierter Customer Journey Analytics-Kenntnisse](#skills-and-limitations) | Wandeln Sie eine Analyse, die Sie wiederholen, in eine wiederverwendbare Fähigkeit um, die sitzungsübergreifend bestehen bleibt.<p>**Beispielaufforderung:** „Wandeln Sie diese wöchentliche Umsatzanalyse in eine wiederverwendbare Kenntnisse um“</p><p>Weitere Informationen finden Sie unter [Kenntnisse und Einschränkungen](#skills-and-limitations).</p> |
+
+### Marketing-Messung und -Attribution
+
+**Am besten geeignet für:** Analyst, Business-Anwender
+
+| Anwendungsfall | Funktion |
+| --- | --- |
+| [Kampagnenleistung messen](/help/chat/use-cases/overview.md#data-insights) | Sehen Sie, wie Kampagnen, Kanäle und Web-Eigenschaften über einen bestimmten Zeitraum ausgeführt wurden.<p>**Beispielaufforderung:** „Wie haben unsere Acrobat-Web-Kampagnen im letzten Monat funktioniert?“</p><p>Weitere Informationen finden Sie unter [Dateneinblicke](/help/chat/use-cases/overview.md#data-insights) in Anwendungsfällen für den Coworker Chat.</p> |
+
+Weitere Informationen zu diesen Anwendungsfällen, einschließlich der von ihnen verwendeten Fähigkeiten und weiterer Beispielaufforderungen, finden Sie unter [Anwendungsfälle für Dateneinblicke](/help/chat/use-cases/overview.md#data-insights).
+
+## Kenntnisse und Einschränkungen
+
+Die folgenden Kenntnisse stehen für die Analyse von Customer Journey Analytics- oder Adobe Analytics-Daten zur Verfügung.
+
+| Skill | Verwenden Sie ihn, um | Erforderliche Berechtigungen | Außerhalb des Geltungsbereichs |
+| --- | --- | --- | --- |
+| `cja`, `aa` | Abfragen von Customer Journey Analytics-Datenansichten (`cja`) oder Adobe Analytics Report Suites (`aa`) in Echtzeit:<ul><li>Abrufen von Metriken, Dimensionen, Segmenten, Datenansichten und Report Suites</li><li>Kanäle, Zeiträume oder Segmente nebeneinander vergleichen</li><li>Ausführen einer mehrstufigen funnel- und Fallout-Analyse</li><li>Prognostizierte Metriken basierend auf historischen Trends</li></ul> | Anzeigen des Zugriffs auf die Datenansicht oder Report Suite, die Sie abfragen möchten | <ul><li>Erstellen oder Bearbeiten von Datenansichts- oder Report Suite-Komponenten</li><li>Daten außerhalb der Datenansichten oder Report Suites, auf die Sie Zugriff haben</li><li>Prädiktive Modellierung über Metrikvorhersagen hinaus</li></ul> |
+| `cja-root-cause-analysis`, `aa-root-cause-analysis` | Finden Sie heraus, warum sich eine Metrik geändert hat, anstatt nur ihre Änderung zu melden:<ul><li>Untersuchen einer Änderung an einer bekannten Metrik über einen bekannten Zeitraum</li><li>Aufdecken der Dimensionen und Segmente, die zur Änderung beigetragen haben</li></ul> | Anzeigen des Zugriffs auf die zu analysierende Datenansicht oder Report Suite | <ul><li>Erkennen von Anomalien, nach denen Sie nicht gefragt haben (keine automatisierten oder Echtzeitwarnungen)</li><li>Ursachenanalyse für Metriken außerhalb einer Datenansicht oder Report Suite, auf die Sie Zugriff haben</li></ul> |
+| `cja-executive-summary` | Zusammenfassungen Ihrer Daten für alle Beteiligten:<ul><li>Zusammenfassen der Leistung über einen bestimmten Zeitraum</li><li>Erstellen präskriptiver Empfehlungen auf Grundlage der Daten</li><li>Gliederungsinhalte für das Auslesen von Folien- oder Stakeholdern</li></ul> | Anzeigen des Zugriffs auf die Datenansichten oder Report Suites, die in der Zusammenfassung behandelt werden | <ul><li>Erstellen des endgültigen Foliendecks oder der Präsentationsdatei</li><li>Zusammenfassungen, die Datenansichten oder Report Suites umfassen, auf die Sie keinen Zugriff haben</li></ul> |
+| `aa-cja-validation` | Vergleichen, Überprüfen und Abstimmung von Daten zwischen [!DNL Adobe Analytics] und Customer Journey Analytics:<ul><li>Metrikwerte zwischen einer Report Suite und einer Datenansicht vergleichen</li><li>Kennzeichnen von Diskrepanzen zwischen den beiden Datenquellen</li></ul> | Anzeigen des Zugriffs auf die [!DNL Adobe Analytics] Report Suite und die zu vergleichende Customer Journey Analytics-Datenansicht | <ul><li>Beheben der zugrunde liegenden Ursache einer Datendiskrepanz</li><li>Validieren von anderen Datenquellen als [!DNL Adobe Analytics] und Customer Journey Analytics</li></ul> |
+| `cja-skill-creator` | Verwandeln Sie eine Analyse, die Sie bereits durchgeführt haben, in eine wiederverwendbare Fähigkeit:<ul><li>Konvertieren einer abgeschlossenen Analyse in eine benannte, wiederverwendbare Kenntnisse</li><li>Eine gespeicherte Kenntnis für zukünftige Chat-Sitzungen verfügbar machen</li></ul> | Kenntnisse verwalten | <ul><li>Automatisches Freigeben einer gespeicherten Qualifikation für andere Benutzer (Qualifikationsbibliotheken auf Unternehmensebene erfordern die Einrichtung durch Administratoren)</li><li>Bearbeiten der Datenansichts- oder Report Suite-Komponenten, auf die eine Qualifikation verweist</li></ul> |
+
+## Best Practices bei der Datenanalyse mit dem Coworker Chat
+
+### Best Practices auf Unternehmensebene
+
+* Benennen Sie einen Analysten aus Ihrer Organisation als Champion einer Kollegin oder eines Kollegen.
+
+* Erstellen Sie eine Bibliothek mit überprüften Eingabeaufforderungen und Kenntnissen, die mit den Daten und Komponenten korrelieren, die den Benutzern zur Verfügung stehen.
+
+* Erstellen Sie eine oder mehrere Fähigkeiten, die den Coworker Chat anweisen, nur die Komponenten zu verwenden, die Sie in Analysen verwenden möchten. Dies hilft Coworker Chat, Benutzern in Ihrer Organisation die relevantesten Daten zu geben.
+
+* Bringen Sie Benutzer in Erfahrung, wann sie den Coworker Chat um eine schnelle Antwort bitten sollten, anstatt ihn für eine gründliche Gedankenarbeit zu verwenden.
+
+### Best Practices auf Benutzerebene
+
+* Planmodus verwenden.
+
+  Dieser Modus ist besonders für komplexe Aufgaben nützlich, kann aber auch bessere Ergebnisse für einfache Aufgaben liefern, da er es Mitarbeitern ermöglicht, Folgefragen zu stellen, bevor sie handeln. Weitere Informationen finden Sie unter [Planmodus](/help/chat/ui-guide.md#plan-mode).
+
+* Achten Sie beim Erstellen einer Eingabeaufforderung auf eine möglichst präzise Vorgehensweise:
+
+  * Benennen Sie die Dimensionen, Metriken und den Datumsbereich, die analysiert werden sollen.
+  * Referenzieren Sie Komponenten anhand ihres genauen Namens.
+  * Geben Sie alle Segmente, Zielgruppen, Kanäle oder Geräte an, die Sie einbeziehen, ausschließen oder vergleichen möchten.
+  * Geben Sie an, ob Sie einen bestimmten Visualisierungstyp wünschen, z. B. eine funnel-, Trend- oder Kohortentabelle.
+  * Fragen Sie nach den empfohlenen nächsten Schritten, wenn Sie im Coworker Chat weitere Fragen vorschlagen möchten.
+  * Fordern Sie bei der Projektion von Metriken einen Prognosehorizont an, z. B. „Nächste 30 Tage“.
+  * Erwähnen Sie jede Hypothese, die Sie bereits haben, sodass Coworker Chat sie validieren oder ausschließen kann.
+  * Fragen Sie nach den beitragenden Dimensionen, wenn Sie eine Aufschlüsselung einer Metrikänderung wünschen.
+  * Geben Sie die Zielgruppe für eine Zusammenfassung an, z. B. die Führung oder das Marketing-Team, und fordern Sie einen Folienüberblick an, wenn Sie die Ergebnisse präsentieren möchten.
+  * Benennen Sie die spezifische Report Suite und Datenansicht, die Sie bei der Datenvalidierung vergleichen möchten.
+  * Führen Sie zuerst eine Analyse durch und bitten Sie dann den Coworker Chat, diese als Qualifikation zu speichern, ihr einen klaren, beschreibenden Namen zu geben und zu notieren, wie oft Sie sie wiederverwenden möchten.
+
+* Fügen Sie Standardanweisungen zum Arbeitsspeicher des Kollegen-Chats hinzu. Wenn Sie beispielsweise immer Daten aus denselben Datenansichten oder Report Suites verwenden, fügen Sie diese dem Speicher hinzu. Weitere Informationen finden Sie unter [Datenansicht oder Report Suite-Voreinstellung im Speicher hinzufügen](/help/chat/use-cases/data-insights/analytics-chat.md#add-a-data-view-or-report-suite-preference-in-memory) in Erste Schritte mit der Analyse von Daten mit dem Coworker Chat.
+
+## Nächste Schritte
+
+Informationen zum Einrichten von Coworker Chat und zum Durchführen eines Arbeitsbeispiels finden Sie unter [Erste Schritte mit der Analyse von Daten mit Coworker Chat](/help/chat/use-cases/data-insights/analytics-chat.md).
+
 
