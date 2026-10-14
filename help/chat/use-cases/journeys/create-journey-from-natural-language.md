@@ -14,9 +14,9 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+source-git-commit: bc2c2d0bb2f73ffb9018325f812c9701c90779e1
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '128'
 ht-degree: 1%
 ---
 
@@ -26,9 +26,9 @@ Der Aufbau von Kunden-Journey erfordert traditionell eine umfangreiche Konfigura
  
 Durch die Automatisierung des anfänglichen Einrichtungsprozesses können Teams weniger Zeit damit verbringen, Journey von Grund auf neu zu erstellen, und mehr Zeit damit, Kundenerlebnisse und Geschäftsergebnisse zu verfeinern.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496883/?captions=ger&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496867/?learn=on&enablevpops)
 
 ## Siehe auch
 
-- [Journey Agent](https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent#journey-create), die zugrunde liegende KI-Funktion, die die Journey-Erstellung im Coworker Chat ermöglicht.
-- [Weitere Anwendungsfälle für den Coworker Chat](../overview.md#journeys)
+- [Journey Agent](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent#journey-create), die zugrunde liegende KI-Funktion, die die Journey-Erstellung im Coworker Chat ermöglicht.
+- [Weitere Workflows für den Coworker-Chat](../workflows.md#journeys)

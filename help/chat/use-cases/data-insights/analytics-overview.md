@@ -5,7 +5,7 @@ product_v2:
   internal-label: CX Enterprise Coworker
 feature_v2:
   internal-label: CX Enterprise Coworker
-source-git-commit: 1406a6258a8f7ad3a7e5268a01c8ab2b449505b6
+source-git-commit: b6a05e2fdc16830fd69ac1b5ea68ed1d4c5d5c5f
 workflow-type: tm+mt
 source-wordcount: '1915'
 ht-degree: 1%
@@ -67,7 +67,7 @@ Die folgenden Anwendungsfälle sind nach Analyse-Domain gruppiert. Jede Gruppe l
 | Anwendungsfall | Funktion |
 | --- | --- |
 | [Leistung vergleichen](#skills-and-limitations) | Vergleichen Sie Metriken kanalübergreifend, über Zeiträume hinweg oder segmentübergreifend.<p>**Beispielaufforderung:** „Umsatz nach Kanal und Monat vergleichen“</p><p>Weitere Informationen finden Sie unter [Kenntnisse und Einschränkungen](#skills-and-limitations).</p> |
-| [Analyse operativer Trends und Ursachen](/help/chat/use-cases/overview.md#data-insights) | Abfragen historischer Zeitreihendaten für Zielgruppen, Datensätze und Journey und Identifizieren, was eine Änderung verursacht hat.<p>**Beispielaufforderung:** „Entwicklung der Zielgruppengröße in den letzten 90 Tagen anzeigen“</p><p>Weitere Informationen finden Sie unter [Dateneinblicke](/help/chat/use-cases/overview.md#data-insights) in Anwendungsfällen für den Coworker Chat.</p> |
+| [Analyse operativer Trends und Ursachen](/help/chat/use-cases/workflows.md#data-insights) | Abfragen historischer Zeitreihendaten für Zielgruppen, Datensätze und Journey und Identifizieren, was eine Änderung verursacht hat.<p>**Beispielaufforderung:** „Entwicklung der Zielgruppengröße in den letzten 90 Tagen anzeigen“</p><p>Weitere Informationen finden Sie unter [Dateneinblicke](/help/chat/use-cases/workflows.md#data-insights) in Anwendungsfällen für den Coworker Chat.</p> |
 
 ### Geschäftsergebnis
 
@@ -86,9 +86,9 @@ Die folgenden Anwendungsfälle sind nach Analyse-Domain gruppiert. Jede Gruppe l
 
 | Anwendungsfall | Funktion |
 | --- | --- |
-| [Kampagnenleistung messen](/help/chat/use-cases/overview.md#data-insights) | Sehen Sie, wie Kampagnen, Kanäle und Web-Eigenschaften über einen bestimmten Zeitraum ausgeführt wurden.<p>**Beispielaufforderung:** „Wie haben unsere Acrobat-Web-Kampagnen im letzten Monat funktioniert?“</p><p>Weitere Informationen finden Sie unter [Dateneinblicke](/help/chat/use-cases/overview.md#data-insights) in Anwendungsfällen für den Coworker Chat.</p> |
+| [Kampagnenleistung messen](/help/chat/use-cases/workflows.md#data-insights) | Sehen Sie, wie Kampagnen, Kanäle und Web-Eigenschaften über einen bestimmten Zeitraum ausgeführt wurden.<p>**Beispielaufforderung:** „Wie haben unsere Acrobat-Web-Kampagnen im letzten Monat funktioniert?“</p><p>Weitere Informationen finden Sie unter [Dateneinblicke](/help/chat/use-cases/workflows.md#data-insights) in Anwendungsfällen für den Coworker Chat.</p> |
 
-Weitere Informationen zu diesen Anwendungsfällen, einschließlich der von ihnen verwendeten Fähigkeiten und weiterer Beispielaufforderungen, finden Sie unter [Anwendungsfälle für Dateneinblicke](/help/chat/use-cases/overview.md#data-insights).
+Weitere Informationen zu diesen Anwendungsfällen, einschließlich der von ihnen verwendeten Fähigkeiten und weiterer Beispielaufforderungen, finden Sie unter [Anwendungsfälle für Dateneinblicke](/help/chat/use-cases/workflows.md#data-insights).
 
 ## Kenntnisse und Einschränkungen
 
