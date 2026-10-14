@@ -26,7 +26,7 @@ Der Aufbau von Kunden-Journey erfordert traditionell eine umfangreiche Konfigura
  
 Durch die Automatisierung des anfänglichen Einrichtungsprozesses können Teams weniger Zeit damit verbringen, Journey von Grund auf neu zu erstellen, und mehr Zeit damit, Kundenerlebnisse und Geschäftsergebnisse zu verfeinern.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496867/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496883/?captions=ger&learn=on&enablevpops)
 
 ## Siehe auch
 
