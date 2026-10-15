@@ -5,10 +5,10 @@ user-guide-description: Erfahren Sie mehr über Adobe CX Enterprise Coworker, ei
 description: Erfahren Sie mehr über KI-Tools in CX Enterprise. Verbessern Sie Ihr Produktwissen und erhalten Sie operative Erkenntnisse mithilfe von KI in CX Enterprise.
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
-source-git-commit: 69cf9eca65b61d4eb86ea3365013d8553a81e6e3
+source-git-commit: d87a189293dcc367e5fdfd80e6b59615fdbe9a2d
 workflow-type: tm+mt
-source-wordcount: '229'
-ht-degree: 18%
+source-wordcount: '231'
+ht-degree: 17%
 ---
 
 # CX Enterprise Coworker {#content}
@@ -16,7 +16,7 @@ ht-degree: 18%
 - [Übersicht über Kollegen](home.md)
 - Chat {#chat}
   - [Übersicht](./chat/overview.md)
-  - [Handbuch für die -Benutzeroberfläche](./chat/ui-guide.md)
+  - [Erste Schritte mit dem Chat](./chat/ui-guide.md)
   - {hide-from-toc}[Coworker Chat im Playground](./playground-coworker-chat.md)
   - Anwendungsszenarien {#use-cases}
     - [Chat-Workflows für Kollegen](./chat/use-cases/workflows.md)
