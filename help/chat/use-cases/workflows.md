@@ -1,30 +1,30 @@
 ---
-description: Durchsuchen Sie die Anwendungsfälle und Beispielaufforderungen des Coworker Chat, sortiert nach Bereichen wie Dateneinblicke, Zielgruppen, Journey und Plattformvorgänge.
-title: Anwendungsfälle für den Chat mit Kollegen
+description: Durchsuchen Sie die Workflows und Beispielaufforderungen des Coworker Chat, sortiert nach Bereichen wie Dateneinblicke, Zielgruppen, Journey und Plattformvorgänge.
+title: Chat-Workflows für Kollegen
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: fca51b8777f14bbfa1469c66f04e297867a96de6
+source-git-commit: 0ccc8faed069b726a28a39042047d1e66200181e
 workflow-type: tm+mt
-source-wordcount: '7646'
+source-wordcount: '7618'
 ht-degree: 6%
 ---
-# Anwendungsfälle für den Chat mit Kollegen {#use-cases}
+# Chat-Workflows für Kollegen {#use-cases}
 
-Mit dem Coworker Chat können Sie Ihre [!DNL Experience Platform]-Daten in natürlicher Sprache abfragen, analysieren und bearbeiten, anstatt mehrere Benutzeroberflächen zu durchsuchen oder Abfragen manuell zu schreiben. Auf dieser Seite werden die Anwendungsfälle katalogisiert, auf die sich die Fachleute am meisten verlassen, sortiert nach Arbeitsbereich: Dateneinblicke, Zielgruppen, Journey, Treue, Grundlegende Elemente und Sandbox-Tools. Jeder Eintrag beinhaltet die Qualifikation, die er aufruft, die Anwendungen, mit denen er arbeitet, und Beispielaufforderungen, die Sie kopieren, an Ihre eigenen Daten anpassen und durch Konversation verfeinern können.
+Mit dem Coworker Chat können Sie Ihre [!DNL Experience Platform]-Daten in natürlicher Sprache abfragen, analysieren und bearbeiten, anstatt mehrere Benutzeroberflächen zu durchsuchen oder Abfragen manuell zu schreiben. Auf dieser Seite werden die Workflows katalogisiert, auf die die meisten Benutzer angewiesen sind, sortiert nach Arbeitsbereich: Dateneinblicke, Zielgruppen, Journey, Treue, Grundlegende Elemente und Sandbox-Tools. Jeder Eintrag beinhaltet die Qualifikation, die er aufruft, die Anwendungen, mit denen er arbeitet, und Beispielaufforderungen, die Sie kopieren, an Ihre eigenen Daten anpassen und durch Konversation verfeinern können.
 
 ## Markenerlebnis
 
-| Anwendungsfall | Beschreibung | Kenntnisse | Anwendung | Eingabeaufforderungen |
+| Workflow | Beschreibung | Kenntnisse | Anwendung | Eingabeaufforderungen |
 | --- | --- | --- | --- | --- |
 | [Aktualisieren von AEM-Seiten](brand-visibility/author-web-pages.md) | Führen Sie Aktionen wie das Aktualisieren, Entfernen, Ersetzen oder Hinzufügen von Inhaltselementen durch, um Erlebnisse genau und aktuell zu halten. Eingaben können natürliche Sprache oder visuelle Anmerkungen wie PDFs oder Screenshots sein. | `aem-sites-pages-update` | Adobe Experience Manager (AEM) - AEM Sites | Aktualisieren Sie auf &lt;URL> die Überschrift zu Hello World<br><br>on &lt;URL> und ändern Sie die Schaltfläche „Take our Coffee Quiz“ in eine ansprechendere Version<br><br>Update &lt;URL> basierend auf dem angehängten <br><br>on &lt;URL> Ich möchte einen neuen Teaser-Abschnitt am Ende der Seite über eine Promotion hinzufügen, die wir im Monat August durchführen, nämlich eine Kaffeemaschine kaufen und zwei Tüten Kaffee kostenlos erhalten. Finde auch Bild von Freunden, die Kaffee trinken und verwende das im Teaser |
 | AEM stapelweise aktualisieren | Führen Sie Massenaktionen auf mehreren Seiten gleichzeitig durch, z. B. Entfernen, Ersetzen oder Hinzufügen von Inhaltselementen, um Erlebnisse genau und aktuell zu halten. | `aem-sites-pages-bulkreplace` | Adobe Experience Manager (AEM) - AEM Sites | Aktualisieren Sie auf &lt;aem path> alle Seiten, die die Kopie „MyBarista“ enthalten, auf „BrewPass“. |
 | Wechseln von Figma zu visuellem Inhaltsfragment | Importieren Sie Designs direkt aus Figma in Adobe Experience Manager mit natürlicher Sprache. Die SKILL erstellt automatisch das erforderliche Inhaltsmodell, Inhaltsfragment, Assets und Visualisierungsvorlage, sodass Business-Anwender innerhalb von Minuten ohne manuelle Einrichtung vom Design zum Web-fähigen Inhalt wechseln können. | `aem-sites-visualcontentfragments-create` | Adobe Experience Manager (AEM) - AEM Sites | Import aus &lt;FIGMA_URL> |
 
-| Anwendungsfall | Beschreibung | Kenntnisse | Anwendung | Eingabeaufforderungen |
+| Workflow | Beschreibung | Kenntnisse | Anwendung | Eingabeaufforderungen |
 | --- | --- | --- | --- | --- |
 | Formular erstellen | Generieren eines neuen adaptiven Formulars aus einer Nur-Sprache-Beschreibung, einer angehängten Kurzbeschreibung, einem Bild oder einer PDF | `aem-forms-adaptiveform-create` | Adobe Experience Manager (AEM) - AEM Forms | „Erstellen eines Onboarding-Formulars für Mitarbeiter“<br><br>„Erstellen eines Formulars mithilfe der angehängten Kurzbeschreibung (Bild oder PDF)“<br><br>„Erstellen eines adaptiven Formulars vom Typ &lt;form>&quot; |
 | Formular bearbeiten/aktualisieren | Ändern eines vorhandenen Formulars - Hinzufügen/Bearbeiten von Feldern, Anpassen des einfachen Layouts, Konfigurieren von Übermittlungsaktionen oder Anwenden von Änderungen aus einem angehängten Richtliniendokument | `aem-forms-adaptiveform-edit` | Adobe Experience Manager (AEM) - AEM Forms | „Feld „Mittleren Namen hinzufügen“ unter dem Feld „Vorname“<br><br>„Felder „Vorname“ und „Nachname“ in ein 2-spaltiges Layout einfügen, 50/50“<br><br>„Konfigurieren des Formulars, um Daten an einen REST-Endpunkt zu senden“<br><br>„Aktualisieren Sie dieses Formular, sodass es dem angehängten Dokument mit Richtlinien entspricht“<br><br>„Feld &lt;Name des Felds> hinzufügen“ unter &lt;vorhandenes Feld>&quot; |
@@ -39,7 +39,7 @@ Mit dem Coworker Chat können Sie Ihre [!DNL Experience Platform]-Daten in natü
 
 ### Entwicklung
 
-| Anwendungsfall | Beschreibung | Kenntnisse | Anwendung | Eingabeaufforderungen |
+| Workflow | Beschreibung | Kenntnisse | Anwendung | Eingabeaufforderungen |
 | --- | --- | --- | --- | --- |
 | Verwalten von Cloud Manager-Pipelines | Erstellen, Ausführen und Überwachen von AEM Cloud Manager-Pipelines, einschließlich Protokollen, Artefakten, Variablen und Einstellungen | `cloud-manager-pipeline-management` | Adobe Experience Manager (AEM) | „Pipelines für Programm 12345 auflisten“<br><br>„Was ist der Status meiner letzten Pipeline?“ |
 | Verwalten von Cloud Manager-Umgebungen | Erstellen, Konfigurieren und Verwalten von AEM Cloud Manager-Umgebungen, einschließlich RDEs, Umgebungsvariablen, Protokollen und Backups | `cloud-manager-environment-management` | Adobe Experience Manager (AEM) | „Meine Umgebungen für Programm 12345 auflisten“<br><br>„RDE zurücksetzen“ |
@@ -52,7 +52,7 @@ Mit dem Coworker Chat können Sie Ihre [!DNL Experience Platform]-Daten in natü
 
 ### Onboarding
 
-| Anwendungsfall | Beschreibung | Kenntnisse | Anwendung | Eingabeaufforderungen |
+| Workflow | Beschreibung | Kenntnisse | Anwendung | Eingabeaufforderungen |
 | --- | --- | --- | --- | --- |
 | Geführtes End-to-End-Onboarding | Orchestriert den gesamten Onboarding-Lebenszyklus, die Repository-Auswahl, die Zuweisung zum Ordner, Tags, Metadaten, Import und Suche, wenn Sie die benötigten Onboarding-Aufgaben nicht kennen. | `aem-onboarding-workflow` | Adobe Experience Manager (AEM) - AEM Assets | „Begleiten Sie unser Team beim AEM Assets<br><br>„Begleiten Sie mich beim AEM DAM-Onboarding“ |
 | Entwerfen und Erstellen von Ordnerhierarchien | Empfiehlt und erstellt skalierbare Ordnerstrukturen in AEM Assets (unter `/content/dam`) basierend auf Geschäftsanforderungen oder CSV-Eingaben. | `aem-folder-management` | Adobe Experience Manager (AEM) - AEM Assets | „Eine Ordnerstruktur für unsere Lifestyle-Marketing-Assets empfehlen“<br><br>„Erstellen von Ordnern basierend auf dieser CSV-Datei“ |
@@ -67,7 +67,7 @@ Mit dem Coworker Chat können Sie Ihre [!DNL Experience Platform]-Daten in natü
 
 ### Content Discovery
 
-| Anwendungsfall | Beschreibung | Kenntnisse | Anwendung | Eingabeaufforderungen |
+| Workflow | Beschreibung | Kenntnisse | Anwendung | Eingabeaufforderungen |
 | --- | --- | --- | --- | --- |
 | Nach semantischem Design suchen | Finden Sie Assets nach Konzept, Stimmung oder visuellem Design mithilfe von KI-gestütztem semantischen Abgleich. | `aem-assets-discovery` | Adobe Experience Manager (AEM) - AEM Assets | „Finde mir Bilder vom Morgen-Kaffee-Lifestyle“ |
 | Nach benutzerdefinierten Metadaten suchen | Filtern von Assets nach benutzerdefinierten Metadatenfeldern (z. B. Kaffeemischung, Marke, Röststufe). | `aem-assets-discovery` | Adobe Experience Manager (AEM) - AEM Assets | „Assets suchen, bei denen `Coffee Blend` `Morning Muse` ist“<br><br>„Assets abrufen, deren Lizenz nicht abgelaufen ist“<br><br>„Assets suchen, bei denen der Kampagnenname nicht festgelegt ist (die Eigenschaft muss für entsprechende Ergebnisse indiziert werden).“ |
@@ -80,7 +80,7 @@ Mit dem Coworker Chat können Sie Ihre [!DNL Experience Platform]-Daten in natü
 
 ### Inhaltsoptimierung
 
-| Anwendungsfall | Beschreibung | Kenntnisse | Anwendung | Eingabeaufforderungen |
+| Workflow | Beschreibung | Kenntnisse | Anwendung | Eingabeaufforderungen |
 | --- | --- | --- | --- | --- |
 | Erstellung hochauflösender Ausgabedarstellungen und kanaloptimierte Ausgabedarstellungen | Generieren neuer Ausgabedarstellungen eines Assets mit einer festgelegten Auflösung und Qualitätsstufe, sodass kanalbereite Varianten ohne manuelle Bearbeitung einfach vorbereitet werden können. Sie können auch Ausgabedarstellungen erstellen, die auf plattformspezifische Anforderungen zugeschnitten sind, z. B. Instagram-Stories, um sicherzustellen, dass Assets automatisch Format-, Übersetzungs- und Qualitätsrichtlinien erfüllen. | `aem-assets-content-optimisation` | Adobe Experience Manager (AEM) - AEM Assets | „Erstellen einer `2000px` Ausgabedarstellung wie `JPEG` mit `80% quality`&quot;<br><br>„Erstellen einer Ausgabedarstellung für eine Instagram-Story“ |
 | Markenüberlagerungen und Composite-Generierung | Wenden Sie Werbe-Grafiken, -Überlagerungen oder -Abzeichen auf vorhandene Assets mit präziser Platzierung an, um die schnelle Erstellung von kampagnenbereiten Composites zu unterstützen. | `aem-assets-content-optimisation` | Adobe Experience Manager (AEM) - AEM Assets | „Überlagern Sie das Bild mit `30%` Rabattgrafiken über dem Werbebanner und platzieren Sie es `100px` von der Mitte.“ |
@@ -92,7 +92,7 @@ Mit dem Coworker Chat können Sie Ihre [!DNL Experience Platform]-Daten in natü
 
 ## Marken-Governance
 
-| Anwendungsfall | Beschreibung | Skills | Anwendung | Eingabeaufforderungen |
+| Workflow | Beschreibung | Skills | Anwendung | Eingabeaufforderungen |
 | --- | --- | --- | --- | --- |
 | Richtlinie und Segmentsuche | Abrufen detaillierter Markenrichtlinien nach Segment, Markt oder Kategorie | enterprise-context | Adobe Experience Manager (AEM) | „Was sind die Klangfarben-Richtlinien für diese Marke?“<br>„Listen Sie die in der vertikalen Konsistenzprüfung verwendeten Anspruchskategorien auf.“ |
 | Bewerten von Inhalten anhand der Markenrichtlinien | Bewerten einer veröffentlichten/erstellten Seite, eines Textblocks oder eines Bildes anhand konfigurierter Markenüberprüfungen | aem-governance | Adobe Experience Manager (AEM) | „Bewerten Sie diese Landingpage anhand der SecurBank-Richtlinien<br>„Besteht dieser Slogan unsere Sprachabfrage?“ |
@@ -104,7 +104,7 @@ Mit dem Coworker Chat können Sie Ihre [!DNL Experience Platform]-Daten in natü
 
 ## Dateneinblicke
 
-| Anwendungsfall | Beschreibung | Skills | Anwendung | Eingabeaufforderungen |
+| Workflow | Beschreibung | Skills | Anwendung | Eingabeaufforderungen |
 | --- | --- | --- | --- | --- |
 | [Abrufen von CJA- und AA-Berichten und -](data-insights/analytics-chat.md) | Abfragen von CJA oder AA in Echtzeit, um Metriken, Dimensionen, Segmente, Datenansichten und Report Suites abzurufen | `cja`, `aa` | Customer Journey Analytics (CJA), Adobe Analytics (AA) | „Anzeigen der Seitenansichten für die letzten 30 Tage“ <br> „Auflisten der wichtigsten Segmente in der Stammdatenansicht“ |
 | Vergleichsanalyse | Vergleichen von Metriken über Kanäle, Zeiträume oder Segmente hinweg nebeneinander | `cja-root-cause-analysis`, `cja`, `aa-root-cause-analysis`, `aa`, `dx-api`, `knowledge-graph` | Customer Journey Analytics (CJA), Adobe Analytics (AA) | „Umsatz nach Kanal und Monat vergleichen“ <br> „Wie sieht die Konversion von Mobilgeräten und Desktops in diesem Quartal aus?“ |
@@ -120,7 +120,7 @@ Mit dem Coworker Chat können Sie Ihre [!DNL Experience Platform]-Daten in natü
 
 ## Zielgruppen
 
-| Anwendungsfall | Beschreibung | Skills | Anwendung | Eingabeaufforderungen |
+| Workflow | Beschreibung | Skills | Anwendung | Eingabeaufforderungen |
 | --- | --- | --- | --- | --- |
 | [Zielgruppen aus natürlicher Sprache erstellen](audiences/create-audience-from-natural-language.md) | Orchestrieren der schrittweisen Zielgruppenerstellung mit Benutzergenehmigung in jeder Phase | `audience-creation-flow` | Real-Time CDP (RTCDP) | „Erstellen Sie eine Zielgruppe von Benutzern, die in den letzten 30 Tagen gekauft haben“ <br> „Erstellen Sie ein Segment für hochwertige Mitglieder des Treueprogramms in Kalifornien“ |
 | Erstellen von PQL-Definitionen | Zusammenstellen von Zielgruppendefinitionen aus XDM-Eigenschaften, Verhaltensereignissen oder vorhandenen Zielgruppen; Unterstützung von Aggregation und Zeitfenstern | `segment-definition-assembly` | Real-Time CDP (RTCDP) | „Erstellen Sie eine PQL für Personen, die mehr als 3 Produkte angesehen, aber nicht gekauft haben“ <br> „Hinzufügen eines 7-Tage-Zeitfensters zu meiner Veranstaltungsbedingung“ |
@@ -132,7 +132,7 @@ Mit dem Coworker Chat können Sie Ihre [!DNL Experience Platform]-Daten in natü
 
 ## Journeys
 
-| Anwendungsfall | Beschreibung | Skills | Anwendung | Eingabeaufforderungen |
+| Workflow | Beschreibung | Skills | Anwendung | Eingabeaufforderungen |
 | --- | --- | --- | --- | --- |
 | [Erschaffe Journey aus natürlicher Sprache](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-create){target="_blank"} | Orchestrieren der Journey-Erstellung in AJO über eine Textaufforderung oder ein hochgeladenes Bild/Flussdiagramm | `journey-create` | Adobe Journey Optimizer (AJO) | „Erstellen Sie eine Begrüßungs-Journey, die nach der Anmeldung eine E-Mail sendet, 3 Tage wartet und dann eine Folgenachricht sendet“ <br> „Erstellen Sie eine Journey aus diesem hochgeladenen Flussdiagrammbild“ |
 | [Analysieren von Journey-Konflikten](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-analyze){target="_blank"} | Erkennung von Zielgruppenüberschneidungen, Terminkollisionen und Deduplizierungsproblemen zwischen aktiven Journeys | `journey-analyze-conflict` | Adobe Journey Optimizer (AJO) | „Steht mein Journey bei Warenkorbabbruch in Konflikt mit anderen Journey?“ <br> „Prüfen Sie, ob sich die Zielgruppen meiner aktiven Journey überschneiden.“ |
@@ -149,7 +149,7 @@ Mit dem Coworker Chat können Sie Ihre [!DNL Experience Platform]-Daten in natü
 ## Journey Optimizer Content-Management
 
 
-| Anwendungsfall | Beschreibung | Skills | Anwendung | Eingabeaufforderungen |
+| Workflow | Beschreibung | Skills | Anwendung | Eingabeaufforderungen |
 | --- | --- | --- | --- | --- |
 | [Anwenden der Markenführung](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/content-management/content-management-coworker-skills#ce-channel-content){target="_blank"} | Suchen, Auswählen und Anwenden genehmigter Markenrichtlinien für Kampagnensprache, Schreiben, Bilder, Terminologie und rechtliche Beratung. | `brand-lookup` | Adobe Journey Optimizer (AJO) | „Lesen Sie die Richtlinien für das Schreiben und die Darstellung unserer Acme-Marke.“ |
 | [Überprüfen der Inhaltsbereitschaft](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/content-management/content-management-coworker-skills#ce-channel-content){target="_blank"} | Überprüfen Sie die Kampagneninhalte auf Markensprache, redaktionelle Qualität, Interaktion, Klarheit und Bereitschaft. | `check-content-readiness` | Adobe Journey Optimizer (AJO) | „Ist diese E-Mail-Kopie versandbereit? Überprüfen Sie Markensprache, Klarheit, Barrierefreiheit und Konformität.“ |
@@ -169,7 +169,7 @@ Mit dem Coworker Chat können Sie Ihre [!DNL Experience Platform]-Daten in natü
 
 ## Marketing-Programme
 
-| Anwendungsfall | Beschreibung | Kenntnisse | Anwendung | Eingabeaufforderungen |
+| Workflow | Beschreibung | Kenntnisse | Anwendung | Eingabeaufforderungen |
 | --- | --- | --- | --- | --- |
 | Erstellen eines Programms | Anpassen einer vorhandenen Programmvorlage in ein neues Programm, wobei intelligente Kampagnen, Planung und Platzhalter-E-Mails aus einer einfachen Beschreibung oder einer hochgeladenen Zusammenfassung generiert werden | `build-programs` | Adobe Marketo Engage | „Erstellen Sie ein Webinar-Registrierungsprogramm für unsere August-Produktdemo“<br><br>„Erstellen Sie ein Programm, das Trigger verursacht, wenn ein Lead die Punktzahl 50 erreicht“<br><br>„Erstellen Sie eine 3-E-Mail-Rückgewinnungsserie für Leads, die 90 Tage inaktiv sind“ |
 | Ein Programm aus einer kurzen Perspektive aufrichten | Umwandeln eines einfachen oder hochgeladenen Kampagnendokuments in ein Arbeitsprogramm: Klonen Sie die am ehesten übereinstimmende Vorlage, übertragen Sie intelligente Kampagnen und Token und aktualisieren Sie die Ereignisdetails. Neue Smart-Kampagnen bleiben für Ihre Überprüfung deaktiviert | `build-programs` | Adobe Marketo Engage | „Ich veranstalte ein Webinar am 10. September in Chicago. Richten Sie das Programm für mich ein<br><br>„Richten Sie das Roadshow-Programm für den nächsten Monat aus dieser Zusammenfassung ein und aktualisieren Sie die Event-Token“ |
@@ -178,7 +178,7 @@ Mit dem Coworker Chat können Sie Ihre [!DNL Experience Platform]-Daten in natü
 
 ## Treue
 
-| Anwendungsfall | Beschreibung | Skills | Anwendung | Eingabeaufforderungen |
+| Workflow | Beschreibung | Skills | Anwendung | Eingabeaufforderungen |
 | --- | --- | --- | --- | --- |
 | [Erstellen, Bearbeiten und Verwalten von Herausforderungen im Zusammenhang mit der Treue](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/loyalty-challenges/loyalty-coworker-skills#loyalty-challenge-management){target="_blank"} | Vereinfachen und Beschleunigen der Verwaltung von Treueprogrammen | `loyalty` | Adobe Journey Optimizer (AJO) | „Erstellen Sie eine Herausforderung, die Mitglieder dazu ermutigt, ein neues saisonales Getränk auszuprobieren“ <br> „Herausforderungen bezüglich der Treue mit den höchsten Abbruchraten für Mitglieder zeigen“. |
 | [Analysieren der Leistung von Treueprogrammen](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/loyalty-challenges/loyalty-coworker-skills#loyalty-data-insight){target="_blank"} | Fragen Sie mithilfe natürlicher Sprache Treuepunkte, Mitgliedsstufen, Einlösungen und Umsatzmetriken ab und analysieren Sie sie | `loyalty-insights` | Adobe Journey Optimizer (AJO) | „Wie viele Treuepunkte wurden im August 2026 gewährt?“ <br> „Die Gesamteinnahmen des Treueprogramms aufgeschlüsselt nach Tagen im August 2026 anzeigen.“ |
@@ -193,7 +193,7 @@ Verwenden Sie den Coworker Chat, um Kampagnennachrichtenkopien und E-Mail-HTML z
 
 ### Nachrichtenkopie
 
-| Anwendungsfall | Beschreibung | Skills | Anwendung | Eingabeaufforderungen |
+| Workflow | Beschreibung | Skills | Anwendung | Eingabeaufforderungen |
 | --- | --- | --- | --- | --- |
 | [Marketing-Überblick erfassen](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/content-management/content-management-coworker-skills){target="_blank"} | Erfasst die Kampagnenstrategie und leitet den Creative Brief ein. | `capture-marketing-brief` | Adobe Journey Optimizer (AJO) | „Erstellen Sie einen Marketing-Überblick für unseren saisonalen Produktstart“ <br> „Machen Sie aus dieser Kampagnenstrategie einen Marketing-Überblick“ |
 | [Erfassen des kreativen Briefs](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/content-management/content-management-coworker-skills){target="_blank"} | Strukturiert die Ausführungsspezifikation der Kopie und erstellt die Inhaltsplanmatrix. | `capture-creative-brief` | Adobe Journey Optimizer (AJO) | „Erstellen Sie einen Kreativ-Überblick aus diesem genehmigten Marketing-Überblick“ <br> „Erstellen Sie eine Inhaltsplanmatrix für unsere E-Mail- und SMS-Kampagne“ |
@@ -208,7 +208,7 @@ Verwenden Sie den Coworker Chat, um Kampagnennachrichtenkopien und E-Mail-HTML z
 
 ### E-Mail-Design
 
-| Anwendungsfall | Beschreibung | Skills | Anwendung | Eingabeaufforderungen |
+| Workflow | Beschreibung | Skills | Anwendung | Eingabeaufforderungen |
 | --- | --- | --- | --- | --- |
 | [E-Mail erstellen](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/content-management/content-management-coworker-skills){target="_blank"} | Pläne blockieren Struktur und Stil aus einem Marketing-Ziel und Markeneingaben. | `compose-email` | Adobe Journey Optimizer (AJO) | „Planen Sie ein E-Mail-Layout für unsere Produkteinführung mithilfe unserer Markenrichtlinien“ <br> „Erstellen Sie eine Begrüßungs-E-Mail mit einem Hero-Abschnitt, Produkt-Highlights und einer call to action&quot; |
 | [E-Mail erstellen](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/content-management/content-management-coworker-skills){target="_blank"} | Erstellt, passt, bearbeitet und verfeinert E-Mail-HTML über einen Layoutplan, einen Screenshot oder einen Figma-Design-Link. | `build-email` | Adobe Journey Optimizer (AJO) | „E-Mail-HTML aus diesem genehmigten Layoutplan erstellen“ <br> „E-Mail aus diesem Figma-Design-Link erstellen“ |
@@ -226,7 +226,7 @@ Verwenden Sie den Coworker Chat, um Kampagnennachrichtenkopien und E-Mail-HTML z
 
 Verwenden Sie den Coworker Chat, um Sendungen zu finden und zu aktualisieren, Assets zu verwalten, das Datenmodell zu untersuchen und Workflows in Adobe Campaign v8 zu überprüfen, zu validieren und Fehler zu beheben.
 
-| Anwendungsfall | Beschreibung | Skills | Anwendung | Eingabeaufforderungen |
+| Workflow | Beschreibung | Skills | Anwendung | Eingabeaufforderungen |
 | --- | --- | --- | --- | --- |
 | Suchen und Überprüfen von Sendungen | Sendungen nach Name, Ordner, Kanal oder Status durchsuchen, alle Details eines Versands abrufen, einschließlich Kanalinhalt und SMTP-Konfiguration, wiederverwendbare E-Mail-Inhaltsvorlagen durchsuchen und die integrierten Versandberichte lesen | `find_delivery`, `describe_delivery`, `find_content_template`, `read_delivery_indicator` | Adobe Campaign v8 | „Suchen Sie nach E-Mail-Inhaltsvorlagen mit „Newsletter“ im Namen.“ ・ „E-Mail-Versandentwürfe anzeigen“ ・ „Wie viele Sendungen sind in diesem Monat fehlgeschlagen?“ ・ „Welchen Betreff und welchen Absender verwendet dieser Versand?“ |
 | Sendungen erstellen und aktualisieren | Erstellen Sie einen Versand oder eine Vorlage basierend auf einer Kanalvorlage und dem benannten Inhalt und bearbeiten Sie den Titel und den Nachrichteninhalt pro Kanal eines vorhandenen Versands | `create_delivery`, `update_delivery` | Adobe Campaign v8 | „Erstellen Sie eine E-Mail mit meiner Newsletter-Inhaltsvorlage.“ ・ „Ändern Sie den Betreff der E-Mail zur Sommereinführung.“ ・ &quot;HTML-Inhalt dieses Versands ersetzen.“ |
@@ -249,7 +249,7 @@ Verwenden Sie den Kollegen-Chat, um Experimente zu durchsuchen, zu analysieren u
 
 ### Experimentanalyse und -strategie
 
-| Anwendungsfall | Beschreibung | Skills | Anwendung | Eingabeaufforderungen |
+| Workflow | Beschreibung | Skills | Anwendung | Eingabeaufforderungen |
 | --- | --- | --- | --- | --- |
 | Durchsuchen und Erkunden von Experimenten | Experimentübersichten, Listen, Zählungen, Rohergebnisse, Einblicke und Opportunities nachschlagen | `experiment-explorer` | Adobe Target/Adobe Journey Optimizer | „Meine Experimente anzeigen“ ・ „Aktive Tests auflisten“ ・ „Wie viele Experimente werden ausgeführt?“ |
 | Analysieren der Experimentleistung | Abrufen von Portfolio-Zusammenfassungen, Konsistenzprüfungen für einzelne Experimente, Kurzbeschreibungen für Führungskräfte und experimentübergreifenden Berichten mit Metriken, optional angereichert mit CJA-Daten | `experiment-analysis` | Adobe Target/Adobe Journey Optimizer | „Wie entwickeln sich meine A/B-Tests?“ ・ „Erstellen eines Berichts für meine Aktivitäten mit CJA-Metriken“ ・ „Funktioniert dieser Test?“ |
@@ -258,7 +258,7 @@ Verwenden Sie den Kollegen-Chat, um Experimente zu durchsuchen, zu analysieren u
 
 ### Targeting von Aktivitäten und Audiences
 
-| Anwendungsfall | Beschreibung | Skills | Anwendung | Eingabeaufforderungen |
+| Workflow | Beschreibung | Skills | Anwendung | Eingabeaufforderungen |
 | --- | --- | --- | --- | --- |
 | Durchsuchen von Zielentitäten | Erkennen, Überprüfen und Zählen von Aktivitäten, Angeboten, Zielgruppen, Mboxes, Eigenschaften, Arbeitsbereichen, AT.js-Konfiguration, Antwort-Token und Überarbeitungsverlauf. Sie können auch einen Screenshot der erzwungenen Erlebnisse einer Aktivität aufnehmen | `target-browse` | Adobe Target | „Listen Sie meine A/B-Tests auf“ ・ „Wie viele Aktivitäten wurden in diesem Monat gestartet?“ ・ „Details zur 12345 anzeigen“ |
 | Analysieren der Aktivitätsleistung | Ermitteln Sie Konversionsraten, Steigerung, Konfidenzintervalle, Umsatz und Anzahl der Risiken für eine einzelne Aktivität. Gibt nur Fakten an und erklärt nie den Gewinner | `target-analyze` | Adobe Target | „Wie funktioniert Activity X?“ ・ „Zeige mir die Konversionssteigerung“ ・ „Was ist die AOV für den Checkout-Test?“ |
@@ -274,7 +274,7 @@ Verwenden Sie den Kollegen-Chat, um Experimente zu durchsuchen, zu analysieren u
 
 ### Recommendations
 
-| Anwendungsfall | Beschreibung | Skills | Anwendung | Eingabeaufforderungen |
+| Workflow | Beschreibung | Skills | Anwendung | Eingabeaufforderungen |
 | --- | --- | --- | --- | --- |
 | Recommendations-Entitäten durchsuchen | Durchsuchen und untersuchen Sie Recommendations-Kriterien, Sammlungen, Designs, Promotions, Ausschlüsse, Kataloge und Feeds sowie Bereinigungsratschläge und Anleitungen für Katalogattribute | `target-recs` | Adobe Target | „Meine Recommendations-Kriterien auflisten“ ・ „Welche Designs habe ich?“ ・ „Welche Recs können wir bereinigen?“ |
 | Diagnostizieren von Recommendations-Problemen | Verfolgen Sie die Aktivitäts-, Kriterien-, Feed-, Sammlungs- und Design-Kette, um zu erklären, warum Recommendations leer sind, veraltet sind oder nicht angezeigt werden | `target-recs-diagnose` | Adobe Target | „Warum sind meine Empfehlungen leer?“ ・ „Warum war meine Recs-Aktivität 48 Stunden lang „Ergebnisse noch nicht bereit“?“ |
@@ -282,7 +282,7 @@ Verwenden Sie den Kollegen-Chat, um Experimente zu durchsuchen, zu analysieren u
 
 ## Grundlegende Elemente
 
-| Anwendungsfall | Beschreibung | Skills | Anwendung | Eingabeaufforderungen |
+| Workflow | Beschreibung | Skills | Anwendung | Eingabeaufforderungen |
 | --- | --- | --- | --- | --- |
 | Produktkenntnisse und Dokumentation | Antworten auf Fragen zu Anleitungen, Konzepten, Fehlerbehebung und Best Practices aus offiziellen Adobe-Dokumenten | `product-knowledge` | Alle infrage kommenden Anträge | „Wie richte ich ein Streaming-Ziel ein?“ <br> „Was ist der Unterschied zwischen Batch- und Streaming-Segmentierung?“ |
 | Abfragen von Experience Platform-/Journey Optimizer-Entitäten | Dient als primärer Einstiegspunkt für Fragen zu Ihren Platform-Entitäten; Route zu KG, Felderkennung oder APIs nach Bedarf | `operational-insights` | Alle infrage kommenden Anträge | „Wie viele Datensätze habe ich?“ <br> „Alle aktiven Journey anzeigen“ <br> „Meine Ziele auflisten“ |
@@ -296,20 +296,20 @@ Verwenden Sie den Kollegen-Chat, um Experimente zu durchsuchen, zu analysieren u
 
 ## Daten-Management
 
-| Anwendungsfall | Beschreibung | Skills | Anwendung | Eingabeaufforderungen |
+| Workflow | Beschreibung | Skills | Anwendung | Eingabeaufforderungen |
 | --- | --- | --- | --- | --- |
 | [Finden Sie Daten, die optimiert oder bereinigt werden sollten](./data-management/manage-data-lake-retention.md#find-data-worth-optimizing) | Erfahren Sie, ob Ihre Erlebnisereignisdaten optimiert werden können, indem Sie Ihre größten, am wenigsten verwendeten oder vergessenen Datensätze als Kandidaten für eine Bereinigung oder eine Data-Lake-Aufbewahrungsrichtlinie einblenden | `List datasets` | Adobe Experience Platform | „Ich habe das Gefühl, dass meine Daten optimiert werden können“ <br> „Helfen Sie mir, den Wert meiner Daten zu verstehen“ <br> „Optimieren meiner Sandbox-Daten“ <br> „Bereinigen meiner Sandbox-Datensätze“ |
 | [Untersuchung der Nutzung und Verwaltung der Aufbewahrung eines Datensatzes](./data-management/manage-data-lake-retention.md#check-how-actively-a-dataset-is-used) | Wenn Sie einen Datensatz gefunden haben, der einen genaueren Blick wert ist, finden Sie heraus, wie aktiv er verwendet wird. Modellieren Sie die Auswirkungen einer potenziellen Data Lake-Aufbewahrungsrichtlinie und legen Sie diese Richtlinie fest, ändern oder entfernen Sie sie, wenn Sie bereit sind, mit Ihrer Überprüfung und Genehmigung, bevor sich etwas ändert | `Analyze dataset usage`, `Analyze dataset retention`, `Manage dataset retention` | Adobe Experience Platform | „Wie aktiv wird mein Web-Ereignis-Datensatz verwendet?“ <br> „Was wären die Auswirkungen, wenn ich für diesen Datensatz eine Aufbewahrungsfrist von 60 Tagen festlegen würde?“ |
 
 ## Sandbox-Werkzeuge
 
-| Anwendungsfall | Beschreibung | Skills | Anwendung | Eingabeaufforderungen |
+| Workflow | Beschreibung | Skills | Anwendung | Eingabeaufforderungen |
 | --- | --- | --- | --- | --- |
 | [Objekte über Sandboxes hinweg verschieben](/help/chat/use-cases/sandbox-tooling/sandbox-tooling.md) | Nahtlose Migration von Schemas, Zielgruppen und anderen Objektkonfigurationen über Sandboxes hinweg, wobei Abhängigkeiten automatisch aufgelöst werden | `sandbox-tooling-workflow` | Adobe Experience Platform | „Verschieben des Schemas Luma Loyalty Members Platinum von der aktuellen Sandbox in die Produktions-Sandbox“ <br> „Heraufstufen der Zielgruppe der US-Gold-Loyalty Members zur Staging-Umgebung“ |
 
 ## Warnhinweise für Kunden
 
-| Anwendungsfall | Beschreibung | Skills | Anwendung | Eingabeaufforderungen |
+| Workflow | Beschreibung | Skills | Anwendung | Eingabeaufforderungen |
 | --- | --- | --- | --- | --- |
 | Verwalten von Warnhinweis-Abonnements | Anzeigen und Verwalten von Warnhinweis-Abonnements über Konversationen in natürlicher Sprache. | `alerts-subscribe` | Adobe Experience Platform | „Welche Warnhinweise habe ich abonniert?“<br><br>„Melde mich für diesen Warnhinweis an.“<br><br>„Entfernen Sie mein Abonnement für diesen Warnhinweis.“ |
 | Warnungsaktivität überprüfen | Überprüfen des aktuellen Warnhinweisstatus und der historischen Warnhinweisaktivität für einen bestimmten Zeitraum. | `alerts-list` | Adobe Experience Platform | „Was ist in den letzten 24 Stunden passiert?“<br><br>„Welche Warnhinweise wurden in den letzten 24 Stunden ausgelöst?“<br><br>„Anzeigen aktiver Warnhinweise aus den letzten sieben Tagen.“ |
@@ -321,7 +321,7 @@ Verwenden Sie den Kollegen-Chat, um Experimente zu durchsuchen, zu analysieren u
 
 ## Workflow und Planung
 
-| Anwendungsfall | Beschreibung | Skills | Anwendung | Eingabeaufforderungen |
+| Workflow | Beschreibung | Skills | Anwendung | Eingabeaufforderungen |
 | --- | --- | --- | --- | --- |
 | Verwalten von Planning Workspace | Erstellen und entwickeln Sie Workfront Planning-Arbeitsbereiche, Abschnitte, Datensatztypen und Felder, um Programme zu organisieren und die Arbeit zu verfolgen | `manage-workfront-planning`, `wf-planning-solution-architect` | Workfront-Planung | „Erstellen Sie einen Arbeitsbereich mit dem Namen MKG Hub und richten Sie Datensatztypen ein, um Programme nach Region zu verfolgen“ <br> „Richten Sie die Datensatztypen und Beziehungen ein, die zum Tracking von MKG-Programmen über Kanäle und Regionen hinweg erforderlich sind“ |
 | Verwalten von Planungsdatensätzen | Erstellen und Aktualisieren von Planungsdatensätzen (Kampagnen, Briefs) und deren Feldwerten in einem Arbeitsbereich | `manage-workfront-planning` | Workfront-Planung | „Erstellen Sie einen Überblick für die Herbst-Brand Launch-Kampagne mit den Zielen, der Zielgruppe und den wichtigsten Botschaften“ <br> „Aktualisieren Sie den Herbst-Brand Launch-Überblick mit dem Budget und den primären Kanälen“ |
