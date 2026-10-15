@@ -1,6 +1,6 @@
 ---
-description: Ein Referenzhandbuch für die Coworker Chat-Oberfläche, das die Navigation, das Eingabefeld, Antworten, den Chat-Verlauf und die Konfiguration von Kenntnissen, MCP-Servern und Speicher behandelt.
-title: Handbuch zur Benutzeroberfläche für den Chat mit Kollegen
+description: Erfahren Sie, wie Sie den Coworker Chat öffnen, Ihre Organisation und Sandbox einrichten, Ihre erste Nachricht senden und Fähigkeiten, MCP-Server und Speicher anpassen. Starten Sie eine Unterhaltung in Minuten.
+title: Erste Schritte mit dem Coworker Chat
 jira: KT-22106
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
@@ -8,242 +8,258 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 12ee914ed944c82694b9373f611e19cf040e2229
+source-git-commit: 216699c5b1bd34ffea0884083599fb51609762d1
 workflow-type: tm+mt
-source-wordcount: '1719'
-ht-degree: 4%
+source-wordcount: '1799'
+ht-degree: 2%
 ---
-# Handbuch für die -Benutzeroberfläche {#ui-guide}
+# Erste Schritte mit dem Coworker Chat {#ui-guide}
 
-Orientieren Sie sich an der Oberfläche des Coworker Chat . In diesem Handbuch wird alles behandelt, vom Zugriff auf die App und der Navigation im Arbeitsbereich bis hin zur optimalen Nutzung von Unterhaltungen, der Verwaltung des Verlaufs und der Anpassung des Setups.
+Mit dem Coworker Chat können Sie mit Ihren Adobe CX Enterprise-Daten und -Tools arbeiten, indem Sie in einfacher Sprache nachfragen, was Sie benötigen. Verwenden Sie diese Seite, um den Coworker Chat zu öffnen, Ihre erste Nachricht zu senden und Ihre Arbeitsweise einzurichten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3498574?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
 
-## Zugriff auf Coworker Chat
+## Verfügbarkeit
 
-Wenn Ihr Unternehmen Zugriff auf Kollegen erhält, können Sie seine Funktionen entweder über das immersive Erlebnis oder über ein produktinternes Erlebnis nutzen.
+Der Coworker Chat ist als interaktives Erlebnis, als ganzseitiger Arbeitsbereich und als produktinternes Erlebnis in einigen CX Enterprise-Programmen verfügbar. Um das produktinterne Erlebnis zu öffnen, klicken Sie auf das Symbol „Mitarbeiter![Symbol &quot;](./assets/icon-coworker.png)&quot; oben rechts in der Anwendung.
 
->[!NOTE]
->
->Auf das produktinterne Erlebnis kann über das Symbol „Mitarbeiter![&#x200B; (Symbol „Mitarbeiter](./assets/icon-coworker.png) oben rechts zugegriffen werden. Die Details des immersiven Erlebnisses sind [&#x200B; unten beschrieben](#immersive).
+Die folgende Tabelle zeigt, wo die einzelnen Erlebnisse verfügbar sind.
 
-In der folgenden Tabelle wird erfasst, wann diese Erlebnisse für jedes CX Enterprise-Programm verfügbar sein werden.
-
-| CX Enterprise-Anwendung | immersives Erlebnis | Produkterlebnis |
+| CX Enterprise-Anwendung | Immersive Erfahrung | Produktinternes Erlebnis |
 |---|---|---|
-| RTCDP | Jetzt verfügbar | Bald verfügbar |
-| AJO | Jetzt verfügbar | Bald verfügbar |
-| CJA | Jetzt verfügbar | Bald verfügbar |
+| Real-Time CDP | Jetzt verfügbar | Demnächst |
+| Adobe Journey Optimizer | Jetzt verfügbar | Demnächst |
+| Customer Journey Analytics | Jetzt verfügbar | Demnächst |
 | Workfront | Jetzt verfügbar | Bald verfügbar:<br><br>* Anfang September 2026 in der Vorschauinstanz für ausgewählte geeignete Workfront-Systemadministratoren<br><br>* Mitte September 2026 in der Produktionsinstanz für geeignete Kunden von Workfront mit Schnellveröffentlichung<br><br>* Mitte Oktober 2026 in der Produktionsinstanz für geeignete Kunden von Workfront mit vierteljährlicher Veröffentlichung |
 | Target | Jetzt verfügbar | Jetzt verfügbar |
 | AEM | Jetzt verfügbar | Jetzt verfügbar |
-| Marketo Engage | Jetzt verfügbar | Bald verfügbar |
+| Marketo Engage | Jetzt verfügbar | Demnächst |
 
-### immersives Erlebnis {#immersive}
+## Kolleg-Chat öffnen {#immersive}
 
-Greifen Sie auf den Coworker Chat zu, indem Sie zu [https://experience.adobe.com/#/coworker](https://experience.adobe.com/#/coworker) navigieren und sich mit Ihren Adobe-Anmeldeinformationen anmelden.
+Um das immersive Erlebnis zu nutzen, melden Sie sich mit Ihren Adobe-Anmeldeinformationen an. Sie können sie über einen direkten Link oder in CX Enterprise öffnen.
 
-Sie können auch darauf zugreifen, indem Sie **Mitarbeiter** aus der Programmauswahl in der oberen Kopfzeile von CX Enterprise auswählen.
+1. Navigieren Sie zu [https://experience.adobe.com/#/coworker](https://experience.adobe.com/#/coworker).
+1. Melden Sie sich mit Ihrer Adobe ID an.
 
-![Zugriff auf den -Mitarbeiter über den CX Enterprise-Anwendungsselektor](./assets/ui-guide-1.png)
+Klicken Sie alternativ in **[!UICONTROL Anwendungsauswahl in der Kopfzeile von CX Enterprise auf &quot;]**&quot;.
 
-## Organisation und Sandbox auswählen
+![Mitarbeiter in der CX Enterprise-Anwendungsauswahl](./assets/ui-guide-1.png)
 
-Ihr aktueller Kontext wird unten in der linken Navigationsleiste unter Ihrem Namen und Profilbild angezeigt. Der Kontext bestimmt, welche Daten, Fähigkeiten und verbundenen Tools eine Konversation erreichen kann. Bestätigen Sie dies also, bevor Sie beginnen.
+## Festlegen des Kontexts
 
-Wählen Sie Ihren Namen aus, um das Kontomenü zu öffnen, in dem Sie den Kontext wechseln und die Workspace-Einstellungen ändern können:
+Ihre Organisation und Sandbox bestimmen, welche Daten, Fähigkeiten und verbundenen Tools eine Konversation erreichen kann. Überprüfen Sie sie, bevor Sie beginnen. Der aktuelle Kontext wird unten in der linken Navigationsleiste unter Ihrem Namen angezeigt.
 
-| Element der Benutzeroberfläche | Beschreibung |
+So ändern Sie den Kontext:
+
+1. Klicken Sie unten in der Navigationsleiste auf Ihren Namen, um das Kontomenü zu öffnen.
+1. Klicken Sie **[!UICONTROL Organisation]** und wählen Sie die IMS-Organisation aus, in der Sie arbeiten möchten.
+
+   ![Das Kontomenü bei geöffneter Organisationsauswahl](./assets/ui-guide-2.png)
+
+1. Klicken Sie auf **[!UICONTROL Sandbox]** und wählen Sie die AEP-Sandbox aus, in der Sie arbeiten möchten.
+
+   ![Das Kontomenü mit geöffneter Sandbox-Auswahl](./assets/ui-guide-3.png)
+
+Das Kontomenü enthält außerdem die folgenden Optionen:
+
+| Option | Verwenden Sie ihn, um |
 | --- | --- |
-| Thema | Schnittstellendesign zwischen Hell und Dunkel umschalten. |
-| Einstellungen | Öffnen Sie Workspace-Einstellungen , um Details zu Ihrem Konto und anderen Einstellungen anzuzeigen. |
-| Organisationsauswahl | Wechseln Sie zwischen den IMS-Organisations-Workern, für die ausgeführt wird. |
-| Sandbox-Auswahl | Wechseln Sie zur aktiven AEP-Sandbox. |
-| CX-Anwendungen | Wechseln Sie zu einer anderen mit Ihrem Konto verbundenen CX Enterprise-Anwendung. |
-| Abmelden | Melden Sie sich von Ihrem Adobe-Konto ab. |
+| **[!UICONTROL Design]** | Wechseln Sie zwischen den hellen und dunklen Designs. |
+| **[!UICONTROL Einstellungen]** | Anzeigen von Kontodetails und Arbeitsbereich-Einstellungen. |
+| **[!UICONTROL CX-Anwendungen]** | Wechseln Sie zu einer anderen mit Ihrem Konto verbundenen CX Enterprise-Anwendung. |
+| **[!UICONTROL Abmelden]** | Melden Sie sich von Ihrem Adobe-Konto ab. |
 
-![Das Kontomenü bei geöffneter Organisationsauswahl](./assets/ui-guide-2.png)
+## Finden Sie sich zurecht
 
-![Das Kontomenü mit geöffneter Sandbox-Auswahl](./assets/ui-guide-3.png)
-
-## Navigieren in der Benutzeroberfläche
-
-Die CX Coworker-Benutzeroberfläche umfasst zwei Hauptbereiche: die Navigationsleiste auf der linken Seite und die Unterhaltungsarbeitsfläche, die den Rest des Fensters ausfüllt.
+Der Arbeitsbereich umfasst zwei Bereiche: die Navigationsleiste auf der linken Seite und die Unterhaltungs-Arbeitsfläche, die den Rest des Fensters ausfüllt.
 
 ![Der Startbildschirm](./assets/ui-guide-4.png)
 
-## Die Navigationsleiste
+Verwenden Sie die Navigationsleiste, um zwischen den Teilen des Produkts zu wechseln und zur letzten Arbeit zurückzukehren.
 
-Über die Leiste haben Sie Zugriff auf alle Teile des Produkts und auf Ihre aktuellen Arbeiten.
-
-| Element der Benutzeroberfläche | Beschreibung |
+| Option | Verwenden Sie ihn, um |
 | --- | --- |
-| Neuer Chat | Beginne eine neue Unterhaltung. Ihr aktueller Chat wird im Verlauf gespeichert. |
-| Startseite | Kehren Sie zur Begrüßung, zum Eingabefeld und zu den empfohlenen Eingabeaufforderungen zurück. |
-| Chats | Öffnen Sie den vollständigen Chatverlauf, um Konversationen zu suchen, anzuheften, zu archivieren oder zu löschen. |
-| Konfigurationen | Kenntnisse, MCP-Server, Marketplaces, Plug-ins und Speicher verwalten |
-| angeheftet | Gespräche, die Sie begonnen haben, befinden sich immer oben, um schnell darauf zugreifen zu können. Wählen Sie Alle anzeigen aus, um sie auf der Seite „Chats“ anzuzeigen. |
-| Zuletzt ausgewertet | Ihre letzten Gespräche. Wählen Sie Alle anzeigen aus, um die Seite „Chats“ zu öffnen. |
+| **[!UICONTROL Neuer Chat]** | Beginnen Sie ein Gespräch. Coworker Chat speichert Ihren aktuellen Chat in Ihrem Verlauf. |
+| **[!UICONTROL Startseite]** | Kehren Sie zur Begrüßung, zum Eingabefeld und zu den vorgeschlagenen Eingabeaufforderungen zurück. |
+| **[!UICONTROL Chats]** | Vergangene Unterhaltungen suchen, anheften, archivieren oder löschen. |
+| **[!UICONTROL Konfigurationen]** | Kenntnisse, MCP-Server, Marketplaces, Plug-ins und Speicher verwalten |
+| **[!UICONTROL angeheftet]** | Offene Unterhaltungen, die Sie gestartet haben. Klicken Sie **[!UICONTROL Alle anzeigen]**, um sie auf der Seite „Chats“ anzuzeigen. |
+| **[!UICONTROL Zuletzt verwendet]** | Öffnen Sie Ihre neuesten Unterhaltungen. Klicken Sie **[!UICONTROL Alle anzeigen]**, um die Seite „Chats“ zu öffnen. |
 
-## Der Startbildschirm
+## Erste Nachricht senden
 
-Der Startbildschirm ist der Ort, an dem Sie beginnen. Es zeigt eine personalisierte Begrüßung, das Eingabefeld und eine Reihe von empfohlenen Eingabeaufforderungen, die aus dem Coworker Chat entnommen wurden, um Ihnen in Ihrer Sandbox zu helfen.
+Auf dem Startbildschirm werden eine Begrüßung, das Eingabefeld und empfohlene Eingabeaufforderungen angezeigt, die darauf basieren, was der Coworker Chat in Ihrer Sandbox tun kann. Sie können mit einem Vorschlag beginnen oder Ihre eigene Nachricht schreiben.
 
-### Empfohlene Eingabeaufforderungen
+So senden Sie eine Nachricht:
 
-Unter Empfohlen für Sie listet CX Coworker Beispielaufgaben auf. Wählen Sie einen Vorschlag aus, um ihn in das Eingabefeld zu laden, und bearbeiten Sie ihn dann, bevor Sie ihn senden oder unverändert senden. Vorschläge sind eine schnelle Möglichkeit, die von Coworker Chat unterstützten Arten von Arbeit zu sehen: Verschieben von Schemas zwischen Sandboxes, Auffinden von Anomalien in einer Journey, Validieren eines Datensatzes und mehr.
+1. Klicken Sie **[!UICONTROL der Navigationsleiste auf]** Startseite“.
+1. Führen Sie einen der folgenden Schritte aus:
 
-### Erwähnungen der Entität
+   * Wählen Sie eine Eingabeaufforderung unter **[!UICONTROL Empfohlen für Sie]** aus. Der Coworker Chat fügt es in das Eingabefeld ein, wo Sie es bearbeiten können.
+   * Geben Sie Ihre eigene Anfrage in das Feld **[!UICONTROL Mitarbeiter nach]** fragen“ ein.
 
-Empfohlene Eingabeaufforderungen und Ihre eigenen Nachrichten können mithilfe von Entitätsbeschriftungen wie +[schema], +[Journey] und +[dataset] auf bestimmte Objekte in Ihrer Sandbox verweisen. Eine Erwähnung einer Entität teilt Coworker Chat genau mit, welches Objekt Sie meinen, sodass Sie Ihre eigenen Erwähnungen hinzufügen können, indem Sie **+** eingeben.
-
-## Das Eingabefeld für den Chat
-
-Im Eingabefeld (mit der Beschriftung &#39;Alle Fragen an Kollegen&#39;) geben Sie Folgendes ein. Unter dem Textfeld befindet sich eine Symbolleiste für Anhänge, Antwortverhalten, Spracheingabe und Senden.
-
-| Element der Benutzeroberfläche | Beschreibung |
-| --- | --- |
-| + (Anhängen) | Öffnen Sie das Menü Anhängen , um der Nachricht eine Datei oder ein Datenobjekt hinzuzufügen. |
-| Planmodus | Bitten Sie den Coworker Chat, einen schrittweisen Plan vorzuschlagen und eine Pause zur Genehmigung einzulegen, bevor er aktiv wird. Schalten Sie sie aus, damit Coworker Chat direkt agieren kann. |
-| Transkriptansicht | Legen Sie fest, wie viel von der internen Aktivität des Kollegen-Chats angezeigt wird: Normal, Fokus oder Verbose. |
-| Mikrofon | Diktieren Sie Ihre Nachricht mit Spracheingabe. Zur Stoppung der Aufzeichnung erneut wählen. |
-| Senden | Senden Sie die Nachricht. Während der Coworker Chat reagiert, wird dies zu einem Stopp-Steuerelement, das Sie verwenden können, um zu unterbrechen. |
-
-### Anhängen von Dateien und Daten
-
-Wählen Sie + aus, um Kontext an Ihre Nachricht anzuhängen:
-
-- Datei anhängen: Laden Sie eine Datei hoch, die ein Mitarbeiter-Chat lesen und in seiner Antwort referenzieren kann.
-- Daten oder Objekt hinzufügen: Referenzieren Sie ein Objekt aus Ihrer Sandbox, z. B. einen Datensatz oder ein Schema, sodass der Coworker Chat mit Ihren Live-Daten funktioniert.
-
-![Das Menü Anhängen](./assets/ui-guide-5.png)
-
-### Planmodus
-
-Aktivieren Sie den Planmodus, wenn eine Aufgabe komplex ist oder Daten ändert und Sie den Ansatz zuerst überprüfen möchten. Coworker Chat antwortet mit einem Plan und wartet auf Ihre Genehmigung, bevor Sie ihn ausführen. Wenn der Planmodus deaktiviert ist, fährt der Coworker Chat direkt mit der Arbeit fort.
-
-![Planmodus in der Symbolleiste „Eingabe“ aktiviert](./assets/ui-guide-6.png)
-
-### Transkriptansicht
-
-Die Transkript-Ansicht legt fest, wie viel von der Logik und der Tool-Aktivität des Kollegen-Chats in der Konversation inline angezeigt wird:
-
-| Element der Benutzeroberfläche | Beschreibung |
-| --- | --- |
-| Normal | Ausgewogene Sicht: Wichtige Denkschritte und Tool-Aktivitäten werden zusammengefasst. |
-| Focus | Eine vereinfachte Ansicht, die die meisten Zwischenschritte ausblendet, sodass Sie hauptsächlich die Antwort sehen. |
-| Verbose | Das ganze Detail: jeder denkende Schritt, jede Fähigkeit laden, Datei lesen und Abfrage. |
-
-![Auswählen einer Transkriptansicht](./assets/ui-guide-7.png)
-
-## Arbeiten mit Antworten
-
-Wenn Sie eine Nachricht senden, durchläuft der Coworker Chat die Aufgabe im Offenen und gibt dann seine Antwort zurück. Eine Antwort kann Argumentation, eine Aufzeichnung der verwendeten Tools und ein oder mehrere Artefakte enthalten.
-
-![Eine Antwort wird ausgeführt](./assets/ui-guide-8.png)
-
-### Denken und Handeln
-
-Während er funktioniert, zeigt der Coworker Chat, was er tut, damit Sie seinem Prozess folgen (und ihn überprüfen) können:
-
-- Denkblöcke: ausblendbare Schritte mit der Beschriftung „Gedacht für“, gefolgt von der Anzahl der Sekunden (oder Millisekunden). Erweitern Sie eins, um die Argumentation des Kollegen-Chats zu lesen.
-- Qualifikationsaktivität: Einträge wie „Geladene Qualifikation“ zeigen, welche spezialisierte Funktion Coworker Chat für die Aufgabe eingebracht hat.
-- Datei- und Abfrageaktivität: Einträge wie „Datei lesen“ und „1 Abfrage ausführen“ zeichnen die Dateien, die der Coworker Chat gelesen hat, und die ausgeführten Abfragen auf, jeweils mit der Dauer.
+1. (Optional) Fügen Sie einen Kontext hinzu, wählen Sie aus, wie der Coworker Chat antwortet, oder diktieren Sie Ihre Nachricht. Siehe [Kontext hinzufügen und einen Antwortstil ](#input-options).
+1. Klicken Sie auf **[!UICONTROL Senden]**.
 
 >[!TIP]
 >
->Verwenden Sie die ausführliche Transkriptansicht, um jeden Schritt anzuzeigen, oder den Fokus, um ihn auszublenden.
+>Vorgeschlagene Eingabeaufforderungen zeigen die Arten von Aufgaben an, die von Coworker Chat unterstützt werden, z. B. das Verschieben von Schemas zwischen Sandboxes, das Suchen von Anomalien in einem Journey und das Validieren eines Datensatzes.
 
-### Artefakte
+Um auf ein bestimmtes Objekt in Ihrer Sandbox zu verweisen, geben Sie **+** in das Eingabefeld ein und klicken Sie auf ein Schema, einen Journey, einen Datensatz oder ein anderes Objekt. Dies wird als Erwähnung einer Entität bezeichnet. Es sagt Coworker Chat genau, welches Objekt Sie meinen.
 
-Ergebnisse, die vom Coworker Chat erzeugt werden (z. B. eine Tabelle von Zielgruppen), werden als Artefaktkarten innerhalb der Antwort angezeigt. Von einer Artefaktkarte können Sie Tabellenartefakte als CSV-Datei herunterladen. Wenn eine Antwort mehrere Artefakte enthält, verwenden Sie die Karussellsteuerelemente (Zurück / Weiter und die Anzahl, z. B. 1 / 1), um zwischen ihnen zu wechseln.
+## Kontext hinzufügen und Antwortstil wählen {#input-options}
 
-### Analyse lesen
+Die Symbolleiste unter dem Eingabefeld steuert, was Sie anhängen, wie der Coworker Chat sich der Aufgabe nähert und wie viel von ihrer Arbeit Sie sehen.
 
-Unter den Artefakten fasst der Coworker Chat die Ergebnisse zusammen, hebt bemerkenswerte Ergebnisse hervor und schlägt mögliche Folgemaßnahmen vor.
+| Kontrollvariante | Verwenden Sie ihn, um |
+| --- | --- |
+| **[!UICONTROL +]** (Anhängen) | Fügen Sie Ihrer Nachricht eine Datei oder ein Sandbox-Objekt hinzu. |
+| **[!UICONTROL Planmodus]** | Lesen Sie einen schrittweisen Plan, bevor Sie im Coworker Chat agieren. |
+| **[!UICONTROL Transkriptansicht]** | Wählen Sie aus, wie viel von der Aktivität des Coworker Chats Sie sehen. |
+| **[!UICONTROL Mikrofon]** | Diktieren Sie Ihre Nachricht. Zum Stoppen der Aufzeichnung erneut klicken. |
+| **[!UICONTROL Senden]** | Senden Sie Ihre Nachricht. Während der Coworker Chat antwortet, wird dieses Steuerelement zu **[!UICONTROL Stopp]**, was die Antwort unterbricht. |
 
-![Eine abgeschlossene Antwort mit Artefakttabelle und Zusammenfassung](./assets/ui-guide-9.png)
+### Datei oder Objekt anhängen
 
-### Feedback geben und Antworten kopieren
+Hängen Sie eine Datei oder ein Objekt an, wenn der Coworker Chat weitere Informationen benötigt, um die Arbeit zu erledigen.
 
-Jede Antwort verfügt über Steuerelemente zum Bewerten und Wiederverwenden:
+1. Klicken Sie im Eingabefeld auf **[!UICONTROL +]**.
+1. Klicken Sie auf eine der folgenden Optionen:
 
-- Daumen hoch / Daumen runter : Bewerten Sie die Antwort, um zukünftige Antworten zu verbessern.
-- Kopieren: Kopieren Sie die Antwort mit Als Markdown kopieren (behält die Formatierung bei) oder Als Nur-Text kopieren .
+   * **[!UICONTROL Datei anhängen]**: Laden Sie eine Datei für den Coworker Chat hoch, um sie zu lesen und zu referenzieren.
+   * **[!UICONTROL Daten oder Objekt hinzufügen]**: Referenzieren Sie ein Objekt in Ihrer Sandbox, z. B. einen Datensatz oder ein Schema, sodass der Coworker Chat mit Ihren Live-Daten funktioniert.
+
+![Das Menü Anhängen](./assets/ui-guide-5.png)
+
+### Prüfen eines Plans vor der Durchführung von Coworker Chat-Aktionen
+
+Verwenden Sie den Planmodus für komplexe Aufgaben oder Aufgaben, die Daten ändern. Wenn der Planmodus aktiviert ist, schlägt der Coworker Chat einen Plan vor und wartet auf Ihre Genehmigung, bevor er ausgeführt wird. Wenn der Planmodus deaktiviert ist, beginnt der Coworker Chat sofort mit der Arbeit.
+
+1. Klicken Sie **[!UICONTROL Planmodus]** in der Symbolleiste „Eingabe“, um sie zu aktivieren.
+1. Senden Sie Ihre Nachricht.
+1. Prüfen Sie den Plan und genehmigen Sie ihn, um fortzufahren.
+
+![Planmodus in der Symbolleiste „Eingabe“ aktiviert](./assets/ui-guide-6.png)
+
+### Transkriptansicht auswählen
+
+Die Transkript-Ansicht steuert, wie viel von der Logik und der Tool-Aktivität des Kollegen-Chats in der Konversation angezeigt wird.
+
+1. Klicken Sie **[!UICONTROL der Symbolleiste &quot;]**&quot; auf „Transkript anzeigen“.
+1. Auf eine Ansicht klicken:
+
+   | Anzeigen | Was Sie sehen |
+   | --- | --- |
+   | **[!UICONTROL normal]** | Eine Zusammenfassung der wichtigsten Denkschritte und Tool-Aktivitäten. |
+   | **[!UICONTROL Fokus]** | Meistens die Antwort. Im Coworker Chat werden die meisten Zwischenschritte ausgeblendet. |
+   | **[!UICONTROL Verbose]** | Jeder denkende Schritt, jedes Laden von Kenntnissen, jedes Lesen von Dateien und jede Abfrage. |
+
+![Die Transkript-Ansichtsoptionen](./assets/ui-guide-7.png)
+
+## Überprüfen einer Antwort
+
+Der Coworker Chat zeigt seine Arbeit, wie sie läuft, und gibt dann eine Antwort zurück. Eine Antwort kann ihre Argumentation, eine Aufzeichnung der verwendeten Tools, Artefakte und eine Zusammenfassung enthalten.
+
+![Eine Antwort wird ausgeführt](./assets/ui-guide-8.png)
+
+### Der Aktivität folgen
+
+Während der Coworker Chat funktioniert, können Sie verfolgen und überprüfen, was er tut. Erweitern Sie einen beliebigen Eintrag, um weitere Details anzuzeigen.
+
+* **Gedacht für**: Ein zusammenklappbarer Block mit der Argumentation des Kollegen-Chats und wie lange er gedauert hat.
+* **Geladene Qualifikation**: Die spezialisierte Funktion, die im Coworker Chat für die Aufgabe verwendet wird.
+* **Datei lesen** und **1 Abfrage ausgeführt**: Die Dateien „Coworker Chat“ und die ausgeführten Abfragen mit der jeweils benötigten Zeit.
+
+>[!TIP]
+>
+>Legen Sie **[!UICONTROL Transkriptansicht]** auf **[!UICONTROL Verbose]** fest, um jeden Schritt anzuzeigen, oder auf **[!UICONTROL Focus]**, um ihn auszublenden.
+
+### Arbeiten mit Artefakten
+
+Das Kollegenchat zeigt Ergebnisse, wie eine Tabelle mit Zielgruppen, als Artefaktkarten in der Antwort an. Sie können ein Tabellenartefakt als CSV-Datei von seiner -Karte herunterladen. Wenn eine Antwort mehr als ein Artefakt enthält, verwenden Sie **[!UICONTROL Zurück]** und **[!UICONTROL Weiter]**, um zwischen ihnen zu wechseln.
+
+### Verwenden der Zusammenfassung
+
+Unter den Artefakten erklärt der Coworker Chat, was die Ergebnisse bedeuten, hebt bemerkenswerte Ergebnisse hervor und schlägt Folgemaßnahmen vor. Nutzen Sie diese Vorschläge, um das Gespräch fortzusetzen.
+
+![Eine abgeschlossene Antwort mit einer Artefakttabelle und einer Zusammenfassung](./assets/ui-guide-9.png)
+
+### Bewerten und Kopieren einer Antwort
+
+Jede Antwort enthält Steuerelemente, mit denen Sie Feedback geben oder den Inhalt wiederverwenden können.
+
+* Klicken Sie auf **[!UICONTROL Daumen hoch]** oder **[!UICONTROL Daumen runter]**, um die Antwort zu bewerten. Ihre Bewertung hilft, zukünftige Antworten zu verbessern.
+* Klicken Sie auf **[!UICONTROL Kopieren]** und wählen Sie dann **[!UICONTROL Als Markdown kopieren]**, um die Formatierung beizubehalten, oder **[!UICONTROL Als Nur-Text kopieren]**, um sie zu entfernen.
 
 ![Das Menü „Kopieren“](./assets/ui-guide-10.png)
 
 ## Chats verwalten
 
-Wählen Sie in der Navigationsleiste Chats aus, um den vollständigen Verlauf zu öffnen. Unterhaltungen sind nach Datum gruppiert, und jede Zeile zeigt den Chat-Titel und wie viele Umdrehungen er enthält.
-
-| Element der Benutzeroberfläche | Beschreibung |
-| --- | --- |
-| Nach Titel suchen | Finde ein vergangenes Gespräch mit Namen. |
-| Angeheftete anzeigen | Nur die Gespräche anzeigen, die Sie gestartet haben. |
-| Archivierte anzeigen | Zeigt archivierte Unterhaltungen an. |
-| Neuer Chat | Beginne eine neue Unterhaltung. |
-| Zeilenmenü (…) | Bei jeder Unterhaltung starten (PIN), umbenennen, archivieren oder löschen. |
+Ihr Chat-Verlauf speichert vergangene Unterhaltungen, damit Sie zu ihnen zurückkehren können. Klicken Sie **[!UICONTROL der]** auf „Chats“, um sie zu öffnen. Die Unterhaltungen sind nach Datum gruppiert, und jede Zeile zeigt den Titel und die Anzahl der Umdrehungen an.
 
 ![Die Chats-Seite](./assets/ui-guide-11.png)
 
-## Konfigurationen
+Auf der Seite „Chats“ haben Sie folgende Möglichkeiten:
 
-In den Konfigurationen können Sie anpassen, was der Coworker Chat tun kann. Es gibt fünf Registerkarten: Skills, MCP-Server, Marketplaces, Plugins und Memory.
+* Geben Sie in **[!UICONTROL Suche nach Titel]** einen Namen ein, um eine Konversation zu finden.
+* Klicken Sie **[!UICONTROL Angeheftet anzeigen]**, um nur die von Ihnen gestarteten Konversationen anzuzeigen.
+* Klicken Sie **[!UICONTROL Archivierte anzeigen]**, um archivierte Konversationen anzuzeigen.
+* Klicken Sie **[!UICONTROL Neuer Chat]**, um ein Gespräch zu beginnen.
 
-### Skills
+Um eine Konversation anzuheften, umzubenennen, zu archivieren oder zu löschen, klicken Sie auf das Zeilenmenü (**[!UICONTROL …]**) in der entsprechenden Zeile und wählen Sie eine Option aus.
 
-Kenntnisse sind spezialisierte Funktionen, die Coworker Chat automatisch aufruft, wenn sie relevant sind, oder die Sie selbst durch Eingabe von / im Chat Trigger machen können. Auf der Registerkarte Skills werden alle installierten Skills aufgelistet und Sie können weitere hinzufügen.
+## Kollegen-Chat anpassen
 
-- Source hinzufügen: Kenntnisse aus einer neuen Quelle installieren.
-- Suche: Suche nach einer Qualifikation anhand des Namens.
-- Ansicht ändern: Wechseln zwischen Raster- und Listen-Layouts mithilfe des Umschalters Ansicht .
+In den Konfigurationen können Sie steuern, was der Coworker Chat tun kann. Klicken Sie in **[!UICONTROL Navigationsleiste auf]** Konfigurationen“ und wählen Sie dann eine Registerkarte aus: **[!UICONTROL Kenntnisse]**, **[!UICONTROL MCP-Server]**, **[!UICONTROL Marketplaces]**, **[!UICONTROL Plugins]** oder **[!UICONTROL Memory]**.
+
+### Hinzufügen und Anzeigen von Kenntnissen
+
+Kenntnisse sind spezialisierte Funktionen, die Coworker Chat automatisch verwendet, wenn sie sich bewerben. Sie können auch selbst eine Qualifikation starten, indem Sie **/** in den Chat eingeben. Auf **[!UICONTROL Registerkarte]** Kenntnisse“ werden alle installierten Kenntnisse aufgelistet.
 
 ![Die Registerkarte „Fähigkeiten“](./assets/ui-guide-12.png)
 
-Wählen Sie eine Qualifikation aus, um ihre Details anzuzeigen: das Plug-in, zu dem sie gehört, eine Beschreibung, wann der Coworker Chat sie verwendet, und alle Dateien, die sie enthält. Wählen Sie Qualifikation anzeigen.md aus, um die vollständige Definition der Qualifikation zu lesen, oder entfernen Sie Source, um sie zu deinstallieren.
+1. Klicken Sie auf der **[!UICONTROL Kenntnisse]**-Registerkarte auf **[!UICONTROL Source hinzufügen]**, um die Kenntnisse aus einer neuen Quelle zu installieren.
+1. Geben Sie in **[!UICONTROL Suchen]** einen Namen ein, um eine Qualifikation zu finden. Verwenden Sie den Umschalter Ansicht , um zwischen Raster- und Listen-Layouts zu wechseln.
+1. Wählen Sie eine Qualifikation aus, um das Plug-in, zu dem sie gehört, und die darin enthaltenen Dateien anzuzeigen, wenn Coworker Chat sie verwendet.
 
-![Eine Ansicht mit Kenntnisdetails, die unterstützende Dateien anzeigt](./assets/ui-guide-13.png)
+   ![Eine Ansicht mit Kenntnisdetails, die unterstützende Dateien anzeigt](./assets/ui-guide-13.png)
 
-![Der SKILL.md-Viewer](./assets/ui-guide-14.png)
+1. (Optional) Klicken Sie auf **[!UICONTROL Qualifikation anzeigen]** um die vollständige Qualifikationsdefinition zu lesen, oder klicken Sie auf **[!UICONTROL Source entfernen]** um die Qualifikation zu deinstallieren.
 
-### MCP-Server
+   ![Der SKILL.md-Viewer](./assets/ui-guide-14.png)
 
-MCP-Server (Model Context Protocol) verbinden den Coworker Chat mit externen Tools und Services wie Adobe Journey Optimizer, Real-Time CDP, Target und Workfront. Auf der Registerkarte MCP-Server wird alles aufgelistet, was derzeit verbunden ist und wie viele Verbindungen aktiv sind.
+### MCP-Server verbinden
 
-- Server hinzufügen: Ein neues externes Tool oder einen neuen Service verbinden.
+MCP-Server (Model Context Protocol) verbinden den Coworker Chat mit externen Tools und Services wie Adobe Journey Optimizer, Real-Time CDP, Target und Workfront. Der Tab **[!UICONTROL MCP-Server]** listet Ihre verbundenen Server und die Anzahl der aktiven Verbindungen auf. Jede Karte zeigt den Servernamen, den Endpunkt und Tags, die beschreiben, was sie bereitstellt.
 
-Jede Karte zeigt den Servernamen, den Endpunkt und alle Tags an, die beschreiben, was sie bereitstellt.
+Um einen Server zu verbinden, klicken Sie auf **[!UICONTROL Server hinzufügen]** und befolgen Sie die Anweisungen.
 
 ![Die Registerkarte MCP-Server](./assets/ui-guide-15.png)
 
-### Marketplaces
+### Marketplace hinzufügen
 
-Marketplaces sind Registraturen von Plug-ins, die Sie durchsuchen und installieren können. Auf der Registerkarte Marketplaces können Sie Registrierungseinträge hinzufügen und nach Gruppe filtern.
-
-- Marketplace hinzufügen: Registrieren eines neuen Plug-in-Marketplace.
-- Suche/Filtern nach Gruppe: Engen Sie die Liste ein, um einen Marktplatz zu finden.
-
-Jeder Marketplace zeigt seine Quelle und den Status Bereit an, sobald er zur Installation über verfügbar ist.
+Ein Marketplace ist eine Registrierung von Plug-ins, die Sie durchsuchen und installieren können. Klicken Sie auf der **[!UICONTROL Marketplaces]**-Registerkarte auf **[!UICONTROL Marketplace hinzufügen]**, um einen neuen zu registrieren. Verwenden Sie **[!UICONTROL Suche]** oder filtern Sie nach Gruppe, um die Liste einzugrenzen. Ein Marketplace mit dem Status **Bereit** kann über installiert werden.
 
 ![Die Registerkarte Marketplaces](./assets/ui-guide-16.png)
 
-### Plug-ins
+### Verwalten von Plug-ins
 
-Plug-ins erweitern den Coworker Chat mit gebündelten Fähigkeiten und MCP-Servern, die gemeinsam als Einheit installiert und verwaltet werden. Die Registerkarte Plug-ins zeigt, was installiert ist, und ermöglicht das Hinzufügen weiterer Inhalte aus Ihren Marketplaces.
+Ein Plug-in bündelt Fähigkeiten und MCP-Server, sodass Sie sie gemeinsam installieren und verwalten können. Die **[!UICONTROL Plugins]** zeigt die installierten Plugins an.
 
-- Marktplätze durchsuchen: neue Plug-ins zur Installation finden.
-- Deinstallieren: Entfernen Sie ein installiertes Plug-in und alles, was es enthält.
-- Nach Marketplace filtern: Ermitteln Sie, welche Plug-ins aus welcher Registrierung stammen.
+* Klicken Sie **[!UICONTROL Marktplätze durchsuchen]**, um neue Plug-ins zu finden.
+* Filtern Sie nach Marketplace, um zu sehen, woher die einzelnen Plug-ins kamen.
+* Klicken Sie auf **[!UICONTROL Deinstallieren]**, um ein Plug-in und alle darin enthaltenen Elemente zu entfernen.
 
 ![Die Registerkarte „Plug-ins“](./assets/ui-guide-17.png)
 
-### Speicher
+### Speicher verwalten
 
-Mit dem Arbeitsspeicher können Sie Ihre Präferenzen in allen Konversationen speichern, damit die Antworten im Laufe der Zeit relevant und persönlich bleiben.
+Mit dem Arbeitsspeicher können Sie Ihre Präferenzen in allen Konversationen speichern, sodass Antworten im Laufe der Zeit relevant bleiben. Verwenden Sie die Registerkarte **[!UICONTROL Speicher]**, um festzulegen, was beibehalten wird.
 
-- Speicher aktivieren: Schaltet den sitzungsübergreifenden Speicher ein oder aus.
-- Gespeicherte Voreinstellungen: die Voreinstellungen, die der Kollege-Chat gelernt und gespeichert hat. Jeder Eintrag kann bearbeitet, gelöscht oder überprüft werden, und die Einträge können nach Kategorie gefiltert werden.
-- Verlauf gespeicherter Erinnerungen: eine Zeitleiste der Änderungen an den gespeicherten Erinnerungen.
+1. Klicken **[!UICONTROL auf]** Seite „Konfigurationen“ auf „Speicher“.
+1. Aktivieren Sie **[!UICONTROL Speicher aktivieren]**. Schalten Sie sie aus, um zu verhindern, dass sich Benutzer über Sitzungen hinweg an den Chat erinnern.
+1. Überprüfen **[!UICONTROL unter „Gespeicherte Voreinstellungen]**, was im Coworker Chat gespeichert wurde. Sie können jeden Eintrag bearbeiten, löschen oder überprüfen und Einträge nach Kategorie filtern.
+1. Verwenden Sie **[!UICONTROL Speicherspeicherverlauf]**, um eine Zeitleiste der Änderungen an Ihren Erinnerungen anzuzeigen.
 
 ![Registerkarte „Speicher“](./assets/ui-guide-18.png)
