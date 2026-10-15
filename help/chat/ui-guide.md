@@ -8,16 +8,16 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 9dbf1eb9bf7b975af633b67ea2af812392932ec3
+source-git-commit: e3d44db4695911c1b72f47fb66bd75e24acfc2e2
 workflow-type: tm+mt
-source-wordcount: '1799'
-ht-degree: 2%
+source-wordcount: '1809'
+ht-degree: 3%
 ---
 # Erste Schritte mit dem Coworker Chat {#ui-guide}
 
 Mit dem Coworker Chat können Sie mit Ihren Adobe CX Enterprise-Daten und -Tools arbeiten, indem Sie in einfacher Sprache nachfragen, was Sie benötigen. Verwenden Sie diese Seite, um den Coworker Chat zu öffnen, Ihre erste Nachricht zu senden und Ihre Arbeitsweise einzurichten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3498574?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
 
 ## Verfügbarkeit
 
@@ -46,9 +46,9 @@ Klicken Sie alternativ in **[!UICONTROL Anwendungsauswahl in der Kopfzeile von C
 
 ![Mitarbeiter in der CX Enterprise-Anwendungsauswahl](./assets/ui-guide-1.png)
 
-## Festlegen des Kontexts
+## Organisation auswählen
 
-Ihre Organisation und Sandbox bestimmen, welche Daten, Fähigkeiten und verbundenen Tools eine Konversation erreichen kann. Überprüfen Sie sie, bevor Sie beginnen. Der aktuelle Kontext wird unten in der linken Navigationsleiste unter Ihrem Namen angezeigt.
+Ihre [Organisation](https://experienceleague.adobe.com/de/docs/core-services/interface/administration/organizations) und Sandbox bestimmen, welche Daten, Fähigkeiten und verbundenen Tools eine Konversation erreichen kann. Überprüfen Sie sie, bevor Sie beginnen. Der aktuelle Kontext wird unten in der linken Navigationsleiste unter Ihrem Namen angezeigt.
 
 So ändern Sie den Kontext:
 
@@ -89,7 +89,7 @@ Verwenden Sie die Navigationsleiste, um zwischen den Teilen des Produkts zu wech
 
 ## Erste Nachricht senden
 
-Auf dem Startbildschirm werden eine Begrüßung, das Eingabefeld und empfohlene Eingabeaufforderungen angezeigt, die darauf basieren, was der Coworker Chat in Ihrer Sandbox tun kann. Sie können mit einem Vorschlag beginnen oder Ihre eigene Nachricht schreiben.
+Auf dem Startbildschirm werden eine Begrüßung, das Eingabefeld ([!UICONTROL Chat] und empfohlene Eingabeaufforderungen angezeigt, je nachdem, was der Coworker Chat in Ihrer Sandbox tun kann. Sie können mit einem Vorschlag beginnen oder Ihre eigene Nachricht schreiben.
 
 So senden Sie eine Nachricht:
 
@@ -99,7 +99,7 @@ So senden Sie eine Nachricht:
    * Wählen Sie eine Eingabeaufforderung unter **[!UICONTROL Empfohlen für Sie]** aus. Der Coworker Chat fügt es in das Eingabefeld ein, wo Sie es bearbeiten können.
    * Geben Sie Ihre eigene Anfrage in das Feld **[!UICONTROL Mitarbeiter nach]** fragen“ ein.
 
-1. (Optional) Fügen Sie einen Kontext hinzu, wählen Sie aus, wie der Coworker Chat antwortet, oder diktieren Sie Ihre Nachricht. Siehe [Kontext hinzufügen und einen Antwortstil &#x200B;](#input-options).
+1. (Optional) Fügen Sie einen Kontext hinzu, wählen Sie aus, wie der Coworker Chat antwortet, oder diktieren Sie Ihre Nachricht. Siehe [Kontext hinzufügen und einen Antwortstil ](#input-options).
 1. Klicken Sie auf **[!UICONTROL Senden]**.
 
 >[!TIP]
