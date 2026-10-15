@@ -5,9 +5,9 @@ user-guide-description: Erfahren Sie mehr über Adobe CX Enterprise Coworker, ei
 description: Erfahren Sie mehr über KI-Tools in CX Enterprise. Verbessern Sie Ihr Produktwissen und erhalten Sie operative Erkenntnisse mithilfe von KI in CX Enterprise.
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
-source-git-commit: d87a189293dcc367e5fdfd80e6b59615fdbe9a2d
+source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '233'
 ht-degree: 17%
 ---
 
@@ -66,15 +66,15 @@ ht-degree: 17%
     - [Verwalten von Plug-ins für Ihre Organisation](./customizations/plugins/manage-plugins-for-your-org.md)
   - Speicher {#memory}
     - [Was ist Speicher?](./customizations/memory/what-is-memory.md)
-- Kampagnen {#campaigns}
-  - {hide-from-toc}[Neues Team-Erlebnis](./campaigns/new-teams-experience.md)
-  - [Übersicht](./campaigns/overview.md)
-  - [Erstellen einer E-Mail-Kampagne](./campaigns/create-an-email-campaign.md)
-  - [Starten und Verwalten einer Kampagne](./campaigns/launch-manage-campaign.md)
-  - [Anwendungsszenarien](./campaigns/use-cases.md)
-  - [Best Practices bei der Eingabeaufforderung](./campaigns/prompting-best-practices.md)
-  - [C2PA-Metadaten](./campaigns/c2pa-metadata.md)
+- Mitarbeiter für Teams {#coworker-for-teams}
+  - {hide-from-toc}[Neues Team-Erlebnis](./coworker-for-teams/new-teams-experience.md)
+  - [Übersicht](./coworker-for-teams/overview.md)
+  - [Erstellen einer E-Mail-Kampagne](./coworker-for-teams/create-an-email-campaign.md)
+  - [Starten und Verwalten einer Kampagne](./coworker-for-teams/launch-manage-campaign.md)
+  - [Anwendungsszenarien](./coworker-for-teams/use-cases.md)
+  - [Best Practices bei der Eingabeaufforderung](./coworker-for-teams/prompting-best-practices.md)
+  - [C2PA-Metadaten](./coworker-for-teams/c2pa-metadata.md)
   - Connectoren {#connectors}
-    - [Marketo Engage](./campaigns/connectors/marketo.md)
-    - [HubSpot](./campaigns/connectors/hubspot.md)
-  - [Versionshinweise](./campaigns/release-notes.md)
+    - [Marketo Engage](./coworker-for-teams/connectors/marketo.md)
+    - [HubSpot](./coworker-for-teams/connectors/hubspot.md)
+  - [Versionshinweise](./coworker-for-teams/release-notes.md)
