@@ -8,20 +8,18 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: e3d44db4695911c1b72f47fb66bd75e24acfc2e2
+source-git-commit: 74f8413fcb9bb0ab6c257a56c38e5e374414e2d5
 workflow-type: tm+mt
-source-wordcount: '1809'
+source-wordcount: '1802'
 ht-degree: 3%
 ---
 # Erste Schritte mit dem Coworker Chat {#ui-guide}
 
 Mit dem Coworker Chat können Sie mit Ihren Adobe CX Enterprise-Daten und -Tools arbeiten, indem Sie in einfacher Sprache nachfragen, was Sie benötigen. Verwenden Sie diese Seite, um den Coworker Chat zu öffnen, Ihre erste Nachricht zu senden und Ihre Arbeitsweise einzurichten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3498574?captions=ger&learn=on)
-
 ## Verfügbarkeit
 
-Der Coworker Chat ist als interaktives Erlebnis, als ganzseitiger Arbeitsbereich und als produktinternes Erlebnis in einigen CX Enterprise-Programmen verfügbar. Um das produktinterne Erlebnis zu öffnen, klicken Sie auf das Symbol „Mitarbeiter![Symbol &quot;](./assets/icon-coworker.png)&quot; oben rechts in der Anwendung.
+[!DNL Coworker] [!UICONTROL Chat] ist als interaktives Erlebnis, als ganzseitiger Arbeitsbereich und als produktinternes Erlebnis in einigen [!DNL CX Enterprise]-Anwendungen verfügbar.
 
 Die folgende Tabelle zeigt, wo die einzelnen Erlebnisse verfügbar sind.
 
@@ -35,16 +33,20 @@ Die folgende Tabelle zeigt, wo die einzelnen Erlebnisse verfügbar sind.
 | AEM | Jetzt verfügbar | Jetzt verfügbar |
 | Marketo Engage | Jetzt verfügbar | Demnächst |
 
-## Kolleg-Chat öffnen {#immersive}
+## [!DNL Coworker] öffnen {#immersive}
 
 Um das immersive Erlebnis zu nutzen, melden Sie sich mit Ihren Adobe-Anmeldeinformationen an. Sie können sie über einen direkten Link oder in CX Enterprise öffnen.
 
 1. Navigieren Sie zu [https://experience.adobe.com/#/coworker](https://experience.adobe.com/#/coworker).
 1. Melden Sie sich mit Ihrer Adobe ID an.
-
-Klicken Sie alternativ in **[!UICONTROL Anwendungsauswahl in der Kopfzeile von CX Enterprise auf &quot;]**&quot;.
+1. Klicken Sie in [!DNL CX Enterprise] auf das Programmauswahlmenü ![Produktmenüsymbol](./assets/apps-icon.png) und dann auf **[!DNL Coworker]**.
+1. Um den Chat (das produktinterne Erlebnis) zu öffnen, klicken Sie auf **[!UICONTROL Chats]** ![Coworker icon](./assets/icon-coworker.png).
 
 ![Mitarbeiter in der CX Enterprise-Anwendungsauswahl](./assets/ui-guide-1.png)
+
+## Video - Grundlagen der [!DNL Coworker] Chat-Oberfläche
+
+>[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
 
 ## Organisation auswählen
 
@@ -99,7 +101,7 @@ So senden Sie eine Nachricht:
    * Wählen Sie eine Eingabeaufforderung unter **[!UICONTROL Empfohlen für Sie]** aus. Der Coworker Chat fügt es in das Eingabefeld ein, wo Sie es bearbeiten können.
    * Geben Sie Ihre eigene Anfrage in das Feld **[!UICONTROL Mitarbeiter nach]** fragen“ ein.
 
-1. (Optional) Fügen Sie einen Kontext hinzu, wählen Sie aus, wie der Coworker Chat antwortet, oder diktieren Sie Ihre Nachricht. Siehe [Kontext hinzufügen und einen Antwortstil &#x200B;](#input-options).
+1. (Optional) Fügen Sie einen Kontext hinzu, wählen Sie aus, wie der Coworker Chat antwortet, oder diktieren Sie Ihre Nachricht. Siehe [Kontext hinzufügen und einen Antwortstil ](#input-options).
 1. Klicken Sie auf **[!UICONTROL Senden]**.
 
 >[!TIP]

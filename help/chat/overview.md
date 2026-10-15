@@ -7,9 +7,9 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: d87a189293dcc367e5fdfd80e6b59615fdbe9a2d
+source-git-commit: 74f8413fcb9bb0ab6c257a56c38e5e374414e2d5
 workflow-type: tm+mt
-source-wordcount: '747'
+source-wordcount: '750'
 ht-degree: 4%
 ---
 # Übersicht über den Adobe CX Enterprise Coworker-Chat {#overview}
@@ -18,7 +18,7 @@ Der Coworker Chat ist eine Gesprächsoberfläche, um Kundenerlebnisaufgaben zu e
 
 Der Wert: Arbeit, die sich über mehrere Bildschirme, Teams und Tage erstreckte, geschieht jetzt in einem Gespräch in Minuten. Sie delegieren das Ergebnis und behalten die Kontrolle durch Überprüfung und Genehmigung. Der Coworker Chat führt die Schritte aus, behebt Fehler auf dem Weg und wird immer klarer, während er lernt, wie Ihr Team arbeitet.
 
-Siehe [Erste Schritte mit dem Coworker Chat](ui-guide.md).
+Informationen zu den ersten Schritten finden [ unter „Erste Schritte mit dem Coworker Chat](ui-guide.md).
 
 >[!AVAILABILITY]
 >
@@ -72,4 +72,4 @@ Der Coworker Chat basiert auf den Bausteinen der Kollegen. Die folgenden Baustei
 
 ## Videoüberblick
 
->[!VIDEO](https://video.tv.adobe.com/v/3495974?captions=ger&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3495967?learn=on){transcript=true}
