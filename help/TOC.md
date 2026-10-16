@@ -5,10 +5,10 @@ user-guide-description: Erfahren Sie mehr über Adobe CX Enterprise Coworker, ei
 description: Erfahren Sie mehr über KI-Tools in CX Enterprise. Verbessern Sie Ihr Produktwissen und erhalten Sie operative Erkenntnisse mithilfe von KI in CX Enterprise.
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
-source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
+source-git-commit: 4d91397c769a76fba4f0ec1c3e86938a01fe2c6a
 workflow-type: tm+mt
-source-wordcount: '233'
-ht-degree: 17%
+source-wordcount: '250'
+ht-degree: 16%
 ---
 
 # CX Enterprise Coworker {#content}
@@ -21,13 +21,18 @@ ht-degree: 17%
   - Anwendungsszenarien {#use-cases}
     - [Chat-Workflows für Kollegen](./chat/use-cases/workflows.md)
     - Data Insights {#data-insights}
-      - {hide-from-toc}[Übersicht](./chat/use-cases/data-insights/analytics-overview.md)
+      - [Überblick](./chat/use-cases/data-insights/analytics-overview.md)
       - [Erste Schritte](./chat/use-cases/data-insights/analytics-chat.md)
-      - [Trends und Grundursachen untersuchen](./chat/use-cases/data-insights/root-cause-analysis.md)
-      - [Validieren von AA zu CJA-Daten beim Upgrade](./chat/use-cases/data-insights/data-validation-aa-cja.md)
-      - [Validieren der Datensatzqualität für CJA-Berichte](./chat/use-cases/data-insights/validate-dataset-quality-for-cja.md)
-      - [Validieren der Experience Platform-Daten](./chat/use-cases/data-insights/data-validation-aep.md)
-      - [Beschleunigen von Dateneinblicken](./chat/use-cases/data-insights/accelerate-data-insights.md)
+      - Data Governance und Validierung {#data-governance-and-validation}
+        - [Implementierung planen](./chat/use-cases/data-insights/implementation-guide.md)
+        - [Erstellen einer Checkliste für die Implementierung](./chat/use-cases/data-insights/intelligent-checklist.md)
+        - [Validieren von AA zu CJA-Daten beim Upgrade](./chat/use-cases/data-insights/data-validation-aa-cja.md)
+        - [Validieren der Implementierung von Streaming-Medien](./chat/use-cases/data-insights/streaming-media-validation.md)
+        - [Validieren der Datensatzqualität für CJA-Berichte](./chat/use-cases/data-insights/validate-dataset-quality-for-cja.md)
+        - [Validieren der Experience Platform-Daten](./chat/use-cases/data-insights/data-validation-aep.md)
+        - [Beschleunigen von Dateneinblicken](./chat/use-cases/data-insights/accelerate-data-insights.md)
+      - Geschäftsergebnis {#business-performance}
+        - [Trends und Grundursachen untersuchen](./chat/use-cases/data-insights/root-cause-analysis.md)
     - Daten-Onboarding {#data-onboarding}
       - {hide-from-toc}[Onboarding von Daten mit Kollegen](./agents/data-onboarding-skill.md)
     - Daten-Management {#data-management}

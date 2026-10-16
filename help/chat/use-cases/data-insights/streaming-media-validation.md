@@ -1,8 +1,7 @@
 ---
 title: Validieren der Implementierung von Streaming-Medien mit einem Kollegen
 description: Erfahren Sie, wie die Streaming-Medien-Validierungsfertigkeit eines Mitarbeiters Ihre Konfiguration, Sitzungen und Protokolle überprüft, um zu bestätigen, dass Ihre Implementierung korrekt verfolgt wird.
-hold: true
-source-git-commit: 2bf31c1348054a16ba7e7c0c26c0ff913634aa27
+source-git-commit: 4d91397c769a76fba4f0ec1c3e86938a01fe2c6a
 workflow-type: tm+mt
 source-wordcount: '1304'
 ht-degree: 2%

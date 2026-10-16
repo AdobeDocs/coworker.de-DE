@@ -5,9 +5,9 @@ product_v2:
   internal-label: CX Enterprise Coworker
 feature_v2:
   internal-label: CX Enterprise Coworker
-source-git-commit: b6a05e2fdc16830fd69ac1b5ea68ed1d4c5d5c5f
+source-git-commit: 4d91397c769a76fba4f0ec1c3e86938a01fe2c6a
 workflow-type: tm+mt
-source-wordcount: '1915'
+source-wordcount: '1969'
 ht-degree: 1%
 ---
 
@@ -50,6 +50,7 @@ Die folgenden Anwendungsfälle sind nach Analyse-Domain gruppiert. Jede Gruppe l
 | [Validieren der Implementierung von Streaming-Medien](/help/chat/use-cases/data-insights/streaming-media-validation.md)<p>![Validieren der Implementierung von Streaming-Medien](../../assets/ui-guide-8.png)</p> <p>experimentell</p> | Überprüft Ihren Datenstrom, Ihr Schema, Ihren Datensatz, Ihre Datenansicht und Ihre Sitzungsdaten, um sicherzustellen, dass das Tracking von Streaming-Medien konfiguriert ist und die Daten korrekt erfasst werden.<p>**Beispielaufforderung:** „Wie gesund ist meine Implementierung von Streaming-Medien insgesamt?“</p><p>Weitere Informationen finden Sie unter [Validieren der Implementierung von Streaming-Medien mit Coworker](/help/chat/use-cases/data-insights/streaming-media-validation.md).</p> |
 | [Validieren der Datensatzqualität für Customer Journey Analytics](/help/chat/use-cases/data-insights/validate-dataset-quality-for-cja.md)<p>![Validieren der Datensatzqualität für Customer Journey Analytics](../../assets/data-validation-aep/dataset-validation.png)</p> <p>Experimentell (nächste Woche)</p> | Identifiziert die Datensätze, die Ihre Customer Journey Analytics-Berichte unterstützen, prüft dann Schemata, Identitätsqualität und Feldqualität, damit Sie Probleme beheben können, bevor Sie Dashboards erstellen.<p>Weitere Informationen finden Sie unter [Validieren von Customer Journey Analytics-Daten mit der Datenvalidierungsfertigkeit in Coworker](/help/chat/use-cases/data-insights/validate-dataset-quality-for-cja.md).</p> |
 | [Validieren von Daten nach der Aufnahme in Experience Platform](/help/chat/use-cases/data-insights/data-validation-aep.md)<p>![Validieren von Daten nach der Aufnahme in Experience Platform](../../assets/data-validation-aep/null-values.png)</p> | Führt statistische und semantische Prüfungen für Experience Platform-Datensätze und -Felder durch, um Probleme mit der Datenqualität zu ermitteln, z. B. ungültige Werte oder Zuordnungsprobleme.<p>**Beispielaufforderung:** „Validieren des Datensatzes „Electronics Sample 1000“</p><p>Weitere Informationen finden Sie unter [Validieren Ihrer Experience Platform-Daten mit Coworker](/help/chat/use-cases/data-insights/data-validation-aep.md).</p> |
+| [Beschleunigen von Dateneinblicken](/help/chat/use-cases/data-insights/accelerate-data-insights.md) | In einem Video wird gezeigt, wie Coworker Ihre Implementierung plant, unterstützte Aktionen ausführt und Produkt- und Entwicklungsschritte in Adobe Experience Manager, Experience Platform, Web SDK und Customer Journey Analytics anleitet, bis Ihre Website-Interaktionsdaten bereit zur Analyse sind.<p>Weitere Informationen finden Sie unter [Beschleunigen von Dateneinblicken mit Coworker, AEM und CJA](/help/chat/use-cases/data-insights/accelerate-data-insights.md).</p> |
 
 ### Journey-Analyse
 
