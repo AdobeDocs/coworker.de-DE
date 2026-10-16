@@ -1,24 +1,24 @@
 ---
-description: Durchsuchen Sie echte Eingabeaufforderungsmuster für Adobe CX Enterprise Coworker-Kampagnen, sortiert nach Anwendungsfall für Akquise, Interaktion, Ereignisse, Konversion und Aufbewahrungskampagnen.
-title: Anwendungsfälle für Co-Worker-Kampagnen
+description: Durchsuchen Sie echte Eingabeaufforderungsmuster für Adobe CX Enterprise Coworker für Teams, sortiert nach Anwendungsfällen für Akquise, Interaktion, Veranstaltungen, Konversion und Aufbewahrungskampagnen.
+title: Kollegen für Teams - Anwendungsfälle
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
 workflow-type: tm+mt
-source-wordcount: '508'
+source-wordcount: '512'
 ht-degree: 0%
 ---
 # Anwendungsszenarien {#use-cases}
 
-Im Folgenden finden Sie echte Eingabeaufforderungsmuster, die Marketing-Experten für Lebenszyklus und Wachstum in Adobe CX Enterprise Coworker-Kampagnen verwenden. Jeder wird kopiert, mit Ihrer eigenen Audience und Ihren Markendetails ausgetauscht und in der Konversation verfeinert.
+Im Folgenden finden Sie echte Eingabeaufforderungsmuster, die Marketing-Experten für Lebenszyklus und Wachstum in Adobe CX Enterprise Coworker für Teams verwenden. Jeder wird kopiert, mit Ihrer eigenen Audience und Ihren Markendetails ausgetauscht und in der Konversation verfeinert.
 
 ## Informationen zur Verwendung
 
-Wählen Sie einen Anwendungsfall aus, der zu Ihrem Ziel passt, kopieren Sie die Beispiel-Eingabeaufforderung und fügen Sie sie in Co-Worker-Kampagnen ein, ersetzen Sie die Platzhalter durch Ihre spezifischen Angaben und verfeinern Sie die Ausgabe über den Chat. Eine ausführliche Anleitung zum Erstellen und Generieren von Kampagnen finden Sie unter Erstellen .
+Wählen Sie einen Anwendungsfall aus, der zu Ihrem Ziel passt, kopieren Sie die Beispiel-Eingabeaufforderung und fügen Sie sie in das Team von Kollegen ein, ersetzen Sie die Platzhalter durch Ihre spezifischen Angaben und verfeinern Sie die Ausgabe über den Chat. Eine ausführliche Anleitung zum Erstellen und Generieren von Kampagnen finden Sie unter Erstellen .
 
 ## Akquise und Onboarding
 
@@ -74,7 +74,7 @@ Optimiert für: Produktschulung, Implementierung von Funktionen, Verkürzung der
 
 Am besten geeignet für: saisonale Push-Benachrichtigungen im Einzelhandel, Sammlungsabbrüche, Aktualisierungsmomente.
 
-`"Build a 2-touch email campaign, 3 days apart, announcing our new seasonal catalog. Highlight what’s new and relevant for buyers in my CSV list. Personalize content to each person’s first name, product interest category, and region."`
+`"Build a 2-touch email campaign, 3 days apart, announcing our new seasonal catalog. Highlight what's new and relevant for buyers in my CSV list. Personalize content to each person's first name, product interest category, and region."`
 
 ## Ereignisse und Momente
 

@@ -1,5 +1,5 @@
 ---
-description: Erfahren Sie mehr über Coworker-Kampagnen mit Best Practices - das CO-STAR-Framework, Aufgaben und Aufgaben, nicht unterstützte Inhalte und eine Qualitätsprüfliste für Eingabeaufforderungen.
+description: Lernen Sie die Teams kennen, die Best Practices vorgeben - das CO-STAR-Framework, Aufgaben und Aufgaben, nicht unterstützte Inhalte und eine Qualitätsprüfliste für Eingabeaufforderungen.
 title: Best Practices für das Prompting
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
@@ -7,18 +7,18 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: b6a05e2fdc16830fd69ac1b5ea68ed1d4c5d5c5f
+source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
 workflow-type: tm+mt
-source-wordcount: '781'
+source-wordcount: '785'
 ht-degree: 23%
 ---
 # Best Practices bei der Eingabeaufforderung {#best-practices}
 
-Die optimale Nutzung von Coworker-Kampagnen beginnt damit, wie Sie eine Eingabeaufforderung eingeben. Erfahren Sie mehr über die Praktiken, die die besten Ergebnisse erzielen: das CO-STAR-Framework zur Strukturierung Ihrer Eingabeaufforderungen, einzuschließende und zu vermeidende Maßnahmen sowie Szenario-basierte Beispiele, die der KI den Kontext geben, den sie benötigt, um relevante, zielgerichtete Inhalte zu generieren.
+Das Meiste aus der Arbeit von Kollegen für Teams herauszuholen beginnt damit, wie Sie es auffordern. Erfahren Sie mehr über die Praktiken, die die besten Ergebnisse erzielen: das CO-STAR-Framework zur Strukturierung Ihrer Eingabeaufforderungen, einzuschließende und zu vermeidende Maßnahmen sowie Szenario-basierte Beispiele, die der KI den Kontext geben, den sie benötigt, um relevante, zielgerichtete Inhalte zu generieren.
 
 >[!NOTE]
 >
->Derzeit können Sie nur eine Verbindung zu Integrationen herstellen, die von Adobe Campaign unterstützt werden. Wenn Sie bereits über Adobe Enterprise-Anwendungen verfügen, in denen Sie Zielgruppen speichern oder Journey erstellen, empfehlen wir Ihnen, stattdessen [CX Enterprise Coworker](/help/chat/use-cases/workflows.md) zu verwenden.
+>Derzeit können Sie nur eine Verbindung zu Kollegen für von Teams unterstützte Integrationen herstellen. Wenn Sie bereits über Adobe Enterprise-Anwendungen verfügen, in denen Sie Zielgruppen speichern oder Journey erstellen, empfehlen wir Ihnen, stattdessen [CX Enterprise Coworker](/help/chat/use-cases/workflows.md) zu verwenden.
 
 ## Verwenden des CO-STAR-Frameworks
 
@@ -179,4 +179,4 @@ Geben Sie immer den Kontext und das Wertversprechen an, damit die KI relevante I
 
 >[!MORELIKETHIS]
 >
->Durchsuchen Sie mehr [Eingabeaufforderungsmuster](use-cases.md) für Kollegen-Kampagnen.
+>Durchsuchen Sie mehr [Eingabeaufforderungsmuster](use-cases.md) für Mitarbeiter für Teams.

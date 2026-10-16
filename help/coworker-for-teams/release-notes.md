@@ -1,20 +1,20 @@
 ---
-description: Erfahren Sie mehr über Funktionsverbesserungen und -korrekturen in den Versionshinweisen zu Adobe CX Enterprise Coworker Campaign.
-title: Versionshinweise zu CX Enterprise Coworker Campaign
+description: Erfahren Sie mehr über Funktionsverbesserungen und Fehlerbehebungen in den Versionshinweisen zu Adobe CX Enterprise Coworker for Teams.
+title: Versionshinweise zu CX Enterprise Coworker für Teams
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: ee66c1cc95ef1dd8c5e45c1fcb699547e63b9c8a
+source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
 workflow-type: tm+mt
-source-wordcount: '3590'
+source-wordcount: '3597'
 ht-degree: 0%
 ---
-# Versionshinweise zu Adobe CX Enterprise Coworker Campaign {#release-notes}
+# Versionshinweise zu Adobe CX Enterprise Coworker für Teams {#release-notes}
 
-Coworker Campaign-Versionen basieren auf einem kontinuierlichen Bereitstellungsmodell, das eine besser skalierbare, schrittweise Implementierung von Funktionen ermöglicht.
+Die Versionen von Coworker for Teams basieren auf einem kontinuierlichen Bereitstellungsmodell, das eine besser skalierbare, schrittweise Implementierung von Funktionen ermöglicht.
 
 ## September 2026 {#sep-2026}
 
@@ -173,7 +173,7 @@ Coworker Campaign-Versionen basieren auf einem kontinuierlichen Bereitstellungsm
 * Einblicke in Campaign zeigen, welche Datenquelle den einzelnen Metriken zugrunde liegt
 * Markeneditor sind jetzt in das Onboarding integriert, um eine reibungslosere Ersteinrichtung zu ermöglichen
 * Vorschau einer Beispielzielgruppe vor der Übertragung auf die Kampagne
-* Coworker Campaign ist jetzt in der einheitlichen Experience Cloud-Navigationsshell verfügbar
+* Kollegen für Teams sind jetzt in der einheitlichen Experience Cloud-Navigations-Shell aktiv
 * Die unverankerte Feedback-Titelleiste für ein Cleaner-Campaign-Board wurde entfernt.
 * Verschiedene Leistungs- und Zuverlässigkeitsverbesserungen in
 
@@ -276,7 +276,7 @@ Coworker Campaign-Versionen basieren auf einem kontinuierlichen Bereitstellungsm
 
 **Veröffentlichungsdatum: 10. Juni 2026**
 
-* Die App heißt jetzt Coworker-Kampagnen mit aktualisierten Namen im gesamten
+* Die App ist jetzt Coworker für Teams, die überall aktualisierte Namen haben
 * Eine Onboarding-Tour führt Sie durch den Aufbau einer Demo-Marke
 * Starten Sie Kampagnen über ein dediziertes Dialogfeld, wenn Ihr Plan startbereit ist.
 * Verbinden von HubSpot mit einem API-Schlüssel aus dem Integrationskatalog
@@ -370,7 +370,7 @@ Coworker Campaign-Versionen basieren auf einem kontinuierlichen Bereitstellungsm
 
 * Campaign-Dashboards und -Listen bleiben bei Ihrer Arbeit stets auf dem neuesten Stand
 * In Campaign Chat und Agent Builder wird ein eindeutiger Haftungsausschluss für generative KI angezeigt.
-* Die Kontaktdaten des Supports verwenden jetzt die dedizierte E-Mail-Adresse von CX Coworker Campaign
+* Die Kontaktdaten des Supports verwenden jetzt die dedizierte E-Mail-Adresse von CX Coworker for Teams
 * Auf der Marketing-Startseite wird der Wartelistenabschnitt entfernt und das Hero-Video wird klarer angezeigt
 * Mehr Bildschirme berücksichtigen Ihre Sprache und Ihre lokalen Datumsformate automatisch
 * Verschiedene Leistungs- und Zuverlässigkeitsverbesserungen in

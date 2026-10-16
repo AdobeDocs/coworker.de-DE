@@ -1,5 +1,5 @@
 ---
-description: Erfahren Sie, wie Sie Ihr Marketo Engage-Konto mit Coworker Campaign verbinden, damit Sie Smart- und Static-Listen von Marketo synchronisieren können.
+description: Erfahren Sie, wie Sie Ihr Marketo Engage-Konto mit Coworker for Teams verbinden, damit Sie Smart- und Static-Listen in Marketo synchronisieren können.
 title: Verbindung mit Marketo Engage herstellen
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
@@ -7,14 +7,14 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '316'
 ht-degree: 0%
 ---
 # Verbindung mit Marketo Engage herstellen {#marketo}
 
-Mit Adobe Coworker-Kampagnen können Sie Ihr Marketo Engage-Konto verbinden, um intelligente und statische Listen abzurufen.
+Mit Adobe Coworker for Teams können Sie Ihr Marketo Engage-Konto verbinden, um intelligente und statische Listen abzurufen.
 
 >[!PREREQUISITES]
 >
@@ -22,13 +22,13 @@ Mit Adobe Coworker-Kampagnen können Sie Ihr Marketo Engage-Konto verbinden, um 
 >
 >* Ein gültiges Marketo Engage-Konto
 >* Ihre Marketo **Instanz-URL**
->* Ein [benutzerdefinierter Service](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/custom-services#custom-services-1) der für Coworker-Kampagnen in Marketo erstellt wurde, mit [Client-ID und &#x200B;](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/authentication#creating-an-access-token) Client-Geheimnis)
+>* Ein [benutzerdefinierter Service](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/custom-services#custom-services-1) der für Kollegen für Teams in Marketo erstellt wurde, mit [Client-ID und &#x200B;](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/authentication#creating-an-access-token)-Geheimnis)
 
 ## So verbinden Sie sich
 
-1. Klicken Sie auf der [Startseite von &#x200B;](https://coworker-campaigns.experience.adobe.com/)-Kampagnen auf **Anpassen** und wählen Sie **Connectoren**.
+1. Klicken Sie auf der [Startseite für Teams](https://coworker-campaigns.experience.adobe.com/) auf **Anpassen** und wählen Sie **Connectoren**.
 
-   ![Coworker-Kampagnen - linker Navigationsbereich mit hervorgehobener Option „Anpassen“ und „Connectoren“](./assets/marketo-1.png)
+   ![Mitarbeiter für Teams haben die Navigation links verlassen, wobei „Erweitert anpassen“ und „Connectoren“ hervorgehoben wurden](./assets/marketo-1.png)
 
 1. Klicken Sie **Integration hinzufügen**.
 

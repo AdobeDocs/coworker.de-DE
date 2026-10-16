@@ -7,7 +7,7 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 161506b712f3a5f39cb584d0491795a3db6faa95
+source-git-commit: 53e769c5478f46ec9240c62534994d8c30ce8380
 workflow-type: tm+mt
 source-wordcount: '936'
 ht-degree: 18%
@@ -23,7 +23,7 @@ Ein Kollege wechselt von KI _unterstützend_ zu _handelnd_. Anstatt selbst zwisc
 [!DNL Coworker] wird durch drei Erlebnisse bereitgestellt:
 
 * **[Coworker [!UICONTROL Chat]](./chat/overview.md):** Fragen Sie nach Einblicken, Inhalten und Aktionen in allen Adobe-Anwendungen in natürlicher Sprache.
-* **[Coworker [!UICONTROL Campaign]](./campaigns/overview.md):** Hilft Agile-Marketing-Teams, von einem Kampagnenziel zur koordinierten Ausführung zu gelangen.
+* **[Mitarbeiter [!UICONTROL für Teams]](./coworker-for-teams/overview.md):** Hilft Agile-Marketing-Teams, von einem Kampagnenziel zur koordinierten Ausführung überzugehen.
 * **Coworker [!UICONTROL Projects] (in Kürze verfügbar):** Für langwierige, funktionsübergreifende Unternehmens-Workflows, in denen Teams die Prozesse, Genehmigungen und die Autonomie von Coworker festlegen.
 
 ## Aktivieren von Coworker
@@ -36,7 +36,7 @@ Um Coworker (einschließlich Coworker Chat) zu aktivieren, muss Ihr Unternehmen 
 
 * **Zugriff:** Weisen Sie Ihren Teams in der Adobe [Admin Console Rollen und Zugriff auf Coworker-Funktionen zu](https://experienceleague.adobe.com/de/docs/core-services/interface/administration/admin-console).
 
-* **Erste Schritte:** Sobald der Coworker aktiviert ist, lesen Sie das [UI-Handbuch](./chat/ui-guide.md), um sich mit der Coworker Chat-Schnittstelle vertraut zu machen, einschließlich Eingabefeld, Antworten, Chat-Verlauf und Fähigkeiten, MCP-Server und Speichereinstellungen.
+* **Erste Schritte:** Sobald der Coworker aktiviert ist, finden Sie unter [Erste Schritte mit dem Coworker Chat](./chat/ui-guide.md) Informationen über die Oberfläche des Coworker Chat, einschließlich Eingabefeld, Antworten, Chat-Verlauf und Fähigkeiten, MCP-Server und Speichereinstellungen.
 
 ## Videos zur Verwendung des Coworker Chat
 
@@ -106,20 +106,20 @@ CARDS
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-## Kollegen-Kampagnen
-
-Coworker Campaign ist eine Vorlagenfunktion, mit der kleine agile Teams Kampagnen aufbauen und ausführen können.
-
-* [Übersicht](./campaigns/overview.md)
-* [Erstellen einer E-Mail-Kampagne](./campaigns/create-an-email-campaign.md)
-* [Anwendungsszenarien](./campaigns/use-cases.md)
-* [Best Practices bei der Eingabeaufforderung](./campaigns/prompting-best-practices.md)
-* [Verbindung mit Marketo Engage herstellen](./campaigns/connectors/marketo.md)
-* [Mit HubSpot verbinden](./campaigns/connectors/hubspot.md)
-
 ## Projekte (in Kürze verfügbar)
 
 Coworker Projects ist ein freigegebener Arbeitsbereich zur Automatisierung von Kundenerlebnis-Workflows, von der Strategie bis zur Bereitstellung. Teams verwenden sie zur Koordinierung von Aufgaben, Genehmigungen und Ausführungen.
+
+## Mitarbeiter für Teams
+
+„Mitarbeiter für Teams“ ist eine Vorlagenfunktion für kleine agile Teams, um Kampagnen einzurichten und auszuführen.
+
+**Beliebte Artikel**
+
+* [Übersicht](./coworker-for-teams/overview.md)
+* [Erstellen einer E-Mail-Kampagne](./coworker-for-teams/create-an-email-campaign.md)
+* [Anwendungsszenarien](./coworker-for-teams/use-cases.md)
+* [Best Practices bei der Eingabeaufforderung](./coworker-for-teams/prompting-best-practices.md)
 
 ## Experience League LIVE: Entsperrte Serie für Kollegen
 

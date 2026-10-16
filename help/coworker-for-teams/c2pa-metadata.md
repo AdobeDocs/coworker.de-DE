@@ -1,19 +1,19 @@
 ---
-description: Erfahren Sie, wie Coworker Campaign C2PA-Metadaten automatisch an Bilder anhängt und speichert, von der Generierung bis zum E-Mail-Versand.
-title: C2PA-Metadaten in Coworker-Kampagnen
+description: Erfahren Sie, wie Coworker for Teams C2PA-Metadaten automatisch an Bilder anhängt und speichert, von der Generierung bis zum E-Mail-Versand.
+title: C2PA-Metadaten in Coworker for Teams
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '396'
 ht-degree: 27%
 ---
-# C2PA-Metadaten in Coworker-Kampagnen {#overview}
+# C2PA-Metadaten in Coworker for Teams {#overview}
 
 In Bezug auf Transparenz generativer KI entstehen ständig neue Gesetze und Adobe arbeitet daran, die geltenden Anforderungen in allen Gerichtsbarkeiten zu erfüllen. [C2PA-Metadaten](https://c2pa.org/) ist das Herkunftstool, das Adobe verwendet, um die Anforderungen dieser Gesetze zu erfüllen.
 
-C2PA-Metadaten sind dauerhafte, unsichtbare Metadaten, die aufzeichnen, wie ein Inhaltselement erstellt oder bearbeitet wurde. Wenn Sie ein Bild mit Tools für generative KI in Coworker-Kampagnen generieren oder bearbeiten, werden C2PA-Metadaten automatisch an dieses Bild angehängt. Es ist keine Aktion Ihrerseits erforderlich.
+C2PA-Metadaten sind dauerhafte, unsichtbare Metadaten, die aufzeichnen, wie ein Inhaltselement erstellt oder bearbeitet wurde. Wenn Sie ein Bild mit Tools für generative KI in Coworker for Teams generieren oder bearbeiten, werden C2PA-Metadaten automatisch an dieses Bild angehängt. Es ist keine Aktion Ihrerseits erforderlich.
 
 ## C2PA-Metadaten in E-Mail-Kampagnen {#c2pa-metadate-email}
 
@@ -21,7 +21,7 @@ Bilder, die in Ihren E-Mail-Kampagnen gesendet werden, behalten ihre C2PA-Metada
 
 ## Aktionen, die C2PA-Metadaten anhängen {#actions}
 
-In der folgenden Tabelle wird zusammengefasst, wann C2PA-Metadaten angehängt werden, basierend auf der Bildaktion, die bei der Bildgenerierung in Co-Worker-Kampagnen durchgeführt wurde.
+In der folgenden Tabelle wird zusammengefasst, wann C2PA-Metadaten angehängt sind, basierend auf der Bildaktion, die bei der Bildgenerierung in Coworker for Teams durchgeführt wurde.
 
 | Aktion | Beschreibung | C2PA-Metadaten angehängt? | Anwendungsbeispiel |
 | --- | --- | --- | --- |
@@ -29,12 +29,12 @@ In der folgenden Tabelle wird zusammengefasst, wann C2PA-Metadaten angehängt we
 
 ## Inhaltstypen und ihr Umfang {#content-types}
 
-* **Bilder**: Abgedeckt. C2PA-Metadaten werden angehängt, wenn Bilder mit generativer KI generiert werden, und bleiben durch Zuschneiden, Textüberlagerung und Bildüberlagerung erhalten, die von der Bildgenerierung in Coworker-Kampagnen ausgeführt werden.
-* **Text:** Nicht anwendbar. Reine Textausgaben in Coworker-Kampagnen, wie z. B. Kopiergenerierung, Übersetzung und Vorschläge für die Markenausrichtung, erfordern keine C2PA-Metadaten.
+* **Bilder**: Abgedeckt. C2PA-Metadaten werden angehängt, wenn Bilder mit generativer KI generiert werden, und bleiben durch Zuschneiden, Textüberlagerung und Bildüberlagerung erhalten, die von der Bildgenerierung in Coworker für Teams ausgeführt werden.
+* **Text:** Nicht anwendbar. Reine Textausgaben in Coworker für Teams wie Kopiererstellung, Übersetzung und Vorschläge für die Markenausrichtung erfordern keine C2PA-Metadaten.
 
 ## Was beim Verschieben von Inhalten passiert {#content-moves}
 
-Coworker Campaign behält C2PA-Metadaten bei, die mit unterstützten Bild-Assets verknüpft sind. Wenn ein Bild C2PA-Metadaten enthält, wenn es in Coworker Campaign importiert wird, bleiben diese Anmeldeinformationen erhalten, wenn das Asset in generierten Kampagneninhalten und in ausgehenden E-Mail-Erlebnissen verwendet wird.
+Ein Mitarbeiter für Teams behält C2PA-Metadaten bei, die mit unterstützten Bild-Assets verknüpft sind. Wenn ein Bild C2PA-Metadaten enthält, wenn sie für Teams in einen Kollegen importiert werden, bleiben diese Anmeldeinformationen erhalten, wenn das Asset in generierten Kampagneninhalten und in ausgehenden E-Mail-Erlebnissen verwendet wird.
 
 ## Zusätzliche Ressourcen {#resources}
 

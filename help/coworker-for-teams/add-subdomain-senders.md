@@ -7,10 +7,10 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: ebed9c3e740939a7f7520ab3bf1a6bbe5ba84019
+source-git-commit: 8c59f556cc9ea347c8f934507ac0db97fc7cb697
 workflow-type: tm+mt
-source-wordcount: '380'
-ht-degree: 5%
+source-wordcount: '383'
+ht-degree: 4%
 ---
 # Subdomain und Absender hinzufügen {#subdomain-senders}
 
@@ -54,19 +54,19 @@ Dies hilft Ihnen, die Reputation Ihrer Domain und anderer Subdomains zu schütze
    >
    >Wenn Ihr DNS-Anbieter Ihnen erlaubt, die Felder stapelweise hochzuladen, können Sie auf **CSV exportieren** klicken, um alle Felder zu exportieren.
 
-1. Wenn Sie die Informationen in Ihren DNS-Provider eingegeben haben, klicken Sie auf **Ich habe diese Einträge hinzugefügt** in CoWorker-Kampagnen, um fortzufahren.
+1. Wenn Sie die Informationen in Ihren DNS-Provider eingegeben haben, klicken Sie auf **Ich habe diese Einträge hinzugefügt** in Coworker for Teams , um fortzufahren.
 
    SCREENSHOT
 
    >[!NOTE]
    >
-   >Die Übertragung von DNS-Änderungen kann bis zu 30 Minuten dauern. Wenn in einer der Zeilen ein rotes X anstelle eines grünen Häkchens angezeigt wird, überprüfen Coworker-Kampagnen alle zwei Minuten, bis sie abgeschlossen sind.
+   >Die Übertragung von DNS-Änderungen kann bis zu 30 Minuten dauern. Wenn in einer der Zeilen ein rotes X anstelle eines grünen Häkchens angezeigt wird, prüft der Mitarbeiter für Teams alle zwei Minuten, bis der Vorgang abgeschlossen ist.
 
 1. Wenn alle Datensätze validiert wurden _wird unten_ Fenster eine Tabelle mit dem Namen „Validierungseintrag“ angezeigt. Scrollen Sie nach unten, kopieren Sie alle aufgelisteten Werte und fügen Sie sie zu Ihrem DNS-Anbieter hinzu.
 
    SCREENSHOT
 
-1. Wenn Sie fertig sind, klicken Sie **Ich habe diesen Datensatz hinzugefügt** (oder **diese Datensätze** wenn mehrere vorhanden sind) in den Kampagnen des Kollegen, um fortzufahren.
+1. Wenn Sie fertig sind, klicken Sie **Ich habe diesen Datensatz hinzugefügt** (oder **diese Datensätze** wenn mehrere vorhanden sind) in Coworker , damit Teams fortfahren können.
 
    SCREENSHOT
 
@@ -85,4 +85,3 @@ Dies hilft Ihnen, die Reputation Ihrer Domain und anderer Subdomains zu schütze
 ## Hinzufügen eines Absenders
 
 Text
-

@@ -1,5 +1,5 @@
 ---
-description: Eine schrittweise Anleitung zum Generieren einer E-Mail-Kampagne in Adobe CX Enterprise Coworker Campaign, vom Schreiben von Eingabeaufforderungen bis zum Überprüfen und Exportieren Ihrer Kampagne.
+description: Eine schrittweise Anleitung zum Generieren einer E-Mail-Kampagne in Adobe CX Enterprise Coworker für Teams, vom Schreiben von Eingabeaufforderungen bis zum Überprüfen und Exportieren Ihrer Kampagne.
 title: Erstellen einer E-Mail-Kampagne
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
@@ -7,9 +7,9 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 2d4922c334bcc2ec93dec46098a9c021623034ad
+source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
 workflow-type: tm+mt
-source-wordcount: '976'
+source-wordcount: '983'
 ht-degree: 0%
 ---
 # Erstellen einer E-Mail-Kampagne {#create-an-email-campaign}
@@ -24,7 +24,7 @@ Erfahren Sie, wie Sie in Minuten vollständige E-Mail-Kampagnen generieren und �
 
 Vergewissern Sie sich, dass Sie Folgendes haben:
 
-* Ein gültiges Adobe CX Enterprise Coworker-Kampagnenkonto ([hier anmelden](https://coworker-campaigns.experience.adobe.com/){target="_blank"} falls noch nicht geschehen).
+* Ein gültiges Adobe CX Enterprise Coworker für Teams-Konto ([hier anmelden](https://coworker-campaigns.experience.adobe.com/){target="_blank"} falls noch nicht geschehen).
 
 * Ihre Marke wurde unter **Ihre**&quot; > **Marken** hinzugefügt.
 
@@ -46,7 +46,7 @@ _Verwendung: Wenn Sie genau wissen, was Sie möchten._
 
 _Verwendung: Wenn Sie nicht sicher sind, was Sie möchten._
 
-**Option 3**: Verwenden Sie eine Option „Help me prompt“ aus der Dropdown-Liste in der Eingabeaufforderungsleiste, damit Coworker Campaign Sie durch die Erstellung Ihrer Eingabeaufforderung führt.
+**Option 3**: Verwenden Sie eine Option „Help me prompt“ aus der Dropdown-Liste in der Eingabeaufforderungsleiste, damit ein Mitarbeiter für Teams Sie durch das Schreiben Ihrer Eingabeaufforderung führt.
 
 _Verwendung: Wenn Sie eine Ahnung haben, was Sie möchten, aber gerne ein wenig Hilfe hätten (oder „Surprise Me“ verwenden, um überrascht zu werden)._
 
@@ -54,7 +54,7 @@ _Verwendung: Wenn Sie eine Ahnung haben, was Sie möchten, aber gerne ein wenig 
 
 ## Schritt 2: Eingabeaufforderung erstellen
 
-Eine Eingabeaufforderung für starke Coworker-Kampagnen umfasst:
+Ein starker Mitarbeiter für Teams-Eingabeaufforderungen umfasst:
 
 * Das Kampagnenziel (was Sie erreichen möchten).
 * Die Zielgruppe (für wen sie bestimmt ist oder woher die Zielgruppendaten stammen).
@@ -75,7 +75,7 @@ Beispiel:
 
 ![Eingeben in die eigene Eingabeaufforderung](./assets/create-an-email-campaign-2.png)
 
-Wenn Sie Ihre Eingabeaufforderung fertig haben, klicken Sie auf **Kampagne erstellen**. Coworker-Kampagnen werden dann:
+Wenn Sie Ihre Eingabeaufforderung fertig haben, klicken Sie auf **Kampagne erstellen**. Mitarbeiter für Teams werden dann:
 
 * Erstellen Sie einen strukturierten Kampagnenplan.
 * Fragen Sie nach Ihrer Zielgruppe, die auch für die Personalisierung von Inhalten verwendet wird.
@@ -115,7 +115,7 @@ Es gibt zwei Möglichkeiten, Ihre Inhalte zu aktualisieren.
 
 - oder -
 
-* Verwenden Sie die Benutzeroberfläche „Konversation“, um Änderungen vorzunehmen, indem Sie direkt mit Kollegen-Kampagnen sprechen. Einige Beispiele:
+* Verwenden Sie die Konversationsoberfläche, um Änderungen vorzunehmen, indem Sie für Teams direkt mit Kollegen sprechen. Einige Beispiele:
 
   * „Machen Sie die Betreffzeile dringlicher.“
   * „Kürzen Sie den Textkörper.“
@@ -149,7 +149,7 @@ Die Launch-Funktion (Senden Ihrer E-Mail-Kampagne) wird in Kürze verfügbar sei
 
 Es wird eine gesamte Kampagne für Sie generiert, einschließlich der Strategie, der gewünschten Audience, des Workflows usw. Die durchschnittliche Zeit für die erste Antwort mit Ihrem generierten Inhalt beträgt in der Regel etwa eine Minute.
 
-**Was kann ich tun, wenn die Ausgabe der Coworker-Kampagnen nicht richtig ist?**
+**Was kann ich tun, wenn der Output-Mitarbeiter für Teams nicht ganz richtig ist?**
 
 Klicken Sie auf das Feedback-Symbol in der Kopfzeile und teilen Sie uns dies mit, damit wir die Plattform verbessern können.
 

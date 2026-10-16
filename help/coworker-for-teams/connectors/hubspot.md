@@ -1,5 +1,5 @@
 ---
-description: Verbinden Sie Ihr HubSpot-Konto mit Coworker Campaign, indem Sie einen Service-Schlüssel verwenden, um Kontaktlisten zu synchronisieren und dann die Integration jederzeit zu verwalten oder zu trennen.
+description: Verbinden Sie Ihr HubSpot-Konto mit einem Kollegen für Teams, indem Sie einen Service-Schlüssel zum Synchronisieren von Kontaktlisten verwenden und dann die Integration jederzeit verwalten oder trennen.
 title: Mit HubSpot verbinden
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
@@ -7,14 +7,14 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '261'
 ht-degree: 0%
 ---
 # Mit HubSpot verbinden {#hubspot}
 
-Mit Adobe Coworker Campaign können Sie Ihr HubSpot-Konto verbinden, um Kontaktlisten abzurufen.
+Mit Adobe Coworker for Teams können Sie Ihr HubSpot-Konto verbinden, um Kontaktlisten abzurufen.
 
 >[!PREREQUISITES]
 >
@@ -25,7 +25,7 @@ Mit Adobe Coworker Campaign können Sie Ihr HubSpot-Konto verbinden, um Kontaktl
 
 ## So verbinden Sie sich
 
-1. Klicken Sie auf der [Startseite von &#x200B;](https://coworker-campaigns.experience.adobe.com/)-Kampagnen auf **Anpassen** und wählen Sie **Connectoren**.
+1. Klicken Sie auf der [Startseite für Teams](https://coworker-campaigns.experience.adobe.com/) auf **Anpassen** und wählen Sie **Connectoren**.
 
    ![Das Menü „Anpassen“ wurde in der Seitenleiste erweitert, wobei Connectoren ausgewählt sind](./assets/hubspot-1.png)
 

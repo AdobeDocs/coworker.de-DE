@@ -7,14 +7,14 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 12ee914ed944c82694b9373f611e19cf040e2229
+source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '224'
 ht-degree: 1%
 ---
 # Verbindung mit Salesforce herstellen {#salesforce}
 
-Mit Adobe Coworker-Kampagnen können Sie eine Verbindung zu Ihrem Salesforce-Konto herstellen, um auf Ihre Leads und Kontakte zuzugreifen.
+Mit Adobe Coworker for Teams können Sie eine Verbindung zu Ihrem Salesforce-Konto herstellen, um auf Ihre Leads und Kontakte zuzugreifen.
 
 >[!PREREQUISITES]
 >
@@ -26,9 +26,9 @@ Mit Adobe Coworker-Kampagnen können Sie eine Verbindung zu Ihrem Salesforce-Kon
 
 ## So verbinden Sie sich
 
-1. Klicken Sie auf der [Startseite von &#x200B;](https://coworker-campaigns.experience.adobe.com/)-Kampagnen auf **Anpassen** und wählen Sie **Connectoren**.
+1. Klicken Sie auf der [Startseite für Teams](https://coworker-campaigns.experience.adobe.com/) auf **Anpassen** und wählen Sie **Connectoren**.
 
-   ![Coworker-Kampagnen - linker Navigationsbereich mit hervorgehobener Option „Anpassen“ und „Connectoren“](./assets/salesforce-1.png)
+   ![Mitarbeiter für Teams haben die Navigation links verlassen, wobei „Erweitert anpassen“ und „Connectoren“ hervorgehoben wurden](./assets/salesforce-1.png)
 
 1. Klicken Sie **Integration hinzufügen**.
 
