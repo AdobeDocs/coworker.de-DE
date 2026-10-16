@@ -5,17 +5,17 @@ user-guide-description: Erfahren Sie mehr über Adobe CX Enterprise Coworker, ei
 description: Erfahren Sie mehr über KI-Tools in CX Enterprise. Verbessern Sie Ihr Produktwissen und erhalten Sie operative Erkenntnisse mithilfe von KI in CX Enterprise.
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
-source-git-commit: f914f4a123216985ae9b562413f26e7b8c29eb0f
+source-git-commit: 9d38c1c9bb50ff07d82da24143074090bf49d7aa
 workflow-type: tm+mt
-source-wordcount: '268'
-ht-degree: 18%
+source-wordcount: '275'
+ht-degree: 17%
 ---
 
 # CX Enterprise Coworker {#content}
 
 - [Übersicht über Kollegen](home.md)
 - Chat {#chat}
-  - [Übersicht](./chat/overview.md)
+  - [Überblick](./chat/overview.md)
   - [Erste Schritte mit dem Chat](./chat/ui-guide.md)
   - {hide-from-toc}[Coworker Chat im Playground](./playground-coworker-chat.md)
   - Anwendungsszenarien {#use-cases}
@@ -33,16 +33,16 @@ ht-degree: 18%
         - [Validieren der Experience Platform-Daten](./chat/use-cases/data-insights/data-validation-aep.md)
         - [Beschleunigen von Dateneinblicken](./chat/use-cases/data-insights/accelerate-data-insights.md)
       - Journey-Analyse {#journey-analysis}
-        - [Überblick](./chat/use-cases/data-insights/journey-analysis.md)
+        - [Übersicht](./chat/use-cases/data-insights/journey-analysis.md)
       - Zielgruppen- und Segmentanalyse {#audience-and-segment-analysis}
-        - [Übersicht](./chat/use-cases/data-insights/audience-and-segment-analysis.md)
+        - [Überblick](./chat/use-cases/data-insights/audience-and-segment-analysis.md)
       - Geschäftsergebnis {#business-performance}
-        - [Überblick](./chat/use-cases/data-insights/business-performance.md)
+        - [Übersicht](./chat/use-cases/data-insights/business-performance.md)
         - [Trends und Grundursachen untersuchen](./chat/use-cases/data-insights/root-cause-analysis.md)
       - Content-Performance {#content-performance}
-        - [Übersicht](./chat/use-cases/data-insights/content-performance.md)
+        - [Überblick](./chat/use-cases/data-insights/content-performance.md)
       - Marketing-Messung und -Attribution {#marketing-measurement-and-attribution}
-        - [Überblick](./chat/use-cases/data-insights/marketing-measurement-and-attribution.md)
+        - [Übersicht](./chat/use-cases/data-insights/marketing-measurement-and-attribution.md)
     - Daten-Onboarding {#data-onboarding}
       - {hide-from-toc}[Onboarding von Daten mit Kollegen](./agents/data-onboarding-skill.md)
     - Daten-Management {#data-management}
@@ -51,6 +51,7 @@ ht-degree: 18%
       - [Plattformintegrität bewerten und Zielgruppen erstellen](./chat/use-cases/audiences/create-audience-from-natural-language.md)
     - Journeys {#journeys}
       - [Erstellen von Journey in natürlicher Sprache](./chat/use-cases/journeys/create-journey-from-natural-language.md)
+      - [Erstellen, Simulieren und Analysieren von Cross-Channel-Journey](./chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker-feature-video.md)
     - Treue {#loyalty}
       - [Erstellen einer Herausforderung zur Treue und Aufdecken von Einblicken](./chat/use-cases/journeys/create-loyalty-challenge.md)
     - Optimierung {#optimization}
