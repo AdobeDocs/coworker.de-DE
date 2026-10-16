@@ -5,7 +5,7 @@ product_v2:
   internal-label: CX Enterprise Coworker
 feature_v2:
   internal-label: CX Enterprise Coworker
-source-git-commit: f914f4a123216985ae9b562413f26e7b8c29eb0f
+source-git-commit: 4bbaf3021be6518ce3aa811efec7b4d0d2746199
 workflow-type: tm+mt
 source-wordcount: '1281'
 ht-degree: 2%
@@ -40,7 +40,7 @@ Die folgenden Anwendungsfälle sind nach Analyse-Domain gruppiert. Jede Domain v
 
 | Domain | Mögliche Optionen | Geeignet für |
 | --- | --- | --- |
-| [Data Governance und Validierung](/help/chat/use-cases/data-insights/data-governance-and-validation.md) | Richten Sie Ihre Implementierung ein, migrieren und verwalten Sie sie und stellen Sie sicher, dass Sie den Daten hinter jeder Antwort vertrauen können. | Admin |
+| [Intelligente Implementierung und Verwaltung](/help/chat/use-cases/data-insights/data-governance-and-validation.md) | Richten Sie Ihre Implementierung ein, migrieren und verwalten Sie sie und stellen Sie sicher, dass Sie den Daten hinter jeder Antwort vertrauen können. | Admin |
 | [Journey-Analyse](/help/chat/use-cases/data-insights/journey-analysis.md) | Finden Sie heraus, wo Kunden die Journey zur Konvertierung abbrechen und warum, über Kanäle, Geräte und Segmente hinweg. | Analyst, Business-Anwender |
 | [Zielgruppen- und Segmentanalyse](/help/chat/use-cases/data-insights/audience-and-segment-analysis.md) | Erfahren Sie, welche Kundengruppen sich anders verhalten und wie Sie sich verhalten, damit Sie sich auf die wichtigen konzentrieren können. | Analyst, Business-Anwender |
 | [Business Performance](/help/chat/use-cases/data-insights/business-performance.md) | Verstehen, wie sich das Unternehmen entwickelt, warum sich eine Metrik bewegt, wohin sie sich bewegt und was als Nächstes zu tun ist. | Analyst, Business-Anwender |

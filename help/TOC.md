@@ -5,7 +5,7 @@ user-guide-description: Erfahren Sie mehr über Adobe CX Enterprise Coworker, ei
 description: Erfahren Sie mehr über KI-Tools in CX Enterprise. Verbessern Sie Ihr Produktwissen und erhalten Sie operative Erkenntnisse mithilfe von KI in CX Enterprise.
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
-source-git-commit: 9d38c1c9bb50ff07d82da24143074090bf49d7aa
+source-git-commit: 4bbaf3021be6518ce3aa811efec7b4d0d2746199
 workflow-type: tm+mt
 source-wordcount: '275'
 ht-degree: 17%
@@ -15,7 +15,7 @@ ht-degree: 17%
 
 - [Übersicht über Kollegen](home.md)
 - Chat {#chat}
-  - [Überblick](./chat/overview.md)
+  - [Übersicht](./chat/overview.md)
   - [Erste Schritte mit dem Chat](./chat/ui-guide.md)
   - {hide-from-toc}[Coworker Chat im Playground](./playground-coworker-chat.md)
   - Anwendungsszenarien {#use-cases}
@@ -23,8 +23,8 @@ ht-degree: 17%
     - Data Insights {#data-insights}
       - [Überblick](./chat/use-cases/data-insights/analytics-overview.md)
       - [Erste Schritte](./chat/use-cases/data-insights/analytics-chat.md)
-      - Data Governance und Validierung {#data-governance-and-validation}
-        - [Übersicht](./chat/use-cases/data-insights/data-governance-and-validation.md)
+      - Intelligente Implementierung und Verwaltung {#intelligent-implementation-and-administration}
+        - [Überblick](./chat/use-cases/data-insights/data-governance-and-validation.md)
         - [Implementierung planen](./chat/use-cases/data-insights/implementation-guide.md)
         - [Erstellen einer Checkliste für die Implementierung](./chat/use-cases/data-insights/intelligent-checklist.md)
         - [Validieren von AA zu CJA-Daten beim Upgrade](./chat/use-cases/data-insights/data-validation-aa-cja.md)
@@ -33,16 +33,16 @@ ht-degree: 17%
         - [Validieren der Experience Platform-Daten](./chat/use-cases/data-insights/data-validation-aep.md)
         - [Beschleunigen von Dateneinblicken](./chat/use-cases/data-insights/accelerate-data-insights.md)
       - Journey-Analyse {#journey-analysis}
-        - [Übersicht](./chat/use-cases/data-insights/journey-analysis.md)
+        - [Überblick](./chat/use-cases/data-insights/journey-analysis.md)
       - Zielgruppen- und Segmentanalyse {#audience-and-segment-analysis}
         - [Überblick](./chat/use-cases/data-insights/audience-and-segment-analysis.md)
       - Geschäftsergebnis {#business-performance}
-        - [Übersicht](./chat/use-cases/data-insights/business-performance.md)
+        - [Überblick](./chat/use-cases/data-insights/business-performance.md)
         - [Trends und Grundursachen untersuchen](./chat/use-cases/data-insights/root-cause-analysis.md)
       - Content-Performance {#content-performance}
-        - [Überblick](./chat/use-cases/data-insights/content-performance.md)
+        - [Übersicht](./chat/use-cases/data-insights/content-performance.md)
       - Marketing-Messung und -Attribution {#marketing-measurement-and-attribution}
-        - [Übersicht](./chat/use-cases/data-insights/marketing-measurement-and-attribution.md)
+        - [Überblick](./chat/use-cases/data-insights/marketing-measurement-and-attribution.md)
     - Daten-Onboarding {#data-onboarding}
       - {hide-from-toc}[Onboarding von Daten mit Kollegen](./agents/data-onboarding-skill.md)
     - Daten-Management {#data-management}
@@ -69,7 +69,7 @@ ht-degree: 17%
     - Workflow und Planung {#workflow-and-planning}
       - [Planen eines Launches einer digitalen Kampagne](./chat/use-cases/workflow-and-planning/plan-digital-campaign-launch.md)
 - Anpassungen {#customizations}
-  - [Übersicht](./customizations/overview.md)
+  - [Überblick](./customizations/overview.md)
   - Skills {#skills}
     - [Was sind Fähigkeiten?](./customizations/skills/what-are-skills.md)
     - [Erstellen Ihrer ersten Kenntnisse](./customizations/skills/create-your-first-skill.md)
