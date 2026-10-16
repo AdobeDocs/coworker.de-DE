@@ -5,10 +5,10 @@ user-guide-description: Erfahren Sie mehr über Adobe CX Enterprise Coworker, ei
 description: Erfahren Sie mehr über KI-Tools in CX Enterprise. Verbessern Sie Ihr Produktwissen und erhalten Sie operative Erkenntnisse mithilfe von KI in CX Enterprise.
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
-source-git-commit: 4d91397c769a76fba4f0ec1c3e86938a01fe2c6a
+source-git-commit: f914f4a123216985ae9b562413f26e7b8c29eb0f
 workflow-type: tm+mt
-source-wordcount: '250'
-ht-degree: 16%
+source-wordcount: '268'
+ht-degree: 18%
 ---
 
 # CX Enterprise Coworker {#content}
@@ -24,6 +24,7 @@ ht-degree: 16%
       - [Überblick](./chat/use-cases/data-insights/analytics-overview.md)
       - [Erste Schritte](./chat/use-cases/data-insights/analytics-chat.md)
       - Data Governance und Validierung {#data-governance-and-validation}
+        - [Übersicht](./chat/use-cases/data-insights/data-governance-and-validation.md)
         - [Implementierung planen](./chat/use-cases/data-insights/implementation-guide.md)
         - [Erstellen einer Checkliste für die Implementierung](./chat/use-cases/data-insights/intelligent-checklist.md)
         - [Validieren von AA zu CJA-Daten beim Upgrade](./chat/use-cases/data-insights/data-validation-aa-cja.md)
@@ -31,8 +32,17 @@ ht-degree: 16%
         - [Validieren der Datensatzqualität für CJA-Berichte](./chat/use-cases/data-insights/validate-dataset-quality-for-cja.md)
         - [Validieren der Experience Platform-Daten](./chat/use-cases/data-insights/data-validation-aep.md)
         - [Beschleunigen von Dateneinblicken](./chat/use-cases/data-insights/accelerate-data-insights.md)
+      - Journey-Analyse {#journey-analysis}
+        - [Überblick](./chat/use-cases/data-insights/journey-analysis.md)
+      - Zielgruppen- und Segmentanalyse {#audience-and-segment-analysis}
+        - [Übersicht](./chat/use-cases/data-insights/audience-and-segment-analysis.md)
       - Geschäftsergebnis {#business-performance}
+        - [Überblick](./chat/use-cases/data-insights/business-performance.md)
         - [Trends und Grundursachen untersuchen](./chat/use-cases/data-insights/root-cause-analysis.md)
+      - Content-Performance {#content-performance}
+        - [Übersicht](./chat/use-cases/data-insights/content-performance.md)
+      - Marketing-Messung und -Attribution {#marketing-measurement-and-attribution}
+        - [Überblick](./chat/use-cases/data-insights/marketing-measurement-and-attribution.md)
     - Daten-Onboarding {#data-onboarding}
       - {hide-from-toc}[Onboarding von Daten mit Kollegen](./agents/data-onboarding-skill.md)
     - Daten-Management {#data-management}
@@ -73,11 +83,11 @@ ht-degree: 16%
     - [Was ist Speicher?](./customizations/memory/what-is-memory.md)
 - Mitarbeiter für Teams {#coworker-for-teams}
   - {hide-from-toc}[Neues Team-Erlebnis](./coworker-for-teams/new-teams-experience.md)
-  - [Übersicht](./coworker-for-teams/overview.md)
+  - [Überblick](./coworker-for-teams/overview.md)
   - [Erstellen einer E-Mail-Kampagne](./coworker-for-teams/create-an-email-campaign.md)
   - [Starten und Verwalten einer Kampagne](./coworker-for-teams/launch-manage-campaign.md)
   - [Anwendungsszenarien](./coworker-for-teams/use-cases.md)
-  - [Best Practices bei der Eingabeaufforderung](./coworker-for-teams/prompting-best-practices.md)
+  - [Best Practices für die Prompt-Erstellung](./coworker-for-teams/prompting-best-practices.md)
   - [C2PA-Metadaten](./coworker-for-teams/c2pa-metadata.md)
   - Connectoren {#connectors}
     - [Marketo Engage](./coworker-for-teams/connectors/marketo.md)
