@@ -5,15 +5,15 @@ user-guide-description: Erfahren Sie mehr über Adobe CX Enterprise Coworker, ei
 description: Erfahren Sie mehr über KI-Tools in CX Enterprise. Verbessern Sie Ihr Produktwissen und erhalten Sie operative Erkenntnisse mithilfe von KI in CX Enterprise.
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
-source-git-commit: be1be18a25c57eafa07b326b1bf5800527cb1c7d
+source-git-commit: 2b61bbc29954e10515b5bbdbd7bafe48c7cbfdbd
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '282'
 ht-degree: 15%
 ---
 
 # CX Enterprise Coworker {#content}
 
-- [Übersicht über Kollegen](home.md)
+- [Anleitung für Mitarbeiter](home.md)
 - Chat {#chat}
   - [Über den Coworker Chat](./chat/overview.md)
   - [Erste Schritte mit dem Kollegen-Chat](./chat/ui-guide.md)
@@ -69,7 +69,7 @@ ht-degree: 15%
     - Workflow und Planung {#workflow-and-planning}
       - [Planen eines Launches einer digitalen Kampagne](./chat/use-cases/workflow-and-planning/plan-digital-campaign-launch.md)
 - Anpassungen {#customizations}
-  - [Überblick](./customizations/overview.md)
+  - [Anpassungen - Übersicht](./customizations/overview.md)
   - Skills {#skills}
     - [Was sind Fähigkeiten?](./customizations/skills/what-are-skills.md)
     - [Erstellen Ihrer ersten Kenntnisse](./customizations/skills/create-your-first-skill.md)
