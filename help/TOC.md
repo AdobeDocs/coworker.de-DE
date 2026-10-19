@@ -5,24 +5,24 @@ user-guide-description: Erfahren Sie mehr über Adobe CX Enterprise Coworker, ei
 description: Erfahren Sie mehr über KI-Tools in CX Enterprise. Verbessern Sie Ihr Produktwissen und erhalten Sie operative Erkenntnisse mithilfe von KI in CX Enterprise.
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
-source-git-commit: 4bbaf3021be6518ce3aa811efec7b4d0d2746199
+source-git-commit: be1be18a25c57eafa07b326b1bf5800527cb1c7d
 workflow-type: tm+mt
-source-wordcount: '275'
-ht-degree: 17%
+source-wordcount: '281'
+ht-degree: 15%
 ---
 
 # CX Enterprise Coworker {#content}
 
 - [Übersicht über Kollegen](home.md)
 - Chat {#chat}
-  - [Übersicht](./chat/overview.md)
-  - [Erste Schritte mit dem Chat](./chat/ui-guide.md)
+  - [Über den Coworker Chat](./chat/overview.md)
+  - [Erste Schritte mit dem Kollegen-Chat](./chat/ui-guide.md)
   - {hide-from-toc}[Coworker Chat im Playground](./playground-coworker-chat.md)
-  - Anwendungsszenarien {#use-cases}
+  - Workflows {#use-cases}
     - [Chat-Workflows für Kollegen](./chat/use-cases/workflows.md)
     - Data Insights {#data-insights}
-      - [Überblick](./chat/use-cases/data-insights/analytics-overview.md)
-      - [Erste Schritte](./chat/use-cases/data-insights/analytics-chat.md)
+      - [Über die Datenanalyse](./chat/use-cases/data-insights/analytics-overview.md)
+      - [Erste Schritte mit der Datenanalyse](./chat/use-cases/data-insights/analytics-chat.md)
       - Intelligente Implementierung und Verwaltung {#intelligent-implementation-and-administration}
         - [Überblick](./chat/use-cases/data-insights/data-governance-and-validation.md)
         - [Implementierung planen](./chat/use-cases/data-insights/implementation-guide.md)
@@ -40,7 +40,7 @@ ht-degree: 17%
         - [Überblick](./chat/use-cases/data-insights/business-performance.md)
         - [Trends und Grundursachen untersuchen](./chat/use-cases/data-insights/root-cause-analysis.md)
       - Content-Performance {#content-performance}
-        - [Übersicht](./chat/use-cases/data-insights/content-performance.md)
+        - [Überblick](./chat/use-cases/data-insights/content-performance.md)
       - Marketing-Messung und -Attribution {#marketing-measurement-and-attribution}
         - [Überblick](./chat/use-cases/data-insights/marketing-measurement-and-attribution.md)
     - Daten-Onboarding {#data-onboarding}
