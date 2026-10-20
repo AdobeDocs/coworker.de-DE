@@ -7,18 +7,14 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
+source-git-commit: 54ce8ccc61cf4c2eaa6a59ac68b6e75eeba2f772
 workflow-type: tm+mt
-source-wordcount: '983'
+source-wordcount: '964'
 ht-degree: 0%
 ---
 # Erstellen einer E-Mail-Kampagne {#create-an-email-campaign}
 
 Erfahren Sie, wie Sie in Minuten vollständige E-Mail-Kampagnen generieren und überprüfen können.
-
->[!IMPORTANT]
->
->Derzeit können Sie nur Kampagnen generieren. Sie können sie noch nicht senden (starten). Die Launch-Funktion wird in Kürze verfügbar sein.
 
 ## Vorbereitung
 
