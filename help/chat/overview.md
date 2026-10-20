@@ -7,12 +7,12 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
+source-git-commit: 5dcd4ea4f6fe540f6f48e9db73d8c2de8b43d90d
 workflow-type: tm+mt
-source-wordcount: '751'
-ht-degree: 4%
+source-wordcount: '719'
+ht-degree: 6%
 ---
-# Übersicht über den Adobe CX Enterprise Coworker-Chat {#overview}
+# Über den Coworker Chat {#overview}
 
 Der Coworker Chat ist eine Gesprächsoberfläche, um Kundenerlebnisaufgaben zu erledigen. Sie beschreiben ein Ziel in verständlicher Sprache (z. B. „Erstellen einer Zielgruppe für die Frühjahrs-Yoga-Promotion“ oder „Sagen Sie mir, warum diese Zielgruppe letzte Woche geschrumpft ist„) und Coworker Chat plant die Arbeit, führt sie in Ihrem Adobe und verbundenen Systemen aus, validiert die Ergebnisse und bringt die fertige Arbeit zur Genehmigung an Sie zurück.
 
@@ -22,7 +22,7 @@ Informationen zu den ersten Schritten finden [&#x200B; unter „Erste Schritte m
 
 >[!AVAILABILITY]
 >
->Der Coworker Chat ist allgemein verfügbar. Funktionen und verbundene Anwendungen werden weiter ausgebaut. In den Abschnitten Verfügbare Fähigkeiten und Connectoren finden Sie, was heute unterstützt wird.
+>Der Coworker Chat ist allgemein verfügbar. Funktionen und verbundene Anwendungen werden weiter ausgebaut. Überprüfen Sie die verfügbaren Abschnitte [Kenntnisse](./use-cases/workflows.md) und Connectoren für das, was heute unterstützt wird.
 
 >[!NOTE]
 >
@@ -30,7 +30,7 @@ Informationen zu den ersten Schritten finden [&#x200B; unter „Erste Schritte m
 
 ## Eine Weiterentwicklung des KI-Assistenten
 
-Wenn Sie KI-Assistent und Adobe Experience Platform Agent Orchestrator verwendet haben, ist der Coworker Chat die nächste Progression. Der KI-Assistent entwickelt sich zum Coworker Chat. Alles, was Sie heute mit dem KI-Assistenten tun können, indem Sie speziell für Adobe entwickelte Agenten aufrufen (Produktwissen, operative und Dateneinblicke, das Gesprächserlebnis), bleibt weiterhin verfügbar. Der Coworker Chat wird durch die Coworker-Bausteine (den Enterprise-Harness, Fähigkeiten, Governance und Gedächtnis) unterstützt, sodass dieselbe Konversation jetzt über die Beantwortung hinausgehen und die Arbeit tatsächlich von Anfang bis Ende abschließen kann.
+Der Coworker Chat ist der nächste Schritt nach [AI Assistant](https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/ai-assistant/ai-assistant-ui) und Adobe Experience Platform Agent Orchestrator. Alles, was Sie heute in AI Assistant tun können, einschließlich Produktkenntnissen und Einblicken in Betrieb und Daten, bleibt weiterhin verfügbar. Coworker Chat fügt die [Bausteine“ hinzu](#building-blocks) die ein Gespräch die Arbeit vervollständigen können, nicht nur Fragen beantworten.
 
 ## Das Chaterlebnis
 
@@ -40,10 +40,6 @@ Wenn Sie KI-Assistent und Adobe Experience Platform Agent Orchestrator verwendet
 * **Empfohlene und nachfolgende Eingabeaufforderungen:** Coworker Chat schlägt die nächsten Schritte vor, sodass Sie nicht erraten müssen, was Sie fragen sollen.
 * **Gesprächsverlauf:** Vergangene Unterhaltungen werden gespeichert, sodass Sie zu früheren Arbeiten zurückkehren, dort weitermachen können, wo Sie aufgehört haben, und das, was der Coworker Chat produziert hat, wiederverwenden können.
 * **Feedback integriert:** Bewerten Sie jede Antwort mit einem Daumen hoch oder einem Daumen runter, um Kollegen im Chat zu sagen, was funktioniert hat und was nicht. Ihr Feedback hilft, das Erlebnis im Laufe der Zeit zu verbessern.
-
->[!NOTE]
->
->Screenshots der Benutzeroberfläche werden hinzugefügt, sobald das Erlebnis abgeschlossen ist.
 
 ## Kompatible CX Enterprise-Anwendungen
 

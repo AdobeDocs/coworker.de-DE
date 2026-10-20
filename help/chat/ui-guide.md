@@ -8,9 +8,9 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 74f8413fcb9bb0ab6c257a56c38e5e374414e2d5
+source-git-commit: 80f7bf9003e360b9ca6d0e1868c056447d35b763
 workflow-type: tm+mt
-source-wordcount: '1802'
+source-wordcount: '1801'
 ht-degree: 3%
 ---
 # Erste Schritte mit dem Coworker Chat {#ui-guide}
@@ -65,7 +65,7 @@ So ändern Sie den Kontext:
 
 Das Kontomenü enthält außerdem die folgenden Optionen:
 
-| Option | Verwenden Sie ihn, um |
+| Option | Verwenden Sie sie für folgende Zwecke: |
 | --- | --- |
 | **[!UICONTROL Design]** | Wechseln Sie zwischen den hellen und dunklen Designs. |
 | **[!UICONTROL Einstellungen]** | Anzeigen von Kontodetails und Arbeitsbereich-Einstellungen. |
@@ -80,7 +80,7 @@ Der Arbeitsbereich umfasst zwei Bereiche: die Navigationsleiste auf der linken S
 
 Verwenden Sie die Navigationsleiste, um zwischen den Teilen des Produkts zu wechseln und zur letzten Arbeit zurückzukehren.
 
-| Option | Verwenden Sie ihn, um |
+| Option | Verwenden Sie sie für folgende Zwecke: |
 | --- | --- |
 | **[!UICONTROL Neuer Chat]** | Beginnen Sie ein Gespräch. Coworker Chat speichert Ihren aktuellen Chat in Ihrem Verlauf. |
 | **[!UICONTROL Startseite]** | Kehren Sie zur Begrüßung, zum Eingabefeld und zu den vorgeschlagenen Eingabeaufforderungen zurück. |
@@ -114,7 +114,7 @@ Um auf ein bestimmtes Objekt in Ihrer Sandbox zu verweisen, geben Sie **+** in d
 
 Die Symbolleiste unter dem Eingabefeld steuert, was Sie anhängen, wie der Coworker Chat sich der Aufgabe nähert und wie viel von ihrer Arbeit Sie sehen.
 
-| Kontrollvariante | Verwenden Sie ihn, um |
+| Kontrollvariante | Verwenden Sie sie für folgende Zwecke: |
 | --- | --- |
 | **[!UICONTROL +]** (Anhängen) | Fügen Sie Ihrer Nachricht eine Datei oder ein Sandbox-Objekt hinzu. |
 | **[!UICONTROL Planmodus]** | Lesen Sie einen schrittweisen Plan, bevor Sie im Coworker Chat agieren. |
@@ -213,7 +213,7 @@ Um eine Konversation anzuheften, umzubenennen, zu archivieren oder zu löschen, 
 
 ## Kollegen-Chat anpassen
 
-In den Konfigurationen können Sie steuern, was der Coworker Chat tun kann. Klicken Sie in **[!UICONTROL Navigationsleiste auf]** Konfigurationen“ und wählen Sie dann eine Registerkarte aus: **[!UICONTROL Kenntnisse]**, **[!UICONTROL MCP-Server]**, **[!UICONTROL Marketplaces]**, **[!UICONTROL Plugins]** oder **[!UICONTROL Memory]**.
+[!UICONTROL Anpassungen] steuern, was [!UICONTROL Coworker Chat] tun kann. Klicken Sie in **[!UICONTROL Navigationsleiste auf]** Anpassungen“ und wählen Sie dann eine Registerkarte aus: **[!UICONTROL Kenntnisse]**, **[!UICONTROL Integrationen]**, **[!UICONTROL Marketplaces]**, **[!UICONTROL Plugins]** oder **[!UICONTROL Memory]**.
 
 ### Hinzufügen und Anzeigen von Kenntnissen
 
@@ -221,8 +221,9 @@ Kenntnisse sind spezialisierte Funktionen, die Coworker Chat automatisch verwend
 
 ![Die Registerkarte „Fähigkeiten“](./assets/ui-guide-12.png)
 
-1. Klicken Sie auf der **[!UICONTROL Kenntnisse]**-Registerkarte auf **[!UICONTROL Source hinzufügen]**, um die Kenntnisse aus einer neuen Quelle zu installieren.
-1. Geben Sie in **[!UICONTROL Suchen]** einen Namen ein, um eine Qualifikation zu finden. Verwenden Sie den Umschalter Ansicht , um zwischen Raster- und Listen-Layouts zu wechseln.
+1. Klicken Sie auf der **[!UICONTROL Kenntnisse]** auf **[!UICONTROL Kenntnisse hinzufügen]**, um Kenntnisse aus einer neuen Quelle zu installieren.
+1. Geben Sie in **[!UICONTROL Suchen]** einen Namen ein, um eine Qualifikation zu finden.
+Verwenden Sie den Umschalter Ansicht , um zwischen Raster- und Listen-Layouts zu wechseln.
 1. Wählen Sie eine Qualifikation aus, um das Plug-in, zu dem sie gehört, und die darin enthaltenen Dateien anzuzeigen, wenn Coworker Chat sie verwendet.
 
    ![Eine Ansicht mit Kenntnisdetails, die unterstützende Dateien anzeigt](./assets/ui-guide-13.png)

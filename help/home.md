@@ -7,10 +7,10 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 53e769c5478f46ec9240c62534994d8c30ce8380
+source-git-commit: ebe0bd0f8e420b007e1b99ec2e15fd3b249305e6
 workflow-type: tm+mt
-source-wordcount: '936'
-ht-degree: 18%
+source-wordcount: '979'
+ht-degree: 17%
 ---
 # Handbuch zu CX Enterprise Coworker {#overview}
 
@@ -22,13 +22,13 @@ Ein Kollege wechselt von KI _unterstützend_ zu _handelnd_. Anstatt selbst zwisc
 
 [!DNL Coworker] wird durch drei Erlebnisse bereitgestellt:
 
-* **[Coworker [!UICONTROL Chat]](./chat/overview.md):** Fragen Sie nach Einblicken, Inhalten und Aktionen in allen Adobe-Anwendungen in natürlicher Sprache.
-* **[Mitarbeiter [!UICONTROL für Teams]](./coworker-for-teams/overview.md):** Hilft Agile-Marketing-Teams, von einem Kampagnenziel zur koordinierten Ausführung überzugehen.
+* **[Coworker [!UICONTROL Chat]](./chat/overview.md):** Fragen Sie nach Einblicken, Inhalten und Aktionen in allen Adobe-Anwendungen in natürlicher Sprache. Der Chat wird über Ihr Konto-Team lizenziert und aktiviert.
+* **[Mitarbeiter [!UICONTROL für Teams]](./coworker-for-teams/overview.md):** Hilft Agile-Marketing-Teams, von einem Kampagnenziel zur koordinierten Ausführung überzugehen. Coworker for Teams ist eine kostenlose Selbstbedienungs-Testversion unter einer eigenen URL, die am 31. Dezember 2026 endet und nur in Nordamerika verfügbar ist.
 * **Coworker [!UICONTROL Projects] (in Kürze verfügbar):** Für langwierige, funktionsübergreifende Unternehmens-Workflows, in denen Teams die Prozesse, Genehmigungen und die Autonomie von Coworker festlegen.
 
-## Aktivieren von Coworker
+## Aktivieren des Coworker Chat
 
-Um Coworker (einschließlich Coworker Chat) zu aktivieren, muss Ihr Unternehmen Zugriff auf Adobe CX Enterprise Coworker haben. Die Aktivierung umfasst normalerweise:
+Um den Coworker Chat zu aktivieren, benötigt Ihr Unternehmen Zugriff auf Adobe CX Enterprise Coworker. Die Aktivierung umfasst normalerweise:
 
 * **Lizenzierung:** Wenden Sie sich an Ihren Adobe-Kundenbetreuer oder Ihr Vertriebsteam, um zu bestätigen, dass Sie über die richtigen Lizenzen und Berechtigungen verfügen.
 
@@ -36,7 +36,9 @@ Um Coworker (einschließlich Coworker Chat) zu aktivieren, muss Ihr Unternehmen 
 
 * **Zugriff:** Weisen Sie Ihren Teams in der Adobe [Admin Console Rollen und Zugriff auf Coworker-Funktionen zu](https://experienceleague.adobe.com/de/docs/core-services/interface/administration/admin-console).
 
-* **Erste Schritte:** Sobald der Coworker aktiviert ist, finden Sie unter [Erste Schritte mit dem Coworker Chat](./chat/ui-guide.md) Informationen über die Oberfläche des Coworker Chat, einschließlich Eingabefeld, Antworten, Chat-Verlauf und Fähigkeiten, MCP-Server und Speichereinstellungen.
+* **Erste Schritte:** Sobald der Coworker aktiviert ist, finden Sie unter [Erste Schritte mit dem Coworker Chat](./chat/ui-guide.md) Informationen über die Oberfläche des Coworker Chat, einschließlich des Eingabefelds, der Antworten und des Chatverlaufs.
+
+Informationen zum Anpassen des Coworker Chat an Ihr Team finden Sie unter [Fähigkeiten](./customizations/skills/what-are-skills.md), [Integrationen](./customizations/integrations/understanding-integrations-in-coworker.md), [Plug-ins](./customizations/plugins/what-are-plugins.md) und [Speicher](./customizations/memory/what-is-memory.md) oder beginnen Sie mit der [Übersicht über Anpassungen](./customizations/overview.md).
 
 ## Videos zur Verwendung des Coworker Chat
 
@@ -116,10 +118,10 @@ Coworker Projects ist ein freigegebener Arbeitsbereich zur Automatisierung von K
 
 **Beliebte Artikel**
 
-* [Übersicht](./coworker-for-teams/overview.md)
+* [Überblick](./coworker-for-teams/overview.md)
 * [Erstellen einer E-Mail-Kampagne](./coworker-for-teams/create-an-email-campaign.md)
 * [Anwendungsszenarien](./coworker-for-teams/use-cases.md)
-* [Best Practices bei der Eingabeaufforderung](./coworker-for-teams/prompting-best-practices.md)
+* [Best Practices für die Prompt-Erstellung](./coworker-for-teams/prompting-best-practices.md)
 
 ## Experience League LIVE: Entsperrte Serie für Kollegen
 
