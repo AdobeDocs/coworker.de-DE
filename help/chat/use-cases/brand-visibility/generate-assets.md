@@ -10,10 +10,7 @@ jira: KT-22502
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-feature_v2:
-  - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 2d4922c334bcc2ec93dec46098a9c021623034ad
+source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
@@ -27,4 +24,4 @@ Um zum Beispiel einen Instagram-Kaffeepost zu erstellen, können Sie eine kurze 
 
 Coworker bietet zudem Flexibilität bei der weiteren Anpassung. Sie können Assets ändern, Varianten erstellen oder Inhalte für verschiedene Formate, wie z. B. Instagram-Stories, anpassen. Dieser Ansatz ermöglicht es Ihnen, sich auf Ihre Ziele zu konzentrieren, während ein Mitarbeiter die technischen Details verwaltet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3502718/?captions=ger&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502692/?learn=on&enablevpops)

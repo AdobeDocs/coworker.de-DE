@@ -4,10 +4,7 @@ description: Planen Sie Ihre Implementierung, verfolgen Sie sie in einer Checkli
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-feature_v2:
-  - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 4bbaf3021be6518ce3aa811efec7b4d0d2746199
+source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
 workflow-type: tm+mt
 source-wordcount: '1126'
 ht-degree: 0%
@@ -26,7 +23,7 @@ Intelligente Implementierung und Verwaltung ist eine von mehreren Analyse-Domain
 Die Anwendungsfälle auf dieser Seite folgen einem optionalen, dreistufigen Workflow. Sie können jede Phase selbst verwenden. Beispielsweise können Sie Ihre Daten validieren, ohne zuerst einen Plan oder eine Checkliste zu generieren.
 
 1. **Plan:** Erhalten Sie einen personalisierten, geordneten Implementierungs- oder Upgrade-Plan. Siehe [Planen der Implementierung mit Coworker](/help/chat/use-cases/data-insights/implementation-guide.md).
-1. **Implementieren:** Verwandeln Sie Ihren Plan in eine Checkliste mit Coworker-Projekten, die Ihr Team zuweisen und verfolgen kann. Siehe [Generieren einer Implementierungs-Checkliste mit &#x200B;](/help/chat/use-cases/data-insights/intelligent-checklist.md).
+1. **Implementieren:** Verwandeln Sie Ihren Plan in eine Checkliste mit Coworker-Projekten, die Ihr Team zuweisen und verfolgen kann. Siehe [Generieren einer Implementierungs-Checkliste mit ](/help/chat/use-cases/data-insights/intelligent-checklist.md).
 1. **Validieren** Vergewissern Sie sich, dass Ihre Daten korrekt konfiguriert und erfasst wurden. Siehe die Anwendungsfälle für die Validierung in der Tabelle [Anwendungsfälle](#use-cases).
 
 ## Voraussetzungen

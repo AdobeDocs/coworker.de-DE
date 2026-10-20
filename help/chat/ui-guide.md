@@ -5,10 +5,7 @@ jira: KT-22106
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-feature_v2:
-  - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 80f7bf9003e360b9ca6d0e1868c056447d35b763
+source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
 workflow-type: tm+mt
 source-wordcount: '1801'
 ht-degree: 3%
@@ -46,7 +43,7 @@ Um das immersive Erlebnis zu nutzen, melden Sie sich mit Ihren Adobe-Anmeldeinfo
 
 ## Video - Grundlagen der [!DNL Coworker] Chat-Oberfläche
 
->[!VIDEO](https://video.tv.adobe.com/v/3498574?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
 
 ## Organisation auswählen
 
@@ -101,7 +98,7 @@ So senden Sie eine Nachricht:
    * Wählen Sie eine Eingabeaufforderung unter **[!UICONTROL Empfohlen für Sie]** aus. Der Coworker Chat fügt es in das Eingabefeld ein, wo Sie es bearbeiten können.
    * Geben Sie Ihre eigene Anfrage in das Feld **[!UICONTROL Mitarbeiter nach]** fragen“ ein.
 
-1. (Optional) Fügen Sie einen Kontext hinzu, wählen Sie aus, wie der Coworker Chat antwortet, oder diktieren Sie Ihre Nachricht. Siehe [Kontext hinzufügen und einen Antwortstil &#x200B;](#input-options).
+1. (Optional) Fügen Sie einen Kontext hinzu, wählen Sie aus, wie der Coworker Chat antwortet, oder diktieren Sie Ihre Nachricht. Siehe [Kontext hinzufügen und einen Antwortstil ](#input-options).
 1. Klicken Sie auf **[!UICONTROL Senden]**.
 
 >[!TIP]

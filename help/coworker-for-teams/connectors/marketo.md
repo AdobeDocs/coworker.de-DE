@@ -4,10 +4,7 @@ title: Verbindung mit Marketo Engage herstellen
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-feature_v2:
-  - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
+source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
 workflow-type: tm+mt
 source-wordcount: '316'
 ht-degree: 0%
@@ -22,7 +19,7 @@ Mit Adobe Coworker for Teams können Sie Ihr Marketo Engage-Konto verbinden, um 
 >
 >* Ein gültiges Marketo Engage-Konto
 >* Ihre Marketo **Instanz-URL**
->* Ein [benutzerdefinierter Service](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/custom-services#custom-services-1) der für Kollegen für Teams in Marketo erstellt wurde, mit [Client-ID und &#x200B;](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/authentication#creating-an-access-token)-Geheimnis)
+>* Ein [benutzerdefinierter Service](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/custom-services#custom-services-1) der für Kollegen für Teams in Marketo erstellt wurde, mit [Client-ID und ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication#creating-an-access-token)-Geheimnis)
 
 ## So verbinden Sie sich
 
