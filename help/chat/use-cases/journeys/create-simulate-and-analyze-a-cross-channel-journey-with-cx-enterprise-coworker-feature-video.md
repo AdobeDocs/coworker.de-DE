@@ -22,4 +22,4 @@ Erfahren Sie, wie CX Enterprise Coworker eine Cross-Channel-Journey von einer na
 
 In diesem Video erfahren Sie, wie Sie die Verzweigungspfade der Journey simulieren und Diagnosen analysieren können, um Konfigurationsprobleme zu identifizieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504706?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504713?captions=ger&learn=on)
