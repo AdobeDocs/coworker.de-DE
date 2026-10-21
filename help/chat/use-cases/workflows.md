@@ -4,12 +4,9 @@ title: Chat-Workflows für Kollegen
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-feature_v2:
-  - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: be1be18a25c57eafa07b326b1bf5800527cb1c7d
+source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
 workflow-type: tm+mt
-source-wordcount: '7712'
+source-wordcount: '7768'
 ht-degree: 9%
 ---
 # Chat-Workflows für Kollegen {#use-cases}
@@ -188,6 +185,7 @@ Mit dem Coworker Chat können Sie Ihre [!DNL Experience Platform]-Daten in natü
 | --- | --- | --- | --- | --- |
 | [Erstellen, Bearbeiten und Verwalten von Herausforderungen im Zusammenhang mit der Treue](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/loyalty-challenges/loyalty-coworker-skills#loyalty-challenge-management){target="_blank"} | Vereinfachen und Beschleunigen der Verwaltung von Treueprogrammen | `loyalty` | Adobe Journey Optimizer (AJO) | „Erstellen Sie eine Herausforderung, die Mitglieder dazu ermutigt, ein neues saisonales Getränk auszuprobieren“ <br> „Herausforderungen bezüglich der Treue mit den höchsten Abbruchraten für Mitglieder zeigen“. |
 | [Analysieren der Leistung von Treueprogrammen](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/loyalty-challenges/loyalty-coworker-skills#loyalty-data-insight){target="_blank"} | Fragen Sie mithilfe natürlicher Sprache Treuepunkte, Mitgliedsstufen, Einlösungen und Umsatzmetriken ab und analysieren Sie sie | `loyalty-insights` | Adobe Journey Optimizer (AJO) | „Wie viele Treuepunkte wurden im August 2026 gewährt?“ <br> „Die Gesamteinnahmen des Treueprogramms aufgeschlüsselt nach Tagen im August 2026 anzeigen.“ |
+| [Finden Sie Treuemöglichkeiten](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/loyalty-challenges/loyalty-coworker-skills#loyalty-opportunities){target="_blank"} | Fordern Sie spezifische Challenge-Opportunities an, die auf Trends im Treueprogramm und Leistungsdaten basieren, und wandeln Sie sie dann in Live-Challenges um | TBD | Adobe Journey Optimizer (AJO) | „Welche Treuemöglichkeiten könnten die Mitgliederausgaben erhöhen?“ <br> „Zeigen Sie mir Möglichkeiten, inaktive Mitglieder zurückzugewinnen.“ |
 
 **Verwandte Informationen**
 

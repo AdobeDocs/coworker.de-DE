@@ -4,10 +4,7 @@ description: Erfahren Sie, wie Sie mit dem Adobe CX Enterprise Coworker-Chat Cus
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-feature_v2:
-  - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 60669850e4005be01c31d9f7818d1c4ad3ed8f3a
+source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
 workflow-type: tm+mt
 source-wordcount: '2094'
 ht-degree: 5%
@@ -256,7 +253,7 @@ Der funnel ist geräteübergreifend bis zum Checkout identisch - dann fällt Mob
 | Metrik | Desktop | Mobile | Lücke |
 | --- | --- | --- | --- |
 | Warenkorb zur Kaufrate | 23.2% | 8.1% | 15 Prozentpunkte |
-| Mobile ist | – | 2,8fach schlechter | – |
+| Mobile ist | — | 2,8fach schlechter | — |
 | Transaktionsabbrüche | 13,274 | 12,178 | Nahezu das gleiche absolute Volumen |
 
 Das Browsen und Hinzufügen zum Warenkorb funktioniert auf Mobilgeräten einwandfrei (identische Browser-Rate von ~45 %, ~55 % Quote von Hinzufügungen zum Warenkorb). Die Menschen sind gleichermaßen interessiert und engagiert. Aber irgendetwas im mobilen Checkout-Fluss bringt Konversionen zum Erliegen.

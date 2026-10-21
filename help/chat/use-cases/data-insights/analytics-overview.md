@@ -2,10 +2,9 @@
 title: Analysieren von Customer Journey Analytics-Daten mit dem Coworker Chat
 description: Erfahren Sie, wie Sie mit dem Adobe CX Enterprise Coworker-Chat Customer Journey Analytics-Daten analysieren, Trichter erstellen und herausfinden können, wo Kundinnen und Kunden auf der Journey abbrechen.
 product_v2:
-  internal-label: CX Enterprise Coworker
-feature_v2:
-  internal-label: CX Enterprise Coworker
-source-git-commit: 4bbaf3021be6518ce3aa811efec7b4d0d2746199
+  - id: fdae8433-07cd-42e7-acce-738afe63f6bb
+    internal-label: CX Enterprise Coworker
+source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
 workflow-type: tm+mt
 source-wordcount: '1281'
 ht-degree: 2%
