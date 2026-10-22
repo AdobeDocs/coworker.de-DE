@@ -5,9 +5,9 @@ jira: KT-22106
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: b91e8dcdacf57bdbc4fb6cf7d6fe92920e7fbb6e
 workflow-type: tm+mt
-source-wordcount: '1801'
+source-wordcount: '1765'
 ht-degree: 3%
 ---
 # Erste Schritte mit dem Coworker Chat {#ui-guide}
@@ -25,7 +25,7 @@ Die folgende Tabelle zeigt, wo die einzelnen Erlebnisse verfügbar sind.
 | Real-Time CDP | Jetzt verfügbar | Demnächst |
 | Adobe Journey Optimizer | Jetzt verfügbar | Demnächst |
 | Customer Journey Analytics | Jetzt verfügbar | Demnächst |
-| Workfront | Jetzt verfügbar | Bald verfügbar:<br><br>* Anfang September 2026 in der Vorschauinstanz für ausgewählte geeignete Workfront-Systemadministratoren<br><br>* Mitte September 2026 in der Produktionsinstanz für geeignete Kunden von Workfront mit Schnellveröffentlichung<br><br>* Mitte Oktober 2026 in der Produktionsinstanz für geeignete Kunden von Workfront mit vierteljährlicher Veröffentlichung |
+| Workfront | Jetzt verfügbar | Jetzt verfügbar |
 | Target | Jetzt verfügbar | Jetzt verfügbar |
 | AEM | Jetzt verfügbar | Jetzt verfügbar |
 | Marketo Engage | Jetzt verfügbar | Demnächst |
@@ -43,7 +43,7 @@ Um das immersive Erlebnis zu nutzen, melden Sie sich mit Ihren Adobe-Anmeldeinfo
 
 ## Video - Grundlagen der [!DNL Coworker] Chat-Oberfläche
 
->[!VIDEO](https://video.tv.adobe.com/v/3498574?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
 
 ## Organisation auswählen
 
@@ -98,7 +98,7 @@ So senden Sie eine Nachricht:
    * Wählen Sie eine Eingabeaufforderung unter **[!UICONTROL Empfohlen für Sie]** aus. Der Coworker Chat fügt es in das Eingabefeld ein, wo Sie es bearbeiten können.
    * Geben Sie Ihre eigene Anfrage in das Feld **[!UICONTROL Mitarbeiter nach]** fragen“ ein.
 
-1. (Optional) Fügen Sie einen Kontext hinzu, wählen Sie aus, wie der Coworker Chat antwortet, oder diktieren Sie Ihre Nachricht. Siehe [Kontext hinzufügen und einen Antwortstil &#x200B;](#input-options).
+1. (Optional) Fügen Sie einen Kontext hinzu, wählen Sie aus, wie der Coworker Chat antwortet, oder diktieren Sie Ihre Nachricht. Siehe [Kontext hinzufügen und einen Antwortstil ](#input-options).
 1. Klicken Sie auf **[!UICONTROL Senden]**.
 
 >[!TIP]
