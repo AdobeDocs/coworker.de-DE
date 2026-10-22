@@ -1,17 +1,19 @@
 ---
-title: Handbuch zu Adobe CX Enterprise Coworker
+title: Übersicht über Adobe CX Enterprise Coworker
 description: Erfahren Sie mehr über Adobe CX Enterprise Coworker, ein KI-gestütztes Team, das die Erlebnis- und Marketing-Workflows Ihres Unternehmens automatisiert.
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: 577c1f8f9ea054eabfede407149139638311d5dc
 workflow-type: tm+mt
-source-wordcount: '1094'
-ht-degree: 18%
+source-wordcount: '1181'
+ht-degree: 17%
 ---
-# Handbuch zu CX Enterprise Coworker {#overview}
+# Übersicht über CX Enterprise Coworker {#overview}
 
-[!DNL Coworker] ist Adobes Teamkollege für agentische KI im Bereich Kundenerlebnis und Marketing. Es geht nicht nur um die Beantwortung von Fragen oder um Handlungsempfehlungen. Es führt mehrstufige Marketing-Workflows in Adobe und anderen Unternehmenssystemen aus, und Genehmigungen und Governance sorgen dafür, dass Sie die Kontrolle behalten. Weitere Informationen zu [Adobe for Business](https://business.adobe.com/de/products/cx-enterprise-coworker.html).
+[!DNL Coworker] ist ein KI-gestützter Teamkollege, der die Art der Arbeit für Organisationen, Teams und Einzelpersonen neu erfindet. Sie automatisiert Kundenerlebnis- und Marketing-Workflows, damit sich Unternehmen auf das Erreichen von Geschäftszielen und die Verbesserung von Ergebnissen konzentrieren können, anstatt Aufgaben zu koordinieren. Als Agent-Engine verfolgt Coworker einen innovativen Ansatz in der Geschäftsprozessautomatisierung. Es verbessert die Leistung und Genauigkeit des KI-Modells, indem es Unternehmenskontext, Daten, Intelligenz, Zusammenarbeit und die Ausführung agentischer Fähigkeiten zusammenführt, wobei Governance und menschliche Aufsicht integriert sind.
+
+Coworker wurde für Unternehmen entwickelt, die komplexe, funktionsübergreifende Workflows für Kundenerlebnisse ausführen. Es führt Coworker Chat- und Coworker-Projekte zusammen und ermöglicht es Anwendern, von einer einzelnen Aufgabe zu einem vollständigen Workflow mit mehreren Teams innerhalb der Coworker-Erfahrung zu wechseln. Governance, Genehmigungen und menschliche Aufsicht sind von Anfang an integriert. Weitere Informationen zu [Adobe for Business](https://business.adobe.com/de/products/cx-enterprise-coworker.html).
 
 ## Erlebnis auswählen
 
