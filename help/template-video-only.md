@@ -1,0 +1,97 @@
+---
+# TEMPLATE ONLY. Delete this line and the "hide" line below when you copy this file.
+hide: true
+
+# TITLE AND DESCRIPTION
+# Title: title case, 60 characters or fewer, no product name.
+# Description: one or two sentences, about 150-160 characters. Start with "Learn how to..." or "Learn about...", and end with what the viewer can do next.
+title: Titel der Videoseite in Großschreibung des ersten Buchstaben eines Worts
+description: Erfahren Sie, wie Sie die Aufgabe mit Adobe CX Enterprise Coworker erledigen können. [Der zweite Satz fordert zum Handeln auf.]
+
+# VIDEO FIELDS
+doc-type: Feature Video
+duration: 180
+last-substantial-update: 2026-01-01T00:00:00.000Z
+jira: KT-00000
+
+role: User
+level: Beginner
+product_v2:
+  - id: fdae8433-07cd-42e7-acce-738afe63f6bb
+    internal-label: CX Enterprise Coworker
+source-git-commit: 1c6c045a70d7b6d00a88a32c39216c05478d8029
+workflow-type: tm+mt
+source-wordcount: '190'
+ht-degree: 1%
+---
+<!--
+TEMPLATE GUIDANCE. Delete this comment block before you commit a new page.
+
+PURPOSE
+Use this layout for a page whose main content is a video. The page summarizes
+the video and sends viewers to the written documentation for the steps.
+Assume that a documentation page exists, or will exist, for the same topic.
+
+IF THE PAGE WILL ALSO CONTAIN WRITTEN DOCUMENTATION
+Use template-docs-and-video.md instead. It separates the video and the
+documentation by heading, so the two teams do not overwrite each other's work.
+Do not add steps to this template.
+
+HOW TO USE THIS FILE
+1. Copy this file into the folder for your topic. Use a descriptive, lowercase,
+   hyphenated file name, for example what-are-skills.md.
+2. Delete the two "TEMPLATE ONLY" lines in the front matter.
+3. Replace everything in [brackets]. Delete any section you do not need.
+4. Add the documentation cross-reference under "More help on this topic".
+   Do not leave that section empty.
+5. Add a TOC entry for the page, if it is meant to appear in the table of contents.
+
+KEEP THE PAGE A SUMMARY, NOT A SECOND SET OF STEPS
+- Say what the video shows. Do not write numbered steps that repeat the video.
+  Steps belong on the documentation page, where the documentation team owns them.
+- Keep the page useful without playing the video: a clear summary, a chapter list,
+  and a transcript (when available) help accessibility, search, and localization.
+- When you update the video, change the video ID, duration, and
+  last-substantial-update together, and re-check the summary against the new video.
+- Give every H2 an explicit anchor, such as {#in-this-video}, so links stay
+  stable when a heading is reworded.
+-->
+
+# Titel der Videoseite in Satzcase {#page-id}
+
+[Ein oder zwei Sätze, die sagen, was der Betrachter lernt und warum es wichtig ist. Beginnen Sie die Seite nicht mit einem Hinweis, einer Liste oder einem Warnhinweis.]
+
+<!--
+Replace VIDEO_ID with the ID from the video team, and remove this comment wrapper.
+Add {transcript=true} after the closing parenthesis if a transcript is available.
+
+>[!VIDEO](https://video.tv.adobe.com/v/VIDEO_ID?learn=on)
+-->
+
+## In diesem Video {#in-this-video}
+
+[Ein Satz, der die Liste einführt.]
+
+* [Was der Betrachter zuerst sieht oder lernt.]
+* [Was der Betrachter als Nächstes sieht oder lernt.]
+* [Was der Betrachter nach dem Ansehen tun kann.]
+
+## Bevor Sie zuschauen {#before-you-watch}
+
+[Optional. Löschen Sie diesen Abschnitt, wenn das Video nicht eingerichtet werden muss. Erwähnen Sie die angezeigte Version der Benutzeroberfläche, die verwendete Anwendung oder Sandbox oder ein früheres Video, das Sie zuerst ansehen.]
+
+## Kapitel {#chapters}
+
+[Optional. Löschen Sie diesen Abschnitt für kurze Videos. Themenänderungen mit Zeitstempeln auflisten.]
+
+* 0:00 [Einführung]
+* 1:30 [Thema 1]
+* 15:[ (Thema zwei]
+
+## Weitere Hilfe zu diesem Thema {#more-help}
+
+[Link zur Dokumentationsseite mit den geschriebenen Schritten. Dieser Abschnitt ist erforderlich. Verwenden Sie einen beschreibenden Link-Text und halten Sie die Elemente parallel.]
+
+* [Titel der Dokumentationsseite für die geschriebenen Schritte]
+* [Link-Text, der eine zugehörige Seite beschreibt]
+* [Link-Text, der ein verwandtes Video beschreibt]
