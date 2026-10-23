@@ -4,9 +4,9 @@ title: Erstellen einer E-Mail-Kampagne
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: f25492704c73fc42d54bf44aa8d59ab73f811f1b
 workflow-type: tm+mt
-source-wordcount: '964'
+source-wordcount: '933'
 ht-degree: 0%
 ---
 # Erstellen einer E-Mail-Kampagne {#create-an-email-campaign}
@@ -19,9 +19,9 @@ Vergewissern Sie sich, dass Sie Folgendes haben:
 
 * Ein gültiges Adobe CX Enterprise Coworker für Teams-Konto ([hier anmelden](https://coworker-campaigns.experience.adobe.com/){target="_blank"} falls noch nicht geschehen).
 
-* Ihre Marke wurde unter **Ihre**&quot; > **Marken** hinzugefügt.
+* Ihre Marke wurde unter **Kontext** > **Marken** hinzugefügt.
 
-* (Optional, aber empfohlen) Eine HTML-E-Mail-Vorlage, die unter **Ihr**&quot; > „E **Mail-Vorlagen“** wurde.
+* (Optional, aber empfohlen) Eine HTML-E-Mail-Vorlage, die unter **Kontext** > **E-Mail-Vorlagen** hochgeladen wurde.
 
 * Eine Zielgruppen-CSV kann hochgeladen werden.
 
@@ -70,13 +70,13 @@ Beispiel:
 
 Wenn Sie Ihre Eingabeaufforderung fertig haben, klicken Sie auf **Kampagne erstellen**. Mitarbeiter für Teams werden dann:
 
-* Erstellen Sie einen strukturierten Kampagnenplan.
+* Erstellen einer strukturierten Kampagnenstrategie.
 * Fragen Sie nach Ihrer Zielgruppe, die auch für die Personalisierung von Inhalten verwendet wird.
 * Erstellen Sie für jeden Schritt einen Entwurf für personalisierten E-Mail-Inhalt.
 * Dynamisches Erstellen der Journey während des gesamten Vorgangs.
 * Alles auf einem einzigen Campaign-Board zusammenstellen.
 
-## Schritt 3: Zielgruppe hochladen
+## Schritt 3: Aktualisieren der Audience
 
 Zielgruppen werden über CSV hochgeladen. Alle Audiences sind spezifisch für ihre jeweiligen Kampagnen (sie werden derzeit nirgendwo anders in Ihrer Umgebung gespeichert).
 
@@ -161,10 +161,6 @@ Ja, die Größenbeschränkung beträgt 8 MB.
 **Was passiert, wenn die CSV-Datei meiner Zielgruppe Fehler zurückgibt?**
 
 Stellen Sie sicher, dass Ihre CSV-Datei keine „umfangreichen“ ausgeblendeten Zeichen enthält.
-
-**Wie verwende ich Kampagnenvorlagen?**
-
-Wählen Sie die gewünschte Vorlage aus und klicken Sie auf **Remix**. Sie können dann alle Personalisierungs-Token aktualisieren und auf das **Senden**-Symbol unten rechts klicken.
 
 **Wie kann ich einen Kampagnenentwurf mit einem Teamkollegen zur Überprüfung freigeben?**
 
