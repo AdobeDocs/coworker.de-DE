@@ -4,9 +4,9 @@ title: Übersicht über Adobe CX Enterprise Coworker
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: 2c08a164e3f127eb01271b31e1150f1d815e5b27
 workflow-type: tm+mt
-source-wordcount: '983'
+source-wordcount: '1030'
 ht-degree: 0%
 ---
 # Übersicht über Mitarbeiter für Teams {#overview}
@@ -21,7 +21,7 @@ Zu diesem Zeitpunkt werden Sie bei allen Interaktionen mit der KI auf die [Kampa
 >
 >Coworker for teams ist per kostenloser Testversion bis zum 31. Dezember 2026 verfügbar. Während der Testphase sind alle Assets und Aktivitäten benutzerspezifisch.
 
-1. Navigieren Sie zu coworker-campaigns.experience.adobe.com.
+1. Navigieren Sie zu coworker-teams.adobe.com.
 
 1. Wenn Sie bereits über ein Adobe-Konto verfügen, klicken Sie auf **Anmelden**. Wenn nicht, klicken Sie auf **An kostenloser Testversion teilnehmen** und erstellen Sie über Ihre geschäftliche E-Mail ein Konto.
 
@@ -35,7 +35,7 @@ Zu diesem Zeitpunkt werden Sie bei allen Interaktionen mit der KI auf die [Kampa
 
 1. (Optional) Laden Sie eine HTML-E-Mail-Vorlage unter **E-Mail-Vorlagen** hoch, damit Ihre Kollegen Ihr Design beim Generieren von Inhalten anwenden können.
 
-   ![Willkommensbildschirm für Kollegen für Testteams](./assets/overview-1.png){width="800" zoomable="yes"}
+   ![Willkommensbildschirm für Kollegen für Testteams](./assets/overview-1.gif)
 
 Sie können jetzt Ihre erste Kampagne erstellen.
 
@@ -45,14 +45,49 @@ Die Benutzeroberfläche „Mitarbeiter für Teams“ ist um eine Navigation auf 
 
 ![Startbildschirm](./assets/overview-2.gif)
 
-| Linkes Navigationsmenü | Zweck |
-|---|---|
-| Neuer Chat | Neue Konversation starten, um eine Kampagne zu generieren. |
-| Startseite | Ihr Ausgangspunkt: Eingabeaufforderungsleiste, letzte Kampagnen und vorgefertigte Kampagnenvorlagen. |
-| Chats | Jedes von Ihnen begonnene Gespräch, das noch nicht in ein Campaign-Board generiert wurde. |
-| Kampagnen | Ihr Inventar aller Entwurfs- und Live-Kampagnen. |
-| Ihre Sachen | Ihre Marken-Kits und E-Mail-Vorlagen (die Assets, die Coworker für Teams verwendet, um alles in Ihrer Marke zu halten). |
-| Anpassen | Connectoren (Marketo Engage beim Start) und Fähigkeiten (benutzerdefinierte Verhaltensweisen, die Sie auf alle Kampagnen anwenden können). |
+<table>
+  <thead>
+    <tr>
+      <th>Linkes Navigationsmenü</th>
+      <th>Zweck</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Neuer Chat</td>
+      <td>Neue Konversation starten, um eine Kampagne zu generieren.</td>
+    </tr>
+    <tr>
+      <td>Startseite</td>
+      <td>Ihr Ausgangspunkt: Eingabeaufforderungsleiste, letzte Kampagnen und vorgefertigte Kampagnenvorlagen.</td>
+    </tr>
+    <tr>
+      <td>Chats</td>
+      <td>Jedes von Ihnen begonnene Gespräch, das noch nicht in ein Campaign-Board generiert wurde.</td>
+    </tr>
+    <tr>
+      <td>Kampagnen</td>
+      <td>Ihr Inventar aller Entwurfs- und Live-Kampagnen.</td>
+    </tr>
+    <tr>
+      <td>Kontaktlisten</td>
+      <td>Verwalten Sie Ihre Audience und Unterdrückungslisten.</td>
+    </tr>
+    <tr>
+      <td>Insights</td>
+      <td>Anzeigen von Metriken für alle aktiven Kampagnen, verfolgt über einen ausgewählten Datumsbereich.</td>
+    </tr>
+    <tr>
+      <td>Kontext</td>
+      <td>Klicken Sie <i>Kontext</i>, um das zugehörige Untermenü anzuzeigen:<br><br>
+      <li><b>Marken</b> - Verwalten und Hinzufügen von Marken-Kits und Festlegen eines Standardwerts für Ihren Arbeitsbereich.</li>
+      <li><b>E-Mail-Vorlagen</b> - Verwalten und Hochladen benutzerdefinierter HTML-Vorlagen und teilen Sie den Kollegen mit, wann diese verwendet werden sollen.</li>
+      <li><b>Connectoren</b> - Externe Integrationen wie Databricks und Salesforce, um Zielgruppen oder Kontext einzubinden.</li>
+      <li><b>Kenntnisse</b> - Wiederverwendbare Anweisungen, die bestimmen, wie ein Kollege Kampagnen erstellt und personalisiert.</li></td>
+    </tr>
+  </tbody>
+</table>
+
 
 >[!NOTE]
 >
@@ -111,7 +146,7 @@ Mitarbeiter für Teams befindet sich in der aktiven Entwicklung. Hier finden Sie
 
 ## Videoüberblick
 
->[!VIDEO](https://video.tv.adobe.com/v/3492814?captions=ger&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3492807?learn=on){transcript=true}
 
 
 Während der Testphase werden neue Funktionen bereitgestellt. Ihr Feedback prägt das weitere Vorgehen. Senden Sie Feedback über das Symbol für produktinternes Feedback in der Kopfzeile.
