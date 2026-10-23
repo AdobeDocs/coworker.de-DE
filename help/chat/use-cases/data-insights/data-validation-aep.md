@@ -10,7 +10,7 @@ jira: PLAT-302857
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: b54085a497ca4bbf0003d5837d816206a4d40396
 workflow-type: tm+mt
 source-wordcount: '1058'
 ht-degree: 0%
@@ -45,7 +45,7 @@ Zur Validierung Ihrer Daten mit Coworker benötigen Sie Folgendes:
 
 1. Melden Sie sich bei einem Kollegen an.
 
-1. Wählen Sie [!UICONTROL **Neuer Chat**] aus.
+1. Wählen Sie **[!UICONTROL Neuer Chat]** aus.
 
 1. Fordern Sie den Agenten im Textfeld auf, ein Feld oder einen Datensatz zu validieren. Beispiel:
 
@@ -156,5 +156,5 @@ Wenn Ihre Validierungsanforderungen erschöpfender sind oder komplexe Geschäfts
 
 * [Validieren von Adobe Analytics in Customer Journey Analytics-Daten beim Upgrade](./data-validation-aa-cja.md)
 * [Validieren von Customer Journey Analytics-Daten mit der Datenvalidierungs-Fähigkeit in Coworker](./validate-dataset-quality-for-cja.md)
-* [Validieren Ihrer Daten (KI-Assistent)](https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/agents/data-validation)
+* [Validieren Ihrer Daten (KI-Assistent)](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/data-validation)
 * [Trust Your Customer Journey Analytics Reporting: Data Validation Skill in Adobe CX Enterprise Coworker](https://www.youtube.com/watch?v=gCSm_QYSYhk) (Video)

@@ -4,9 +4,9 @@ description: Verwenden Sie den Coworker Chat, um Trichter zu erstellen, herauszu
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: b54085a497ca4bbf0003d5837d816206a4d40396
 workflow-type: tm+mt
-source-wordcount: '683'
+source-wordcount: '689'
 ht-degree: 2%
 ---
 
@@ -62,7 +62,7 @@ Der -Mitarbeiter verwendet die folgenden Fähigkeiten für die in diesem Artikel
 * Geben Sie die Segmente, Kanäle oder Geräte an, die Sie einbeziehen, ausschließen oder vergleichen möchten.
 * Erwähnen Sie eine Hypothese, die Sie bereits haben, z. B. eine kürzlich vorgenommene Site-Änderung, sodass der Coworker Chat sie überprüfen oder ausschließen kann.
 * Fragen Sie nach den empfohlenen nächsten Schritten, wenn Sie im Coworker Chat weitere Fragen vorschlagen möchten.
-* Öffnen Sie eine beliebige Visualisierung in Analysis Workspace, wenn Sie mehr manuelle Kontrolle wünschen.
+* Öffnen Sie eine beliebige Visualisierung in Analysis Workspace, wenn Sie mehr manuelle Kontrolle wünschen. Siehe [Analysieren in Customer Journey Analytics](/help/chat/use-cases/data-insights/analytics-chat.md#analyze-in-customer-journey-analytics).
 
 ## Nächste Schritte
 

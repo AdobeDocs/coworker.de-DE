@@ -4,10 +4,10 @@ description: Erfahren Sie, wie Sie mit dem Adobe CX Enterprise Coworker-Chat Cus
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: b54085a497ca4bbf0003d5837d816206a4d40396
 workflow-type: tm+mt
-source-wordcount: '1281'
-ht-degree: 2%
+source-wordcount: '1358'
+ht-degree: 1%
 ---
 
 # Analysieren von Daten mit dem Kollegen-Chat
@@ -22,7 +22,7 @@ Coworker Chat kann erweiterte Datenanalysen durchführen, die zuvor nur in Analy
 
 Der Coworker Chat erbt Berechtigungen von Customer Journey Analytics oder Adobe Analytics. Sie können nur auf die Datenansichten, Report Suites, Dimensionen, Metriken und Segmente zugreifen, die Ihnen in Analysis Workspace zur Verfügung stehen.
 
-Wenn Sie eine Visualisierung im Coworker Chat erstellen, können Sie sie jederzeit in Analysis Workspace öffnen, um eine manuelle Kontrolle zu erhalten.
+Wenn Sie eine Visualisierung im Coworker Chat erstellen, können Sie sie jederzeit in Analysis Workspace öffnen, um eine manuelle Kontrolle zu erhalten. Siehe [Analysieren in Customer Journey Analytics](/help/chat/use-cases/data-insights/analytics-chat.md#analyze-in-customer-journey-analytics).
 
 ## Schnelle Antworten und gründliche Arbeit
 
@@ -55,6 +55,7 @@ Die folgenden Kenntnisse stehen für die Analyse von Customer Journey Analytics-
 | `cja`, `aa` | Abfragen von Customer Journey Analytics-Datenansichten (`cja`) oder Adobe Analytics Report Suites (`aa`) in Echtzeit:<ul><li>Abrufen von Metriken, Dimensionen, Segmenten, Datenansichten und Report Suites</li><li>Kanäle, Zeiträume oder Segmente nebeneinander vergleichen</li><li>Ausführen einer mehrstufigen funnel- und Fallout-Analyse</li><li>Prognostizierte Metriken basierend auf historischen Trends</li></ul> | Anzeigen des Zugriffs auf die Datenansicht oder Report Suite, die Sie abfragen möchten | <ul><li>Erstellen oder Bearbeiten von Datenansichts- oder Report Suite-Komponenten</li><li>Daten außerhalb der Datenansichten oder Report Suites, auf die Sie Zugriff haben</li><li>Prädiktive Modellierung über Metrikvorhersagen hinaus</li></ul> |
 | `cja-root-cause-analysis`, `aa-root-cause-analysis` | Finden Sie heraus, warum sich eine Metrik geändert hat, anstatt nur ihre Änderung zu melden:<ul><li>Untersuchen einer Änderung an einer bekannten Metrik über einen bekannten Zeitraum</li><li>Aufdecken der Dimensionen und Segmente, die zur Änderung beigetragen haben</li></ul> | Anzeigen des Zugriffs auf die zu analysierende Datenansicht oder Report Suite | <ul><li>Erkennen von Anomalien, nach denen Sie nicht gefragt haben (keine automatisierten oder Echtzeitwarnungen)</li><li>Ursachenanalyse für Metriken außerhalb einer Datenansicht oder Report Suite, auf die Sie Zugriff haben</li></ul> |
 | `cja-executive-summary` | Zusammenfassungen Ihrer Daten für alle Beteiligten:<ul><li>Zusammenfassen der Leistung über einen bestimmten Zeitraum</li><li>Erstellen präskriptiver Empfehlungen auf Grundlage der Daten</li><li>Gliederungsinhalte für das Auslesen von Folien- oder Stakeholdern</li></ul> | Anzeigen des Zugriffs auf die Datenansichten oder Report Suites, die in der Zusammenfassung behandelt werden | <ul><li>Erstellen des endgültigen Foliendecks oder der Präsentationsdatei</li><li>Zusammenfassungen, die Datenansichten oder Report Suites umfassen, auf die Sie keinen Zugriff haben</li></ul> |
+| `analyze-content`<!-- FLAG: Confirm the Out of scope items with the PM. --> | Beantworten Sie allgemeine oder spezifische Fragen zu Ihren Inhalten mithilfe von Content Analytics-Daten in Customer Journey Analytics:<ul><li>Finden Sie heraus, was Assets und Erlebnisse mit der besten Leistung gemeinsam haben</li><li>Kopplung der Exposition von Inhalten an Konversionen und Umsatz</li><li>Vergleichen von Inhalten über Kanäle und Zielgruppen hinweg</li></ul>Weitere Informationen finden Sie unter [Fragen zu Ihrem Inhalt stellen](/help/chat/use-cases/data-insights/ask-content-questions.md). | Ansichtszugriff auf eine Datenansicht, die für Content Analytics konfiguriert ist | <ul><li>Einrichten oder Konfigurieren von Content Analytics</li><li>Inhalte, die Content Analytics nicht erfasst</li></ul> |
 | `aa-cja-validation` | Vergleichen, Überprüfen und Abstimmung von Daten zwischen [!DNL Adobe Analytics] und Customer Journey Analytics:<ul><li>Metrikwerte zwischen einer Report Suite und einer Datenansicht vergleichen</li><li>Kennzeichnen von Diskrepanzen zwischen den beiden Datenquellen</li></ul> | Anzeigen des Zugriffs auf die [!DNL Adobe Analytics] Report Suite und die zu vergleichende Customer Journey Analytics-Datenansicht | <ul><li>Beheben der zugrunde liegenden Ursache einer Datendiskrepanz</li><li>Validieren von anderen Datenquellen als [!DNL Adobe Analytics] und Customer Journey Analytics</li></ul> |
 | `cja-skill-creator` | Verwandeln Sie eine Analyse, die Sie bereits durchgeführt haben, in eine wiederverwendbare Fähigkeit:<ul><li>Konvertieren einer abgeschlossenen Analyse in eine benannte, wiederverwendbare Kenntnisse</li><li>Eine gespeicherte Kenntnis für zukünftige Chat-Sitzungen verfügbar machen</li></ul> | Kenntnisse verwalten | <ul><li>Automatisches Freigeben einer gespeicherten Qualifikation für andere Benutzer (Qualifikationsbibliotheken auf Unternehmensebene erfordern die Einrichtung durch Administratoren)</li><li>Bearbeiten der Datenansichts- oder Report Suite-Komponenten, auf die eine Qualifikation verweist</li></ul> |
 
