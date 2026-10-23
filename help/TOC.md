@@ -5,10 +5,10 @@ user-guide-description: Erfahren Sie mehr über Adobe CX Enterprise Coworker, ei
 description: Erfahren Sie mehr über KI-Tools in CX Enterprise. Verbessern Sie Ihr Produktwissen und erhalten Sie operative Erkenntnisse mithilfe von KI in CX Enterprise.
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
-source-git-commit: f4682967f0bed2f9a538c41903a32555fe2abbb1
+source-git-commit: ab3fd688f3a83afb0a4d058cc86d5ac8ec5f5977
 workflow-type: tm+mt
-source-wordcount: '298'
-ht-degree: 14%
+source-wordcount: '305'
+ht-degree: 13%
 ---
 
 # CX Enterprise Coworker {#content}
@@ -24,7 +24,7 @@ ht-degree: 14%
       - [Über die Datenanalyse](./chat/use-cases/data-insights/analytics-overview.md)
       - [Erste Schritte mit der Datenanalyse](./chat/use-cases/data-insights/analytics-chat.md)
       - Intelligente Implementierung und Verwaltung {#intelligent-implementation-and-administration}
-        - [Überblick](./chat/use-cases/data-insights/data-governance-and-validation.md)
+        - [Übersicht](./chat/use-cases/data-insights/data-governance-and-validation.md)
         - [Implementierung planen](./chat/use-cases/data-insights/implementation-guide.md)
         - [Erstellen einer Checkliste für die Implementierung](./chat/use-cases/data-insights/intelligent-checklist.md)
         - [Validieren von AA zu CJA-Daten beim Upgrade](./chat/use-cases/data-insights/data-validation-aa-cja.md)
@@ -38,7 +38,7 @@ ht-degree: 14%
       - Zielgruppen- und Segmentanalyse {#audience-and-segment-analysis}
         - [Überblick](./chat/use-cases/data-insights/audience-and-segment-analysis.md)
       - Geschäftsergebnis {#business-performance}
-        - [Übersicht](./chat/use-cases/data-insights/business-performance.md)
+        - [Überblick](./chat/use-cases/data-insights/business-performance.md)
         - [Trends und Grundursachen untersuchen](./chat/use-cases/data-insights/root-cause-analysis.md)
       - Content-Performance {#content-performance}
         - [Übersicht](./chat/use-cases/data-insights/content-performance.md)
@@ -65,6 +65,7 @@ ht-degree: 14%
     - Warnhinweise {#alerts}
       - [Warnhinweise für Kunden](./chat/use-cases/customer-alerts/customer-alerts.md)
     - Brand Visibility {#brand-visibility}
+      - [Erstellen und Verfeinern einer AEM-Landingpage](./chat/use-cases/brand-visibility/create-and-refine-aem-landing-page.md)
       - [Prüfung der Markenkonformität](./chat/use-cases/brand-visibility/brand-compliance.md)
       - [Erstellen von AEM Sites-Seiten](./chat/use-cases/brand-visibility/author-web-pages.md)
       - [Integrieren von AEM Assets](./chat/use-cases/brand-visibility/onboard-aem-assets.md)
@@ -87,7 +88,7 @@ ht-degree: 14%
     - [Was ist Speicher?](./customizations/memory/what-is-memory.md)
 - Mitarbeiter für Teams {#coworker-for-teams}
   - {hide-from-toc}[Neues Team-Erlebnis](./coworker-for-teams/new-teams-experience.md)
-  - [Übersicht](./coworker-for-teams/overview.md)
+  - [Überblick](./coworker-for-teams/overview.md)
   - [Erstellen einer E-Mail-Kampagne](./coworker-for-teams/create-an-email-campaign.md)
   - [Starten und Verwalten einer Kampagne](./coworker-for-teams/launch-manage-campaign.md)
   - [Anwendungsszenarien](./coworker-for-teams/use-cases.md)
