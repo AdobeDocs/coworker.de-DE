@@ -4,14 +4,130 @@ title: Versionshinweise zu CX Enterprise Coworker für Teams
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: d3cfd773137d0fc985cff508025935727dc4566b
 workflow-type: tm+mt
-source-wordcount: '3597'
+source-wordcount: '4474'
 ht-degree: 0%
 ---
 # Versionshinweise zu Adobe CX Enterprise Coworker für Teams {#release-notes}
 
 Die Versionen von Coworker for Teams basieren auf einem kontinuierlichen Bereitstellungsmodell, das eine besser skalierbare, schrittweise Implementierung von Funktionen ermöglicht.
+
+## Oktober 2026 {#oct-2026}
+
+**Veröffentlichungsdatum: 21. Oktober 2026**
+
+* Dateien in den Eingabeaufforderungen und Konversationen der Kampagne ablegen, um sie anzuhängen
+* Übergroße Anhänge werden erkannt, bevor sie Ihre Arbeit unterbrechen
+* Die Dateigrößen werden in Ihrer Sprache und im lokalen Format angezeigt
+* E-Mail-Vorschauen passen auf breite Designs, ohne den Inhalt abzuschneiden
+* Eingabe fortsetzen, wenn E-Mails in einer Konversation bearbeitet werden
+* Absenderdetails werden automatisch von Ihrem Profil ausgefüllt
+* Absenderänderungen aus der Konversationsvorschau werden in Ihre Kampagne übertragen
+* Öffnen der Kampagnenstrategie-Vorschau spiegelt Ihre zuletzt gespeicherten Änderungen wider
+* Vorschau von Beispielkontaktlisten, wenn Beispieldaten verfügbar sind
+* Connector-Beschreibungen sind in Ihrer Sprache leichter lesbar
+* Connector- und Qualifikationsdetails zuverlässiger im Kontext finden
+* Vorlagenkanalfilter passen bequemer auf kleinere Bildschirme
+* Profilaktionen können weiterhin in der Adobe-Navigationsshell aufgerufen werden
+* Fehler beim Reporting in Campaign weisen nicht mehr fälschlicherweise darauf hin, dass Ihre Sitzung abgelaufen ist
+* Wählen Sie Testkontofilter aus, die den verfügbaren Status entsprechen
+* Öffnen und Umbenennen von Chats ohne irreführende Löschoption fortsetzen
+* Die neuesten Produktaktualisierungen können leichter verworfen werden
+* Kampagnenaktivität wird in allen Berichten konsistenter gezählt
+
+**Veröffentlichungsdatum: 16. Oktober 2026**
+
+* Anwenden einer E-Mail-Vorlage ohne Umschreiben ihres Inhalts
+* E-Mail-Vorlagen wechseln, ohne die neuesten Bearbeitungen zu verlieren
+* Über ein Menü können Vorlagen gewechselt, E-Mails heruntergeladen und Tests gesendet werden
+* E-Mail-Vorschau komfortabler lesen, bevor Sie Änderungen vornehmen
+* Nachricht erneut versuchen, wenn der Versand vor dem Start fehlschlägt
+* Startseiten-Registerkarten leichter auf kleineren Handys finden
+* Startdialoge passen bequemer auf kleinere Bildschirme
+* Lange Zielgruppenkennzeichnungen bleiben ohne Überlappung lesbar
+* Bis zu sechs aktuelle Kampagnen auf der Startseite anzeigen
+* Home konzentriert sich nun auf Kampagnen und Ideen statt auf tägliche Zusammenfassungen
+* Starten einer Kampagne oder Durchsuchen von Ideen von einer leeren Startseite aus
+* In den Kampagnenmenüs werden für jeden Kampagnenstatus geeignete Aktionen angezeigt
+* Die Bearbeitung in Adobe Express bleibt nicht verfügbar, wenn ein Bild nicht geladen werden kann
+* Alte Kampagnen-Links führen zu Kollegen für Teams
+* Chatantworten mit bequemerer Textgröße lesen
+* Die Registerkarten „Kampagnenübersicht“ und „Einblicke“ in der Kopfzeile finden
+
+**Veröffentlichungsdatum: 15. Oktober 2026**
+
+* Filtern Sie Startseite und Kampagnen nach dem Ersteller der einzelnen Kampagnen
+* Tägliche Zusammenfassung von Kampagnen, Unterhaltungen und E-Mail-Varianten
+* Siehe Kampagnenstatus, Ersteller und Erstellungsdatum unter dem Titel
+* Die Kampagneneinrichtung von den Kampagnentideen aus wiederholen, wenn Sie Anleitungen benötigen
+* Ändern der Größe von Kampagnenvorschauen und reibungslosere Rückkehr zu Pinnwänden
+* E-Mail-Links bleiben jetzt beim Speichern des Entwurfs bestehen
+* Entwürfe von E-Mails werden beim weiteren Bearbeiten zuverlässig gespeichert
+* Ersatzbilder bleiben mit Ihren E-Mail-Entwürfen verbunden
+* E-Mail-Vorlagen wechseln und E-Mails direkt aus dem Editor herunterladen
+* Exportieren von DNS-Einträgen als Zonendateien mit einer einfachen Einrichtungsanleitung
+* Erkennen von vom System bereitgestellten Domains und Absendern mit eindeutigen Standard-Badges
+* Tippen Sie, um den aktiven Chat-Composer zu fokussieren
+* Durchsuchen Sie Produkt-Updates mit klarerer Navigation und einem direkten Link zu Versionshinweisen.
+
+**Veröffentlichungsdatum: 14. Oktober 2026**
+
+* Erstellen und Wechseln von Arbeitsbereichen aus dem Profilmenü
+* Suchen nach Kampagnen und gespeicherten Inhalten in der aktualisierten Navigation
+* Aktuelle Kampagnen anzeigen und erneutes Laden von der Startseite aus versuchen
+* Erfahren Sie, wer Kampagnen, Vorlagen und Marken-Kits erstellt hat
+* Finden Sie Ihren Teststatus und die Upgrade-Optionen einfacher
+* Verbinden von Shopify und Aktualisieren der Verbindungsdetails des Stores
+* Dokumente, Tabellen und Bilder direkt von der Startseite aus anhängen
+* Vorschau und Bearbeitung von E-Mails, ohne die Konversation verlassen zu müssen
+* Ändern der Größe von Unterhaltungsvorschauen entsprechend Ihrer Arbeitsweise
+* Überprüfen Sie Workflows, Strategien und Zielgruppen neben Ihrer Konversation
+* E-Mail-Vorlagen wechseln, E-Mails exportieren und Test-E-Mails aus der Vorschau senden
+* Unterhaltungen auch dann weiter lesen, wenn eine E-Mail-Vorschau nicht aktualisiert werden kann
+* Zeigen Sie Kampagnenstrategien neben Ihren anderen Wissensquellen an
+* Anzeigen gespeicherter Strategieänderungen sofort in geöffneten Vorschauen
+* Lesen von Kampagnenstrategien und Zielgruppendetails direkt im Chat
+* Lesen Sie große Zielgruppengröße in einem kürzeren, klareren Format
+* Aktualisierungen des Campaign-Boards mit deutlicheren Highlights verfolgen
+* Konversationen bei normaler Navigation mit der neuesten Nachricht öffnen
+* Kehren Sie zum vorherigen Bildschirm mit verbesserter Navigation zurück
+* Siehe Konversationsnamen im Chat-Header der Kampagnenboards
+* Verwenden von Campaign-Boards, Editoren und Chat auf kleineren Bildschirmen
+* Starten Sie einen neuen Chat, ohne das vorherige Gespräch zu übernehmen
+* Früher nach dem Versand neue Unterhaltungen im Verlauf suchen
+* Der Chat speichert Zeilenumbrüche und macht Webadressen klickbar
+* Durch Workflow-Aktualisierungen wird die abschließende Erklärung des Assistenten nicht mehr ausgeblendet
+* Bestätigungen von Korrekturabzugs-E-Mails werden im Chat nicht mehr zweimal angezeigt
+* Durch E-Mail-Verfeinerungen werden vorhandene Entwürfe aktualisiert, anstatt Duplikate zu erstellen
+* Nachfolgeaufgaben überschreiben nicht mehr die Kampagneneinstellungen oder Zielgruppen
+* In Campaign-Pinnwänden wird nach dem Entfernen von Schritten der neueste Workflow beibehalten
+* Der Kampagnenstatus spiegelt das tatsächliche Stadium Ihrer Kampagne wider
+* Klarere Warnungen zu ungültigen oder abgelaufenen Startzeitplänen erhalten
+* Vor dem Erstellen einer Kampagne prüfen, welche Eingabeaufforderungsdetails fehlen
+* Einrichten von Versand-Domains mit klareren DNS-Einträgen und nächsten Schritten
+* Die Anmeldung bei einem persönlichen Konto überlebt zuverlässigere Aktualisierungen
+* Wechsel vom Onboarding zur Startseite ohne Aufblitzen auf dem Ladebildschirm
+* Die Markenbearbeitung und persönliche Standardaktionen sind wieder verfügbar
+* Genaue Attribution des Erstellers in Brand Kits anzeigen
+* Verstehen, wenn sich die Änderung einer Standardmarke auf Ihren Arbeitsbereich auswirkt
+* Die Markengenerierung wird nicht mehr durch das Banner zum Zurücksetzen unterbrochen
+* E-Mail-Variantensteuerelemente sind leichter zu unterscheiden
+* Chatfehlermeldungen verwenden eine ruhigere visuelle Behandlung
+
+**Veröffentlichungsdatum: 13. Oktober 2026**
+
+* Testbestätigungen erinnern Sie daran, Ihren Spam-Ordner zu überprüfen
+
+**Veröffentlichungsdatum: 12. Oktober 2026**
+
+* Fügen Sie Ihre Website und den vorgesehenen Verwendungszweck hinzu, nachdem Sie den Testzugriff angefordert haben
+* Starten Sie den Anmeldeprozess bei Bedarf mit Ihrer geschäftlichen E-Mail neu.
+
+**Veröffentlichungsdatum: 7. Oktober 2026**
+
+* Weitere Informationen finden Sie im Zeitplan für die Teams-Aktualisierung und im Hinweis auf die bevorstehende Datenzurücksetzung
+* Befolgen Sie die verlinkte Anleitung zum Speichern von Inhalten vor dem Zurücksetzen
 
 ## September 2026 {#sep-2026}
 
