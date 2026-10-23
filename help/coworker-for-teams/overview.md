@@ -4,9 +4,9 @@ title: Übersicht über Adobe CX Enterprise Coworker
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 2c08a164e3f127eb01271b31e1150f1d815e5b27
+source-git-commit: 5bc85387e83672fade431a5e8e801215429fa8c9
 workflow-type: tm+mt
-source-wordcount: '1030'
+source-wordcount: '1027'
 ht-degree: 0%
 ---
 # Übersicht über Mitarbeiter für Teams {#overview}
@@ -97,12 +97,12 @@ Die Benutzeroberfläche „Mitarbeiter für Teams“ ist um eine Navigation auf 
 
 Ein Mitarbeiter für Teams führt fünf Workflows, die in der Regel fünf verschiedene Tools umfassen, in ein Gesprächserlebnis ein:
 
-- **Verwandeln Sie einen Brief in einen Kampagnenplan**. Wenn Sie eine Eingabeaufforderung ablegen oder eine Zusammenfassung hochladen, gibt ein Mitarbeiter für Teams einen strukturierten End-to-End-Plan zurück.
+- **Verwandeln Sie einen Brief in eine Kampagnenstrategie**. Eingabeaufforderung ablegen oder Datei hochladen: Ein Mitarbeiter für Teams gibt eine anfängliche Strategie zur Orchestrierung Ihrer Kampagne zurück.
 - **Erstellen und Verfeinern von Zielgruppen**. Laden Sie eine CSV-Datei hoch oder verbinden Sie Ihre Daten und verfeinern Sie dann das Segment in der Konversation.
 - **Generieren von markeninternen Inhalten**. Mitarbeiter für Teams schreiben E-Mails, die Ihrer Markensprache, Ihren Verweisen und Vorlagen entsprechen.
 - **Entwerfen Sie mehrstufige Journey**. Mitarbeiter für Teams stellen Nurture-Sequenzen zusammen, nicht nur einmalige Sendungen.
 - **Testversand-E-Mails**. Zeigen Sie vor dem Start jede Nachricht in Ihrem eigenen Posteingang in der Vorschau an.
-- **Starten und analysieren**. _(in Kürze verfügbar)_ Senden Sie Kampagnen und erhalten Sie Einblicke in die nächsten Schritte, ohne den Mitarbeiter für Teams verlassen zu müssen.
+- **Starten und analysieren**. Senden Sie Kampagnen und erhalten Sie Einblicke in die nächsten besten Schritte, ohne Kollegen für Teams verlassen zu müssen.
 
 ## Funktionsweise der KI
 
@@ -110,7 +110,7 @@ Mitarbeiter für Teams folgen einer einfachen, mehrgängigen Gesprächsschleife:
 
 **Eingabe**. Sie geben ein Kampagnenziel, Ihre Zielgruppe (hochgeladen oder verbunden) und den optionalen Markenkontext an.
 
-**Verarbeitung**. Die agentische KI „Mitarbeiter für Teams“ generiert einen Kampagnenplan, erstellt eine Journey und entwirft personalisierte Inhalte. All dies können Sie im Gespräch aktualisieren.
+**Verarbeitung**. Die agentische KI „Mitarbeiter für Teams“ generiert eine Kampagnenstrategie, erstellt eine Journey und entwirft personalisierte Inhalte. All dies können Sie im Gespräch aktualisieren.
 
 **Ausgabe**. Ein Kampagnenentwurf wird auf Ihrem Campaign-Board angezeigt und kann überprüft, iteriert und schließlich gestartet werden.
 
@@ -126,7 +126,7 @@ Einige Dinge, die frühe Nutzer erkannt haben, machen einen echten Unterschied:
 
 - **Beginnen Sie mit einem bestimmten, echten Anwendungsfall**. „Erstellen Sie eine Win-Back-Serie für Kunden, die nicht in 90 Tagen bestellt haben“ Schläge „Make me a campaign.“ Siehe _Anwendungsfälle_ für spezifische Beispiele.
 - **Bereinigen Sie Ihre Zielgruppendaten**. Mitarbeiter für Teams können nur so personalisieren, wie es Ihre CSV-Datei erlaubt. Schließen Sie alle Kontakte aus, die Sie vor dem Hochladen nicht per E-Mail versenden sollten.
-- **Investieren Sie in Ihr Markensetup**. Ein Mitarbeiter für Teams extrahiert Markendetails, wenn Sie sich anmelden. Eine kurze Übersicht über **Ihre Inhalte** > **Marken** kommt jeder Kampagne zugute, die Sie generieren.
+- **Investieren Sie in Ihr Markensetup**. Ein Mitarbeiter für Teams extrahiert Markendetails, wenn Sie sich anmelden. Eine kurze Übersicht über **Kontext** > **Marken** nützt jeder Kampagne, die Sie generieren.
 - **Testversand per E-Mail durchführen**. Senden Sie vor dem Start einen Testversand und überprüfen Sie ihn in Ihrem eigenen Posteingang.
 - **Iterieren, nicht neu starten**. Behandeln Sie die erste Ausgabe des Team-Mitarbeiters als Ausgangspunkt. Der schnellste Weg zu großem Erfolg sind ein paar Runden Verfeinerung, keine neue Eingabeaufforderung.
 - **Exportieren Sie , wenn Sie eine Papierspur benötigen**. Exportieren Sie einzelne E-Mails als HTML oder die gesamte Kampagne als Word-Dokument oder PDF zur Teamüberprüfung.
@@ -146,7 +146,7 @@ Mitarbeiter für Teams befindet sich in der aktiven Entwicklung. Hier finden Sie
 
 ## Videoüberblick
 
->[!VIDEO](https://video.tv.adobe.com/v/3492814?captions=ger&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3492807?learn=on){transcript=true}
 
 
 Während der Testphase werden neue Funktionen bereitgestellt. Ihr Feedback prägt das weitere Vorgehen. Senden Sie Feedback über das Symbol für produktinternes Feedback in der Kopfzeile.
