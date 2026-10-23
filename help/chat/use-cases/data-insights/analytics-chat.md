@@ -4,10 +4,10 @@ description: Erfahren Sie, wie Sie mit dem Adobe CX Enterprise Coworker-Chat Cus
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: f1ffc050071fc0ca48ae36c7aea8bc66eff2a147
 workflow-type: tm+mt
-source-wordcount: '2094'
-ht-degree: 5%
+source-wordcount: '2160'
+ht-degree: 4%
 ---
 # Erste Schritte mit der Datenanalyse mit dem Coworker Chat
 
@@ -147,7 +147,7 @@ Hier verliert man Menschen:
 | Sessions | 137,476 | 45,0 % Produkt ansehen | 55% verlassen, ohne Produkte zu durchsuchen |
 | Produktansichten | 61,845 | 55,0 % In den Warenkorb | 45 % durchsuchen, aber nicht hinzufügen |
 | Hinzufügungen zum Warenkorb | 34,045 | 16,4 % Kauf | 83,6 % Warenkorbabbruch |
-| Käufe | 5,582 | — | – |
+| Käufe | 5,582 | – | – |
 
 **Die große Erkenntnis: Der zu kaufende Warenkorb ist Ihr größtes Leck**
 
@@ -305,7 +305,7 @@ Soll ich das als Projekt speichern, damit Sie es verfolgen können, oder einen W
 
 >[!ENDSHADEBOX]
 
-### Was ist passiert?
+### Was geschah
 
 Bei vier fremdsprachigen Fragen hat uns die Kollegin geholfen:
 
@@ -314,17 +314,22 @@ Bei vier fremdsprachigen Fragen hat uns die Kollegin geholfen:
 * Isolieren Sie das eigentliche Problem der mobilen Kasse und quantifizieren Sie die Fehlerbehebung bei einer Steigerung der Käufe um 35 %.
 * Entscheiden Sie sich für eine Lösung, die Ihre Prioritäten setzt: mobiles Bezahlen und Formularkonflikte. Dies entspricht einer Konversionsrate von 23,2 % für Desktop-Computer
 
-## Durchführen von Analysen in Customer Journey Analytics
+## Öffnen einer Visualisierung in Analysis Workspace
 
-Nachdem ein Kollege eine Visualisierung erstellt hat, können Sie sie in Analysis Workspace öffnen, um eine tiefere Analyse und granulare Steuerung zu ermöglichen. Die Visualisierung wird in einem neuen Analysis Workspace-Projekt in Customer Journey Analytics geöffnet.
+Nachdem ein Kollege eine Visualisierung erstellt hat, können Sie sie in Analysis Workspace öffnen, um eine tiefere Analyse und granulare Steuerung zu ermöglichen. Die Visualisierung wird in einem neuen Analysis Workspace-Projekt in Customer Journey Analytics oder Adobe Analytics geöffnet, je nach Datenquelle.
 
 Öffnen einer Visualisierung in einem neuen Analysis Workspace-Projekt:
 
-1. Wählen Sie [!UICONTROL **Analysieren in CJA**] neben einer Visualisierung aus, die in Coworker erstellt wird.
+1. Wählen Sie neben einer in Coworker erstellten Visualisierung eine der folgenden Optionen aus:
 
-1. Wenn die Visualisierung in Customer Journey Analytics geöffnet ist, können Sie die Analysis Workspace-Browser-Benutzeroberfläche per Drag-and-Drop verwenden, um Änderungen vorzunehmen, Ihre Analyse weiter zu erstellen, eine Zielgruppe zu erstellen und vieles mehr. Sie können Ihr Workspace-Projekt sogar für jeden freigeben, den Sie auswählen.
+   * [!UICONTROL **Analysieren in CJA**] für eine Visualisierung, die auf einer Customer Journey Analytics-Datenansicht basiert
+   * [!UICONTROL **Analysieren in Analysis Workspace**] für eine Visualisierung, die auf einer Adobe Analytics Report Suite basiert
 
-   Weitere Informationen zu Analysis Workspace finden Sie unter [Übersicht über Analysis Workspace](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-workspace/home).
+1. Wenn die Visualisierung in Analysis Workspace geöffnet ist, können Sie die Browser-Benutzeroberfläche per Drag-and-Drop verwenden, um Änderungen vorzunehmen, Ihre Analyse weiter zu erstellen und vieles mehr. In Customer Journey Analytics können Sie auch eine Zielgruppe erstellen.
+
+1. (Optional) Geben Sie Ihr Workspace-Projekt für jeden frei.
+
+   Weitere Informationen zu Analysis Workspace finden Sie unter [Übersicht über Analysis Workspace](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-workspace/home) in der Customer Journey Analytics-Dokumentation oder [Übersicht über Analysis Workspace](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/home) in der Adobe Analytics-Dokumentation.
 
 ## Nächste Schritte
 
