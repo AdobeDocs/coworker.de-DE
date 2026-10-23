@@ -1,12 +1,12 @@
 ---
 title: Erste Schritte mit dem Analysieren von Daten mit dem Coworker Chat
-description: Erfahren Sie, wie Sie mit dem Adobe CX Enterprise Coworker-Chat Customer Journey Analytics-Daten analysieren, Trichter erstellen und herausfinden können, wo Kundinnen und Kunden auf der Journey abbrechen.
+description: Richten Sie Adobe CX Enterprise Coworker Chat ein, um Customer Journey Analytics- oder Adobe Analytics-Daten zu analysieren, und folgen Sie dann einem Beispiel, das zu einem Abbruch bei Kunden führt.
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: f1ffc050071fc0ca48ae36c7aea8bc66eff2a147
+source-git-commit: a9f620ee74eeec0f4a838b7bae7a6189226fecc3
 workflow-type: tm+mt
-source-wordcount: '2160'
+source-wordcount: '2184'
 ht-degree: 4%
 ---
 # Erste Schritte mit der Datenanalyse mit dem Coworker Chat
@@ -36,15 +36,17 @@ Bevor Sie den Coworker Chat mit Ihren Customer Journey Analytics- oder Adobe Ana
 
 Weitere Informationen finden Sie im [Handbuch zur Benutzeroberfläche für den Coworker-Chat](/help/chat/ui-guide.md).
 
-## Überprüfen, ob der Coworker Chat mit Customer Journey Analytics verbunden ist
+## Überprüfen der Analytics-Integrationen
 
-Stellen Sie im Coworker Chat sicher, dass Coworker mit Customer Journey Analytics verbunden ist:
+Der Coworker Chat stellt eine Verbindung zu Customer Journey Analytics und Adobe Analytics durch Integrationen her. Bevor Sie beginnen, stellen Sie sicher, dass die Integration für Ihr Produkt verbunden ist.
 
-1. Wählen Sie das MCP-Symbol in der linken Leiste aus und stellen Sie sicher, dass [!UICONTROL **cja-**]) in Ihrer Liste der verbundenen MCP-Server verfügbar ist.
+1. Wählen Sie in der [!UICONTROL **in der linken Leiste**] Anpassungen“ aus.
 
-   ![Das hervorgehobene MCP-Symbol in der linken Leiste „Mitarbeiter“](../../assets/coworker-mcp-cja.png)
+1. Wählen Sie die Registerkarte [!UICONTROL **Integrationen**] und stellen Sie sicher, dass [!UICONTROL **cja-mcp**] und [!UICONTROL **aa-mcp**] in Ihrer Liste der verbundenen MCP-Server verfügbar ist. Verwenden Sie das Suchfeld, um die Liste der verfügbaren Integrationen schnell zu filtern.
 
-1. (Bedingt) Wenn [!UICONTROL **cja-mcp**] noch nicht verbunden ist, wählen Sie [!UICONTROL **MCP-Server hinzufügen**], geben Sie cja im Feld [!UICONTROL **Server-Name**] an und wählen Sie es aus, wenn es angezeigt wird. Wählen Sie dann [!UICONTROL **Server hinzufügen**].
+   ![Die Registerkarte Integrationen auf der Seite Anpassungen , gefiltert, um aa-mcp anzuzeigen](assets/coworker-mcp-aa.png)
+
+1. (Bedingt) Wenn die Integration nicht aufgeführt ist, wählen Sie [!UICONTROL **Server hinzufügen**] aus, um sie hinzuzufügen. Weitere Informationen finden Sie unter [Verbinden von MCP-Servern](/help/chat/ui-guide.md#connect-mcp-servers) im Handbuch zur Benutzeroberfläche des Co-Worker-Chats.
 
 ## Herstellen einer Verbindung zur richtigen Datenansicht oder Report Suite
 
@@ -329,7 +331,7 @@ Nachdem ein Kollege eine Visualisierung erstellt hat, können Sie sie in Analysi
 
 1. (Optional) Geben Sie Ihr Workspace-Projekt für jeden frei.
 
-   Weitere Informationen zu Analysis Workspace finden Sie unter [Übersicht über Analysis Workspace](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-workspace/home) in der Customer Journey Analytics-Dokumentation oder [Übersicht über Analysis Workspace](https://experienceleague.adobe.com/de/docs/analytics/analyze/analysis-workspace/home) in der Adobe Analytics-Dokumentation.
+   Weitere Informationen zu Analysis Workspace finden Sie unter [Übersicht über Analysis Workspace](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-workspace/home) in der Customer Journey Analytics-Dokumentation oder [Übersicht über Analysis Workspace](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/home) in der Adobe Analytics-Dokumentation.
 
 ## Nächste Schritte
 
