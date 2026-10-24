@@ -1,7 +1,7 @@
 ---
 title: Validieren der Implementierung von Streaming-Medien mit einem Kollegen
 description: Erfahren Sie, wie die Streaming-Medien-Validierungsfertigkeit eines Mitarbeiters Ihre Konfiguration, Sitzungen und Protokolle überprüft, um zu bestätigen, dass Ihre Implementierung korrekt verfolgt wird.
-source-git-commit: 4d91397c769a76fba4f0ec1c3e86938a01fe2c6a
+source-git-commit: b54085a497ca4bbf0003d5837d816206a4d40396
 workflow-type: tm+mt
 source-wordcount: '1304'
 ht-degree: 2%
@@ -65,7 +65,7 @@ Bevor Sie diese Fähigkeit verwenden, beachten Sie Folgendes:
 
 1. Melden Sie sich bei einem Kollegen an.
 
-1. Wählen Sie [!UICONTROL **Neuer Chat**] aus.
+1. Wählen Sie **[!UICONTROL Neuer Chat]** aus.
 
 1. Beschreiben Sie im Textfeld, was Sie validieren möchten. Beispiel:
 

@@ -11,9 +11,9 @@ jira: KT-22083
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: b54085a497ca4bbf0003d5837d816206a4d40396
 workflow-type: tm+mt
-source-wordcount: '1530'
+source-wordcount: '1528'
 ht-degree: 0%
 ---
 # Validieren von Daten mit einem Kollegen beim Upgrade von Adobe Analytics auf Customer Journey Analytics
@@ -46,9 +46,9 @@ Sie müssen nicht wissen, wie Ihre Implementierung aufgebaut ist. Die Qualifikat
 
 ## Starten einer Validierungssitzung
 
-1. Melden Sie sich bei Coworker an.
+1. Melden Sie sich bei einem Kollegen an.
 
-1. Wählen Sie [!UICONTROL **Neuer Chat**] aus.
+1. Wählen Sie **[!UICONTROL Neuer Chat]** aus.
 
 1. Fordern Sie den Agenten im Textfeld auf, Ihr Upgrade von Adobe Analytics auf Customer Journey Analytics zu validieren:
 
