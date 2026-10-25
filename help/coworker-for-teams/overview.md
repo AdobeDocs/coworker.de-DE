@@ -1,15 +1,15 @@
 ---
-description: Erfahren Sie mehr über Adobe CX Enterprise Coworker für Teams, eine KI-native Marketing-Anwendung, die eine einzelne Eingabeaufforderung in eine Kampagne für die Überprüfung umwandelt.
-title: Übersicht über Adobe CX Enterprise Coworker
+description: Adobe CX Enterprise Coworker für Teams erkunden. Greifen Sie auf die kostenlose Testversion zu, besichtigen Sie die Benutzeroberfläche, generieren Sie Kampagnen im Gespräch und überprüfen Sie die Testdetails.
+title: Übersicht über Adobe CX Enterprise Coworker for Teams
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5bc85387e83672fade431a5e8e801215429fa8c9
+source-git-commit: 6e7f80445232b5762eb93b82a604d8036c5a78e1
 workflow-type: tm+mt
-source-wordcount: '1027'
+source-wordcount: '1082'
 ht-degree: 0%
 ---
-# Übersicht über Mitarbeiter für Teams {#overview}
+# Übersicht über Adobe CX Enterprise Coworker for Teams {#overview}
 
 Coworker for Teams wurde für kleinere Unternehmen mit agileren Marketing-Teams entwickelt, die Content-Generierung, Journey-Erstellung und Analysen in einem einzigen Tool benötigen.
 
@@ -80,14 +80,15 @@ Die Benutzeroberfläche „Mitarbeiter für Teams“ ist um eine Navigation auf 
     <tr>
       <td>Kontext</td>
       <td>Klicken Sie <i>Kontext</i>, um das zugehörige Untermenü anzuzeigen:<br><br>
+      <ul>
       <li><b>Marken</b> - Verwalten und Hinzufügen von Marken-Kits und Festlegen eines Standardwerts für Ihren Arbeitsbereich.</li>
-      <li><b>E-Mail-Vorlagen</b> - Verwalten und Hochladen benutzerdefinierter HTML-Vorlagen und teilen Sie den Kollegen mit, wann diese verwendet werden sollen.</li>
+      <li><b>E-Mail-Vorlagen</b> - Verwalten und Hochladen benutzerdefinierter HTML-Vorlagen und teilen Sie den Teams die Verwendung der Vorlagen mit.</li>
       <li><b>Connectoren</b> - Externe Integrationen wie Databricks und Salesforce, um Zielgruppen oder Kontext einzubinden.</li>
-      <li><b>Kenntnisse</b> - Wiederverwendbare Anweisungen, die bestimmen, wie ein Kollege Kampagnen erstellt und personalisiert.</li></td>
+      <li><b>Kenntnisse</b> - Wiederverwendbare Anweisungen, die bestimmen, wie ein Kollege Kampagnen erstellt und personalisiert.</li>
+      </ul></td>
     </tr>
   </tbody>
 </table>
-
 
 >[!NOTE]
 >
@@ -108,11 +109,11 @@ Ein Mitarbeiter für Teams führt fünf Workflows, die in der Regel fünf versch
 
 Mitarbeiter für Teams folgen einer einfachen, mehrgängigen Gesprächsschleife:
 
-**Eingabe**. Sie geben ein Kampagnenziel, Ihre Zielgruppe (hochgeladen oder verbunden) und den optionalen Markenkontext an.
+**Eingabe**: Sie geben ein Kampagnenziel, Ihre Zielgruppe (hochgeladen oder verbunden) und den optionalen Markenkontext an.
 
-**Verarbeitung**. Die agentische KI „Mitarbeiter für Teams“ generiert eine Kampagnenstrategie, erstellt eine Journey und entwirft personalisierte Inhalte. All dies können Sie im Gespräch aktualisieren.
+**Verarbeitung**: Die agentische KI „Mitarbeiter für Teams“ generiert eine Kampagnenstrategie, erstellt eine Journey und entwirft personalisierte Inhalte, die Sie alle im Gespräch aktualisieren können.
 
-**Ausgabe**. Ein Kampagnenentwurf wird auf Ihrem Campaign-Board angezeigt und kann überprüft, iteriert und schließlich gestartet werden.
+**Ausgabe**: Auf Ihrem Kampagnenboard wird ein Kampagnenentwurf angezeigt, der zur Überprüfung, Iteration und schließlich zum Launch bereit ist.
 
 Sie können jederzeit mit Kollegen für Teams sprechen (z. B. „die zweite E-Mail dringlicher gestalten“, „die Betreffzeilen verkürzen“ oder „die Zielgruppe in abgelaufene Kundinnen und Kunden aus dem 3. Quartal austauschen„), und die Artefakte werden aktualisiert.
 
@@ -124,29 +125,28 @@ Sie können jederzeit mit Kollegen für Teams sprechen (z. B. „die zweite E-Ma
 
 Einige Dinge, die frühe Nutzer erkannt haben, machen einen echten Unterschied:
 
-- **Beginnen Sie mit einem bestimmten, echten Anwendungsfall**. „Erstellen Sie eine Win-Back-Serie für Kunden, die nicht in 90 Tagen bestellt haben“ Schläge „Make me a campaign.“ Siehe _Anwendungsfälle_ für spezifische Beispiele.
+- **Beginnen Sie mit einem bestimmten, echten Anwendungsfall**. „Erstellen Sie eine Win-Back-Serie für Kunden, die nicht in 90 Tagen bestellt haben“ Schläge „Make me a campaign.“ Siehe [Anwendungsfälle](/help/coworker-for-teams/use-cases.md) für spezifische Beispiele.
 - **Bereinigen Sie Ihre Zielgruppendaten**. Mitarbeiter für Teams können nur so personalisieren, wie es Ihre CSV-Datei erlaubt. Schließen Sie alle Kontakte aus, die Sie vor dem Hochladen nicht per E-Mail versenden sollten.
 - **Investieren Sie in Ihr Markensetup**. Ein Mitarbeiter für Teams extrahiert Markendetails, wenn Sie sich anmelden. Eine kurze Übersicht über **Kontext** > **Marken** nützt jeder Kampagne, die Sie generieren.
 - **Testversand per E-Mail durchführen**. Senden Sie vor dem Start einen Testversand und überprüfen Sie ihn in Ihrem eigenen Posteingang.
 - **Iterieren, nicht neu starten**. Behandeln Sie die erste Ausgabe des Team-Mitarbeiters als Ausgangspunkt. Der schnellste Weg zu großem Erfolg sind ein paar Runden Verfeinerung, keine neue Eingabeaufforderung.
 - **Exportieren Sie , wenn Sie eine Papierspur benötigen**. Exportieren Sie einzelne E-Mails als HTML oder die gesamte Kampagne als Word-Dokument oder PDF zur Teamüberprüfung.
-- **Die Esc-Taste**. Drücken Sie die Esc-Taste jedes Mal, wenn Sie sich im Editor oder Dialogfeld eines Campaign-Mitarbeiters befinden (Kampagnen, Journey usw.) um schnell zu beenden.
+- **Die Esc-Taste**. Drücken Sie die Esc-Taste jedes Mal, wenn Sie sich im Editor oder Dialogfeld eines Mitarbeiters für Teams befinden (Kampagnen, Journey usw.) um schnell zu beenden.
 
 ## Was Sie über den Prozess wissen sollten
 
 Mitarbeiter für Teams befindet sich in der aktiven Entwicklung. Hier finden Sie Informationen zum Einstieg:
 
 - **Testfenster**: Jetzt bis zum 31. Dezember 2026.
-- **Annahme erforderlich**: Sie müssen die Testbedingungen überprüfen und akzeptieren, bevor Sie auf das Produkt zugreifen können.
+- **Annahme erforderlich**: Sie müssen die Testbedingungen überprüfen und akzeptieren, bevor Sie auf das Produkt zugreifen können. Eine gültige geschäftliche E-Mail-Adresse ist erforderlich.
 - **Region**: Die kostenlose Testversion steht derzeit nur Nutzern in Nordamerika zur Verfügung.
-- **Zielgruppen**: Zielgruppen werden über CSV hochgeladen. Alle Audiences sind spezifisch für ihre jeweiligen Kampagnen (sie werden derzeit nirgendwo anders in Ihrer Umgebung gespeichert).
+- **Zielgruppen**: Zielgruppen werden über CSV hochgeladen. Alle Audiences sind spezifisch für ihre jeweiligen Kampagnen (sie werden derzeit nirgendwo anders in Ihrer Umgebung gespeichert). Wenn Sie zum Zeitpunkt der Kampagnenerstellung keine Zielgruppe haben, können Sie Kollegen für Teams bitten, eine Beispielzielgruppe zu generieren, damit Sie Ihre Kampagne weiter erstellen können.
 - **Datenanleitung**: Laden Sie keine sensiblen oder regulierten Daten hoch. Coworker for Teams ist derzeit nicht für HIPAA-regulierte Branchen vorgesehen.
 - **Compliance**: Sie sind für die Einhaltung von E-Mail-Vorschriften verantwortlich (Abmelde-Links, Datenschutzrichtlinien usw.).
-- **Sendelimit**: (_in Kürze verfügbar_) Wenn Launch verfügbar ist, können Sie bis zu 5.000 E-Mails pro Monat senden.
+- **Sendelimit**: Sie können bis zu 5.000 E-Mails pro Monat senden. Wenn Sie diese Beschränkung erhöhen möchten, wenden Sie sich über das Menü **Hilfe und Feedback** unten links auf dem Bildschirm an das Produkt-Team.
 
-## Videoüberblick
+![Hilfe- und Feedback-Menü](./assets/overview-3.png)
 
->[!VIDEO](https://video.tv.adobe.com/v/3492814?captions=ger&learn=on){transcript=true}
+## Feedback
 
-
-Während der Testphase werden neue Funktionen bereitgestellt. Ihr Feedback prägt das weitere Vorgehen. Senden Sie Feedback über das Symbol für produktinternes Feedback in der Kopfzeile.
+Während der Testphase werden neue Funktionen bereitgestellt. Ihr Feedback prägt das weitere Vorgehen. Feedback senden über **Hilfe und Feedback**.
