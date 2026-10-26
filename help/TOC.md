@@ -6,10 +6,10 @@ description: Erfahren Sie mehr über KI-Tools in CX Enterprise. Verbessern Sie I
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
 nudge: true
-source-git-commit: 6022fafc0e0213cbc887f5b38267cb65fd8d4326
+source-git-commit: 6ccaaf8cd5976c21119d800ada44101b11c65eb6
 workflow-type: tm+mt
-source-wordcount: '305'
-ht-degree: 13%
+source-wordcount: '309'
+ht-degree: 14%
 ---
 
 # CX Enterprise Coworker {#content}
@@ -25,7 +25,7 @@ ht-degree: 13%
       - [Über die Datenanalyse](./chat/use-cases/data-insights/analytics-overview.md)
       - [Erste Schritte mit der Datenanalyse](./chat/use-cases/data-insights/analytics-chat.md)
       - Intelligente Implementierung und Verwaltung {#intelligent-implementation-and-administration}
-        - [Überblick](./chat/use-cases/data-insights/data-governance-and-validation.md)
+        - [Übersicht](./chat/use-cases/data-insights/data-governance-and-validation.md)
         - [Implementierung planen](./chat/use-cases/data-insights/implementation-guide.md)
         - [Erstellen einer Checkliste für die Implementierung](./chat/use-cases/data-insights/intelligent-checklist.md)
         - [Validieren von AA zu CJA-Daten beim Upgrade](./chat/use-cases/data-insights/data-validation-aa-cja.md)
@@ -35,14 +35,14 @@ ht-degree: 13%
         - [Experience Platform-Anomalien erkennen](./chat/use-cases/data-insights/anomaly-detection.md)
         - [Beschleunigen von Dateneinblicken](./chat/use-cases/data-insights/accelerate-data-insights.md)
       - Journey-Analyse {#journey-analysis}
-        - [Überblick](./chat/use-cases/data-insights/journey-analysis.md)
+        - [Übersicht](./chat/use-cases/data-insights/journey-analysis.md)
       - Zielgruppen- und Segmentanalyse {#audience-and-segment-analysis}
-        - [Überblick](./chat/use-cases/data-insights/audience-and-segment-analysis.md)
+        - [Übersicht](./chat/use-cases/data-insights/audience-and-segment-analysis.md)
       - Geschäftsergebnis {#business-performance}
         - [Übersicht](./chat/use-cases/data-insights/business-performance.md)
         - [Trends und Grundursachen untersuchen](./chat/use-cases/data-insights/root-cause-analysis.md)
       - Content-Performance {#content-performance}
-        - [Übersicht](./chat/use-cases/data-insights/content-performance.md)
+        - [Überblick](./chat/use-cases/data-insights/content-performance.md)
         - [Fragen zu Inhalten stellen](./chat/use-cases/data-insights/ask-content-questions.md)
       - Marketing-Messung und -Attribution {#marketing-measurement-and-attribution}
         - [Übersicht](./chat/use-cases/data-insights/marketing-measurement-and-attribution.md)
@@ -89,7 +89,7 @@ ht-degree: 13%
     - [Was ist Speicher?](./customizations/memory/what-is-memory.md)
 - Mitarbeiter für Teams {#coworker-for-teams}
   - {hide-from-toc}[Neues Team-Erlebnis](./coworker-for-teams/new-teams-experience.md)
-  - [Übersicht](./coworker-for-teams/overview.md)
+  - [Überblick](./coworker-for-teams/overview.md)
   - [Erstellen einer E-Mail-Kampagne](./coworker-for-teams/create-an-email-campaign.md)
   - [Starten und Verwalten einer Kampagne](./coworker-for-teams/launch-manage-campaign.md)
   - [Anwendungsszenarien](./coworker-for-teams/use-cases.md)
@@ -99,3 +99,5 @@ ht-degree: 13%
     - [Marketo Engage](./coworker-for-teams/connectors/marketo.md)
     - [HubSpot](./coworker-for-teams/connectors/hubspot.md)
   - [Versionshinweise](./coworker-for-teams/release-notes.md)
+- Mehr Ressourcen {#more-resources}
+  - [Dokumentation – Aktualisierungen](./more-resources/documentation-updates.md)
