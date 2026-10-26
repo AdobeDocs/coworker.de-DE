@@ -43,7 +43,7 @@ Um das immersive Erlebnis zu nutzen, melden Sie sich mit Ihren Adobe-Anmeldeinfo
 
 ## Video - Grundlagen der [!DNL Coworker] Chat-Oberfläche
 
->[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498574?captions=ger&learn=on)
 
 ## Organisation auswählen
 
