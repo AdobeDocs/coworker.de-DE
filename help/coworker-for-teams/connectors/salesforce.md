@@ -1,13 +1,13 @@
 ---
-description: Beschreibung
+description: Erfahren Sie, wie Sie Coworker for Teams mit Ihrem Salesforce-Konto verbinden, um auf Ihre Leads und Kontakte zuzugreifen.
 title: Verbindung mit Salesforce herstellen
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: a0a02aaf4048f13954a1018499204cab05c27023
 workflow-type: tm+mt
-source-wordcount: '224'
-ht-degree: 1%
+source-wordcount: '240'
+ht-degree: 0%
 ---
 # Verbindung mit Salesforce herstellen {#salesforce}
 
