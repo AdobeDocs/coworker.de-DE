@@ -53,7 +53,7 @@ Um den Coworker Chat zu aktivieren, benötigt Ihr Unternehmen Zugriff auf Adobe 
 * **Onboarding:** Enterprise Support- oder Professional Services-Team von Adobe konfiguriert Coworker für Ihre Umgebung, richtet Integrationen mit Ihren Adobe-Anwendungen ein und definiert Governance- und Genehmigungs-Workflows.
 * **Zugriff:** Weisen Sie Ihren Teams in der [Admin Console Rollen und Zugriff auf Coworker-Funktionen zu](https://experienceleague.adobe.com/de/docs/core-services/interface/administration/admin-console).
 
-Wenn der -Kollege aktiviert ist, finden [ unter „Erste Schritte mit dem ](./chat/ui-guide.md)&quot; Informationen zum Öffnen des Kollege-Chats, zum Senden Ihrer ersten Nachricht und zum Überprüfen von Antworten.
+Wenn der -Kollege aktiviert ist, finden [&#x200B; unter „Erste Schritte mit dem &#x200B;](./chat/ui-guide.md)&quot; Informationen zum Öffnen des Kollege-Chats, zum Senden Ihrer ersten Nachricht und zum Überprüfen von Antworten.
 
 ### Kollegen-Chat anpassen
 
