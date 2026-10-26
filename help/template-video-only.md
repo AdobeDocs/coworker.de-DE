@@ -19,10 +19,10 @@ level: Beginner
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 7536fb875db4118f150cc1e83135c16ec4ac257c
+source-git-commit: a4755ee1df166cc6efd4ffddca90d395d9e8287c
 workflow-type: tm+mt
-source-wordcount: '190'
-ht-degree: 1%
+source-wordcount: '117'
+ht-degree: 0%
 ---
 <!--
 TEMPLATE GUIDANCE. Delete this comment block before you commit a new page.
@@ -80,18 +80,3 @@ Add {transcript=true} after the closing parenthesis if a transcript is available
 
 [Optional. Löschen Sie diesen Abschnitt, wenn das Video nicht eingerichtet werden muss. Erwähnen Sie die angezeigte Version der Benutzeroberfläche, die verwendete Anwendung oder Sandbox oder ein früheres Video, das Sie zuerst ansehen.]
 
-## Kapitel {#chapters}
-
-[Optional. Löschen Sie diesen Abschnitt für kurze Videos. Themenänderungen mit Zeitstempeln auflisten.]
-
-* 0:00 [Einführung]
-* 1:30 [Thema 1]
-* 15:[ (Thema zwei]
-
-## Weitere Hilfe zu diesem Thema {#more-help}
-
-[Link zur Dokumentationsseite mit den geschriebenen Schritten. Dieser Abschnitt ist erforderlich. Verwenden Sie einen beschreibenden Link-Text und halten Sie die Elemente parallel.]
-
-* [Titel der Dokumentationsseite für die geschriebenen Schritte]
-* [Link-Text, der eine zugehörige Seite beschreibt]
-* [Link-Text, der ein verwandtes Video beschreibt]

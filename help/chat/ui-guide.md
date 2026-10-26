@@ -1,13 +1,13 @@
 ---
-description: Erfahren Sie, wie Sie den Coworker Chat öffnen, Ihre Organisation und Sandbox einrichten, Ihre erste Nachricht senden und Fähigkeiten, MCP-Server und Speicher anpassen. Starten Sie eine Unterhaltung in Minuten.
+description: Erfahren Sie, wie Sie den Coworker Chat öffnen, Ihre Organisation und Sandbox einrichten, Ihre erste Nachricht senden und Fähigkeiten, Integrations-Server und Speicher anpassen.
 title: Erste Schritte mit dem Coworker Chat
 jira: KT-22106
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: b91e8dcdacf57bdbc4fb6cf7d6fe92920e7fbb6e
+source-git-commit: fe2c27fd27bfebe17f31078cea769e6a1e4c71f1
 workflow-type: tm+mt
-source-wordcount: '1765'
+source-wordcount: '1903'
 ht-degree: 3%
 ---
 # Erste Schritte mit dem Coworker Chat {#ui-guide}
@@ -43,7 +43,7 @@ Um das immersive Erlebnis zu nutzen, melden Sie sich mit Ihren Adobe-Anmeldeinfo
 
 ## Video - Grundlagen der [!DNL Coworker] Chat-Oberfläche
 
->[!VIDEO](https://video.tv.adobe.com/v/3498574?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
 
 ## Organisation auswählen
 
@@ -98,7 +98,7 @@ So senden Sie eine Nachricht:
    * Wählen Sie eine Eingabeaufforderung unter **[!UICONTROL Empfohlen für Sie]** aus. Der Coworker Chat fügt es in das Eingabefeld ein, wo Sie es bearbeiten können.
    * Geben Sie Ihre eigene Anfrage in das Feld **[!UICONTROL Mitarbeiter nach]** fragen“ ein.
 
-1. (Optional) Fügen Sie einen Kontext hinzu, wählen Sie aus, wie der Coworker Chat antwortet, oder diktieren Sie Ihre Nachricht. Siehe [Kontext hinzufügen und einen Antwortstil &#x200B;](#input-options).
+1. (Optional) Fügen Sie einen Kontext hinzu, wählen Sie aus, wie der Coworker Chat antwortet, oder diktieren Sie Ihre Nachricht. Siehe [Kontext hinzufügen und einen Antwortstil ](#input-options).
 1. Klicken Sie auf **[!UICONTROL Senden]**.
 
 >[!TIP]
@@ -229,13 +229,28 @@ Verwenden Sie den Umschalter Ansicht , um zwischen Raster- und Listen-Layouts zu
 
    ![Der SKILL.md-Viewer](./assets/ui-guide-14.png)
 
-### MCP-Server verbinden
+### Server anschließen
 
-MCP-Server (Model Context Protocol) verbinden den Coworker Chat mit externen Tools und Services wie Adobe Journey Optimizer, Real-Time CDP, Target und Workfront. Der Tab **[!UICONTROL MCP-Server]** listet Ihre verbundenen Server und die Anzahl der aktiven Verbindungen auf. Jede Karte zeigt den Servernamen, den Endpunkt und Tags, die beschreiben, was sie bereitstellt.
+Eine Server-Integration verbindet den Coworker Chat mit externen Tools und Services wie Adobe Journey Optimizer, Real-Time CDP, Target und Workfront. Auf der Registerkarte **[!UICONTROL Anpassungen]** > **[!UICONTROL Benutzer]** > **[!UICONTROL Integrationen]** werden Ihre verbundenen Server und die Anzahl der aktiven Verbindungen aufgeführt. Jede Karte zeigt den Servernamen, den Endpunkt und Tags, die beschreiben, was sie bereitstellt.
 
-Um einen Server zu verbinden, klicken Sie auf **[!UICONTROL Server hinzufügen]** und befolgen Sie die Anweisungen.
+1. Navigieren Sie **[!UICONTROL Anpassungen]** > **[!UICONTROL Benutzer]** > **[!UICONTROL Integrationen]**
 
-![Die Registerkarte MCP-Server](./assets/ui-guide-15.png)
+   ![Die Registerkarte Server](./assets/get-started-customizations.png)
+
+1. Klicken Sie in „Anpassungen“ auf **[!UICONTROL Server hinzufügen]**.
+
+   ![Die Integrationen hinzufügen](./assets/get-started-add-integrations.png)
+
+1. Füllen Sie die folgenden Felder und Optionen aus:
+
+   * **[!UICONTROL Server-Name]** (erforderlich): Geben Sie einen Namen ein, der den Server in Ihrer Integrationsliste identifiziert, z. B. `github` oder `slack`.
+   * **[!UICONTROL Source-URL oder -Befehl]** (erforderlich): Geben Sie die Adresse ein, mit der sich der Coworker Chat verbindet, z. B. `https://mcp.example.com/sse`.
+   * **[!UICONTROL Verbindungstyp]**: Wählen Sie das Protokoll aus, das der Server für die Kommunikation mit dem Coworker Chat verwendet, entweder **[!UICONTROL SSE]** (Server-gesendete Ereignisse) oder **[!UICONTROL HTTP]**. Der Standardwert lautet **[!UICONTROL SSE]**.
+   * **[!UICONTROL Tool-Zeitüberschreitung (Sekunden)]**: Legen Sie fest, wie lange der Coworker Chat warten soll, bis ein Tool auf diesem Server reagiert, bevor er die Anfrage stoppt. Der Standardwert ist 60 Sekunden.
+   * **[!UICONTROL Authentifizierung]**: Wählen Sie aus, wie der Coworker Chat dem Server seine Identität beweist. Der Standardwert ist **[!UICONTROL None]** wodurch keine Anmeldeinformationen gesendet werden. Wählen Sie eine andere Methode aus, wenn der Server Anmeldeinformationen erfordert.
+   * **[!UICONTROL Kopfzeilen]**: Klicken Sie auf **[!UICONTROL Kopfzeile hinzufügen]**, um bei jeder Anfrage an den Server zusätzliche HTTP-Kopfzeilen wie einen API-Schlüssel zu senden. Diese Option ist optional.
+
+1. Klicken Sie auf **[!UICONTROL Hinzufügen]**.
 
 ### Marketplace hinzufügen
 
@@ -245,7 +260,7 @@ Ein Marketplace ist eine Registrierung von Plug-ins, die Sie durchsuchen und ins
 
 ### Verwalten von Plug-ins
 
-Ein Plug-in bündelt Fähigkeiten und MCP-Server, sodass Sie sie gemeinsam installieren und verwalten können. Die **[!UICONTROL Plugins]** zeigt die installierten Plugins an.
+Ein Plug-in bündelt Fähigkeiten und Server, sodass Sie sie gemeinsam installieren und verwalten können. Die **[!UICONTROL Plugins]** zeigt die installierten Plugins an.
 
 * Klicken Sie **[!UICONTROL Marktplätze durchsuchen]**, um neue Plug-ins zu finden.
 * Filtern Sie nach Marketplace, um zu sehen, woher die einzelnen Plug-ins kamen.
