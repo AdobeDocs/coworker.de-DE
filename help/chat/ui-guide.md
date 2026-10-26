@@ -5,9 +5,9 @@ jira: KT-22106
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: fe2c27fd27bfebe17f31078cea769e6a1e4c71f1
+source-git-commit: d611ce2398cba72cf21c766f3b25225765c1675b
 workflow-type: tm+mt
-source-wordcount: '1903'
+source-wordcount: '1902'
 ht-degree: 3%
 ---
 # Erste Schritte mit dem Coworker Chat {#ui-guide}
@@ -43,7 +43,7 @@ Um das immersive Erlebnis zu nutzen, melden Sie sich mit Ihren Adobe-Anmeldeinfo
 
 ## Video - Grundlagen der [!DNL Coworker] Chat-Oberfläche
 
->[!VIDEO](https://video.tv.adobe.com/v/3498574?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
 
 ## Organisation auswählen
 
@@ -82,7 +82,7 @@ Verwenden Sie die Navigationsleiste, um zwischen den Teilen des Produkts zu wech
 | **[!UICONTROL Neuer Chat]** | Beginnen Sie ein Gespräch. Coworker Chat speichert Ihren aktuellen Chat in Ihrem Verlauf. |
 | **[!UICONTROL Startseite]** | Kehren Sie zur Begrüßung, zum Eingabefeld und zu den vorgeschlagenen Eingabeaufforderungen zurück. |
 | **[!UICONTROL Chats]** | Vergangene Unterhaltungen suchen, anheften, archivieren oder löschen. |
-| **[!UICONTROL Konfigurationen]** | Kenntnisse, MCP-Server, Marketplaces, Plug-ins und Speicher verwalten |
+| **[!UICONTROL Anpassungen]** | Kenntnisse, Integrationen, Marketplaces, Plug-ins und Speicher verwalten |
 | **[!UICONTROL angeheftet]** | Offene Unterhaltungen, die Sie gestartet haben. Klicken Sie **[!UICONTROL Alle anzeigen]**, um sie auf der Seite „Chats“ anzuzeigen. |
 | **[!UICONTROL Zuletzt verwendet]** | Öffnen Sie Ihre neuesten Unterhaltungen. Klicken Sie **[!UICONTROL Alle anzeigen]**, um die Seite „Chats“ zu öffnen. |
 
@@ -98,7 +98,7 @@ So senden Sie eine Nachricht:
    * Wählen Sie eine Eingabeaufforderung unter **[!UICONTROL Empfohlen für Sie]** aus. Der Coworker Chat fügt es in das Eingabefeld ein, wo Sie es bearbeiten können.
    * Geben Sie Ihre eigene Anfrage in das Feld **[!UICONTROL Mitarbeiter nach]** fragen“ ein.
 
-1. (Optional) Fügen Sie einen Kontext hinzu, wählen Sie aus, wie der Coworker Chat antwortet, oder diktieren Sie Ihre Nachricht. Siehe [Kontext hinzufügen und einen Antwortstil &#x200B;](#input-options).
+1. (Optional) Fügen Sie einen Kontext hinzu, wählen Sie aus, wie der Coworker Chat antwortet, oder diktieren Sie Ihre Nachricht. Siehe [Kontext hinzufügen und einen Antwortstil ](#input-options).
 1. Klicken Sie auf **[!UICONTROL Senden]**.
 
 >[!TIP]
@@ -229,7 +229,7 @@ Verwenden Sie den Umschalter Ansicht , um zwischen Raster- und Listen-Layouts zu
 
    ![Der SKILL.md-Viewer](./assets/ui-guide-14.png)
 
-### Server anschließen
+### Server anschließen {#server}
 
 Eine Server-Integration verbindet den Coworker Chat mit externen Tools und Services wie Adobe Journey Optimizer, Real-Time CDP, Target und Workfront. Auf der Registerkarte **[!UICONTROL Anpassungen]** > **[!UICONTROL Benutzer]** > **[!UICONTROL Integrationen]** werden Ihre verbundenen Server und die Anzahl der aktiven Verbindungen aufgeführt. Jede Karte zeigt den Servernamen, den Endpunkt und Tags, die beschreiben, was sie bereitstellt.
 
@@ -272,7 +272,7 @@ Ein Plug-in bündelt Fähigkeiten und Server, sodass Sie sie gemeinsam installie
 
 Mit dem Arbeitsspeicher können Sie Ihre Präferenzen in allen Konversationen speichern, sodass Antworten im Laufe der Zeit relevant bleiben. Verwenden Sie die Registerkarte **[!UICONTROL Speicher]**, um festzulegen, was beibehalten wird.
 
-1. Klicken **[!UICONTROL auf]** Seite „Konfigurationen“ auf „Speicher“.
+1. Klicken Sie **[!UICONTROL Speicher]** auf der Seite „Anpassungen“.
 1. Aktivieren Sie **[!UICONTROL Speicher aktivieren]**. Schalten Sie sie aus, um zu verhindern, dass sich Benutzer über Sitzungen hinweg an den Chat erinnern.
 1. Überprüfen **[!UICONTROL unter „Gespeicherte Voreinstellungen]**, was im Coworker Chat gespeichert wurde. Sie können jeden Eintrag bearbeiten, löschen oder überprüfen und Einträge nach Kategorie filtern.
 1. Verwenden Sie **[!UICONTROL Speicherspeicherverlauf]**, um eine Zeitleiste der Änderungen an Ihren Erinnerungen anzuzeigen.

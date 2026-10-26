@@ -4,16 +4,16 @@ description: Richten Sie Adobe CX Enterprise Coworker Chat ein, um Customer Jour
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: a9f620ee74eeec0f4a838b7bae7a6189226fecc3
+source-git-commit: d611ce2398cba72cf21c766f3b25225765c1675b
 workflow-type: tm+mt
-source-wordcount: '2184'
+source-wordcount: '2182'
 ht-degree: 4%
 ---
 # Erste Schritte mit der Datenanalyse mit dem Coworker Chat
 
 Richten Sie Adobe CX Enterprise Coworker Chat ein, um Ihre Customer Journey Analytics-Datenansichten oder Adobe Analytics Report Suites zu analysieren, und folgen Sie dann einem Arbeitsbeispiel. Einen Überblick darüber, was Sie mit dem Coworker Chat tun können, einschließlich Anwendungsfällen, Fähigkeiten und Best Practices, finden Sie unter [Analysieren von Daten mit dem Coworker Chat](/help/chat/use-cases/data-insights/analytics-overview.md).
 
-Bevor Sie beginnen, machen Sie sich mit der Oberfläche und den Konfigurationsoptionen des Coworker Chat vertraut und stellen Sie dann sicher, dass Coworker mit Customer Journey Analytics oder Adobe Analytics und den relevanten Datenansichten oder Report Suites verbunden ist.
+Bevor Sie beginnen, machen Sie sich mit der Oberfläche und den Anpassungsoptionen für den Coworker Chat vertraut und stellen Sie dann sicher, dass Coworker mit Customer Journey Analytics oder Adobe Analytics und den relevanten Datenansichten oder Report Suites verbunden ist.
 
 ## Voraussetzungen
 
@@ -28,7 +28,7 @@ Bevor Sie den Coworker Chat mit Ihren Customer Journey Analytics- oder Adobe Ana
 * Chat-Eingaben
 * Konversationen
 * Marketplaces
-* MCP-Server
+* Integrations-Server
 * Speicher
 * Plug-ins
 * Skills
@@ -42,11 +42,15 @@ Der Coworker Chat stellt eine Verbindung zu Customer Journey Analytics und Adobe
 
 1. Wählen Sie in der [!UICONTROL **in der linken Leiste**] Anpassungen“ aus.
 
-1. Wählen Sie die Registerkarte [!UICONTROL **Integrationen**] und stellen Sie sicher, dass [!UICONTROL **cja-mcp**] und [!UICONTROL **aa-mcp**] in Ihrer Liste der verbundenen MCP-Server verfügbar ist. Verwenden Sie das Suchfeld, um die Liste der verfügbaren Integrationen schnell zu filtern.
+1. Wählen Sie die Registerkarte [!UICONTROL **Integrationen**] und stellen Sie sicher, dass [!UICONTROL **cja-mcp**] und [!UICONTROL **aa-mcp**] in Ihrer Liste der verbundenen Server verfügbar ist.
+
+   Verwenden Sie das Suchfeld, um die Liste der verfügbaren Integrationen schnell zu filtern.
 
    ![Die Registerkarte Integrationen auf der Seite Anpassungen , gefiltert, um aa-mcp anzuzeigen](assets/coworker-mcp-aa.png)
 
-1. (Bedingt) Wenn die Integration nicht aufgeführt ist, wählen Sie [!UICONTROL **Server hinzufügen**] aus, um sie hinzuzufügen. Weitere Informationen finden Sie unter [Verbinden von MCP-Servern](/help/chat/ui-guide.md#connect-mcp-servers) im Handbuch zur Benutzeroberfläche des Co-Worker-Chats.
+1. (Bedingt) Wenn die Integration nicht aufgeführt ist, wählen Sie [!UICONTROL **Server hinzufügen**] aus, um sie hinzuzufügen.
+
+   Weitere Informationen finden Sie unter [Verbinden eines Servers](/help/chat/ui-guide.md#server) im Erste-Schritte-Handbuch.
 
 ## Herstellen einer Verbindung zur richtigen Datenansicht oder Report Suite
 
@@ -149,7 +153,7 @@ Hier verliert man Menschen:
 | Sessions | 137,476 | 45,0 % Produkt ansehen | 55% verlassen, ohne Produkte zu durchsuchen |
 | Produktansichten | 61,845 | 55,0 % In den Warenkorb | 45 % durchsuchen, aber nicht hinzufügen |
 | Hinzufügungen zum Warenkorb | 34,045 | 16,4 % Kauf | 83,6 % Warenkorbabbruch |
-| Käufe | 5,582 | – | – |
+| Käufe | 5,582 | — | – |
 
 **Die große Erkenntnis: Der zu kaufende Warenkorb ist Ihr größtes Leck**
 
@@ -331,7 +335,7 @@ Nachdem ein Kollege eine Visualisierung erstellt hat, können Sie sie in Analysi
 
 1. (Optional) Geben Sie Ihr Workspace-Projekt für jeden frei.
 
-   Weitere Informationen zu Analysis Workspace finden Sie unter [Übersicht über Analysis Workspace](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-workspace/home) in der Customer Journey Analytics-Dokumentation oder [Übersicht über Analysis Workspace](https://experienceleague.adobe.com/de/docs/analytics/analyze/analysis-workspace/home) in der Adobe Analytics-Dokumentation.
+   Weitere Informationen zu Analysis Workspace finden Sie unter [Übersicht über Analysis Workspace](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-workspace/home) in der Customer Journey Analytics-Dokumentation oder [Übersicht über Analysis Workspace](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/home) in der Adobe Analytics-Dokumentation.
 
 ## Nächste Schritte
 
