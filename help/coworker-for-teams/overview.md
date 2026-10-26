@@ -4,9 +4,9 @@ title: Übersicht über Adobe CX Enterprise Coworker for Teams
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 6e7f80445232b5762eb93b82a604d8036c5a78e1
+source-git-commit: bf3751af83dd8d40021fb2459743aec66c53209c
 workflow-type: tm+mt
-source-wordcount: '1082'
+source-wordcount: '1100'
 ht-degree: 0%
 ---
 # Übersicht über Adobe CX Enterprise Coworker for Teams {#overview}
@@ -144,6 +144,7 @@ Mitarbeiter für Teams befindet sich in der aktiven Entwicklung. Hier finden Sie
 - **Datenanleitung**: Laden Sie keine sensiblen oder regulierten Daten hoch. Coworker for Teams ist derzeit nicht für HIPAA-regulierte Branchen vorgesehen.
 - **Compliance**: Sie sind für die Einhaltung von E-Mail-Vorschriften verantwortlich (Abmelde-Links, Datenschutzrichtlinien usw.).
 - **Sendelimit**: Sie können bis zu 5.000 E-Mails pro Monat senden. Wenn Sie diese Beschränkung erhöhen möchten, wenden Sie sich über das Menü **Hilfe und Feedback** unten links auf dem Bildschirm an das Produkt-Team.
+- **Kostenlose Subdomain**: Die Testversion enthält eine Standard-Subdomain für Ihren Arbeitsbereich, damit Sie Ihre Kampagnen schneller starten können.
 
 ![Hilfe- und Feedback-Menü](./assets/overview-3.png)
 

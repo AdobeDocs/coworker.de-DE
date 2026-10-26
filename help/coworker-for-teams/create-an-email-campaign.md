@@ -4,9 +4,9 @@ title: Erstellen einer E-Mail-Kampagne
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: f25492704c73fc42d54bf44aa8d59ab73f811f1b
+source-git-commit: bf3751af83dd8d40021fb2459743aec66c53209c
 workflow-type: tm+mt
-source-wordcount: '933'
+source-wordcount: '935'
 ht-degree: 0%
 ---
 # Erstellen einer E-Mail-Kampagne {#create-an-email-campaign}
@@ -80,15 +80,13 @@ Wenn Sie Ihre Eingabeaufforderung fertig haben, klicken Sie auf **Kampagne erste
 
 Zielgruppen werden über CSV hochgeladen. Alle Audiences sind spezifisch für ihre jeweiligen Kampagnen (sie werden derzeit nirgendwo anders in Ihrer Umgebung gespeichert).
 
-1. Überprüfen Sie nach dem Einreichen der Eingabeaufforderung die Aufgaben, die von einem Kollegen ausgeführt werden, und klicken Sie auf **Erstellen**.
+1. Nach dem Übermitteln Ihrer Eingabeaufforderung generiert der -Mitarbeiter für Teams (normalerweise) eine Beispielzielgruppe für Sie. Ist dies nicht der Fall, werden Sie aufgefordert, eine Zielgruppe zu importieren.
 
-1. Klicken Sie im Bereich _Kampagnenkonvertierung_ auf der linken Seite auf **CSV hochladen**.
-
-   ![](./assets/create-an-email-campaign-3.png)
+1. Importieren Sie Ihre eigene Audience, indem Sie eine CSV-Datei hochladen oder Daten aus einem verfügbaren Connector einbringen.
 
    >[!NOTE]
    >
-   >* E-Mail-Adresse ist ein Pflichtfeld. Es werden Vorname, Datum des letzten Kaufs und alle anderen Felder empfohlen, die für die Personalisierung verwendet werden können.
+   >Während Sie mit Kollegen für Teams Ihre Kampagne anhand einer Beispielzielgruppe erstellen können, müssen Sie eine echte Zielgruppe hinzufügen, um Ihre Kampagne zu starten.
 
 1. CSV-Datei importieren.
 
@@ -132,9 +130,9 @@ Senden Sie die Kampagne vor dem Start an sich selbst, damit Sie sie in einem ech
 
 ![](./assets/create-an-email-campaign-6.png)
 
-## Schritt 6: Nächste Schritte
+## Schritt 6: Starten der Kampagne
 
-Die Launch-Funktion (Senden Ihrer E-Mail-Kampagne) wird in Kürze verfügbar sein. Bis dahin können Sie den Inhalt mit Ihrem Team überprüfen und mit der nächsten Kampagne beginnen.
+Sie können jetzt [Ihre Kampagne starten](/help/coworker-for-teams/launch-manage-campaign.md#launch-a-campaign).
 
 ## Häufig gestellte Fragen
 
