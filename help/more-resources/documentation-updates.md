@@ -1,19 +1,23 @@
 ---
 title: CX Enterprise Coworker-Dokumentationsaktualisierungen
-description: Weitere Informationen finden Sie in den neuen Artikeln und Videos, die der Dokumentation zu CX Enterprise Coworker hinzugefügt wurden. Schauen Sie zurück, um die neuesten Ergänzungen zu finden.
+description: Weitere Informationen finden Sie in den neuen und aktualisierten Artikeln und Videos in der Dokumentation zu CX Enterprise Coworker. Schauen Sie zurück, um die neuesten Ergänzungen zu finden.
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 6ccaaf8cd5976c21119d800ada44101b11c65eb6
+source-git-commit: e4fbbf54c26a0443f0fab50d05428e793dbb5c88
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 1%
+source-wordcount: '229'
+ht-degree: 0%
 ---
 # Dokumentation – Aktualisierungen {#documentation-updates}
 
-Auf dieser Seite finden Sie neue Inhalte in der Dokumentation zu CX Enterprise Coworker. Die Aktualisierungen werden nach Monat aufgelistet, wobei die aktuellsten zuerst aufgeführt werden. Produktänderungen für Mitarbeiter für Teams finden Sie in den Versionshinweisen [Mitarbeiter für Teams](../coworker-for-teams/release-notes.md).
+Auf dieser Seite finden Sie neue und wesentlich aktualisierte Inhalte in der Dokumentation zu CX Enterprise Coworker. Die Aktualisierungen werden nach Monat aufgelistet, wobei die aktuellsten zuerst aufgeführt werden. Produktänderungen für Mitarbeiter für Teams finden Sie in den Versionshinweisen [Mitarbeiter für Teams](../coworker-for-teams/release-notes.md).
 
 ## Oktober 2026 {#oct-2026}
+
+**26. Oktober 2026**
+
+* Aktualisiert: [Erste Schritte mit dem Coworker Chat](../chat/ui-guide.md). Der Artikel wird entsprechend der aktuellen Benutzeroberfläche umstrukturiert und neu geschrieben. Jetzt werden das Kontomenü und die Navigationsleiste beschrieben, einschließlich **Artefakte** und **Experience Context**. Außerdem wird erläutert, wie eine Organisation und Sandbox ausgewählt werden und wie die Eingabe-Symbolleiste, Transkriptansichten und die Zusammenfassung der Antwortaktivität verwendet werden. Veraltete Screenshots werden entfernt.
 
 **23. Oktober 2026**
 
