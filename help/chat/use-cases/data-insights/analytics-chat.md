@@ -335,7 +335,7 @@ Nachdem ein Kollege eine Visualisierung erstellt hat, können Sie sie in Analysi
 
 1. (Optional) Geben Sie Ihr Workspace-Projekt für jeden frei.
 
-   Weitere Informationen zu Analysis Workspace finden Sie unter [Übersicht über Analysis Workspace](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-workspace/home) in der Customer Journey Analytics-Dokumentation oder [Übersicht über Analysis Workspace](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/home) in der Adobe Analytics-Dokumentation.
+   Weitere Informationen zu Analysis Workspace finden Sie unter [Übersicht über Analysis Workspace](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-workspace/home) in der Customer Journey Analytics-Dokumentation oder [Übersicht über Analysis Workspace](https://experienceleague.adobe.com/de/docs/analytics/analyze/analysis-workspace/home) in der Adobe Analytics-Dokumentation.
 
 ## Nächste Schritte
 
