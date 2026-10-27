@@ -4,10 +4,10 @@ description: Erfahren Sie mehr über Adobe CX Enterprise Coworker, ein KI-gestü
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 577c1f8f9ea054eabfede407149139638311d5dc
+source-git-commit: d611ce2398cba72cf21c766f3b25225765c1675b
 workflow-type: tm+mt
-source-wordcount: '1181'
-ht-degree: 17%
+source-wordcount: '1213'
+ht-degree: 16%
 ---
 # Übersicht über CX Enterprise Coworker {#overview}
 
@@ -63,6 +63,8 @@ Passen Sie den Coworker Chat an die Arbeitsweise Ihres Teams an. Beginnen Sie mi
 * [Integrationen](./customizations/integrations/understanding-integrations-in-coworker.md)
 * [Plug-ins](./customizations/plugins/what-are-plugins.md)
 * [Speicher](./customizations/memory/what-is-memory.md)
+
+Um den Coworker Chat mit einem externen Tool oder Service zu verbinden, fügen Sie ihn als Server unter **[!UICONTROL Anpassungen]** > **[!UICONTROL Benutzer]** > **[!UICONTROL Integrationen]** hinzu. Die Schritte und eine Beschreibung der einzelnen Felder finden Sie unter [Verbinden eines Servers](./chat/ui-guide.md#server).
 
 ## Mitarbeiter für Teams
 

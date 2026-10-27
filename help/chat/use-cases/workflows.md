@@ -4,9 +4,9 @@ title: Chat-Workflows für Kollegen
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: b85f470f860795f9a3960f5a4e36d0584e2b6a81
+source-git-commit: 5acb9a62c94486e0487cc7805ebc9ef6e25e2079
 workflow-type: tm+mt
-source-wordcount: '8358'
+source-wordcount: '8465'
 ht-degree: 9%
 ---
 # Chat-Workflows für Kollegen {#use-cases}
@@ -147,6 +147,7 @@ Mit dem Coworker Chat können Sie Ihre [!DNL Experience Platform]-Daten in natü
 | [Analysieren der Journey-Hygiene](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-analyze){target="_blank"} | Überprüfen Sie Ihr Journey-Inventar, um Journey mit fehlenden oder generischen Namen, veralteten Entwurfs- oder Live-Journey-Namen, übergroßen Journey-Namen, seit langem bestehenden geschlossenen Journey-Namen und ähnlichen Aktions- und Ereignisnamen zu finden, mit Empfehlungen zum Bereinigen und Stabilisieren Ihrer Konfiguration | Journey Analyze | Adobe Journey Optimizer (AJO) | „Überprüfen Sie meine Journey-Konfiguration.“ <br> „Welche meiner Journey sind veraltet oder müssen aufgeräumt werden?“ |
 | [Vergleichen von Journey-Versionen](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-analyze){target="_blank"} | Vergleichen Sie zwei Journey-Versionen und prüfen Sie einen strukturierten Unterschied zwischen den Eigenschaftsänderungen auf Knoten-, Verbindungs- und Journey-Ebene | `journey-analyze-version-comparison` | Adobe Journey Optimizer (AJO) | „Vergleichen Sie die Versionen 2 und 3 meiner Begrüßungs-Journey&quot; <br> „Was hat sich zwischen diesen beiden Journey-Versionen geändert?“ |
 | [Verfolgen von Profilen über eine Journey](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#trace-journey-profile){target="_blank"} | Schreibgeschützte Ausführungsdaten auf Profilebene für eine veröffentlichte Journey abrufen: Sehen Sie, wie viele Profile in jeden Knoten eingetreten sind und wie sie sich auf verschiedene Verzweigungen verteilen, welche Profile Fehler aufgetreten sind und warum. Oder folgen Sie dem Knotenpfad eines einzelnen Profils über die Journey. | Journey-Profil verfolgen | Adobe Journey Optimizer (AJO) | „Profile über [Journey-Name&rbrace; ].“ <br> „Welche Profile sind in den letzten sieben Tagen &rbrack; &lbrack;Journey-Name fehlgeschlagen, an welchem Knoten und warum?“ <br> „Anzeigen des Pfads [ Profils (ID oder E]Mail) über [Journey-Name]&quot; |
+| [Analysieren der Journey-Ausführungszeitleiste](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-execution-timeline){target="_blank"} | Abruf des End-to-End-Zeitplans eines Journey-Batches vom Typ „Zielgruppe lesen“: Hier wird angezeigt, wie lange es gedauert hat, wann der Zielgruppenexport, die Journey-Ausführung und der Versand begonnen und beendet wurden und auf Profilebene P95 und P99 für Einstiegs-, Ausstiegs- oder Ausführungszeit | Journey-Ausführungszeitleiste | Adobe Journey Optimizer (AJO) | „Wie lange hat die Ausführung der Journey [Journey-Name] der Zielgruppe gelesen?“ <br> „Zielgruppenexport, Journey-Ausführung und Versandzeitpläne für [Journey-Name&rbrace; ] Batch anzeigen.“ <br> „Welcher Batch von [Journey-] hat am längsten gedauert, und welche Phase hat die Verzögerung verursacht?“ |
 
 **Verwandte Informationen**
 

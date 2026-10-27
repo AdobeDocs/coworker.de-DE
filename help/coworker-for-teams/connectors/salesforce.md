@@ -1,13 +1,13 @@
 ---
-description: Beschreibung
+description: Erfahren Sie, wie Sie Coworker for Teams mit Ihrem Salesforce-Konto verbinden, um auf Ihre Leads und Kontakte zuzugreifen.
 title: Verbindung mit Salesforce herstellen
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: 6d121c60fbf41dc2b27844854078f8f4f48d1944
 workflow-type: tm+mt
-source-wordcount: '224'
-ht-degree: 1%
+source-wordcount: '240'
+ht-degree: 0%
 ---
 # Verbindung mit Salesforce herstellen {#salesforce}
 
@@ -23,9 +23,9 @@ Mit Adobe Coworker for Teams können Sie eine Verbindung zu Ihrem Salesforce-Kon
 
 ## So verbinden Sie sich
 
-1. Klicken Sie auf der [Startseite für Teams](https://coworker-campaigns.experience.adobe.com/) auf **Anpassen** und wählen Sie **Connectoren**.
+1. Klicken Sie auf der [Startseite für Teams](https://coworker-campaigns.experience.adobe.com/) auf **Kontext** und wählen Sie **Connectoren**.
 
-   ![Mitarbeiter für Teams haben die Navigation links verlassen, wobei „Erweitert anpassen“ und „Connectoren“ hervorgehoben wurden](./assets/salesforce-1.png)
+   ![Mitarbeiter für Teams haben die Navigation verlassen, wobei Kontext erweitert und Connectoren hervorgehoben wurden](./assets/salesforce-1.png)
 
 1. Klicken Sie **Integration hinzufügen**.
 

@@ -6,10 +6,10 @@ description: Erfahren Sie mehr über KI-Tools in CX Enterprise. Verbessern Sie I
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
 nudge: true
-source-git-commit: 6022fafc0e0213cbc887f5b38267cb65fd8d4326
+source-git-commit: a0a02aaf4048f13954a1018499204cab05c27023
 workflow-type: tm+mt
-source-wordcount: '305'
-ht-degree: 13%
+source-wordcount: '312'
+ht-degree: 16%
 ---
 
 # CX Enterprise Coworker {#content}
@@ -42,7 +42,7 @@ ht-degree: 13%
         - [Übersicht](./chat/use-cases/data-insights/business-performance.md)
         - [Trends und Grundursachen untersuchen](./chat/use-cases/data-insights/root-cause-analysis.md)
       - Content-Performance {#content-performance}
-        - [Übersicht](./chat/use-cases/data-insights/content-performance.md)
+        - [Überblick](./chat/use-cases/data-insights/content-performance.md)
         - [Fragen zu Inhalten stellen](./chat/use-cases/data-insights/ask-content-questions.md)
       - Marketing-Messung und -Attribution {#marketing-measurement-and-attribution}
         - [Übersicht](./chat/use-cases/data-insights/marketing-measurement-and-attribution.md)
@@ -65,6 +65,8 @@ ht-degree: 13%
       - [Sandbox Tooling Agent Kenntnisse](./chat/use-cases/sandbox-tooling/sandbox-tooling.md)
     - Warnhinweise {#alerts}
       - [Warnhinweise für Kunden](./chat/use-cases/customer-alerts/customer-alerts.md)
+    - Benachrichtigungen {#notifications}
+      - [Benachrichtigungsfähigkeiten](./chat/use-cases/notifications/notification-skills.md)
     - Brand Visibility {#brand-visibility}
       - [Erstellen und Verfeinern einer AEM-Landingpage](./chat/use-cases/brand-visibility/create-and-refine-aem-landing-page.md)
       - [Prüfung der Markenkonformität](./chat/use-cases/brand-visibility/brand-compliance.md)
@@ -88,8 +90,7 @@ ht-degree: 13%
   - Speicher {#memory}
     - [Was ist Speicher?](./customizations/memory/what-is-memory.md)
 - Mitarbeiter für Teams {#coworker-for-teams}
-  - {hide-from-toc}[Neues Team-Erlebnis](./coworker-for-teams/new-teams-experience.md)
-  - [Übersicht](./coworker-for-teams/overview.md)
+  - [Überblick](./coworker-for-teams/overview.md)
   - [Erstellen einer E-Mail-Kampagne](./coworker-for-teams/create-an-email-campaign.md)
   - [Starten und Verwalten einer Kampagne](./coworker-for-teams/launch-manage-campaign.md)
   - [Anwendungsszenarien](./coworker-for-teams/use-cases.md)
@@ -98,4 +99,8 @@ ht-degree: 13%
   - Connectoren {#connectors}
     - [Marketo Engage](./coworker-for-teams/connectors/marketo.md)
     - [HubSpot](./coworker-for-teams/connectors/hubspot.md)
+    - [Salesforce](./coworker-for-teams/connectors/salesforce.md)
   - [Versionshinweise](./coworker-for-teams/release-notes.md)
+- Mehr Ressourcen {#more-resources}
+  - [Dokumentation – Aktualisierungen](./more-resources/documentation-updates.md)
+  - [Versionshinweise](./more-resources/release-notes.md)
