@@ -4,9 +4,9 @@ title: Starten und Verwalten einer Kampagne
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: f25492704c73fc42d54bf44aa8d59ab73f811f1b
+source-git-commit: a456bf55f7004304df7ad9ea6d6bc3410faffaba
 workflow-type: tm+mt
-source-wordcount: '610'
+source-wordcount: '683'
 ht-degree: 2%
 ---
 # Starten und Verwalten einer Kampagne {#launch-campaign}
@@ -31,11 +31,15 @@ Erfahren Sie nach der Erstellung Ihrer Kampagne, wie Sie sie starten, planen Sie
 
 1. Klicken Sie **abschließend auf** Kampagne starten“.
 
->[!NOTE]
->
->- Eine Kampagne kann nicht mit einer (nicht realen) Beispielzielgruppe, nicht geprüften E-Mail-Entwürfen oder nicht konfigurierten Versandeinstellungen gestartet werden.
->
->- Wenn Sie eine Kampagne planen, können Sie sie vor dem Launch dennoch bearbeiten. Es ist nicht erforderlich, in den Entwurfsmodus zu wechseln.
+### Wichtige Hinweise - Start
+
+- Eine Kampagne kann nicht mit einer (nicht realen) Beispielzielgruppe, nicht geprüften E-Mail-Entwürfen oder nicht konfigurierten Versandeinstellungen gestartet werden.
+
+- Wenn Sie eine Kampagne planen, können Sie sie vor dem Launch dennoch bearbeiten. Es ist nicht erforderlich, in den Entwurfsmodus zu wechseln.
+
+- Ihre Testversion umfasst 5.000 E-Mail-Sendungen pro Monat. Die _geschätzte Auswirkung auf das Limit_ wird beim Start angezeigt, damit Sie verfolgen können, wie viele E-Mails noch übrig sind.
+
+- Wenn Ihre Kampagne live ist, werden Erkenntnisse in zwei Stunden über die Registerkarte _Insights_ oben in Ihrem Kampagnenboard verfügbar. Zu den Insights gehören die Anzahl der Sendungen, Öffnungen, Klicks, Bounces, Abmeldungen und Fehler sowie die tägliche Leistung und Ihr Workflow.
 
 ## Planen des Starts einer Kampagne {#schedule-when-a-campaign-launches}
 
@@ -80,7 +84,7 @@ Die Kampagne muss startbereit sein (alle erforderlichen Einstellungen sind abges
 | Tag des Monats | An welchem Tag des Monats wird die Kampagne wiederholt | Ja, für die monatliche Häufigkeit |
 | Kampagne beenden | Nie oder an einem bestimmten Enddatum | Ja, für wiederkehrend |
 
-### Zu beachtende Punkte
+### Beachten Sie Folgendes: Planung
 
 - Wiederkehrende Kampagnen können so eingestellt werden, dass sie unbegrenzt oder bis zu einem bestimmten Enddatum ausgeführt werden. Einmalige und sofortige Kampagnen haben keine Enddatumsoption, da sie einmal ausgeführt werden.
 - Die Planung unterstützt keine benutzerdefinierten Wiederholungsintervalle, wie „alle 2 Wochen“ oder „alle 3 Tage“. Auch relative monatliche Wiederholungen, wie „der zweite Montag des Monats“, werden nicht unterstützt.
