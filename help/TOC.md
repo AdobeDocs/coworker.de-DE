@@ -6,15 +6,16 @@ description: Erfahren Sie mehr über KI-Tools in CX Enterprise. Verbessern Sie I
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
 nudge: true
-source-git-commit: a0a02aaf4048f13954a1018499204cab05c27023
+source-git-commit: 67936a948c0e985619e3ae72dffa443a016611bb
 workflow-type: tm+mt
-source-wordcount: '312'
-ht-degree: 16%
+source-wordcount: '319'
+ht-degree: 15%
 ---
 
 # CX Enterprise Coworker {#content}
 
 - [Anleitung für Mitarbeiter](home.md)
+- [Adobe CX Enterprise Coworker für KI-Plattformen](/help/ai-platforms.md)
 - Kollege-Chat {#chat}
   - [Über den Coworker Chat](./chat/overview.md)
   - [Erste Schritte mit dem Kollegen-Chat](./chat/ui-guide.md)
@@ -25,7 +26,7 @@ ht-degree: 16%
       - [Über die Datenanalyse](./chat/use-cases/data-insights/analytics-overview.md)
       - [Erste Schritte mit der Datenanalyse](./chat/use-cases/data-insights/analytics-chat.md)
       - Intelligente Implementierung und Verwaltung {#intelligent-implementation-and-administration}
-        - [Überblick](./chat/use-cases/data-insights/data-governance-and-validation.md)
+        - [Übersicht](./chat/use-cases/data-insights/data-governance-and-validation.md)
         - [Implementierung planen](./chat/use-cases/data-insights/implementation-guide.md)
         - [Erstellen einer Checkliste für die Implementierung](./chat/use-cases/data-insights/intelligent-checklist.md)
         - [Validieren von AA zu CJA-Daten beim Upgrade](./chat/use-cases/data-insights/data-validation-aa-cja.md)
@@ -35,9 +36,9 @@ ht-degree: 16%
         - [Experience Platform-Anomalien erkennen](./chat/use-cases/data-insights/anomaly-detection.md)
         - [Beschleunigen von Dateneinblicken](./chat/use-cases/data-insights/accelerate-data-insights.md)
       - Journey-Analyse {#journey-analysis}
-        - [Überblick](./chat/use-cases/data-insights/journey-analysis.md)
+        - [Übersicht](./chat/use-cases/data-insights/journey-analysis.md)
       - Zielgruppen- und Segmentanalyse {#audience-and-segment-analysis}
-        - [Überblick](./chat/use-cases/data-insights/audience-and-segment-analysis.md)
+        - [Übersicht](./chat/use-cases/data-insights/audience-and-segment-analysis.md)
       - Geschäftsergebnis {#business-performance}
         - [Übersicht](./chat/use-cases/data-insights/business-performance.md)
         - [Trends und Grundursachen untersuchen](./chat/use-cases/data-insights/root-cause-analysis.md)
