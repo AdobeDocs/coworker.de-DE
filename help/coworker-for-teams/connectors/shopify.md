@@ -4,22 +4,26 @@ title: Mit Shopify verbinden
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 6d121c60fbf41dc2b27844854078f8f4f48d1944
+source-git-commit: 395e6f64210aedd90fa4f6655860cf4c9bf19f7b
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 2%
+source-wordcount: '160'
+ht-degree: 1%
 ---
 # Mit Shopify verbinden {#shopify}
 
-Adobe Coworker for Teams ermöglicht es Ihnen, Ihre Shopify mit zu verbinden………..
+Mit Adobe Coworker for Teams können Sie Ihr Shopify-Konto verbinden, um Kunden und Segmente abzurufen.
 
 >[!PREREQUISITES]
 >
 >Um diesen Connector verwenden zu können, müssen Sie zunächst über Folgendes verfügen:
+>
+>* Ein aktives Shopify-Konto
+>* Die folgende Berechtigung in Shopify: `read_customers`
+>* Ihre Shopify Store-URL und [Admin-API-Zugriffstoken](https://shopify.dev/docs/apps/build/authentication-authorization) praktisch
 
 ## So verbinden Sie sich
 
-1. Klicken Sie auf der [Startseite für Teams](https://coworker-campaigns.experience.adobe.com/) auf **Anpassen** und wählen Sie **Connectoren**.
+1. Klicken Sie auf der [Startseite für Teams](https://coworker-campaigns.experience.adobe.com/) auf **Kontext** und wählen Sie **Connectoren**.
 
    SCREENSHOT
 
@@ -39,7 +43,7 @@ Adobe Coworker for Teams ermöglicht es Ihnen, Ihre Shopify mit zu verbinden…�
 
    SCREENSHOT
 
-Nach dem Verbinden wird Shopify in der Connector-Liste angezeigt und……………….
+Nach dem Verbinden wird Shopify in der Liste Connectoren angezeigt.
 
 **Verbindung trennen:**
 
