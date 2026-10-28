@@ -4,8 +4,8 @@ title: Erste Schritte mit dem Coworker Chat
 jira: KT-22106
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 6f3146fafcfd39c349f43f961e065b86ed304421
+    internal-label: Coworker
+source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
 workflow-type: tm+mt
 source-wordcount: '2088'
 ht-degree: 3%
@@ -34,7 +34,7 @@ Die folgende Tabelle zeigt, wo die einzelnen Erlebnisse verfügbar sind.
 
 Melden Sie sich mit Ihren Adobe-Anmeldeinformationen bei [!DNL Coworker] an.
 
-1. [Anmelden](https://experienceleague.adobe.com/de/docs/core-services/interface/experience-cloud#sign-in-to-cx-enterprise) bei CX Enterprise mit Ihrer Adobe ID.
+1. [Anmelden](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud#sign-in-to-cx-enterprise) bei CX Enterprise mit Ihrer Adobe ID.
 
    Nach der Anmeldung können Sie [!DNL Coworker] über das Menü der [!DNL CX Enterprise] Anwendung oder einen direkten Link öffnen:
 
@@ -46,7 +46,7 @@ Melden Sie sich mit Ihren Adobe-Anmeldeinformationen bei [!DNL Coworker] an.
 
 ## Lernen Sie die Grundlagen des Coworker Chat kennen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3498574?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
 
 ## Angeben der Voreinstellungen für Kollegen {#preferences}
 
@@ -57,7 +57,7 @@ Links unten in der Benutzeroberfläche können Sie Optionen und Voreinstellungen
 | Einstellung/Option | Verwenden Sie sie für folgende Zwecke: |
 | --- | --- |
 | Kontoname und E-Mail | Bestätigen Sie, mit welchem Adobe-Konto Sie angemeldet sind. |
-| **[!UICONTROL Benachrichtigungen]** (Glockensymbol) | Anzeigen Ihrer [Benachrichtigungen](https://experienceleague.adobe.com/de/docs/core-services/interface/features/account-preferences#subscribe-to-notifications-in-experience-cloud). |
+| **[!UICONTROL Benachrichtigungen]** (Glockensymbol) | Anzeigen Ihrer [Benachrichtigungen](https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences#subscribe-to-notifications-in-experience-cloud). |
 | **[!UICONTROL Design]** | Wechseln Sie zwischen den hellen und dunklen Designs. |
 | **[!UICONTROL App-Einstellungen]** | Anzeigen von Kontodetails und Arbeitsbereich-Einstellungen. |
 | **[!UICONTROL Voreinstellungen]** | Öffnen Sie Ihr Konto [Voreinstellungen](https://experienceleague.adobe.com/de/docs/core-services/interface/features/account-preferences). Der Pfeil zeigt an, dass die Seite außerhalb von Coworker geöffnet wird. |
@@ -103,7 +103,7 @@ So stellen Sie einer Kollegin eine Frage:
    * Wählen Sie eine Eingabeaufforderung unter **[!UICONTROL Empfohlen für Sie]** aus. Der Coworker Chat fügt es in das Eingabefeld ein, wo Sie es bearbeiten können.
    * Geben Sie Ihre eigene Anfrage in das Feld **[!UICONTROL Mitarbeiter nach]** fragen“ ein.
 
-1. (Optional) Fügen Sie einen Kontext hinzu, wählen Sie aus, wie der Coworker Chat antwortet, oder diktieren Sie Ihre Nachricht. Siehe [Kontext hinzufügen und einen Antwortstil &#x200B;](#input-options).
+1. (Optional) Fügen Sie einen Kontext hinzu, wählen Sie aus, wie der Coworker Chat antwortet, oder diktieren Sie Ihre Nachricht. Siehe [Kontext hinzufügen und einen Antwortstil ](#input-options).
 1. Klicken Sie auf **[!UICONTROL Senden]**.
 
 >[!TIP]

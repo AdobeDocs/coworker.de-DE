@@ -8,11 +8,8 @@ doc-type: Tutorial
 jira: PLAT-313965
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-feature_v2:
-  - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 9f9ec676986d190bdc104aff848c7d4289bb13a6
+    internal-label: Coworker
+source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
 workflow-type: tm+mt
 source-wordcount: '1657'
 ht-degree: 1%
@@ -90,7 +87,7 @@ Vergleichen Sie den gemeldeten Wert mit seiner Baseline für die betroffene Ress
 
 Ein Rückgang der Aufnahmeeingabedatensätze deutet beispielsweise auf eine Volumenänderung hin. Diese Änderung allein erklärt nicht, warum weniger Datensätze eintrafen.
 
-Die Ergebnisse können in Tabellen oder in schriftlicher Zusammenfassung angezeigt werden. Tabellen können Anomalien unter dem Risiko [!UICONTROL Hohes Risiko] und dem Risiko [!UICONTROL Medium &#x200B;].
+Die Ergebnisse können in Tabellen oder in schriftlicher Zusammenfassung angezeigt werden. Tabellen können Anomalien unter dem Risiko [!UICONTROL Hohes Risiko] und dem Risiko [!UICONTROL Medium ].
 
 ![Anomalieergebnisse gruppieren Aufnahme- und Zielvolumenspitzen und -senkungen nach hohem und mittlerem Risiko, wobei Ressourcennamen und -werte geschwärzt sind.](assets/anomaly-detection/anomaly-detection-results.png){width="900" zoomable="yes"}
 

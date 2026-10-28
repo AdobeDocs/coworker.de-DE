@@ -9,8 +9,8 @@ last-substantial-update: 2026-08-26T00:00:00.000Z
 jira: KT-22377
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+    internal-label: Coworker
+source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
 workflow-type: tm+mt
 source-wordcount: '215'
 ht-degree: 0%
@@ -22,7 +22,7 @@ Kenntnisse sind wiederverwendbare Playbooks, mit denen Adobe CX Coworker Orchest
  
 In diesem Video erfahren Sie, wie Fähigkeiten funktionieren, wann sie verwendet werden und wie sie Teams dabei helfen, wiederholbare Praktiken für Kundenerlebnisse zu skalieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3502330/?captions=ger&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502322/?learn=on&enablevpops)
 
 Eine Qualifikation bietet:
 
@@ -45,7 +45,6 @@ Viele Unternehmen führen dieselben Aufgaben wiederholt aus, darunter:
 
 Mithilfe von Kenntnissen können Teams diese Best Practices erfassen und wiederverwenden, ohne den Prozess jedes Mal manuell neu zu erklären.
  
-
 ## Qualifikationen und Data Governance
 
 Skills speichern keine Kundendaten.

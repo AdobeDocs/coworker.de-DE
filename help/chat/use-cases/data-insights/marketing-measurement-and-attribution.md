@@ -3,8 +3,8 @@ title: Marketing-Wirkung und Attribution mit Coworker Chat messen
 description: Verwenden Sie den Kollegen-Chat, um die inkrementelle Wirkung jedes Kanals zu messen, um herauszufinden, wo die Ausgaben gesättigt sind, um Was-wäre-wenn-Budget-Szenarien zu erstellen und um die Qualität des Marketing-Modells zu überprüfen.
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+    internal-label: Coworker
+source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
 workflow-type: tm+mt
 source-wordcount: '665'
 ht-degree: 2%

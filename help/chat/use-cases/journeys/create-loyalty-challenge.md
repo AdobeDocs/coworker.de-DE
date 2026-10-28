@@ -9,8 +9,8 @@ last-substantial-update: 2026-08-12T00:00:00.000Z
 jira: KT-22312
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 645cb0c837d9320c3a908b580b10397532900070
+    internal-label: Coworker
+source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 1%
@@ -26,10 +26,10 @@ In dieser Demonstration erfahren Sie, wie die Treue zu Adobe Journey Optimizer (
  
 In diesem Video werden das Loyalty-Plug-in und dessen Challenge-Management-Fähigkeiten vorgestellt, eine KI-gestützte Funktion, mit der Marketing-Experten Herausforderungen im Zusammenhang mit dem Treueprogramm in natürlicher Sprache erstellen, bearbeiten und verwalten können, anstatt jede Einstellung in der Benutzeroberfläche manuell zu konfigurieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496545/?captions=ger&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496528/?learn=on&enablevpops)
 
 ## Siehe auch
 
-- [Journey Agent](https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent) für andere AJO-KI-Funktionen, die über den Coworker Chat verfügbar sind, wie z. B. die Erstellung, Analyse und Simulation von Journey.
+- [Journey Agent](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent) für andere AJO-KI-Funktionen, die über den Coworker Chat verfügbar sind, wie z. B. die Erstellung, Analyse und Simulation von Journey.
 - [Verwaltung von Loyalitätsproblemen](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/essentials/ajo-coworker-skills#loyalty-challenge-management){target="_blank"} in der Dokumentation zu Adobe Journey Optimizer.
 - [Weitere Workflows für den Coworker-Chat](../workflows.md#journeys)

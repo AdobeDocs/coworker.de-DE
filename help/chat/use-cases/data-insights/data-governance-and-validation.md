@@ -3,8 +3,8 @@ title: Implementieren und Verwalten von Analytics mit dem Coworker Chat
 description: Planen Sie Ihre Implementierung, verfolgen Sie sie in einer Checkliste und validieren Sie Adobe Analytics-, Customer Journey Analytics- und Experience Platform-Daten mit dem Coworker Chat.
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: decc8d209d4c9c177c6329a30668f0bbb8bd2c00
+    internal-label: Coworker
+source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
 workflow-type: tm+mt
 source-wordcount: '1235'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Intelligente Implementierung und Verwaltung ist eine von mehreren Analyse-Domain
 Die Anwendungsfälle auf dieser Seite folgen einem optionalen, dreistufigen Workflow. Sie können jede Phase selbst verwenden. Beispielsweise können Sie Ihre Daten validieren, ohne zuerst einen Plan oder eine Checkliste zu generieren.
 
 1. **Plan:** Erhalten Sie einen personalisierten, geordneten Implementierungs- oder Upgrade-Plan. Siehe [Planen der Implementierung mit Coworker](/help/chat/use-cases/data-insights/implementation-guide.md).
-1. **Implementieren:** Verwandeln Sie Ihren Plan in eine Checkliste mit Coworker-Projekten, die Ihr Team zuweisen und verfolgen kann. Siehe [Generieren einer Implementierungs-Checkliste mit &#x200B;](/help/chat/use-cases/data-insights/intelligent-checklist.md).
+1. **Implementieren:** Verwandeln Sie Ihren Plan in eine Checkliste mit Coworker-Projekten, die Ihr Team zuweisen und verfolgen kann. Siehe [Generieren einer Implementierungs-Checkliste mit ](/help/chat/use-cases/data-insights/intelligent-checklist.md).
 1. **Validieren** Vergewissern Sie sich, dass Ihre Daten korrekt konfiguriert und erfasst wurden. Siehe die Anwendungsfälle für die Validierung in der Tabelle [Anwendungsfälle](#use-cases).
 
 ## Voraussetzungen
