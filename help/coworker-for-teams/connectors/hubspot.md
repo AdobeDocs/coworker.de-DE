@@ -4,7 +4,7 @@ title: Mit HubSpot verbinden
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 6d121c60fbf41dc2b27844854078f8f4f48d1944
+source-git-commit: 5394a34858c6480dec74f4fdf8b9a26e28bcac68
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 0%
@@ -18,11 +18,11 @@ Mit Adobe Coworker for Teams können Sie Ihr HubSpot-Konto verbinden, um Kontakt
 >Um diesen Connector verwenden zu können, müssen Sie zunächst über Folgendes verfügen:
 >
 >* Ein aktives HubSpot-Konto
->* Ein [Dienstschlüssel](https://developers.hubspot.com/docs/apps/developer-platform/build-apps/authentication/account-service-keys#create-a-service-key) der mit den folgenden hinzugefügten Bereichen erstellt wurde: `crm.objects.contacts.read`, `crm.objects.leads.read`, `crm.schemas.contacts.read`, `crm.lists.read`, `crm.export`
+>* Ein [Dienstschlüssel](https://developers.hubspot.com/docs/apps/developer-platform/build-apps/authentication/account-service-keys#create-a-service-key){target="_blank"} der mit den folgenden hinzugefügten Bereichen erstellt wurde: `crm.objects.contacts.read`, `crm.objects.leads.read`, `crm.schemas.contacts.read`, `crm.lists.read`, `crm.export`
 
 ## So verbinden Sie sich
 
-1. Klicken Sie auf der [Startseite für Teams](https://coworker-campaigns.experience.adobe.com/) auf **Kontext** und wählen Sie **Connectoren**.
+1. Klicken Sie auf der [Startseite für Teams](https://coworker-campaigns.experience.adobe.com/){target="_blank"} auf **Kontext** und wählen Sie **Connectoren**.
 
    ![Das Menü „Anpassen“ wurde in der Seitenleiste erweitert, wobei Connectoren ausgewählt sind](./assets/hubspot-1.png)
 

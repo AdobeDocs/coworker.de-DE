@@ -1,13 +1,13 @@
 ---
-description: Beschreibung
+description: Mit Adobe Coworker for Teams können Sie Ihr Shopify-Konto verbinden, um Kunden und Segmente abzurufen.
 title: Mit Shopify verbinden
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 395e6f64210aedd90fa4f6655860cf4c9bf19f7b
+source-git-commit: 55ee8ef8f43e03720e75c9e68fccf12da8595f9c
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 1%
+source-wordcount: '243'
+ht-degree: 0%
 ---
 # Mit Shopify verbinden {#shopify}
 
@@ -19,17 +19,17 @@ Mit Adobe Coworker for Teams können Sie Ihr Shopify-Konto verbinden, um Kunden 
 >
 >* Ein aktives Shopify-Konto
 >* Die folgende Berechtigung in Shopify: `read_customers`
->* Ihre Shopify Store-URL und [Admin-API-Zugriffstoken](https://shopify.dev/docs/apps/build/authentication-authorization) praktisch
+>* Ihre Shopify Store-URL und [Admin-API-Zugriffstoken](https://shopify.dev/docs/apps/build/authentication-authorization){target="_blank"} praktisch
 
 ## So verbinden Sie sich
 
-1. Klicken Sie auf der [Startseite für Teams](https://coworker-campaigns.experience.adobe.com/) auf **Kontext** und wählen Sie **Connectoren**.
+1. Klicken Sie auf der [Startseite für Teams](https://coworker-campaigns.experience.adobe.com/){target="_blank"} auf **Kontext** und wählen Sie **Connectoren**.
 
-   SCREENSHOT
+   ![Mitarbeiter für Teams haben die Navigation verlassen, wobei Kontext erweitert und Connectoren hervorgehoben wurden](./assets/shopify-1.png)
 
 1. Klicken Sie **Integration hinzufügen**.
 
-   SCREENSHOT
+   ![Schaltfläche „Integration hinzufügen“ im Bildschirm „Connectoren“](./assets/shopify-2.png)
 
    >[!NOTE]
    >
@@ -37,11 +37,19 @@ Mit Adobe Coworker for Teams können Sie Ihr Shopify-Konto verbinden, um Kunden 
 
 1. Klicken Sie in der Shopify-Zeile auf **Verbinden**.
 
-   SCREENSHOT
+   ![Shopify-Connector-Kachel mit der Schaltfläche „Verbinden“](./assets/shopify-3.png)
 
-1. Geben Sie Ihren Shopify **Workspace-Host**, **SQL-Warehouse-**, **Persönliches Zugriffstoken** und **Unity-Kataloge**. Klicken Sie auf **Verbinden**.
+1. Überprüfen Sie die erforderliche Berechtigung und klicken Sie auf **Weiter**.
 
-   SCREENSHOT
+   ![Bildschirm für die Überprüfung erforderlicher Berechtigungen mit der Schaltfläche „Weiter“ erstellen](./assets/shopify-4.png)
+
+1. Geben Sie Ihre Shopify **Store-URL** und Ihr **Admin-API-Zugriffstoken** ein. Klicken Sie auf **Verbinden**.
+
+>[!NOTE]
+>
+>Rufen Sie in Shopify Ihr Admin-API-Zugriffstoken über **Einstellungen** › **Apps** › **Apps entwickeln** › › › **Ältere benutzerdefinierte App erstellen** **Admin-API-Konfiguration** **Erforderliche Bereiche hinzufügen** ab.
+
+![Shopify-Dialogfeld mit Feldern für Store-URL und Admin-API-Zugriffstoken verbinden](./assets/shopify-5.png)
 
 Nach dem Verbinden wird Shopify in der Liste Connectoren angezeigt.
 
@@ -49,12 +57,6 @@ Nach dem Verbinden wird Shopify in der Liste Connectoren angezeigt.
 
 1. Suchen Sie im Bildschirm Connectoren die Kachel Shopify und klicken Sie auf **Verwalten**.
 
-   SCREENSHOT
-
-1. Klicken Sie **Trennen** (Sie müssen Ihr persönliches Zugriffstoken jetzt nicht erneut eingeben).
-
-   SCREENSHOT
+1. Klicken Sie **Trennen** (Sie müssen Ihr Admin-API-Zugriffstoken jetzt nicht erneut eingeben).
 
 1. Klicken Sie **zur Bestätigung erneut** Trennen“.
-
-   SCREENSHOT

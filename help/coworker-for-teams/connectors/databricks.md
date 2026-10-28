@@ -1,13 +1,13 @@
 ---
-description: Beschreibung
+description: Adobe Coworker for Teams ermöglicht Ihnen, Unity-Katalogtabellen in Ihrem Datenblock-Arbeitsbereich zu verbinden und abzufragen, um Kampagnenzielgruppen zu erstellen und zu aktivieren.
 title: Verbindung zu Datenblöcken herstellen
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 395e6f64210aedd90fa4f6655860cf4c9bf19f7b
+source-git-commit: 55ee8ef8f43e03720e75c9e68fccf12da8595f9c
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 2%
+source-wordcount: '275'
+ht-degree: 0%
 ---
 # Verbindung zu Datenblöcken herstellen {#databricks}
 
@@ -16,16 +16,19 @@ Adobe Coworker for Teams ermöglicht Ihnen, Unity-Katalogtabellen in Ihrem Daten
 >[!PREREQUISITES]
 >
 >Um diesen Connector verwenden zu können, müssen Sie zunächst über Folgendes verfügen:
+>
+>* Ein aktives DataBricks-Konto
+>* Ihr Databricks Workspace Host[SQL Warehouse Path](https://docs.databricks.com/aws/en/compute/sql-warehouse/create){target="_blank"}, [Personal Access Token](https://learn.microsoft.com/en-us/azure/databricks/dev-tools/auth/pat){target="_blank"} und [Unity Catalogs](https://learn.microsoft.com/en-us/azure/databricks/discover/database-objects){target="_blank"}.
 
 ## So verbinden Sie sich
 
-1. Klicken Sie auf der [Startseite für Teams](https://coworker-campaigns.experience.adobe.com/) auf **Kontext** und wählen Sie **Connectoren**.
+1. Klicken Sie auf der [Startseite für Teams](https://coworker-campaigns.experience.adobe.com/){target="_blank"} auf **Kontext** und wählen Sie **Connectoren**.
 
-   SCREENSHOT
+   ![Mitarbeiter für Teams haben die Navigation verlassen, wobei Kontext erweitert und Connectoren hervorgehoben wurden](./assets/databricks-1.png)
 
 1. Klicken Sie **Integration hinzufügen**.
 
-   SCREENSHOT
+   ![Schaltfläche „Integration hinzufügen“ im Bildschirm „Connectoren“](./assets/databricks-2.png)
 
    >[!NOTE]
    >
@@ -33,11 +36,15 @@ Adobe Coworker for Teams ermöglicht Ihnen, Unity-Katalogtabellen in Ihrem Daten
 
 1. Klicken Sie in der Zeile „Databricks“ auf **Verbinden**.
 
-   SCREENSHOT
+   ![Databricks-Connector-Kachel mit der Schaltfläche Verbinden](./assets/databricks-3.png)
 
 1. Geben Sie Ihren Databricks **Workspace-Host**, **SQL-Warehouse-**, **Persönliches Zugriffstoken** und **Unity-Kataloge**. Klicken Sie auf **Verbinden**.
 
-   SCREENSHOT
+   >[!NOTE]
+   >
+   >Auf Ihrer Startseite von Databricks finden Sie den Workspace-Host direkt in der Adressleiste Ihres Browsers. Informationen zum Auffinden aller anderen Anmeldeinformationen finden Sie unter den Links **Voraussetzungen** oben in diesem Artikel.
+
+   ![Verbinden des Dialogfelds „Datenblöcke“ mit Feldern für den Workspace-Host, den SQL-Warehouse-Pfad, das persönliche Zugriffstoken und die Unity-Kataloge](./assets/databricks-4.png)
 
 Nach der Verbindung werden Datenblöcke in der Liste „Connectoren“ angezeigt.
 
@@ -45,12 +52,6 @@ Nach der Verbindung werden Datenblöcke in der Liste „Connectoren“ angezeigt
 
 1. Suchen Sie im Bildschirm „Connectoren“ die Kachel Datenblöcke und klicken Sie auf **Verwalten**.
 
-   SCREENSHOT
-
 1. Klicken Sie **Trennen** (Sie müssen Ihr persönliches Zugriffstoken jetzt nicht erneut eingeben).
 
-   SCREENSHOT
-
 1. Klicken Sie **zur Bestätigung erneut** Trennen“.
-
-   SCREENSHOT

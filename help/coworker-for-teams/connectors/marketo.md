@@ -4,7 +4,7 @@ title: Verbindung mit Marketo Engage herstellen
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 6d121c60fbf41dc2b27844854078f8f4f48d1944
+source-git-commit: 5394a34858c6480dec74f4fdf8b9a26e28bcac68
 workflow-type: tm+mt
 source-wordcount: '316'
 ht-degree: 0%
@@ -19,11 +19,11 @@ Mit Adobe Coworker for Teams können Sie Ihr Marketo Engage-Konto verbinden, um 
 >
 >* Ein gültiges Marketo Engage-Konto
 >* Ihre Marketo **Instanz-URL**
->* Ein [benutzerdefinierter Service](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/custom-services#custom-services-1) der für Kollegen für Teams in Marketo erstellt wurde, mit [Client-ID und &#x200B;](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/authentication#creating-an-access-token)-Geheimnis)
+>* Ein [benutzerdefinierter Service](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/custom-services#custom-services-1){target="_blank"} der für Kollegen für Teams in Marketo erstellt wurde, mit [Client-ID und ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication#creating-an-access-token){target="_blank"}-Geheimnis)
 
 ## So verbinden Sie sich
 
-1. Klicken Sie auf der [Startseite für Teams](https://coworker-campaigns.experience.adobe.com/) auf **Kontext** und wählen Sie **Connectoren**.
+1. Klicken Sie auf der [Startseite für Teams](https://coworker-campaigns.experience.adobe.com/){target="_blank"} auf **Kontext** und wählen Sie **Connectoren**.
 
    ![Mitarbeiter für Teams haben die Navigation verlassen, wobei Kontext erweitert und Connectoren hervorgehoben wurden](./assets/marketo-1.png)
 
