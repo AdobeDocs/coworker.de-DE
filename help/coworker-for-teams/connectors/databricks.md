@@ -1,17 +1,17 @@
 ---
-description: Adobe Coworker for Teams ermöglicht Ihnen, Unity-Katalogtabellen in Ihrem Datenblock-Arbeitsbereich zu verbinden und abzufragen, um Kampagnenzielgruppen zu erstellen und zu aktivieren.
+description: Mit Coworker for Teams können Sie Unity-Katalogtabellen in Ihrem Datenblock-Arbeitsbereich verbinden und abfragen, um Zielgruppen in Kampagnen zu erstellen und zu aktivieren.
 title: Verbindung zu Datenblöcken herstellen
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 55ee8ef8f43e03720e75c9e68fccf12da8595f9c
+source-git-commit: bd7454ee46cb1ee4ca8b7ae6ab07348a23854979
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '273'
 ht-degree: 0%
 ---
 # Verbindung zu Datenblöcken herstellen {#databricks}
 
-Adobe Coworker for Teams ermöglicht Ihnen, Unity-Katalogtabellen in Ihrem Datenblock-Arbeitsbereich zu verbinden und abzufragen, um Kampagnenzielgruppen zu erstellen und zu aktivieren.
+Mit Coworker for Teams können Sie Unity-Katalogtabellen in Ihrem Datenblock-Arbeitsbereich verbinden und abfragen, um Zielgruppen in Kampagnen zu erstellen und zu aktivieren.
 
 >[!PREREQUISITES]
 >

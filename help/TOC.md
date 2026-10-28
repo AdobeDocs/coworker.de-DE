@@ -6,7 +6,7 @@ description: Erfahren Sie mehr über KI-Tools in CX Enterprise. Verbessern Sie I
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
 nudge: true
-source-git-commit: 3c7f31930e1c742d81ca0c9fee731f6edd6b6952
+source-git-commit: bd7454ee46cb1ee4ca8b7ae6ab07348a23854979
 workflow-type: tm+mt
 source-wordcount: '326'
 ht-degree: 15%
@@ -26,7 +26,7 @@ ht-degree: 15%
       - [Über die Datenanalyse](./chat/use-cases/data-insights/analytics-overview.md)
       - [Erste Schritte mit der Datenanalyse](./chat/use-cases/data-insights/analytics-chat.md)
       - Intelligente Implementierung und Verwaltung {#intelligent-implementation-and-administration}
-        - [Übersicht](./chat/use-cases/data-insights/data-governance-and-validation.md)
+        - [Überblick](./chat/use-cases/data-insights/data-governance-and-validation.md)
         - [Implementierung planen](./chat/use-cases/data-insights/implementation-guide.md)
         - [Erstellen einer Checkliste für die Implementierung](./chat/use-cases/data-insights/intelligent-checklist.md)
         - [Validieren von AA zu CJA-Daten beim Upgrade](./chat/use-cases/data-insights/data-validation-aa-cja.md)
@@ -99,11 +99,11 @@ ht-degree: 15%
   - [Best Practices für die Prompt-Erstellung](./coworker-for-teams/prompting-best-practices.md)
   - [C2PA-Metadaten](./coworker-for-teams/c2pa-metadata.md)
   - Connectoren {#connectors}
-    - {hide-from-toc}[Databricks](./coworker-for-teams/connectors/databricks.md)
+    - [Databricks](./coworker-for-teams/connectors/databricks.md)
     - [HubSpot](./coworker-for-teams/connectors/hubspot.md)
     - [Marketo Engage](./coworker-for-teams/connectors/marketo.md)
     - [Salesforce](./coworker-for-teams/connectors/salesforce.md)
-    - {hide-from-toc}[Shopify](./coworker-for-teams/connectors/shopify.md)
+    - [Shopify](./coworker-for-teams/connectors/shopify.md)
   - [Versionshinweise](./coworker-for-teams/release-notes.md)
 - Mehr Ressourcen {#more-resources}
   - [Dokumentation – Aktualisierungen](./more-resources/documentation-updates.md)

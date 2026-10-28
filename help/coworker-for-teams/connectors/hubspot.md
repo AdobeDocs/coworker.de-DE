@@ -4,14 +4,14 @@ title: Mit HubSpot verbinden
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5394a34858c6480dec74f4fdf8b9a26e28bcac68
+source-git-commit: bd7454ee46cb1ee4ca8b7ae6ab07348a23854979
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '260'
 ht-degree: 0%
 ---
 # Mit HubSpot verbinden {#hubspot}
 
-Mit Adobe Coworker for Teams können Sie Ihr HubSpot-Konto verbinden, um Kontaktlisten abzurufen.
+Ein Mitarbeiter für Teams ermöglicht es Ihnen, Ihr HubSpot-Konto zu verbinden, um Kontaktlisten abzurufen.
 
 >[!PREREQUISITES]
 >
