@@ -4,9 +4,9 @@ title: Chat-Workflows für Kollegen
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5a5642bf7d8b6f4d2aa14321fa9a06249440e998
+source-git-commit: 8e88ec793bd4ae6fe4692c1d5107fe01fe14bf7f
 workflow-type: tm+mt
-source-wordcount: '8508'
+source-wordcount: '8510'
 ht-degree: 8%
 ---
 # Chat-Workflows für Kollegen {#use-cases}
@@ -117,7 +117,7 @@ Mit dem Coworker Chat können Sie Ihre [!DNL Experience Platform]-Daten in natü
 | Prognose | Zukünftige Metrikwerte des Projekts basierend auf historischen CJA- oder AA-Daten | `cja`, `aa` | Customer Journey Analytics (CJA), Adobe Analytics (AA) | „Prognostizierte Sitzungen für die nächsten 30 Tage“ <br> „Sind wir auf dem besten Weg, unser Umsatzziel zu erreichen?“ |
 | [Ursachenanalyse](data-insights/root-cause-analysis.md) | Finden Sie heraus, warum sich eine Metrik geändert hat: Diagnostizieren von Abfällen, Spitzen und Anomalien | `cja-root-cause-analysis`, `aa-root-cause-analysis` | Customer Journey Analytics (CJA), Adobe Analytics (AA) | „Warum sind die Konversionen letzte Woche zurückgegangen?“ <br> „Was verursachte die Umsatzspitze am 15. Januar?“ |
 | Zusammenfassung für Führungskräfte und KPI-Zusammenfassung | Erstellung von einsatzbereiten Leistungszusammenfassungen für Stakeholder, präskriptiven Empfehlungen und Folienübersichten | `cja-executive-summary`, `cja-bacom-anomaly-tracker-v2`, `cja-cno-weekly-pulse`, `cja-reporting`, `cja`, `aa`, `dx-api` | Customer Journey Analytics (CJA), Adobe Analytics (AA) | „Gib mir eine Zusammenfassung des letzten Monats“ <br> „Erstellen eines Folien-Decks aus den Daten dieses Quartals“ |
-| [Inhaltsanalyse](data-insights/ask-content-questions.md) | Beantworten Sie allgemeine oder spezifische Fragen zu Ihren Inhalten mithilfe von Content Analytics-Daten: Welche Inhalte sollten priorisiert werden, welche Attribute die Interaktion fördern und welche Assets und Erlebnisse den Umsatz steigern? | `analyze-content`, `cja` | Customer Journey Analytics (CJA) | „Welche Art von Inhalten sollte ich priorisieren?“ <br> „Was haben unsere Bilder mit der besten Leistung gemeinsam?“ |
+| [Inhaltsanalyse](data-insights/ask-content-questions.md) (eingeschränkte Verfügbarkeit) | Beantworten Sie allgemeine oder spezifische Fragen zu Ihren Inhalten mithilfe von Content Analytics-Daten: Welche Inhalte sollten priorisiert werden, welche Attribute die Interaktion fördern und welche Assets und Erlebnisse den Umsatz steigern? | `analyze-content`, `cja` | Customer Journey Analytics (CJA) | „Welche Art von Inhalten sollte ich priorisieren?“ <br> „Was haben unsere Bilder mit der besten Leistung gemeinsam?“ |
 | [AA ↔ CJA-Datenvalidierung](data-insights/data-validation-aa-cja.md) | Vergleichen, Überprüfen und Abstimmung von Daten zwischen Adobe Analytics und Customer Journey Analytics, insbesondere beim Upgrade von Adobe Analytics auf Customer Journey Analytics | `aa-cja-validation`, `cja`, `aa`, `dx-api` | ADOBE ANALYTICS + CJA | „Meine AA Report Suite mit meiner CJA-Datenansicht vergleichen“ <br> „Seitenansichten zwischen AA und CJA validieren“ |
 | [Validieren der Datensatz- und Feldqualität](data-insights/data-validation-aep.md) | Führen Sie eine statistische und semantische Validierung für Experience Platform-Datensätze und -Felder aus, um Datenqualitätsprobleme nach der Implementierung oder fortlaufend zu <!--TODO: confirm skill ID(s) with engineering before publishing--> | `data-validation` | Adobe Experience Platform | „Validieren des Datensatzes Electronics Sample 1000“ <br> „Validieren des E-Mail-Felds im Datensatz Customers_2024“ |
 | Operative Zeitreihen- und Kausalanalyse | Abfragen und Analysieren historischer Zeitreihendaten für Zielgruppen, Datensätze und Journey mit kausaler Attribution | `operational-stats-causal-analysis` | Alle infrage kommenden Anträge | „Trends bei der Zielgruppengröße in den letzten 90 Tagen anzeigen“ <br> „Warum hat die Anzahl meiner Datensatzzeilen am 3. März angezogen?“ |

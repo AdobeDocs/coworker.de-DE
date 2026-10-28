@@ -4,9 +4,9 @@ title: Erstellen einer E-Mail-Kampagne
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: bf3751af83dd8d40021fb2459743aec66c53209c
+source-git-commit: a456bf55f7004304df7ad9ea6d6bc3410faffaba
 workflow-type: tm+mt
-source-wordcount: '935'
+source-wordcount: '933'
 ht-degree: 0%
 ---
 # Erstellen einer E-Mail-Kampagne {#create-an-email-campaign}
@@ -68,7 +68,7 @@ Beispiel:
 
 ![Eingeben in die eigene Eingabeaufforderung](./assets/create-an-email-campaign-2.png)
 
-Wenn Sie Ihre Eingabeaufforderung fertig haben, klicken Sie auf **Kampagne erstellen**. Mitarbeiter für Teams werden dann:
+Wenn Sie Ihre Eingabeaufforderung fertig haben, klicken Sie auf das Nach-oben-Symbol. Mitarbeiter für Teams werden dann:
 
 * Erstellen einer strukturierten Kampagnenstrategie.
 * Fragen Sie nach Ihrer Zielgruppe, die auch für die Personalisierung von Inhalten verwendet wird.
@@ -88,8 +88,6 @@ Zielgruppen werden über CSV hochgeladen. Alle Audiences sind spezifisch für ih
    >
    >Während Sie mit Kollegen für Teams Ihre Kampagne anhand einer Beispielzielgruppe erstellen können, müssen Sie eine echte Zielgruppe hinzufügen, um Ihre Kampagne zu starten.
 
-1. CSV-Datei importieren.
-
    >[!IMPORTANT]
    >
    >Schließen Sie alle Kontakte aus, die Sie nicht per E-Mail versenden möchten (abgemeldete Benutzer, interne Adressen, Testkonten), bevor Sie den Upload durchführen. Während wir die Funktion schrittweise aktivieren werden, um bestimmte Benutzer auszuschließen oder im Laufe der Testphase Attribute hinzuzufügen, ist sie nicht sofort ab dem Launch-Datum verfügbar.
@@ -98,7 +96,7 @@ Zielgruppen werden über CSV hochgeladen. Alle Audiences sind spezifisch für ih
 
 Um Änderungen an Ihrer E-Mail vorzunehmen, scrollen Sie nach rechts. Klicken _unter „Campaign_&quot; auf **Editor öffnen**.
 
-![](./assets/create-an-email-campaign-4.png)
+![](./assets/create-an-email-campaign-3.png)
 
 Es gibt zwei Möglichkeiten, Ihre Inhalte zu aktualisieren.
 
@@ -114,7 +112,7 @@ Es gibt zwei Möglichkeiten, Ihre Inhalte zu aktualisieren.
 
 Sie können auch die KI-Schaltflächen verwenden, um den Betreff oder den Preheader zu verfeinern.
 
-![](./assets/create-an-email-campaign-5.png)
+![](./assets/create-an-email-campaign-4.png)
 
 >[!TIP]
 >
@@ -128,7 +126,7 @@ Senden Sie die Kampagne vor dem Start an sich selbst, damit Sie sie in einem ech
 >
 >Derzeit können Sie nur eine Test-E-Mail an sich selbst senden, und zwar jeweils nur eine.
 
-![](./assets/create-an-email-campaign-6.png)
+![](./assets/create-an-email-campaign-5.png)
 
 ## Schritt 6: Starten der Kampagne
 

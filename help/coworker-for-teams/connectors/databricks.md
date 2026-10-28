@@ -4,14 +4,14 @@ title: Verbindung zu Datenblöcken herstellen
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 6d121c60fbf41dc2b27844854078f8f4f48d1944
+source-git-commit: 395e6f64210aedd90fa4f6655860cf4c9bf19f7b
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '140'
 ht-degree: 2%
 ---
 # Verbindung zu Datenblöcken herstellen {#databricks}
 
-Adobe Coworker for Teams ermöglicht Ihnen, Ihre Datenblöcke mit zu verbinden………..
+Adobe Coworker for Teams ermöglicht Ihnen, Unity-Katalogtabellen in Ihrem Datenblock-Arbeitsbereich zu verbinden und abzufragen, um Kampagnenzielgruppen zu erstellen und zu aktivieren.
 
 >[!PREREQUISITES]
 >
@@ -19,7 +19,7 @@ Adobe Coworker for Teams ermöglicht Ihnen, Ihre Datenblöcke mit zu verbinden�
 
 ## So verbinden Sie sich
 
-1. Klicken Sie auf der [Startseite für Teams](https://coworker-campaigns.experience.adobe.com/) auf **Anpassen** und wählen Sie **Connectoren**.
+1. Klicken Sie auf der [Startseite für Teams](https://coworker-campaigns.experience.adobe.com/) auf **Kontext** und wählen Sie **Connectoren**.
 
    SCREENSHOT
 
@@ -39,7 +39,7 @@ Adobe Coworker for Teams ermöglicht Ihnen, Ihre Datenblöcke mit zu verbinden�
 
    SCREENSHOT
 
-Nach dem Verbinden werden Databricks in der Connector-Liste angezeigt und……………….
+Nach der Verbindung werden Datenblöcke in der Liste „Connectoren“ angezeigt.
 
 **Verbindung trennen:**
 

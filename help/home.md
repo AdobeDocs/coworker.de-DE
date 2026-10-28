@@ -4,9 +4,9 @@ description: Erfahren Sie mehr über Adobe CX Enterprise Coworker, ein KI-gestü
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: d611ce2398cba72cf21c766f3b25225765c1675b
+source-git-commit: 67936a948c0e985619e3ae72dffa443a016611bb
 workflow-type: tm+mt
-source-wordcount: '1213'
+source-wordcount: '1231'
 ht-degree: 16%
 ---
 # Übersicht über CX Enterprise Coworker {#overview}
@@ -216,3 +216,9 @@ CARDS
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
+## KI-Plattformen
+
+Verwenden Sie [!DNL Adobe CX Enterprise Coworker for AI Platforms], um Marketing-Einblicke in Ihre KI-Tools zu erhalten.
+
+* [Adobe CX Enterprise Coworker für KI-Plattformen](/help/ai-platforms.md)
