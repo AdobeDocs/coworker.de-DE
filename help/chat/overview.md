@@ -66,4 +66,4 @@ Der Coworker Chat basiert auf den Bausteinen der Kollegen. Die folgenden Baustei
 
 ## Videoüberblick
 
->[!VIDEO](https://video.tv.adobe.com/v/3495967?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3495974?captions=ger&learn=on){transcript=true}
