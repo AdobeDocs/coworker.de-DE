@@ -45,6 +45,7 @@ Viele Unternehmen führen dieselben Aufgaben wiederholt aus, darunter:
 
 Mithilfe von Kenntnissen können Teams diese Best Practices erfassen und wiederverwenden, ohne den Prozess jedes Mal manuell neu zu erklären.
  
+
 ## Qualifikationen und Data Governance
 
 Skills speichern keine Kundendaten.
