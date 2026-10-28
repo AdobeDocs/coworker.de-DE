@@ -1,5 +1,5 @@
 ---
-title: Erstellen der ersten Coworker-Qualifikation
+title: Erstellen Ihrer ersten Kollegen-Qualifikation
 description: Erfahren Sie, wie Mitarbeiter eine einmalige Analyseaufgabe in wiederverwendbare Kenntnisse umwandeln können, die Monat für Monat konsistente geschäftliche Einblicke liefern.
 role: User
 level: Beginner
@@ -10,7 +10,7 @@ jira: KT-22378
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
+source-git-commit: 0ef1f562174f53393bab97a0d0c91c666810aa20
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Anstatt Berichte manuell zu erstellen und Metriken zu interpretieren, arbeitet d
 
 Das Ergebnis ist ein wiederholbarer Workflow, der bei Bedarf mit einer einfachen Eingabeaufforderung ausgeführt werden kann.
 
->[!VIDEO](https://video.tv.adobe.com/v/3502339/?captions=ger&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502323/?learn=on&enablevpops)
 
 ## Analyse in wiederverwendbare Kenntnisse umwandeln
 

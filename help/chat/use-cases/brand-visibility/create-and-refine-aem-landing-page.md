@@ -9,7 +9,7 @@ duration: 360
 last-substantial-update: 2026-10-23
 jira: KT-22900
 nudge: true
-source-git-commit: 6022fafc0e0213cbc887f5b38267cb65fd8d4326
+source-git-commit: 0ef1f562174f53393bab97a0d0c91c666810aa20
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 0%
@@ -19,5 +19,5 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie mit Adobe CX Enterprise Coworker aus einer Kampagnenkommentar eine Entwurfslandingpage machen. Befolgen Sie den Workflow, um eine bestehende Adobe Experience Manager-Seite als Vorlage zu verwenden, das Ziel zu bestätigen, Kampagneninhalte und SEO-Metadaten anzuwenden und Bilder und Kopien im universellen Editor zu verfeinern.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504689/?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504682/?learn=on)
 
