@@ -4,7 +4,7 @@ description: Richten Sie Adobe CX Enterprise Coworker Chat ein, um Customer Jour
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: d611ce2398cba72cf21c766f3b25225765c1675b
+source-git-commit: d92dcaa94d6fe5577c11db62928f5c4c5e124ed5
 workflow-type: tm+mt
 source-wordcount: '2182'
 ht-degree: 4%
@@ -42,7 +42,7 @@ Der Coworker Chat stellt eine Verbindung zu Customer Journey Analytics und Adobe
 
 1. Wählen Sie in der [!UICONTROL **in der linken Leiste**] Anpassungen“ aus.
 
-1. Wählen Sie die Registerkarte [!UICONTROL **Integrationen**] und stellen Sie sicher, dass [!UICONTROL **cja-mcp**] und [!UICONTROL **aa-mcp**] in Ihrer Liste der verbundenen Server verfügbar ist.
+1. Wählen Sie die Registerkarte [!UICONTROL **Integrationen**] und stellen Sie sicher, dass [!UICONTROL **cja-mcp**] und [!UICONTROL **aa-mcp**] in Ihrer Liste der verbundenen Server verfügbar sind.
 
    Verwenden Sie das Suchfeld, um die Liste der verfügbaren Integrationen schnell zu filtern.
 
@@ -153,7 +153,7 @@ Hier verliert man Menschen:
 | Sessions | 137,476 | 45,0 % Produkt ansehen | 55% verlassen, ohne Produkte zu durchsuchen |
 | Produktansichten | 61,845 | 55,0 % In den Warenkorb | 45 % durchsuchen, aber nicht hinzufügen |
 | Hinzufügungen zum Warenkorb | 34,045 | 16,4 % Kauf | 83,6 % Warenkorbabbruch |
-| Käufe | 5,582 | — | – |
+| Käufe | 5,582 | – | – |
 
 **Die große Erkenntnis: Der zu kaufende Warenkorb ist Ihr größtes Leck**
 
@@ -335,7 +335,7 @@ Nachdem ein Kollege eine Visualisierung erstellt hat, können Sie sie in Analysi
 
 1. (Optional) Geben Sie Ihr Workspace-Projekt für jeden frei.
 
-   Weitere Informationen zu Analysis Workspace finden Sie unter [Übersicht über Analysis Workspace](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-workspace/home) in der Customer Journey Analytics-Dokumentation oder [Übersicht über Analysis Workspace](https://experienceleague.adobe.com/de/docs/analytics/analyze/analysis-workspace/home) in der Adobe Analytics-Dokumentation.
+   Weitere Informationen zu Analysis Workspace finden Sie unter [Übersicht über Analysis Workspace](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-workspace/home) in der Customer Journey Analytics-Dokumentation oder [Übersicht über Analysis Workspace](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/home) in der Adobe Analytics-Dokumentation.
 
 ## Nächste Schritte
 

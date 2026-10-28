@@ -6,9 +6,9 @@ description: Erfahren Sie mehr über KI-Tools in CX Enterprise. Verbessern Sie I
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
 nudge: true
-source-git-commit: 5394a34858c6480dec74f4fdf8b9a26e28bcac68
+source-git-commit: 3c7f31930e1c742d81ca0c9fee731f6edd6b6952
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '326'
 ht-degree: 15%
 ---
 
@@ -30,6 +30,7 @@ ht-degree: 15%
         - [Implementierung planen](./chat/use-cases/data-insights/implementation-guide.md)
         - [Erstellen einer Checkliste für die Implementierung](./chat/use-cases/data-insights/intelligent-checklist.md)
         - [Validieren von AA zu CJA-Daten beim Upgrade](./chat/use-cases/data-insights/data-validation-aa-cja.md)
+        - [Migrieren von AA-Projekten nach CJA](./chat/use-cases/data-insights/migrate-projects-aa-cja.md)
         - [Validieren der Implementierung von Streaming-Medien](./chat/use-cases/data-insights/streaming-media-validation.md)
         - [Validieren der Datensatzqualität für CJA-Berichte](./chat/use-cases/data-insights/validate-dataset-quality-for-cja.md)
         - [Validieren der Experience Platform-Daten](./chat/use-cases/data-insights/data-validation-aep.md)
@@ -38,9 +39,9 @@ ht-degree: 15%
       - Journey-Analyse {#journey-analysis}
         - [Überblick](./chat/use-cases/data-insights/journey-analysis.md)
       - Zielgruppen- und Segmentanalyse {#audience-and-segment-analysis}
-        - [Übersicht](./chat/use-cases/data-insights/audience-and-segment-analysis.md)
+        - [Überblick](./chat/use-cases/data-insights/audience-and-segment-analysis.md)
       - Geschäftsergebnis {#business-performance}
-        - [Überblick](./chat/use-cases/data-insights/business-performance.md)
+        - [Übersicht](./chat/use-cases/data-insights/business-performance.md)
         - [Trends und Grundursachen untersuchen](./chat/use-cases/data-insights/root-cause-analysis.md)
       - Content-Performance {#content-performance}
         - [Überblick](./chat/use-cases/data-insights/content-performance.md)
