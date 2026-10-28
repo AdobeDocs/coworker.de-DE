@@ -73,7 +73,7 @@ Um Zuordnungen zu überprüfen, wählen Sie [!UICONTROL **Nur Zuordnungen überp
 
 Sie können Ihre Kollegen auch bitten, die Zuordnungen zu aktualisieren.
 
-Wenn Sie diese Überprüfung überspringen, prüft [ die Zuordnungen für jedes Projekt, das Sie migrieren](#review-the-validation-results-and-mappings).
+Wenn Sie diese Überprüfung überspringen, prüft [&#x200B; die Zuordnungen für jedes Projekt, das Sie migrieren](#review-the-validation-results-and-mappings).
 
 ## Starten einer Migration
 
@@ -146,7 +146,7 @@ So migrieren Sie bestimmte Komponenten:
 
    Ein Mitarbeiter erstellt das Projekt in Adobe Analytics.
 
-1. Fahren Sie mit dem folgenden Abschnitt fort[ „Überprüfen Sie die Validierungsergebnisse und Zuordnungen](#review-the-validation-results-and-mappings).
+1. Fahren Sie mit dem folgenden Abschnitt fort[&#x200B; „Überprüfen Sie die Validierungsergebnisse und Zuordnungen](#review-the-validation-results-and-mappings).
 
 ## Überprüfen der Validierungsergebnisse und -zuordnungen
 
