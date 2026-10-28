@@ -31,7 +31,7 @@ Anstatt Berichte manuell zu erstellen und Metriken zu interpretieren, arbeitet d
 
 Das Ergebnis ist ein wiederholbarer Workflow, der bei Bedarf mit einer einfachen Eingabeaufforderung ausgeführt werden kann.
 
->[!VIDEO](https://video.tv.adobe.com/v/3502323/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502339/?captions=ger&learn=on&enablevpops)
 
 ## Analyse in wiederverwendbare Kenntnisse umwandeln
 

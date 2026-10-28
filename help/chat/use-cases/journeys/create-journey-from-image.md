@@ -38,4 +38,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie CX Enterprise Coworker ein Flussdiagrammbild, z. B. eine PowerPoint-Folie von Ihrem Marketing-Team, in eine bearbeitbare Journey in Adobe Journey Optimizer umwandelt. Sie werden sehen, wie Coworker eine Eingabeaufforderung aus dem Bild extrahiert, Sie überprüfen und anpassen können, nach dem Trigger-Ereignis fragt und das Ergebnis als Entwurf speichert, der dem ursprünglichen Design entspricht.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504865/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504872/?captions=ger&learn=on&enablevpops)

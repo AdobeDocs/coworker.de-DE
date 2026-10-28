@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Verwenden Sie Adobe CX Enterprise Coworker, um AEM Sites-Seiten zu erstellen, indem Sie beschreiben, was Sie möchten. In diesem Video fügt Coworker mithilfe einer Chat-Eingabeaufforderung eine neue Promotion zur WKND-Homepage hinzu, die aus einem visuellen Inhaltsfragment erstellt wurde.
 
->[!VIDEO](https://video.tv.adobe.com/v/3503863/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3503870/?captions=ger&learn=on)
 
 >[!NOTE]
 >
