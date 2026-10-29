@@ -11,7 +11,7 @@ jira: KT-22501
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%
@@ -25,4 +25,4 @@ Beispielsweise kann ein Mitarbeiter automatisch generierte Inhalte wie eine Inst
 
 Ein Mitarbeiter identifiziert nicht nur Probleme, sondern bietet umsetzbare Vorschläge. Wenn eine Beschriftung beispielsweise zu generisch ist oder keine call to action enthält, wird eine überarbeitete Version bereitgestellt, die Ihren Markenstandards entspricht und relevante Tags enthält. Dieser Prozess optimiert die Inhaltserstellung und stellt die Markenkonformität mit minimalem Aufwand sicher.
 
->[!VIDEO](https://video.tv.adobe.com/v/3502711/?captions=ger&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502691/?learn=on&enablevpops)

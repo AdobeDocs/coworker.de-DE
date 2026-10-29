@@ -21,7 +21,7 @@ level_v2:
     internal-label: Experienced
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '1014'
 ht-degree: 4%
@@ -39,7 +39,7 @@ Verwenden Sie Warnhinweiskenntnisse in CX Coworker, um die Warnhinweisaktivität
 
 Die Fähigkeiten zu Warnhinweisen für Kunden helfen Ihnen, von Warnhinweisen zu umsetzbaren Einblicken zu wechseln, ohne die Warnhinweisansichten manuell zu überprüfen oder Informationen über mehrere Schnittstellen hinweg zu korrelieren. Beginnen Sie mit einer allgemeinen Frage zur letzten Aktivität von Warnhinweisen und verwenden Sie Folgefragen, um Muster von wiederkehrenden Warnhinweisen zu identifizieren, betroffene Objekte zu analysieren und sich auf die Warnhinweise zu konzentrieren, deren Inhaber Sie sind.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504723?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504716?learn=on)
 
 Weitere Informationen zu Kundenwarnhinweisen finden Sie in der [Übersicht über Kundenwarnhinweise](https://experienceleague.adobe.com/de/docs/experience-platform/observability/alerts/overview).
 
@@ -208,4 +208,4 @@ Verwenden Sie die folgenden Eingabeaufforderungen als Beispiele für die Interak
 
 Nach dem Lesen dieses Handbuchs sollten Sie wissen, wie Sie mithilfe von Warnhinweiskenntnissen in CX Coworker die Warnhinweisaktivität überprüfen, Warnhinweistrends analysieren, Warnhinweisabonnements verwalten und operative Probleme mithilfe von Gesprächen in natürlicher Sprache untersuchen können.
 
-Weitere Informationen zu Warnhinweisen finden Sie unter [Übersicht über &#x200B;](https://experienceleague.adobe.com/de/docs/experience-platform/observability/alerts/overview).
+Weitere Informationen zu Warnhinweisen finden Sie unter [Übersicht über ](https://experienceleague.adobe.com/de/docs/experience-platform/observability/alerts/overview).

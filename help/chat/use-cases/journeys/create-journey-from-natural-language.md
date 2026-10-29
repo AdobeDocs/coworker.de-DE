@@ -11,7 +11,7 @@ jira: KT-22081
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 1%
@@ -23,9 +23,9 @@ Der Aufbau von Kunden-Journey erfordert traditionell eine umfangreiche Konfigura
  
 Durch die Automatisierung des anfänglichen Einrichtungsprozesses können Teams weniger Zeit damit verbringen, Journey von Grund auf neu zu erstellen, und mehr Zeit damit, Kundenerlebnisse und Geschäftsergebnisse zu verfeinern.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496883/?captions=ger&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496867/?learn=on&enablevpops)
 
 ## Siehe auch
 
-- [Journey Agent](https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent#journey-create), die zugrunde liegende KI-Funktion, die die Journey-Erstellung im Coworker Chat ermöglicht.
+- [Journey Agent](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent#journey-create), die zugrunde liegende KI-Funktion, die die Journey-Erstellung im Coworker Chat ermöglicht.
 - [Weitere Workflows für den Coworker-Chat](../workflows.md#journeys)

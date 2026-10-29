@@ -4,7 +4,7 @@ description: Verwenden Sie den Coworker Chat, um herauszufinden, welche Inhalte 
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '609'
 ht-degree: 1%
@@ -28,7 +28,7 @@ Um die Anwendungsfälle auf dieser Seite zu verwenden, benötigen Sie Folgendes:
 
 * Mit dem Coworker Chat wurde eine Verbindung zu Ihren Customer Journey Analytics-Datenansichten oder zu Adobe Analytics Report Suites hergestellt. Siehe [Erste Schritte mit der Datenanalyse mit dem Coworker Chat](/help/chat/use-cases/data-insights/analytics-chat.md).
 * Zugriff auf die Datenansichten oder Report Suites anzeigen, die Sie analysieren möchten. Der Coworker Chat übernimmt Ihre Berechtigungen von Customer Journey Analytics oder Adobe Analytics.
-* Eine Datenansicht, die für Content Analytics konfiguriert ist. Siehe [Konfigurieren von Content Analytics](https://experienceleague.adobe.com/de/docs/analytics-platform/using/content-analytics/configuration/configuration) im Customer Journey Analytics-Handbuch.
+* Eine Datenansicht, die für Content Analytics konfiguriert ist. Siehe [Konfigurieren von Content Analytics](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/configuration/configuration) im Customer Journey Analytics-Handbuch.
 
 ## Anwendungsszenarien
 

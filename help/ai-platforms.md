@@ -4,7 +4,7 @@ description: Informationen zu Adobe CX Enterprise Coworker für KI-Plattformen. 
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '1011'
 ht-degree: 2%
@@ -14,7 +14,7 @@ ht-degree: 2%
 
 Verwenden Sie Adobe CX Enterprise Coworker für KI-Plattformen, um Marketing-Einblicke in die bereits verwendeten KI-Tools zu erhalten. Stellen Sie Fragen in natürlicher Sprache, ohne das Werkzeug zu wechseln. Suchen Sie in jeder Plattform das Produkt, das als Adobe CX Enterprise Coworker aufgeführt ist.
 
-Verfügbare Plattformen und deren Setup-Anweisungen finden Sie unter [Einrichten von &#x200B;](#set-up-coworker)&quot;.
+Verfügbare Plattformen und deren Setup-Anweisungen finden Sie unter [Einrichten von ](#set-up-coworker)&quot;.
 
 Die Verwendung von Coworker in KI-Plattformen verursacht keine zusätzlichen Kosten. Sie ist in Ihrer CX Enterprise Coworker-Lizenz enthalten und die Nutzung erfolgt über dieselben KI-Credits wie bei anderen Coworker-Funktionen. Weitere Informationen finden Sie unter [Nutzung von Adobe Experience Platform-Agentenvorgängen und KI-Guthaben](https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/overview/ai-credit-consumption){target="_blank"}.
 
@@ -26,7 +26,7 @@ Bevor Sie Coworker in einer KI-Plattform verwenden können, vergewissern Sie sic
 
 * Adobe CX Enterprise Coworker für Ihr Unternehmen und Ihren eigenen Zugriff darauf in Adobe bereitgestellt.
 * Adobe Experience Platform und mindestens eines von Adobe Real-Time CDP, Adobe Journey Optimizer oder Adobe Customer Journey Analytics.
-* Zugriff auf eine KI-Plattform, die unter &quot;[&#x200B; einrichten“ aufgeführt &#x200B;](#set-up-coworker).
+* Zugriff auf eine KI-Plattform, die unter &quot;[ einrichten“ aufgeführt ](#set-up-coworker).
 
 ## Datenzugriff und Berechtigungen {#data-access-and-permissions}
 

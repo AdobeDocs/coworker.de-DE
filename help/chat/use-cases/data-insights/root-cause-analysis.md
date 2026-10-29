@@ -11,7 +11,7 @@ jira: KT-22082
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
@@ -23,4 +23,4 @@ Um zu verstehen, warum sich Metriken häufig ändern, müssen Sie oft in mehrere
  
 In natürlicher Sprache können Analysten und Marketing-Experten Fragen zu ihren Daten stellen, visualisierte Ergebnisse erhalten, aussagekräftige Trends identifizieren und die Faktoren für die Leistung aufdecken - alles in einem einzigen Gespräch.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496859/?captions=ger&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496847/?learn=on&enablevpops)
