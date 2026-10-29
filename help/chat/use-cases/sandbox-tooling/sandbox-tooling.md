@@ -19,7 +19,7 @@ ht-degree: 5%
 
 Verwenden Sie die Agentenfertigkeiten der Sandbox-Werkzeuge, um unterstützte Objekttypen in Adobe Experience Platform-Umgebungen zu verschieben, indem Sie beschreiben, was Sie in natürlicher Sprache erreichen möchten. Mithilfe von Coworker können Sie die erforderlichen Metadaten ermitteln, Abhängigkeiten automatisch identifizieren, Migrationspakete erstellen und Objekte durch ein Gesprächserlebnis migrieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496706?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496715?captions=ger&learn=on)
 
 ## Voraussetzungen {#prerequisites}
 
