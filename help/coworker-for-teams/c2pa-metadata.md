@@ -4,7 +4,9 @@ title: C2PA-Metadaten in Kollegen für Teams
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 0ef1f562174f53393bab97a0d0c91c666810aa20
+  - id: a17f56ef-32e3-5ef7-b044-4479a09ffbc1
+    internal-label: Coworker for teams
+source-git-commit: d786b58a4a88126d0875c504e1a8e5d6b39150e6
 workflow-type: tm+mt
 source-wordcount: '396'
 ht-degree: 27%
@@ -40,4 +42,4 @@ Ein Mitarbeiter für Teams behält C2PA-Metadaten bei, die mit unterstützten Bi
 
 * [Transparenz von Inhalt generativer KI](https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/overview/content-transparency){target="_blank"}
 * [Benutzerrichtlinien für generative KI in Adobe Experience Cloud](https://www.adobe.com/de/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html){target="_blank"}
-* [Leitlinien und Einschränkungen](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/content-management/generate-content/gs-generative#generative-guardrails){target="_blank"}
+* [Leitlinien und Einschränkungen](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/generate-content/gs-generative#generative-guardrails){target="_blank"}
