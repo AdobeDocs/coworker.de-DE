@@ -46,7 +46,7 @@ Melden Sie sich mit Ihren Adobe-Anmeldeinformationen bei [!DNL Coworker] an.
 
 ## Lernen Sie die Grundlagen des Coworker Chat kennen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498574?captions=ger&learn=on)
 
 ## Angeben der Voreinstellungen für Kollegen {#preferences}
 
