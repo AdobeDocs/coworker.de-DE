@@ -19,7 +19,7 @@ Ein Team-Kollege ermöglicht es Ihnen, Ihr Marketo Engage-Konto zu verbinden, um
 >
 >* Ein gültiges Marketo Engage-Konto
 >* Ihre Marketo **Instanz-URL**
->* Ein [benutzerdefinierter Service](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/custom-services#custom-services-1){target="_blank"} der für Kollegen für Teams in Marketo erstellt wurde, mit [Client-ID und &#x200B;](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication#creating-an-access-token){target="_blank"}-Geheimnis)
+>* Ein [benutzerdefinierter Service](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/custom-services#custom-services-1){target="_blank"} der für Kollegen für Teams in Marketo erstellt wurde, mit [Client-ID und &#x200B;](https://experienceleague.adobe.com/de/docs/marketo-developer/marketo/rest/authentication#creating-an-access-token){target="_blank"}-Geheimnis)
 
 ## So verbinden Sie sich
 

@@ -15,7 +15,7 @@ Versionshinweise für Adobe CX Enterprise Coworker finden. Wählen Sie die Versi
 
 ## Versionshinweise für Kollegen {#coworker-release-notes}
 
-* [Versionshinweise zu CX Enterprise Coworker](https://experienceleague.adobe.com/en/docs/experience-platform/release-notes/latest#cx-enterprise-coworker): Funktionsverbesserungen und Fehlerbehebungen für den Coworker Chat, aufgeführt in den Versionshinweisen zu Experience Platform.
+* [Versionshinweise zu CX Enterprise Coworker](https://experienceleague.adobe.com/de/docs/experience-platform/release-notes/latest#cx-enterprise-coworker): Funktionsverbesserungen und Fehlerbehebungen für den Coworker Chat, aufgeführt in den Versionshinweisen zu Experience Platform.
 * [[!UICONTROL Mitarbeiter für Teams] Versionshinweise](../coworker-for-teams/release-notes.md): Funktionsverbesserungen und Fehlerbehebungen für Mitarbeiter für Teams. Versionen werden kontinuierlich bereitgestellt.
 
 ## Zentrale Versionshinweise zu CX Enterprise {#cx-enterprise-release-notes}
