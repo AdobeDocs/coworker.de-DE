@@ -3,8 +3,8 @@ title: Erste Schritte mit dem Analysieren von Daten mit dem Coworker Chat
 description: Richten Sie Adobe CX Enterprise Coworker Chat ein, um Customer Journey Analytics- oder Adobe Analytics-Daten zu analysieren, und folgen Sie dann einem Beispiel, das zu einem Abbruch bei Kunden führt.
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: d611ce2398cba72cf21c766f3b25225765c1675b
+    internal-label: Coworker
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '2182'
 ht-degree: 4%
@@ -42,7 +42,7 @@ Der Coworker Chat stellt eine Verbindung zu Customer Journey Analytics und Adobe
 
 1. Wählen Sie in der [!UICONTROL **in der linken Leiste**] Anpassungen“ aus.
 
-1. Wählen Sie die Registerkarte [!UICONTROL **Integrationen**] und stellen Sie sicher, dass [!UICONTROL **cja-mcp**] und [!UICONTROL **aa-mcp**] in Ihrer Liste der verbundenen Server verfügbar ist.
+1. Wählen Sie die Registerkarte [!UICONTROL **Integrationen**] und stellen Sie sicher, dass [!UICONTROL **cja-mcp**] und [!UICONTROL **aa-mcp**] in Ihrer Liste der verbundenen Server verfügbar sind.
 
    Verwenden Sie das Suchfeld, um die Liste der verfügbaren Integrationen schnell zu filtern.
 

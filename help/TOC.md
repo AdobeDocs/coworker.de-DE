@@ -6,9 +6,9 @@ description: Erfahren Sie mehr über KI-Tools in CX Enterprise. Verbessern Sie I
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
 nudge: true
-source-git-commit: 67936a948c0e985619e3ae72dffa443a016611bb
+source-git-commit: bd7454ee46cb1ee4ca8b7ae6ab07348a23854979
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '326'
 ht-degree: 15%
 ---
 
@@ -26,19 +26,20 @@ ht-degree: 15%
       - [Über die Datenanalyse](./chat/use-cases/data-insights/analytics-overview.md)
       - [Erste Schritte mit der Datenanalyse](./chat/use-cases/data-insights/analytics-chat.md)
       - Intelligente Implementierung und Verwaltung {#intelligent-implementation-and-administration}
-        - [Übersicht](./chat/use-cases/data-insights/data-governance-and-validation.md)
+        - [Überblick](./chat/use-cases/data-insights/data-governance-and-validation.md)
         - [Implementierung planen](./chat/use-cases/data-insights/implementation-guide.md)
         - [Erstellen einer Checkliste für die Implementierung](./chat/use-cases/data-insights/intelligent-checklist.md)
         - [Validieren von AA zu CJA-Daten beim Upgrade](./chat/use-cases/data-insights/data-validation-aa-cja.md)
+        - [Migrieren von AA-Projekten nach CJA](./chat/use-cases/data-insights/migrate-projects-aa-cja.md)
         - [Validieren der Implementierung von Streaming-Medien](./chat/use-cases/data-insights/streaming-media-validation.md)
         - [Validieren der Datensatzqualität für CJA-Berichte](./chat/use-cases/data-insights/validate-dataset-quality-for-cja.md)
         - [Validieren der Experience Platform-Daten](./chat/use-cases/data-insights/data-validation-aep.md)
         - [Experience Platform-Anomalien erkennen](./chat/use-cases/data-insights/anomaly-detection.md)
         - [Beschleunigen von Dateneinblicken](./chat/use-cases/data-insights/accelerate-data-insights.md)
       - Journey-Analyse {#journey-analysis}
-        - [Übersicht](./chat/use-cases/data-insights/journey-analysis.md)
+        - [Überblick](./chat/use-cases/data-insights/journey-analysis.md)
       - Zielgruppen- und Segmentanalyse {#audience-and-segment-analysis}
-        - [Übersicht](./chat/use-cases/data-insights/audience-and-segment-analysis.md)
+        - [Überblick](./chat/use-cases/data-insights/audience-and-segment-analysis.md)
       - Geschäftsergebnis {#business-performance}
         - [Übersicht](./chat/use-cases/data-insights/business-performance.md)
         - [Trends und Grundursachen untersuchen](./chat/use-cases/data-insights/root-cause-analysis.md)
@@ -46,7 +47,7 @@ ht-degree: 15%
         - [Überblick](./chat/use-cases/data-insights/content-performance.md)
         - [Fragen zu Inhalten stellen](./chat/use-cases/data-insights/ask-content-questions.md)
       - Marketing-Messung und -Attribution {#marketing-measurement-and-attribution}
-        - [Übersicht](./chat/use-cases/data-insights/marketing-measurement-and-attribution.md)
+        - [Überblick](./chat/use-cases/data-insights/marketing-measurement-and-attribution.md)
     - Daten-Onboarding {#data-onboarding}
       - {hide-from-toc}[Onboarding von Daten mit Kollegen](./agents/data-onboarding-skill.md)
     - Daten-Management {#data-management}
@@ -91,16 +92,18 @@ ht-degree: 15%
   - Speicher {#memory}
     - [Was ist Speicher?](./customizations/memory/what-is-memory.md)
 - Mitarbeiter für Teams {#coworker-for-teams}
-  - [Überblick](./coworker-for-teams/overview.md)
+  - [Übersicht](./coworker-for-teams/overview.md)
   - [Erstellen einer E-Mail-Kampagne](./coworker-for-teams/create-an-email-campaign.md)
   - [Starten und Verwalten einer Kampagne](./coworker-for-teams/launch-manage-campaign.md)
   - [Anwendungsszenarien](./coworker-for-teams/use-cases.md)
   - [Best Practices für die Prompt-Erstellung](./coworker-for-teams/prompting-best-practices.md)
   - [C2PA-Metadaten](./coworker-for-teams/c2pa-metadata.md)
   - Connectoren {#connectors}
-    - [Marketo Engage](./coworker-for-teams/connectors/marketo.md)
+    - [Databricks](./coworker-for-teams/connectors/databricks.md)
     - [HubSpot](./coworker-for-teams/connectors/hubspot.md)
+    - [Marketo Engage](./coworker-for-teams/connectors/marketo.md)
     - [Salesforce](./coworker-for-teams/connectors/salesforce.md)
+    - [Shopify](./coworker-for-teams/connectors/shopify.md)
   - [Versionshinweise](./coworker-for-teams/release-notes.md)
 - Mehr Ressourcen {#more-resources}
   - [Dokumentation – Aktualisierungen](./more-resources/documentation-updates.md)

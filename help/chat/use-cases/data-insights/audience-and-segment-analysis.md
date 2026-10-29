@@ -3,8 +3,8 @@ title: Vergleichen von Zielgruppen und Kundensegmenten mit dem Coworker Chat
 description: Verwenden Sie den Coworker Chat, um Kundengruppen zu vergleichen, übersehene Wachstumsmöglichkeiten zu finden, Zielgruppentrends zu verfolgen und Erkenntnisse in Zielgruppen zu verwandeln, die Sie erstellen können.
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+    internal-label: Coworker
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '662'
 ht-degree: 2%

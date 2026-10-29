@@ -3,26 +3,26 @@ description: Verbinden Sie Ihr HubSpot-Konto mit einem Kollegen für Teams, inde
 title: Mit HubSpot verbinden
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 6d121c60fbf41dc2b27844854078f8f4f48d1944
+    internal-label: Coworker
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '260'
 ht-degree: 0%
 ---
 # Mit HubSpot verbinden {#hubspot}
 
-Mit Adobe Coworker for Teams können Sie Ihr HubSpot-Konto verbinden, um Kontaktlisten abzurufen.
+Ein Mitarbeiter für Teams ermöglicht es Ihnen, Ihr HubSpot-Konto zu verbinden, um Kontaktlisten abzurufen.
 
 >[!PREREQUISITES]
 >
 >Um diesen Connector verwenden zu können, müssen Sie zunächst über Folgendes verfügen:
 >
 >* Ein aktives HubSpot-Konto
->* Ein [Dienstschlüssel](https://developers.hubspot.com/docs/apps/developer-platform/build-apps/authentication/account-service-keys#create-a-service-key) der mit den folgenden hinzugefügten Bereichen erstellt wurde: `crm.objects.contacts.read`, `crm.objects.leads.read`, `crm.schemas.contacts.read`, `crm.lists.read`, `crm.export`
+>* Ein [Dienstschlüssel](https://developers.hubspot.com/docs/apps/developer-platform/build-apps/authentication/account-service-keys#create-a-service-key){target="_blank"} der mit den folgenden hinzugefügten Bereichen erstellt wurde: `crm.objects.contacts.read`, `crm.objects.leads.read`, `crm.schemas.contacts.read`, `crm.lists.read`, `crm.export`
 
 ## So verbinden Sie sich
 
-1. Klicken Sie auf der [Startseite für Teams](https://coworker-campaigns.experience.adobe.com/) auf **Kontext** und wählen Sie **Connectoren**.
+1. Klicken Sie auf der [Startseite für Teams](https://coworker-campaigns.experience.adobe.com/){target="_blank"} auf **Kontext** und wählen Sie **Connectoren**.
 
    ![Das Menü „Anpassen“ wurde in der Seitenleiste erweitert, wobei Connectoren ausgewählt sind](./assets/hubspot-1.png)
 
