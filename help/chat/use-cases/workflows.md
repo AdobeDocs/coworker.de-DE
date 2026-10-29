@@ -4,9 +4,9 @@ title: Chat-Workflows für Kollegen
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 0ef1f562174f53393bab97a0d0c91c666810aa20
+source-git-commit: 98b1c76104cb131ed6c82e4147758921ef66ab40
 workflow-type: tm+mt
-source-wordcount: '8566'
+source-wordcount: '8673'
 ht-degree: 8%
 ---
 # Chat-Workflows für Kollegen {#use-cases}
@@ -48,6 +48,8 @@ Mit dem Coworker Chat können Sie Ihre [!DNL Experience Platform]-Daten in natü
 | Verwalten von Cloud Manager-Umgebungen | Erstellen, Konfigurieren und Verwalten von AEM Cloud Manager-Umgebungen, einschließlich RDEs, Umgebungsvariablen, Protokollen und Backups | `cloud-manager-environment-management` | Adobe Experience Manager (AEM) | „Meine Umgebungen für Programm 12345 auflisten“<br><br>„RDE zurücksetzen“ |
 | Verwalten von Cloud Manager-Programmen | Auflisten, Überprüfen und Löschen von AEM Cloud Manager-Programmen, einschließlich ihrer Pipelines und Umgebungen | `cloud-manager-program-management` | Adobe Experience Manager (AEM) | „Meine Cloud Manager-Programme auflisten“<br><br>„Details zu 12345 abrufen“ |
 | Verwalten von Zeitplänen für die Aktualisierung von AEM-Versionen | Konfigurieren Sie die täglichen Ruhezeiten und Freie Zeiträume für die automatisierte Wartung und sehen Sie sich die globalen Fenster zum Einfrieren von Code in Adobe an | `cloud-manager-release-management` | Adobe Experience Manager (AEM) | „Was ist mein aktuelles Fenster für die Ruhezeiten?“<br><br>„Planen Sie einen Zeitraum ohne Updates vom 20. Dezember bis zum 2. Januar“ |
+| Überprüfen von AEM-Workflows | Überprüfen Sie die Workflow-Aktivität auf laufende, ausgesetzte oder fehlgeschlagene Vorgänge. Überprüfen Sie Ihren Workflow-Posteingang und durchsuchen Sie verfügbare Workflow-Modelle. | `cloud-manager-release-management` | Adobe Experience Manager (AEM) | „Welche Workflows werden derzeit ausgeführt?“<br><br>„Weisen laufende oder ausgesetzte Workflows Fehler auf?“<br><br>„Was befindet sich in meinem Workflow-Posteingang?“ |
+| Dispatcher Insights erkunden | Analysieren Sie die Cache-Leistung, untersuchen Sie Traffic- und Bereitstellungsprobleme und überprüfen Sie die Dispatcher-Sicherheitskonfiguration, ohne die Protokolldateien manuell zu durchsuchen. | `aem-edge-dispatcher-operations` | Adobe Experience Manager (AEM) | „Fassen Sie die Dispatcher-Cache-Leistung für die aktuelle Produktion zusammen und vergleichen Sie sie mit gestern“<br><br>„Untersuchen Sie die intermittierenden 502- und 503-Antworten in der Produktion zwischen 10:00 und 11:00 UTC heute“<br><br> „Überprüfen Sie die Dispatcher-Konfiguration, die ich für Sicherheitsschwächen freigegeben habe“ |
 
 **Verwandte Informationen**
 
