@@ -4,14 +4,14 @@ description: Richten Sie Adobe CX Enterprise Coworker Chat ein, um Customer Jour
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
+source-git-commit: 1ab2ef6014d3e64e264b46e5a0c43653fe36bbea
 workflow-type: tm+mt
-source-wordcount: '2182'
+source-wordcount: '2220'
 ht-degree: 4%
 ---
 # Erste Schritte mit der Datenanalyse mit dem Coworker Chat
 
-Richten Sie Adobe CX Enterprise Coworker Chat ein, um Ihre Customer Journey Analytics-Datenansichten oder Adobe Analytics Report Suites zu analysieren, und folgen Sie dann einem Arbeitsbeispiel. Einen Überblick darüber, was Sie mit dem Coworker Chat tun können, einschließlich Anwendungsfällen, Fähigkeiten und Best Practices, finden Sie unter [Analysieren von Daten mit dem Coworker Chat](/help/chat/use-cases/data-insights/analytics-overview.md).
+Richten Sie Adobe CX Enterprise Coworker Chat ein, um Ihre Customer Journey Analytics-Datenansichten oder Adobe Analytics Report Suites zu analysieren, und folgen Sie dann einem Arbeitsbeispiel. Einen Überblick darüber, was Sie mit dem Coworker Chat tun können, einschließlich Anwendungsfällen, Fähigkeiten und Best Practices, finden Sie unter [Analysieren von Daten mit dem Coworker Chat](/help/chat/use-cases/data-insights/analytics-overview.md). Informationen zur Verwendung von Coworker in einem Chat-Panel in Customer Journey Analytics Analysis Workspace finden Sie [Verwenden des produktinternen Erlebnisses für Coworker](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/coworker) im Customer Journey Analytics-Handbuch.
 
 Bevor Sie beginnen, machen Sie sich mit der Oberfläche und den Anpassungsoptionen für den Coworker Chat vertraut und stellen Sie dann sicher, dass Coworker mit Customer Journey Analytics oder Adobe Analytics und den relevanten Datenansichten oder Report Suites verbunden ist.
 
@@ -153,7 +153,7 @@ Hier verliert man Menschen:
 | Sessions | 137,476 | 45,0 % Produkt ansehen | 55% verlassen, ohne Produkte zu durchsuchen |
 | Produktansichten | 61,845 | 55,0 % In den Warenkorb | 45 % durchsuchen, aber nicht hinzufügen |
 | Hinzufügungen zum Warenkorb | 34,045 | 16,4 % Kauf | 83,6 % Warenkorbabbruch |
-| Käufe | 5,582 | — | – |
+| Käufe | 5,582 | – | – |
 
 **Die große Erkenntnis: Der zu kaufende Warenkorb ist Ihr größtes Leck**
 
@@ -335,7 +335,7 @@ Nachdem ein Kollege eine Visualisierung erstellt hat, können Sie sie in Analysi
 
 1. (Optional) Geben Sie Ihr Workspace-Projekt für jeden frei.
 
-   Weitere Informationen zu Analysis Workspace finden Sie unter [Übersicht über Analysis Workspace](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-workspace/home) in der Customer Journey Analytics-Dokumentation oder [Übersicht über Analysis Workspace](https://experienceleague.adobe.com/de/docs/analytics/analyze/analysis-workspace/home) in der Adobe Analytics-Dokumentation.
+   Weitere Informationen zu Analysis Workspace finden Sie unter [Übersicht über Analysis Workspace](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-workspace/home) in der Customer Journey Analytics-Dokumentation oder [Übersicht über Analysis Workspace](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/home) in der Adobe Analytics-Dokumentation.
 
 ## Nächste Schritte
 
