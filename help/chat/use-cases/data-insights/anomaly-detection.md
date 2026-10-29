@@ -87,7 +87,7 @@ Vergleichen Sie den gemeldeten Wert mit seiner Baseline für die betroffene Ress
 
 Ein Rückgang der Aufnahmeeingabedatensätze deutet beispielsweise auf eine Volumenänderung hin. Diese Änderung allein erklärt nicht, warum weniger Datensätze eintrafen.
 
-Die Ergebnisse können in Tabellen oder in schriftlicher Zusammenfassung angezeigt werden. Tabellen können Anomalien unter dem Risiko [!UICONTROL Hohes Risiko] und dem Risiko [!UICONTROL Medium ].
+Die Ergebnisse können in Tabellen oder in schriftlicher Zusammenfassung angezeigt werden. Tabellen können Anomalien unter dem Risiko [!UICONTROL Hohes Risiko] und dem Risiko [!UICONTROL Medium &#x200B;].
 
 ![Anomalieergebnisse gruppieren Aufnahme- und Zielvolumenspitzen und -senkungen nach hohem und mittlerem Risiko, wobei Ressourcennamen und -werte geschwärzt sind.](assets/anomaly-detection/anomaly-detection-results.png){width="900" zoomable="yes"}
 
