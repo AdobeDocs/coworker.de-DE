@@ -39,7 +39,7 @@ Verwenden Sie Warnhinweiskenntnisse in CX Coworker, um die Warnhinweisaktivität
 
 Die Fähigkeiten zu Warnhinweisen für Kunden helfen Ihnen, von Warnhinweisen zu umsetzbaren Einblicken zu wechseln, ohne die Warnhinweisansichten manuell zu überprüfen oder Informationen über mehrere Schnittstellen hinweg zu korrelieren. Beginnen Sie mit einer allgemeinen Frage zur letzten Aktivität von Warnhinweisen und verwenden Sie Folgefragen, um Muster von wiederkehrenden Warnhinweisen zu identifizieren, betroffene Objekte zu analysieren und sich auf die Warnhinweise zu konzentrieren, deren Inhaber Sie sind.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504716?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504723?captions=ger&learn=on)
 
 Weitere Informationen zu Kundenwarnhinweisen finden Sie in der [Übersicht über Kundenwarnhinweise](https://experienceleague.adobe.com/de/docs/experience-platform/observability/alerts/overview).
 
