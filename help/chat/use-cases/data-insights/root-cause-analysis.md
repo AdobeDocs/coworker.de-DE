@@ -11,9 +11,9 @@ jira: KT-22082
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
+source-git-commit: 81e7de5e1b3b322fc74fa7bab8cb16841d627349
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '155'
 ht-degree: 0%
 ---
 
@@ -23,4 +23,6 @@ Um zu verstehen, warum sich Metriken häufig ändern, müssen Sie oft in mehrere
  
 In natürlicher Sprache können Analysten und Marketing-Experten Fragen zu ihren Daten stellen, visualisierte Ergebnisse erhalten, aussagekräftige Trends identifizieren und die Faktoren für die Leistung aufdecken - alles in einem einzigen Gespräch.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496859/?captions=ger&learn=on&enablevpops)
+Das Video verwendet Customer Journey Analytics-Daten, aber Sie können Trends und Grundursachen in Ihren Adobe Analytics Report Suites auf die gleiche Weise untersuchen. Der Mitarbeiter verwendet die `cja-root-cause-analysis` Kenntnisse für Datenansichten und die `aa-root-cause-analysis` Kenntnisse für Report Suites. Weitere Informationen finden Sie unter [Analysieren von Daten mit dem Kollegen-Chat](/help/chat/use-cases/data-insights/analytics-overview.md).
+
+>[!VIDEO](https://video.tv.adobe.com/v/3496847/?learn=on&enablevpops)
