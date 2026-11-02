@@ -25,4 +25,4 @@ In natürlicher Sprache können Analysten und Marketing-Experten Fragen zu ihren
 
 Das Video verwendet Customer Journey Analytics-Daten, aber Sie können Trends und Grundursachen in Ihren Adobe Analytics Report Suites auf die gleiche Weise untersuchen. Der Mitarbeiter verwendet die `cja-root-cause-analysis` Kenntnisse für Datenansichten und die `aa-root-cause-analysis` Kenntnisse für Report Suites. Weitere Informationen finden Sie unter [Analysieren von Daten mit dem Kollegen-Chat](/help/chat/use-cases/data-insights/analytics-overview.md).
 
->[!VIDEO](https://video.tv.adobe.com/v/3496847/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496859/?captions=ger&learn=on&enablevpops)
