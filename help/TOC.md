@@ -3,10 +3,10 @@ audience: user
 user-guide-title: CX Enterprise Coworker
 user-guide-description: Erfahren Sie mehr über Adobe CX Enterprise Coworker, ein KI-gestütztes Team, das die Erlebnis- und Marketing-Workflows Ihres Unternehmens automatisiert.
 description: Erfahren Sie mehr über KI-Tools in CX Enterprise. Verbessern Sie Ihr Produktwissen und erhalten Sie operative Erkenntnisse mithilfe von KI in CX Enterprise.
-solution: Experience Cloud
+solution: Coworker
 role: Admin,User,Developer,Leader
 nudge: true
-source-git-commit: bd7454ee46cb1ee4ca8b7ae6ab07348a23854979
+source-git-commit: 34422092afceef569f2797f6f54d7fe133734e97
 workflow-type: tm+mt
 source-wordcount: '326'
 ht-degree: 15%
@@ -41,7 +41,7 @@ ht-degree: 15%
       - Zielgruppen- und Segmentanalyse {#audience-and-segment-analysis}
         - [Überblick](./chat/use-cases/data-insights/audience-and-segment-analysis.md)
       - Geschäftsergebnis {#business-performance}
-        - [Übersicht](./chat/use-cases/data-insights/business-performance.md)
+        - [Überblick](./chat/use-cases/data-insights/business-performance.md)
         - [Trends und Grundursachen untersuchen](./chat/use-cases/data-insights/root-cause-analysis.md)
       - Content-Performance {#content-performance}
         - [Überblick](./chat/use-cases/data-insights/content-performance.md)
@@ -92,7 +92,7 @@ ht-degree: 15%
   - Speicher {#memory}
     - [Was ist Speicher?](./customizations/memory/what-is-memory.md)
 - Mitarbeiter für Teams {#coworker-for-teams}
-  - [Übersicht](./coworker-for-teams/overview.md)
+  - [Überblick](./coworker-for-teams/overview.md)
   - [Erstellen einer E-Mail-Kampagne](./coworker-for-teams/create-an-email-campaign.md)
   - [Starten und Verwalten einer Kampagne](./coworker-for-teams/launch-manage-campaign.md)
   - [Anwendungsszenarien](./coworker-for-teams/use-cases.md)

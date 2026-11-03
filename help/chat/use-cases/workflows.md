@@ -4,9 +4,9 @@ title: Chat-Workflows für Kollegen
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 98b1c76104cb131ed6c82e4147758921ef66ab40
+source-git-commit: 4d788223a7746bda4bb2913f19712c6fc6ab6be7
 workflow-type: tm+mt
-source-wordcount: '8673'
+source-wordcount: '8822'
 ht-degree: 8%
 ---
 # Chat-Workflows für Kollegen {#use-cases}
@@ -130,13 +130,17 @@ Mit dem Coworker Chat können Sie Ihre [!DNL Experience Platform]-Daten in natü
 
 | Workflow | Beschreibung | Skills | Anwendung | Eingabeaufforderungen |
 | --- | --- | --- | --- | --- |
-| [Zielgruppen aus natürlicher Sprache erstellen](audiences/create-audience-from-natural-language.md) | Orchestrieren der schrittweisen Zielgruppenerstellung mit Benutzergenehmigung in jeder Phase | `audience-creation-flow` | Real-Time CDP (RTCDP) | „Erstellen Sie eine Zielgruppe von Benutzern, die in den letzten 30 Tagen gekauft haben“ <br> „Erstellen Sie ein Segment für hochwertige Mitglieder des Treueprogramms in Kalifornien“ |
-| Erstellen von PQL-Definitionen | Zusammenstellen von Zielgruppendefinitionen aus XDM-Eigenschaften, Verhaltensereignissen oder vorhandenen Zielgruppen; Unterstützung von Aggregation und Zeitfenstern | `segment-definition-assembly` | Real-Time CDP (RTCDP) | „Erstellen Sie eine PQL für Personen, die mehr als 3 Produkte angesehen, aber nicht gekauft haben“ <br> „Hinzufügen eines 7-Tage-Zeitfensters zu meiner Veranstaltungsbedingung“ |
-| Zielgruppen suchen und finden | Zielgruppen nach ID, Name und semantischer Suche suchen, Duplikate erkennen und Überschneidungen analysieren | `audience-search` | Real-Time CDP (RTCDP) | „Alle Loyalitäts-Zielgruppen suchen“ <br> „Gibt es ein Duplikat meines Segments „Holiday Shoppers“?“ |
-| Zielgruppengröße schätzen | Schätzen der Profilreichweite für einen PQL-Ausdruck mithilfe der Adobe Experience Platform-Vorschau-API mit Abfrage | `audience-size-estimate` | Real-Time CDP (RTCDP) | „Wie groß ist diese Zielgruppe?“ <br> „Geschätzte Reichweite für diesen PQL-Ausdruck“ |
-| Audience-Größe - Wasserfall | Unterprädikate für eine PQL erstellen und zeigen, wie jede Bedingung zur endgültigen Zielgruppengröße beiträgt | `audience-size-waterfall` | Real-Time CDP (RTCDP) | „Show me the waterfall for this PQL&quot; <br> „Aufschlüsselung, wie die einzelnen Bedingungen die Zielgruppe reduzieren“ |
-| XDM-Felder für das Targeting entdecken | Suchen Sie Felder nach Name, Beschreibung oder Datenwert; sehen Sie, wo sie sich befinden und wo sie bereits verwendet werden | `field-discovery` | Real-Time CDP (RTCDP) | „Welche Felder kann ich verwenden, um Kundinnen und Kunden von Treueprogrammen anzusprechen?“ <br> „Suchen von Feldern im Zusammenhang mit dem Kaufverlauf“ |
-| Veröffentlichen/Speichern von Zielgruppen | Beibehalten von Zielgruppendefinitionen im Segmentierungs-Service von Experience Platform mit Benennungskonventionen und Kompatibilitätsprüfungen | `audience-publish` | Real-Time CDP (RTCDP) | „Als Entwurf speichern“ <br> „Zielgruppe mit dem Namen „Frühlingsverkaufskäufer“ veröffentlichen“ |
+| [Zielgruppen aus natürlicher Sprache erstellen](audiences/create-audience-from-natural-language.md) | Orchestrieren Sie die schrittweise Zielgruppenerstellung mit Benutzerzustimmung in jeder Phase. Dies umfasst sowohl B2C- als auch B2B-Zielgruppen. | `audience-creation-flow` | Real-Time CDP | „Erstellen Sie eine Zielgruppe von Benutzern, die in den letzten 30 Tagen gekauft haben“ <br> „Erstellen Sie ein Segment für hochwertige Mitglieder des Treueprogramms in Kalifornien“ |
+| Erstellen von PQL-Definitionen | Zusammenstellen von Zielgruppendefinitionen aus XDM-Eigenschaften, Verhaltensereignissen oder vorhandenen Zielgruppen; Unterstützung von Aggregation und Zeitfenstern | `segment-definition-assembly` | Real-Time CDP | „Erstellen Sie eine PQL für Personen, die mehr als 3 Produkte angesehen, aber nicht gekauft haben“ <br> „Hinzufügen eines 7-Tage-Zeitfensters zu meiner Veranstaltungsbedingung“ |
+| Zielgruppen suchen und finden | Suchen nach Zielgruppen anhand von ID, Name und semantischer Suche, Erkennen von Duplikaten und Analysieren von Überschneidungen, Suchen nach Zielgruppen basierend auf der Segmentdefinition | `audience-search` | Real-Time CDP | „Alle Loyalitäts-Zielgruppen suchen“ <br> „Gibt es ein Duplikat meiner „Holiday Shoppers“-Zielgruppe?“ |
+| Zielgruppengröße schätzen | Schätzen der Profilreichweite für einen PQL-Ausdruck mithilfe der Adobe Experience Platform-Vorschau-API mit Abfrage | `audience-size-estimate` | Real-Time CDP | „Wie groß ist diese Zielgruppe?“ <br> „Geschätzte Reichweite für diesen PQL-Ausdruck“ |
+| Audience-Größe - Wasserfall | Unterprädikate für eine PQL erstellen und zeigen, wie jede Bedingung zur endgültigen Zielgruppengröße beiträgt | `audience-size-waterfall` | Real-Time CDP | „Show me the waterfall for this PQL&quot; <br> „Aufschlüsselung, wie die einzelnen Bedingungen die Zielgruppe reduzieren“ |
+| XDM-Felder für das Targeting entdecken | Suchen Sie Felder nach Name, Beschreibung oder Datenwert; sehen Sie, wo sie sich befinden und wo sie bereits verwendet werden | `field-discovery` | Real-Time CDP | „Welche Felder kann ich verwenden, um Kundinnen und Kunden von Treueprogrammen anzusprechen?“ <br> „Suchen von Feldern im Zusammenhang mit dem Kaufverlauf“ |
+| Veröffentlichen/Speichern von Zielgruppen | Beibehalten von Zielgruppendefinitionen im Segmentierungs-Service von Experience Platform mit Benennungskonventionen und Kompatibilitätsprüfungen | `audience-publish` | Real-Time CDP | „Als Entwurf speichern“ <br> „Zielgruppe mit dem Namen „Frühlingsverkaufskäufer“ veröffentlichen“ |
+| Zielgruppen-Inventarverteilung | Ruft Informationen zum Zielgruppen-Inventar der aktuellen Sandbox als Dashboard ab, einschließlich Details wie die Gesamtzahl der Zielgruppen, den Lebenszyklus der Zielgruppen, Auswertungsmethoden für die Zielgruppen und Erstellungstrends. | `audience-inventory-distribution` | Real-Time CDP | „Geben Sie mir einen Überblick über unsere Zielgruppen“ <br> „Wer erstellt die meisten Zielgruppen?“ |
+| Zustand des Zielgruppeninventars | Überprüft den Zustand des Zielgruppeninventars der aktuellen Sandbox, einschließlich Aktivierungsrate, veralteter Zielgruppen, doppelter Zielgruppen und Bereinigungskandidaten. | `audience-inventory-health` | Real-Time CDP | „Wie gesund ist unser Zielgruppenbestand?“ <br> „Welche Zielgruppen sind veraltet?“ |
+| Herkunft der Zielgruppe | Zeigt die Herkunft der Zielgruppe an und zeigt sowohl vor- als auch nachgelagerte Verwendungen der Zielgruppe an. | `audience-lineage` | Real-Time CDP | „Suchen Sie Zielgruppen, die in nachgelagerten Zielgruppen verwendet werden, und zeigen Sie mir die vollständige Herkunft dieser Zielgruppe.“ |
+| Erkennen doppelter Zielgruppen | Sucht doppelte Zielgruppen in Ihrer Organisation. | `detect-duplicate-audience` | Real-Time CDP | „Finden Sie die duplizierten Zielgruppen in meiner Organisation.“ |
 
 ## Journeys
 
