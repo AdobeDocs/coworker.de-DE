@@ -42,7 +42,7 @@ Bevor Sie beginnen, stellen Sie Folgendes sicher:
 
 Administratoren stellen den [!DNL Google Ads]-Connector für alle Personen in der Organisation zur Verfügung. Änderungen auf der Seite „Organisation“ gelten für alle Benutzer in Ihrer Organisation.
 
-1. Öffnen Sie **[!UICONTROL Anpassungen]**, wählen Sie **[!UICONTROL Organisation]** und dann **[!UICONTROL Externe Connectoren]** aus. Wählen Sie auf der Karte {0 ]**Google Ads**[!UICONTROL  die Option „Konfigurieren ]**aus.**[!UICONTROL 
+1. Öffnen Sie **[!UICONTROL Anpassungen]**, wählen Sie **[!UICONTROL Organisation]** und dann **[!UICONTROL Externe Connectoren]** aus. Wählen Sie auf der Karte &lbrace;0 **Google Ads**&#x200B;[!UICONTROL &#x200B; die Option „Konfigurieren &#x200B;]&#x200B;**aus.**
 
 1. Bestätigen **[!UICONTROL im Dialogfeld &quot;Google Ads für Ihr Unternehmen konfigurieren]**, dass die **[!UICONTROL OAuth-]** eine **[!UICONTROL von Adobe verwaltete OAuth-Anwendung ist]**. Adobe stellt die [!DNL Google Ads] App bereit, sodass Sie keine App-Anmeldeinformationen eingeben müssen. Wählen **[!UICONTROL unter „Für Benutzer verfügbare]**&quot; die Tools aus, die Ihr Unternehmen benötigt. Weitere Informationen finden Sie unter [Verfügbare Tools](#available-tools). Überprüfen Sie die **[!UICONTROL Jede Person meldet sich separat an]** beachten Sie dies und wählen Sie dann **[!UICONTROL Verbindung speichern]** aus.
 
@@ -77,9 +77,9 @@ Der [!DNL Google Ads]-Connector bietet die folgenden Tools:
 
 Nachdem ein Administrator den Connector konfiguriert hat, meldet sich jedes Mitglied mit seinem eigenen [!DNL Google] an.
 
-1. Öffnen Sie **[!UICONTROL Anpassungen]**, wählen Sie **[!UICONTROL Benutzer]** und dann **[!UICONTROL Externe Connectoren]** aus. Wählen Sie auf der Karte {0 ]**Google Ads**[!UICONTROL  die Option „Anmelden ]**aus.**[!UICONTROL 
+1. Öffnen Sie **[!UICONTROL Anpassungen]**, wählen Sie **[!UICONTROL Benutzer]** und dann **[!UICONTROL Externe Connectoren]** aus. Wählen Sie auf der Karte &lbrace;0 **Google Ads**&#x200B;[!UICONTROL &#x200B; die Option „Anmelden &#x200B;]&#x200B;**aus.**
 
-   Wenn auf der Karte **[!UICONTROL Nicht konfiguriert]** angezeigt wird oder der Connector nicht verfügbar ist, bitten Sie Ihren Administrator, den [ zu konfigurieren](#configure-organization).
+   Wenn auf der Karte **[!UICONTROL Nicht konfiguriert]** angezeigt wird oder der Connector nicht verfügbar ist, bitten Sie Ihren Administrator, den [&#x200B; zu konfigurieren](#configure-organization).
 
 1. Wählen Sie auf dem Bildschirm [!DNL Google] **[!UICONTROL Konto auswählen]** das Konto mit Zugriff auf Ihre [!DNL Google Ads] Konten aus oder wählen Sie **[!UICONTROL Anderes Konto verwenden]**. Führen Sie dann alle für Ihr Unternehmen erforderlichen Anmeldeschritte aus, z. B. Single Sign-on (SSO), Multifaktor-Authentifizierung (MFA) oder Identitätsüberprüfung.
 
