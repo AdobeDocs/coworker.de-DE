@@ -43,7 +43,7 @@ Bevor Sie beginnen, stellen Sie Folgendes sicher:
 
 Administratoren stellen den [!DNL Meta Ads]-Connector für alle Personen in der Organisation zur Verfügung. Änderungen auf der Seite „Organisation“ gelten für alle Benutzer in Ihrer Organisation.
 
-1. Öffnen Sie **[!UICONTROL Anpassungen]**, wählen Sie **[!UICONTROL Organisation]** und dann **[!UICONTROL Externe Connectoren]** aus. Wählen Sie auf der Karte &lbrace;0 **Meta Ads**&#x200B;[!UICONTROL &#x200B; die Option „Konfigurieren &#x200B;]&#x200B;**aus.**
+1. Öffnen Sie **[!UICONTROL Anpassungen]**, wählen Sie **[!UICONTROL Organisation]** und dann **[!UICONTROL Externe Connectoren]** aus. Wählen Sie auf der Karte {0 ]**Meta Ads**[!UICONTROL  die Option „Konfigurieren ]**aus.**[!UICONTROL 
 
 1. Überprüfen Sie **[!UICONTROL Dialogfeld &quot;Meta Ads für Ihr]** konfigurieren“ die **[!UICONTROL Verbindungsdetails]** und wählen Sie dann eine **[!UICONTROL OAuth-Anwendung aus]**:
 
@@ -92,7 +92,7 @@ Der [!DNL Meta Ads]-Connector gliedert seine Tools in die folgenden Gruppen:
 * [!UICONTROL Aktivitätsprotokolle]
 * [!UICONTROL Hilfe und Fehlerbehebung]
 
-Die Gruppe &quot;[!UICONTROL &#x200B; und Insights] enthält beispielsweise Tools wie `ads_insights_performance_trend` und `ads_insights_industry_benchmark`. Die Tools in den einzelnen Gruppen können sich ändern, wenn [!DNL Meta] den Connector aktualisiert.
+Die Gruppe &quot;[!UICONTROL  und Insights] enthält beispielsweise Tools wie `ads_insights_performance_trend` und `ads_insights_industry_benchmark`. Die Tools in den einzelnen Gruppen können sich ändern, wenn [!DNL Meta] den Connector aktualisiert.
 
 >[!IMPORTANT]
 >
@@ -106,9 +106,9 @@ Nachdem ein Administrator den Connector konfiguriert hat, meldet sich jedes Mitg
 
 1. Öffnen Sie **[!UICONTROL Anpassungen]**, wählen Sie **[!UICONTROL Benutzer]** und dann **[!UICONTROL Externe Connectoren]** aus.
 
-1. Wählen Sie auf der Karte &lbrace;0 **Meta Ads**&#x200B;[!UICONTROL &#x200B; die Option „Anmelden &#x200B;]&#x200B;**aus.**
+1. Wählen Sie auf der Karte {0 ]**Meta Ads**[!UICONTROL  die Option „Anmelden ]**aus.**[!UICONTROL 
 
-   Wenn auf der Karte **[!UICONTROL Nicht konfiguriert]** angezeigt wird oder der Connector nicht verfügbar ist, bitten Sie Ihren Administrator, den [&#x200B; zu konfigurieren](#configure-organization).
+   Wenn auf der Karte **[!UICONTROL Nicht konfiguriert]** angezeigt wird oder der Connector nicht verfügbar ist, bitten Sie Ihren Administrator, den [ zu konfigurieren](#configure-organization).
 
 1. Melden Sie sich an, um alle erforderlichen Eingabeaufforderungen zu [!DNL Facebook] und abzuschließen, z. B. Single Sign-on (SSO), Multi-Faktor-Authentifizierung (MFA), Einverständnis oder Identitätsüberprüfung.
 
