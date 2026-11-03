@@ -6,10 +6,10 @@ description: Erfahren Sie mehr über KI-Tools in CX Enterprise. Verbessern Sie I
 solution: Coworker
 role: Admin,User,Developer,Leader
 nudge: true
-source-git-commit: 98a80334614960b3d700db7d85313c593c603e23
+source-git-commit: ee1ca012668a5800e6a653d64700f7a732a111b0
 workflow-type: tm+mt
-source-wordcount: '333'
-ht-degree: 15%
+source-wordcount: '335'
+ht-degree: 16%
 ---
 
 # CX Enterprise Coworker {#content}
@@ -91,6 +91,7 @@ ht-degree: 15%
     - [Verwalten von Plug-ins für Ihre Organisation](./customizations/plugins/manage-plugins-for-your-org.md)
   - Externe Anschlüsse {#external-connectors}
     - {hide-from-toc}[Databricks Genie](./customizations/external-connectors/databricks-genie.md)
+    - {hide-from-toc}[Google Ads](./customizations/external-connectors/google-ads.md)
     - {hide-from-toc}[Snowflake Cortex AI](./customizations/external-connectors/snowflake.md)
   - Speicher {#memory}
     - [Was ist Speicher?](./customizations/memory/what-is-memory.md)
