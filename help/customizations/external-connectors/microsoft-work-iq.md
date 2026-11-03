@@ -132,7 +132,7 @@ Nachdem ein Administrator den Connector konfiguriert hat, meldet sich jedes Mitg
 
 1. Wählen Sie auf der Karte **[!UICONTROL Microsoft Work IQ]** die Option **[!UICONTROL Anmelden]** aus.
 
-   Wenn auf der Karte **[!UICONTROL Nicht konfiguriert]** angezeigt wird oder der Connector nicht verfügbar ist, bitten Sie Ihren Administrator, den [ zu konfigurieren](#configure-organization).
+   Wenn auf der Karte **[!UICONTROL Nicht konfiguriert]** angezeigt wird oder der Connector nicht verfügbar ist, bitten Sie Ihren Administrator, den [&#x200B; zu konfigurieren](#configure-organization).
 
 1. Wählen Sie auf dem [!DNL Microsoft] **[!UICONTROL Konto auswählen]** das Arbeitskonto für Ihr Unternehmen aus oder wählen Sie **[!UICONTROL Anderes Konto verwenden]**.
 
