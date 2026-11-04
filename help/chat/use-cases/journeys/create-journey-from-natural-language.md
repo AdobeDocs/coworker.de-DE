@@ -6,12 +6,14 @@ role: User
 level: Beginner
 doc-type: Feature Video
 duration: 102
-last-substantial-update: 2026-08-10T00:00:00.000Z
+last-substantial-update: '2026-08-10T00:00:00.000Z'
 jira: KT-22081
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: d7f1f470a99880d46f518b42f4e766066c6fa52e
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+source-git-commit: b5b8b4188aaa1c81c63a2b089c5dd12b408dbcda
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 1%
@@ -21,9 +23,9 @@ ht-degree: 1%
 
 Beschreiben Sie die Journey, die Sie erstellen möchten, und Coworker entwirft sie in Adobe Journey Optimizer. In diesem Video erfahren Sie, wie Coworker Trigger, Timing, Kanäle und Entscheidungslogik konfiguriert, damit Sie sich auf die Überprüfung und Verfeinerung der Journey konzentrieren können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496883/?captions=ger&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496867/?learn=on&enablevpops)
 
 ## Siehe auch
 
-- [Journey Agent](https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent#journey-create), die zugrunde liegende KI-Funktion, die die Journey-Erstellung im Coworker Chat ermöglicht.
+- [Journey Agent](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent#journey-create), die zugrunde liegende KI-Funktion, die die Journey-Erstellung im Coworker Chat ermöglicht.
 - [Weitere Workflows für den Coworker-Chat](../workflows.md#journeys)
