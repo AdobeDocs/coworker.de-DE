@@ -33,4 +33,4 @@ ht-degree: 0%
 
 Laden Sie ein Flussdiagrammbild, z. B. eine PowerPoint-Folie, in CX Enterprise Coworker hoch. In diesem Video erfahren Sie, wie Sie die aus dem Bild extrahierte Eingabeaufforderung überprüfen, das Trigger -Ereignis angeben und einen bearbeitbaren Journey-Entwurf in Adobe Journey Optimizer speichern.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504865/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504872/?captions=ger&learn=on&enablevpops)
