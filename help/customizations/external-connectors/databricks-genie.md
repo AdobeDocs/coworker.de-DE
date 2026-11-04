@@ -8,9 +8,9 @@ product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
 hide: true
-source-git-commit: d0099a2e082b15db77876039604d4d37e77255e2
+source-git-commit: 39953e05bb5c7fede783fa344bcc846eaaa9b933
 workflow-type: tm+mt
-source-wordcount: '1635'
+source-wordcount: '1577'
 ht-degree: 1%
 ---
 
@@ -66,8 +66,6 @@ Administratoren stellen den [!DNL Databricks Genie]-Connector für alle Personen
 
 1. Öffnen Sie **[!UICONTROL Anpassungen]**, wählen Sie **[!UICONTROL Organisation]** und dann **[!UICONTROL Externe Connectoren]** aus. Wählen Sie auf der **[!UICONTROL Databricks Genie]**-Karte **[!UICONTROL Konfigurieren]** aus.
 
-   ![Seite Externe Connectoren für das Unternehmen mit der Databricks-Genie-Karte mit dem Status Nicht konfiguriert .](./assets/databricks-genie/org-connectors.png){width="700" zoomable="yes"}
-
 1. Geben Sie im **[!UICONTROL Connect Databricks Genie]**-Dialog Ihre Workspace-URL oder die [!DNL Genie One] MCP-URL in **[!UICONTROL Server-URL]** ein. Die Quelle wird in folgendem Format gespeichert:
 
    ```text
@@ -118,8 +116,6 @@ Administratoren stellen den [!DNL Databricks Genie]-Connector für alle Personen
 
 1. Überprüfen Sie **[!UICONTROL Zugriff und Berechtigungen]** und wählen Sie dann **[!UICONTROL Verbindung speichern]** aus. Die Karte **[!UICONTROL Databricks Genie]** zeigt **[!UICONTROL Konfiguration gespeichert]**.
 
-   ![Seite Externe Connectoren für das Unternehmen mit der Databricks-Genie-Karte mit dem Status Konfiguration gespeichert und der Schaltfläche Konfiguration anzeigen.](./assets/databricks-genie/org-saved.png){width="700" zoomable="yes"}
-
    Wählen Sie **[!UICONTROL Konfiguration anzeigen]** aus, um den Arbeitsbereich, die Authentifizierung, die aktivierten Tools und die Tool-Zeitüberschreitung zu überprüfen. Wählen Sie dann **[!UICONTROL Test]** aus, um die Verbindung zu überprüfen.
 
    ![Gespeicherte Datenbausteine-Connector-Details, die die Quelle, die Authentifizierung, die Tool-Richtlinie mit vier zulässigen Tools, die Tool-Zeitüberschreitung und die Liste der Tools anzeigen.](./assets/databricks-genie/org-details.png){width="700" zoomable="yes"}
@@ -133,8 +129,6 @@ Nachdem ein Administrator den Connector konfiguriert hat, öffnen Sie ihn in Ihr
 1. Öffnen Sie **[!UICONTROL Anpassungen]**, wählen Sie **[!UICONTROL Benutzer]** und dann **[!UICONTROL Externe Connectoren]** aus.
 
 1. Finde die **[!UICONTROL Databricks Genie]** Karte. Wenn Ihr Unternehmen den Connector nicht konfiguriert hat, zeigt die Karte **[!UICONTROL Nicht konfiguriert]** und **[!UICONTROL Noch nicht verfügbar. Ihr Administrator muss dies einrichten.]** Es gibt keine Schaltfläche **[!UICONTROL Konfigurieren]** für Mitglieder. Bitten Sie daher Ihren Administrator, [den Connector zu konfigurieren](#configure-organization).
-
-   ![Seite Externe Connectoren des Benutzers mit der Databricks-Genie-Karte mit dem Status Nicht konfiguriert und einer Meldung, dass der Administrator die Karte einrichten muss.](./assets/databricks-genie/member-not-configured.png){width="700" zoomable="yes"}
 
 1. Wenn Ihr Unternehmen einen Service-Prinzipal verwendet, wird auf der Karte **[!UICONTROL Verfügbar über Ihr Unternehmen]** angezeigt. Sie müssen sich nicht anmelden. Um die Verbindung zu überprüfen, öffnen Sie die Connector-Details und wählen Sie **[!UICONTROL Verbindung testen]** aus.
 
