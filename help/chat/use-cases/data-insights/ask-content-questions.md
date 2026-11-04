@@ -4,19 +4,15 @@ description: Fragen Sie Mitarbeiter-Chat zu Ihren Inhalten in einfacher Sprache,
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
+source-git-commit: 3cfee4503efc246c105156e3b99260912eb74d49
 workflow-type: tm+mt
-source-wordcount: '1076'
+source-wordcount: '1042'
 ht-degree: 3%
 ---
 
 # Stellen Sie Fragen zu Ihrem Inhalt
 
-<!-- FLAG: Confirm with the PM: (1) availability (GA, beta, or experimental) and whether this page needs an AVAILABILITY note or `hide: true` until launch, and (2) any required Coworker entitlement. Content Analytics itself has no separate permission: users get access through data views that are configured for Content Analytics (Access control section of analytics-platform.en/help/content-analytics/config/configuration.md). -->
-
->[!AVAILABILITY]
->
->Die in diesem Artikel beschriebene Funktion befindet sich in der eingeschränkten Testphase der Veröffentlichung und ist möglicherweise noch nicht in Ihrer Umgebung verfügbar. Dieser Hinweis wird entfernt, wenn die Funktion allgemein verfügbar ist.
+<!-- FLAG: Confirm with the PM any required Coworker entitlement. Content Analytics itself has no separate permission: users get access through data views that are configured for Content Analytics (Access control section of analytics-platform.en/help/content-analytics/config/configuration.md). -->
 
 Verwenden Sie den Adobe CX Enterprise Coworker-Chat, um von Adobe Content Analytics präzise Antworten auf Ihre Inhalte zu erhalten. Stellen Sie eine spezifische Frage, z. B.: „Welche Bilder haben im letzten Quartal den höchsten Umsatz erzielt?“ oder eine allgemeine Frage, z. B.: „Welche Inhalte sollte ich priorisieren?“. Ein Kollege verwandelt Ihre Frage in eine fundierte Analyse.
 

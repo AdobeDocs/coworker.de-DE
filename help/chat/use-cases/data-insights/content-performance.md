@@ -4,9 +4,9 @@ description: Verwenden Sie den Coworker Chat, um herauszufinden, welche Inhalte 
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
+source-git-commit: 3cfee4503efc246c105156e3b99260912eb74d49
 workflow-type: tm+mt
-source-wordcount: '609'
+source-wordcount: '608'
 ht-degree: 1%
 ---
 
@@ -47,7 +47,7 @@ Der -Mitarbeiter verwendet die folgenden Fähigkeiten für die in diesem Artikel
 
 | Skill | Verwendet für |
 | --- | --- |
-| `cja`,`analyze-content` <br/> (begrenzte Verfügbarkeit) | Finden Sie heraus, was die erfolgreichsten Inhalte gemeinsam haben<br> weisen Sie den Inhalten, die Kunden sehen, <br> Sie Kreative im Web und auf Mobilgeräten <br>Erfahren Sie, welche Visualisierungen die einzelnen Zielgruppen bewegen<p>Weitere Informationen finden Sie unter [Fragen zu Ihrem Inhalt stellen](/help/chat/use-cases/data-insights/ask-content-questions.md).</p> |
+| `cja`,`analyze-content` | Finden Sie heraus, was die erfolgreichsten Inhalte gemeinsam haben<br> weisen Sie den Inhalten, die Kunden sehen, <br> Sie Kreative im Web und auf Mobilgeräten <br>Erfahren Sie, welche Visualisierungen die einzelnen Zielgruppen bewegen<p>Weitere Informationen finden Sie unter [Fragen zu Ihrem Inhalt stellen](/help/chat/use-cases/data-insights/ask-content-questions.md).</p> |
 
 ## Tipps für bessere Ergebnisse
 
@@ -60,6 +60,6 @@ Der -Mitarbeiter verwendet die folgenden Fähigkeiten für die in diesem Artikel
 
 ## Nächste Schritte
 
-* Informationen dazu, wie ein Mitarbeiter Inhaltsfragen beantwortet, finden Sie unter [Fragen zu Ihrem Inhalt stellen](/help/chat/use-cases/data-insights/ask-content-questions.md) (Eingeschränkte Verfügbarkeit).
+* Informationen dazu, wie ein Mitarbeiter Inhaltsfragen beantwortet, finden Sie unter [Fragen zu Ihrem Inhalt stellen](/help/chat/use-cases/data-insights/ask-content-questions.md).
 * Einen Überblick über die Datenanalyse mit dem Coworker Chat, einschließlich der anderen Analyse-Domains und Best Practices, finden Sie unter [Analysieren von Daten mit dem Coworker Chat](/help/chat/use-cases/data-insights/analytics-overview.md).
 * Informationen zum Einrichten von Coworker Chat und zum Durchführen eines Arbeitsbeispiels finden Sie unter [Erste Schritte mit der Analyse von Daten mit Coworker Chat](/help/chat/use-cases/data-insights/analytics-chat.md).

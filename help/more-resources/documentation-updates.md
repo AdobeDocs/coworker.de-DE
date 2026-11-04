@@ -4,9 +4,9 @@ description: Weitere Informationen finden Sie in den neuen und aktualisierten Ar
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: df0cae9a0151501dad78527ba15fb06c57a9f9f4
+source-git-commit: bdee1fbac171345d41a0bcdfdaaadb025f860a55
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '363'
 ht-degree: 1%
 ---
 # Dokumentation – Aktualisierungen {#documentation-updates}
@@ -14,6 +14,10 @@ ht-degree: 1%
 Auf dieser Seite finden Sie neue und wesentlich aktualisierte Inhalte in der Dokumentation zu CX Enterprise Coworker. Die Aktualisierungen werden nach Monat aufgelistet, wobei die aktuellsten zuerst aufgeführt werden. Produktänderungen für Mitarbeiter für Teams finden Sie in den Versionshinweisen [Mitarbeiter für Teams](../coworker-for-teams/release-notes.md).
 
 ## November 2026 {#nov-2026}
+
+**4. November 2026**
+
+* Aktualisiert: [Fragen zu Ihrem Inhalt stellen](../chat/use-cases/data-insights/ask-content-questions.md). Die Inhaltsanalyse mit den `analyze-content` Kenntnissen ist jetzt allgemein verfügbar.
 
 **3. November 2026**
 
@@ -48,7 +52,7 @@ Auf dieser Seite finden Sie neue und wesentlich aktualisierte Inhalte in der Dok
 
 **16. Oktober 2026**
 
-* Neu: [Erstellen, simulieren und analysieren Sie Cross-Channel-Journey](../chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker-feature-video.md)
+* Neu: [Erstellen, simulieren und analysieren Sie Cross-Channel-Journey](../chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker.md)
 * Neu: [Übersicht über die Journey-Analyse](../chat/use-cases/data-insights/journey-analysis.md)
 * Neu: [Zielgruppen- und Segmentanalyse - Übersicht](../chat/use-cases/data-insights/audience-and-segment-analysis.md)
 * Neu: [Business Performance - Übersicht](../chat/use-cases/data-insights/business-performance.md)
