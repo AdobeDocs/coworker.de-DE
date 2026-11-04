@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Verwenden Sie CX Enterprise Coworker, um eine Cross-Channel-Journey aus einer einfachen Eingabeaufforderung zu erstellen und E-Mail- und SMS-Inhalte zu generieren. In diesem Video erfahren Sie, wie Sie Verzweigungspfade simulieren und Diagnosen überprüfen, um Konfigurationsprobleme zu identifizieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504706?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504713?captions=ger&learn=on)
