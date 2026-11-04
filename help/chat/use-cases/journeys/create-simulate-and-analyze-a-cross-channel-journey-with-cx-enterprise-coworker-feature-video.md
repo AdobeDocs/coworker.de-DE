@@ -1,6 +1,6 @@
 ---
 title: Kanalübergreifende Journey erstellen, simulieren und analysieren
-description: Erfahren Sie, wie CX Enterprise Coworker kanalübergreifende Journey erstellt, E-Mail- und SMS-Inhalte erstellt, Verzweigungen simuliert und Journey-Konfigurationsprobleme diagnostiziert.
+description: Erfahren Sie, wie Sie mit CX Enterprise Coworker kanalübergreifende Journey in Adobe Journey Optimizer erstellen, simulieren und Fehler beheben können.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -10,16 +10,14 @@ jira: KT-22912
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 0ef1f562174f53393bab97a0d0c91c666810aa20
+source-git-commit: d7f1f470a99880d46f518b42f4e766066c6fa52e
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '70'
 ht-degree: 0%
 ---
 
 # Erstellen, Simulieren und Analysieren von Cross-Channel-Journey
 
-Erfahren Sie, wie CX Enterprise Coworker eine Cross-Channel-Journey von einer natürlichen Sprachaufforderung aus erstellt und E-Mail- und SMS-Inhalte erstellt.
-
-In diesem Video erfahren Sie, wie Sie die Verzweigungspfade der Journey simulieren und Diagnosen analysieren können, um Konfigurationsprobleme zu identifizieren.
+Verwenden Sie CX Enterprise Coworker, um eine Cross-Channel-Journey aus einer einfachen Eingabeaufforderung zu erstellen und E-Mail- und SMS-Inhalte zu generieren. In diesem Video erfahren Sie, wie Sie Verzweigungspfade simulieren und Diagnosen überprüfen, um Konfigurationsprobleme zu identifizieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3504713?captions=ger&learn=on)

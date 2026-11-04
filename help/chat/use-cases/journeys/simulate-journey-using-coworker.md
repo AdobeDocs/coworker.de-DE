@@ -1,6 +1,6 @@
 ---
 title: Simulieren einer Adobe Journey Optimizer-Journey mit Coworker
-description: Erfahren Sie, wie Sie Adobe Journey Optimizer-Journey mit Coworker simulieren können, um Pfade zu testen, Testversandnachrichten zu empfangen und die Pfadabdeckung vor der Veröffentlichung zu überprüfen.
+description: Erfahren Sie, wie Sie mit Coworker Adobe Journey Optimizer-Journey simulieren und die Ergebnisse vor der Veröffentlichung überprüfen können.
 role: User
 level: Beginner, Intermediate
 doc-type: Feature Video
@@ -20,16 +20,14 @@ level_v2:
     internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: f3401377d82e09d194d5130458c7b86866899c11
+source-git-commit: d7f1f470a99880d46f518b42f4e766066c6fa52e
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '70'
 ht-degree: 0%
 ---
 
 # Simulieren einer Adobe Journey Optimizer-Journey mit Coworker
 
-Erfahren Sie, wie Sie mit Coworker eine Adobe Journey Optimizer-Journey mit automatisch generierten Testprofilen und -ereignissen simulieren können.
-
-In diesem Video erfahren Sie, wie Sie Journey-Pfade testen, Testversandnachrichten empfangen und vor der Veröffentlichung die Pfadabdeckung und die Simulationsergebnisse überprüfen.
+Verwenden Sie den -Mitarbeiter, um eine Adobe Journey Optimizer-Journey mit automatisch generierten Testprofilen und -ereignissen zu simulieren. In diesem Video erfahren Sie, wie Sie Journey-Pfade testen, Testversandnachrichten empfangen und vor der Veröffentlichung die Pfadabdeckung und die Simulationsergebnisse überprüfen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3507004?learn=on)

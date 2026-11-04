@@ -1,6 +1,6 @@
 ---
 title: Journey Optimizer und Mitarbeiter - Journey generieren
-description: Erfahren Sie, wie Sie mit Coworker Adobe Journey Optimizer-Journey aus Eingabeaufforderungen in natürlicher Sprache erstellen.
+description: Erfahren Sie, wie Sie mit Coworker Adobe Journey Optimizer-Journey-Dokumente in einfacher Sprache erstellen können.
 feature: AI Tools
 role: User
 level: Beginner
@@ -11,17 +11,15 @@ jira: KT-22081
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
+source-git-commit: d7f1f470a99880d46f518b42f4e766066c6fa52e
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '101'
 ht-degree: 1%
 ---
 
 # Generieren von Adobe Journey Optimizer Journeys aus Eingabeaufforderungen in natürlicher Sprache
 
-Der Aufbau von Kunden-Journey erfordert traditionell eine umfangreiche Konfiguration über Trigger, Timing-Regeln, Kanäle, Entscheidungslogik und Messaging-Schritte hinweg. In diesem Video erfahren Sie, wie Coworker den Prozess vereinfacht, indem eine einfache Beschreibung in Adobe Journey Optimizer in eine vollständig entworfene Journey umgewandelt wird.
- 
-Durch die Automatisierung des anfänglichen Einrichtungsprozesses können Teams weniger Zeit damit verbringen, Journey von Grund auf neu zu erstellen, und mehr Zeit damit, Kundenerlebnisse und Geschäftsergebnisse zu verfeinern.
+Beschreiben Sie die Journey, die Sie erstellen möchten, und Coworker entwirft sie in Adobe Journey Optimizer. In diesem Video erfahren Sie, wie Coworker Trigger, Timing, Kanäle und Entscheidungslogik konfiguriert, damit Sie sich auf die Überprüfung und Verfeinerung der Journey konzentrieren können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3496883/?captions=ger&learn=on&enablevpops)
 

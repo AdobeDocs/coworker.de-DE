@@ -4,9 +4,9 @@ description: Weitere Informationen finden Sie in den neuen und aktualisierten Ar
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 81e7de5e1b3b322fc74fa7bab8cb16841d627349
+source-git-commit: df0cae9a0151501dad78527ba15fb06c57a9f9f4
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '345'
 ht-degree: 1%
 ---
 # Dokumentation – Aktualisierungen {#documentation-updates}
@@ -15,9 +15,14 @@ Auf dieser Seite finden Sie neue und wesentlich aktualisierte Inhalte in der Dok
 
 ## November 2026 {#nov-2026}
 
+**3. November 2026**
+
+* Neu: [Simulieren Sie eine Journey mit einem Kollegen](../chat/use-cases/journeys/simulate-journey-using-coworker.md)
+
 **2. November 2026**
 
 * Aktualisiert: [Übersicht über CX Enterprise Coworker](../home.md) und [Erste Schritte mit dem Coworker Chat](../chat/ui-guide.md). Adobe Analytics wird jetzt als Anwendung aufgeführt, für die der Coworker Chat verfügbar ist.
+* Aktualisiert: [Chat-Workflows für Kollegen](../chat/use-cases/workflows.md). Der Artikel listet jetzt Kenntnisse zum Überprüfen von AEM-Workflows und zum Kennenlernen von Dispatcher Insights auf. Außerdem werden Zielgruppenkenntnisse für die Inventarverteilung, den Zustand des Bestands, die Herkunft und die Erkennung von Duplikaten hinzugefügt und darauf hingewiesen, dass die Erstellung von Zielgruppen B2C- und B2B-Zielgruppen unterstützt.
 
 ## Oktober 2026 {#oct-2026}
 

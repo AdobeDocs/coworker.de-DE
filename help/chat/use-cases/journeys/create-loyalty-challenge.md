@@ -1,6 +1,6 @@
 ---
 title: Herausforderungen und Erkenntnisse im Zusammenhang mit der Treue erstellen
-description: Erfahren Sie, wie Sie mit einem Mitarbeiter Herausforderungen im Zusammenhang mit der Treue erstellen und verwalten, die Audience-Auswahl automatisieren und Erkenntnisse gewinnen können.
+description: Erfahren Sie, wie Sie mit CX Enterprise Coworker Herausforderungen im Bereich Kundentreue in Adobe Journey Optimizer erstellen und starten können.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -10,9 +10,9 @@ jira: KT-22312
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
+source-git-commit: d7f1f470a99880d46f518b42f4e766066c6fa52e
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '163'
 ht-degree: 1%
 ---
 
@@ -22,9 +22,7 @@ ht-degree: 1%
 >
 >Das Loyalitäts-Plug-in und dessen Challenge-Management-Fähigkeiten sind nur verfügbar, wenn Ihr Unternehmen über die Berechtigung für Adobe Journey Optimizer Loyalty verfügt. Wenn Sie Zugriff benötigen, wenden Sie sich an Ihr Adobe-Account-Team , um die erforderlichen Berechtigungen anzufordern.
 
-In dieser Demonstration erfahren Sie, wie die Treue zu Adobe Journey Optimizer (AJO) in Coworker eingesetzt wird, um die Verwaltung von Treueprogrammen zu vereinfachen und zu beschleunigen.
- 
-In diesem Video werden das Loyalty-Plug-in und dessen Challenge-Management-Fähigkeiten vorgestellt, eine KI-gestützte Funktion, mit der Marketing-Experten Herausforderungen im Zusammenhang mit dem Treueprogramm in natürlicher Sprache erstellen, bearbeiten und verwalten können, anstatt jede Einstellung in der Benutzeroberfläche manuell zu konfigurieren.
+Verwenden Sie einfache Eingabeaufforderungen, um mit CX Enterprise Coworker Herausforderungen im Zusammenhang mit dem Treueprogramm zu erstellen, zu konfigurieren und zu starten. In diesem Video erfahren Sie, wie Sie Audiences, Belohnungen und Zeitpläne einrichten, das Journey-Setup automatisieren und Challenge-Insights überprüfen können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3496545/?captions=ger&learn=on&enablevpops)
 

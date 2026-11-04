@@ -1,6 +1,6 @@
 ---
 title: Erstellen einer Journey aus einem Bild
-description: Erfahren Sie, wie CX Enterprise Coworker ein Flussdiagrammbild, z. B. eine Folie von Ihrem Marketing-Team, in eine bearbeitbare Journey in Adobe Journey Optimizer (AJO) umwandelt.
+description: Erfahren Sie, wie Sie mit CX Enterprise Coworker einen Adobe Journey Optimizer-Journey-Entwurf aus einem Flussdiagrammbild erstellen.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -28,14 +28,14 @@ topic_v2:
     internal-label: Artificial intelligence
   - id: da31900f-0b2e-4267-a5f8-69290b954752
     internal-label: Customer experience management
-source-git-commit: 0ef1f562174f53393bab97a0d0c91c666810aa20
+source-git-commit: d7f1f470a99880d46f518b42f4e766066c6fa52e
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '71'
 ht-degree: 0%
 ---
 
 # Erstellen einer Journey aus einem Abbild
 
-Erfahren Sie, wie CX Enterprise Coworker ein Flussdiagrammbild, z. B. eine PowerPoint-Folie von Ihrem Marketing-Team, in eine bearbeitbare Journey in Adobe Journey Optimizer umwandelt. Sie werden sehen, wie Coworker eine Eingabeaufforderung aus dem Bild extrahiert, Sie überprüfen und anpassen können, nach dem Trigger-Ereignis fragt und das Ergebnis als Entwurf speichert, der dem ursprünglichen Design entspricht.
+Laden Sie ein Flussdiagrammbild, z. B. eine PowerPoint-Folie, in CX Enterprise Coworker hoch. In diesem Video erfahren Sie, wie Sie die aus dem Bild extrahierte Eingabeaufforderung überprüfen, das Trigger -Ereignis angeben und einen bearbeitbaren Journey-Entwurf in Adobe Journey Optimizer speichern.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3504872/?captions=ger&learn=on&enablevpops)
