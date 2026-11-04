@@ -6,7 +6,7 @@ description: Erfahren Sie mehr über KI-Tools in CX Enterprise. Verbessern Sie I
 solution: Coworker
 role: Admin,User,Developer,Leader
 nudge: true
-source-git-commit: 93d1e4c5d535f8dcbe512d939b56e3cd93e98bcc
+source-git-commit: bdee1fbac171345d41a0bcdfdaaadb025f860a55
 workflow-type: tm+mt
 source-wordcount: '350'
 ht-degree: 15%
@@ -58,8 +58,8 @@ ht-degree: 15%
       - [Erstellen einer Journey in natürlicher Sprache](./chat/use-cases/journeys/create-journey-from-natural-language.md)
       - [Erstellen einer Journey aus einem Abbild](./chat/use-cases/journeys/create-journey-from-image.md)
       - [Simulieren einer Journey mit einem Kollegen](./chat/use-cases/journeys/simulate-journey-using-coworker.md)
-      - [Vergleichen von Journey-Versionen mit Coworker](./chat/use-cases/journeys/journey-version-comparison-feature-video.md)
-      - [Erstellen, Simulieren und Analysieren von Cross-Channel-Journey](./chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker-feature-video.md)
+      - [Vergleichen von Journey-Versionen mit Coworker](./chat/use-cases/journeys/journey-version-comparison.md)
+      - [Erstellen, Simulieren und Analysieren von Cross-Channel-Journey](./chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker.md)
     - Treue {#loyalty}
       - [Erstellen einer Herausforderung zur Treue und Aufdecken von Einblicken](./chat/use-cases/journeys/create-loyalty-challenge.md)
     - Optimierung {#optimization}

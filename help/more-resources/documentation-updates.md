@@ -4,7 +4,7 @@ description: Weitere Informationen finden Sie in den neuen und aktualisierten Ar
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: e5fad76b20f2d10d32fc03131b4c18d220ed8e1e
+source-git-commit: bdee1fbac171345d41a0bcdfdaaadb025f860a55
 workflow-type: tm+mt
 source-wordcount: '363'
 ht-degree: 1%
@@ -52,7 +52,7 @@ Auf dieser Seite finden Sie neue und wesentlich aktualisierte Inhalte in der Dok
 
 **16. Oktober 2026**
 
-* Neu: [Erstellen, simulieren und analysieren Sie Cross-Channel-Journey](../chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker-feature-video.md)
+* Neu: [Erstellen, simulieren und analysieren Sie Cross-Channel-Journey](../chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker.md)
 * Neu: [Übersicht über die Journey-Analyse](../chat/use-cases/data-insights/journey-analysis.md)
 * Neu: [Zielgruppen- und Segmentanalyse - Übersicht](../chat/use-cases/data-insights/audience-and-segment-analysis.md)
 * Neu: [Business Performance - Übersicht](../chat/use-cases/data-insights/business-performance.md)
