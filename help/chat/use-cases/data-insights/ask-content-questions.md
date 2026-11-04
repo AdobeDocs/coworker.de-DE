@@ -4,19 +4,15 @@ description: Fragen Sie Mitarbeiter-Chat zu Ihren Inhalten in einfacher Sprache,
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
+source-git-commit: 3cfee4503efc246c105156e3b99260912eb74d49
 workflow-type: tm+mt
-source-wordcount: '1076'
+source-wordcount: '1042'
 ht-degree: 3%
 ---
 
 # Stellen Sie Fragen zu Ihrem Inhalt
 
-<!-- FLAG: Confirm with the PM: (1) availability (GA, beta, or experimental) and whether this page needs an AVAILABILITY note or `hide: true` until launch, and (2) any required Coworker entitlement. Content Analytics itself has no separate permission: users get access through data views that are configured for Content Analytics (Access control section of analytics-platform.en/help/content-analytics/config/configuration.md). -->
-
->[!AVAILABILITY]
->
->Die in diesem Artikel beschriebene Funktion befindet sich in der eingeschränkten Testphase der Veröffentlichung und ist möglicherweise noch nicht in Ihrer Umgebung verfügbar. Dieser Hinweis wird entfernt, wenn die Funktion allgemein verfügbar ist.
+<!-- FLAG: Confirm with the PM any required Coworker entitlement. Content Analytics itself has no separate permission: users get access through data views that are configured for Content Analytics (Access control section of analytics-platform.en/help/content-analytics/config/configuration.md). -->
 
 Verwenden Sie den Adobe CX Enterprise Coworker-Chat, um von Adobe Content Analytics präzise Antworten auf Ihre Inhalte zu erhalten. Stellen Sie eine spezifische Frage, z. B.: „Welche Bilder haben im letzten Quartal den höchsten Umsatz erzielt?“ oder eine allgemeine Frage, z. B.: „Welche Inhalte sollte ich priorisieren?“. Ein Kollege verwandelt Ihre Frage in eine fundierte Analyse.
 
@@ -34,7 +30,7 @@ Um Fragen zu Ihrem Inhalt zu stellen, benötigen Sie Folgendes:
 
 * Mit dem Coworker Chat wurde eine Verbindung zu Ihren Customer Journey Analytics-Datenansichten hergestellt. Siehe [Erste Schritte mit der Datenanalyse mit dem Coworker Chat](/help/chat/use-cases/data-insights/analytics-chat.md).
 * Zugriff auf die Datenansichten anzeigen, die Sie analysieren möchten. Coworker Chat übernimmt Ihre Berechtigungen von Customer Journey Analytics.
-* Eine Datenansicht, die für Content Analytics konfiguriert ist. Siehe [Konfigurieren von Content Analytics](https://experienceleague.adobe.com/de/docs/analytics-platform/using/content-analytics/configuration/configuration) im Customer Journey Analytics-Handbuch.
+* Eine Datenansicht, die für Content Analytics konfiguriert ist. Siehe [Konfigurieren von Content Analytics](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/configuration/configuration) im Customer Journey Analytics-Handbuch.
 
 ## Stellen einer Inhaltsfrage
 
@@ -97,11 +93,11 @@ Die Fähigkeit versteht, wie Content Analytics-Daten strukturiert sind. Beispiel
 * **Erlebnis-IDs:** Wenn Sie nach einer bestimmten Seite fragen, filtert die Kenntnis nach der Content-Erlebnis-ID, die diese Seite identifiziert.
 * **KI-generierte Attribute:** Jedes Asset und Erlebnis wird durch Attribute wie Fotografie, Stil, Farben, Ton und Überzeugungsstrategie beschrieben. Die Fähigkeit verwendet diese Attribute, um zu erklären, warum Inhalte gut funktionieren, und nicht nur, welche Inhalte gut abschneiden.
 
-Eine vollständige Liste der Komponenten finden Sie unter [Content Analytics-Komponenten](https://experienceleague.adobe.com/de/docs/analytics-platform/using/content-analytics/report/components) im Customer Journey Analytics-Handbuch.
+Eine vollständige Liste der Komponenten finden Sie unter [Content Analytics-Komponenten](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/report/components) im Customer Journey Analytics-Handbuch.
 
 ### Attribution
 
-Die Qualifikation wählt das Attributionsmodell aus, das zu Ihrer Frage passt. Beispielsweise wird eine Frage über Klicks auf ein Bild anders beantwortet als eine Frage darüber, zu welchem Umsatz dieses Bild beigetragen hat. Weitere Informationen finden Sie unter [Attributionsmodelle](https://experienceleague.adobe.com/de/docs/analytics-platform/using/cja-workspace/attribution/models#attribution-models) im Customer Journey Analytics-Handbuch.
+Die Qualifikation wählt das Attributionsmodell aus, das zu Ihrer Frage passt. Beispielsweise wird eine Frage über Klicks auf ein Bild anders beantwortet als eine Frage darüber, zu welchem Umsatz dieses Bild beigetragen hat. Weitere Informationen finden Sie unter [Attributionsmodelle](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/attribution/models#attribution-models) im Customer Journey Analytics-Handbuch.
 
 ### Allgemeine Analysen und Workflows
 

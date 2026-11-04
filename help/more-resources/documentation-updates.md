@@ -4,9 +4,9 @@ description: Weitere Informationen finden Sie in den neuen und aktualisierten Ar
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: df0cae9a0151501dad78527ba15fb06c57a9f9f4
+source-git-commit: e5fad76b20f2d10d32fc03131b4c18d220ed8e1e
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '363'
 ht-degree: 1%
 ---
 # Dokumentation – Aktualisierungen {#documentation-updates}
@@ -14,6 +14,10 @@ ht-degree: 1%
 Auf dieser Seite finden Sie neue und wesentlich aktualisierte Inhalte in der Dokumentation zu CX Enterprise Coworker. Die Aktualisierungen werden nach Monat aufgelistet, wobei die aktuellsten zuerst aufgeführt werden. Produktänderungen für Mitarbeiter für Teams finden Sie in den Versionshinweisen [Mitarbeiter für Teams](../coworker-for-teams/release-notes.md).
 
 ## November 2026 {#nov-2026}
+
+**4. November 2026**
+
+* Aktualisiert: [Fragen zu Ihrem Inhalt stellen](../chat/use-cases/data-insights/ask-content-questions.md). Die Inhaltsanalyse mit den `analyze-content` Kenntnissen ist jetzt allgemein verfügbar.
 
 **3. November 2026**
 
