@@ -8,9 +8,9 @@ product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
 hide: true
-source-git-commit: 39953e05bb5c7fede783fa344bcc846eaaa9b933
+source-git-commit: 4f03df081c098fb1dc1044cb022663ce4d9b3d86
 workflow-type: tm+mt
-source-wordcount: '1577'
+source-wordcount: '1557'
 ht-degree: 1%
 ---
 
@@ -131,8 +131,6 @@ Nachdem ein Administrator den Connector konfiguriert hat, öffnen Sie ihn in Ihr
 1. Finde die **[!UICONTROL Databricks Genie]** Karte. Wenn Ihr Unternehmen den Connector nicht konfiguriert hat, zeigt die Karte **[!UICONTROL Nicht konfiguriert]** und **[!UICONTROL Noch nicht verfügbar. Ihr Administrator muss dies einrichten.]** Es gibt keine Schaltfläche **[!UICONTROL Konfigurieren]** für Mitglieder. Bitten Sie daher Ihren Administrator, [den Connector zu konfigurieren](#configure-organization).
 
 1. Wenn Ihr Unternehmen einen Service-Prinzipal verwendet, wird auf der Karte **[!UICONTROL Verfügbar über Ihr Unternehmen]** angezeigt. Sie müssen sich nicht anmelden. Um die Verbindung zu überprüfen, öffnen Sie die Connector-Details und wählen Sie **[!UICONTROL Verbindung testen]** aus.
-
-   ![Seite Externe Connectoren des Benutzers mit der Databricks-Genie-Karte mit einer über den Status Ihres Unternehmens verfügbaren und einer Test -Schaltfläche.](./assets/databricks-genie/member-connectors.png){width="700" zoomable="yes"}
 
    Ein erfolgreicher Test zeigt **[!UICONTROL Verbindung erfolgreich]** und die Anzahl der verfügbaren Tools an.
 
