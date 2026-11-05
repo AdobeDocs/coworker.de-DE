@@ -6,16 +6,86 @@ product_v2:
     internal-label: Coworker
   - id: a17f56ef-32e3-5ef7-b044-4479a09ffbc1
     internal-label: Coworker for teams
-source-git-commit: d786b58a4a88126d0875c504e1a8e5d6b39150e6
+source-git-commit: 0246505e521b780295f17b3964ec2f0a57fc41fd
 workflow-type: tm+mt
-source-wordcount: '4474'
+source-wordcount: '4892'
 ht-degree: 0%
 ---
 # Versionshinweise zu Adobe CX Enterprise Coworker für Teams {#release-notes}
 
 Die Versionen von Coworker for Teams basieren auf einem kontinuierlichen Bereitstellungsmodell, das eine besser skalierbare, schrittweise Implementierung von Funktionen ermöglicht.
 
+## November 2026 {#nov-2026}
+
+**Veröffentlichungsdatum: 3. November 2026**
+
+* Erstellen Sie Kampagnen, ohne Ihr Gespräch verlassen zu müssen, um das Board zu besuchen
+* Kampagnenausgaben gemeinsam überprüfen, sobald sie verfügbar werden
+* Erkennen neuer und aktualisierter Inhalte ohne Verlust Ihres Platzes
+* Nicht gesendete Nachrichten und Anhänge beim Besuch des Campaign-Boards beibehalten
+* Frühere Kampagnenvorschauen behalten den ursprünglich überprüften Inhalt bei
+* Vorschau von E-Mails in Layouts für Desktop und Mobilgeräte vor dem Versand
+* E-Mail-Varianten mit klareren Registerkarten und Bildvorschauen wechseln
+* Das Ändern von E-Mail-Varianten behält Ihren Platz auf der Seite
+* Wide Emails bearbeiten, ohne den Zugriff auf Formatierungssteuerelemente zu verlieren
+* E-Mail-Bearbeitungsentwürfe und Größenänderungsgriffe bleiben ausgerichtet
+* Unveränderte E-Mail-Felder enthalten keinen Trigger mehr für unnötige Speichervorgänge
+* E-Mail-Entwürfe behalten neuere Bearbeitungen bei, wenn frühere Speichervorgänge abgeschlossen sind
+* Nicht verwendete Kampagnen-E-Mails entfernen, ohne den gespeicherten Inhalt zu löschen
+* Ermitteln, welche E-Mail-Entwürfe nicht in Ihrem Workflow enthalten sind
+* Heruntergeladene Kampagnendokumente behalten E-Mail-Vorschauen und funktionierende Kampagnen-Links
+* Termine direkt auswählen, wenn Ihr Gespräch danach fragt
+* Antworten auf Unterhaltungen bleiben mit der richtigen ausstehenden Anfrage verknüpft.
+* Dateianfragen akzeptieren nur die benötigten Anlagentypen
+* Unterdrückte Kontakte einzeln verwalten oder aus CSV importieren
+* Herunterladen der vollständigen Unterdrückungsliste unabhängig von aktiven Filtern
+* Gespeicherte Kampagnen-Audiences über ihre verknüpften Kontaktlisten suchen
+* Durchsuchen Sie Kampagnenideen bequemer auf kleineren Bildschirmen
+* Leere Suchergebnisse unterscheiden sich von leeren Kampagnensammlungen
+* Wiederholen des Ladevorgangs von Vorlagen ohne Verlust der Suchsteuerelemente
+* Ungültige Marken-Website-Adressen werden neben dem Feld erläutert
+* CSV-Upload-Abbildungen bleiben neben den anderen sichtbar
+* Erweiterte Launch-Zeitpläne lassen mehr Platz für nahe gelegene Steuerelemente
+* Öffnen Sie Hilfeartikel in Ihrer bevorzugten Sprache, sofern unterstützt
+* Verbindungsfortschritt und Ergebnisse werden bei der Verknüpfung von Konten deutlicher
+* Sicher zu Ihrer Kampagne zurückkehren, nachdem ein Konto verbunden wurde
+* In persönlichen Konten werden nicht mehr verfügbare Team-Management-Steuerelemente angezeigt
+* Wechseln von Arbeitsbereichen ohne falsche Zugriffsfehler
+* Die Erstellung von Workspace erklärt, wann ein organisationsadministratorischer Zugriff erforderlich ist
+* Überprüfen und bearbeiten Sie, sofern verfügbar, Ihr gespeichertes Geschäftsprofil
+* Das Geschäftsprofil speichert und erkennt widersprüchliche Änderungen, bevor sie ersetzt werden.
+* Die Navigation des Geschäftsprofils folgt dem ausgewählten Abschnitt ohne Flackern
+* Sofern verfügbar, verbinden Sie LinkedIn und wählen Sie Ihre Veröffentlichungsidentität aus
+* Vorschau von Entwürfen von Social Media-Beiträgen in Konversationen und Kampagnenboards
+* Social-Post-Varianten passen sich bequemer in enge Gesprächspanels ein
+* Konsistentes Lesen von Social-Media-Kontonamen in der Kampagnenvorschau
+* Bearbeiten von Social Media-Bildern mit Adobe Express, sofern unterstützt
+* Launch-Prüfungen entsprechen den von Ihnen verwendeten E-Mail- und Social-Media-Kanälen
+* Ermitteln, wann Social-Media-Konten vor dem Start neu verbunden werden müssen
+* Social-Media-Ergebnisse getrennt von E-Mail-Kampagnenberichten anzeigen
+
 ## Oktober 2026 {#oct-2026}
+
+**Veröffentlichungsdatum: 26. Oktober 2026**
+
+* Facebook und Instagram über ihren Browser-Anmeldefluss verbinden
+* Hinzufügen und Ersetzen von Markenlogos beim Einrichten der Marke
+* Die Vorschau des Markenlogos wird beim Setup zuverlässig angezeigt.
+* Überprüfen von Warehouse-Zielgruppenabfragen direkt aus Zielgruppenkarten
+* Das Onboarding wird nach der Kontoaktivierung automatisch fortgesetzt
+* Umbenannte Konversationen halten ihre Titel und Links synchron
+* Unterhaltungsnavigation reduzieren, ohne hilfreiche Aktionsbeschriftungen zu verlieren
+* Breiten E-Mail-Inhalt scrollen, ohne den umgebenden Arbeitsbereich zu dehnen
+* Duplizierte Vorlagen erhalten klare, nummerierte Namen in Ihrer Sprache
+* Zeitgesteuerte Termine und Kampagnendaten richten sich nach Ihren Spracheinstellungen
+* Heruntergeladene Kampagnendokumente verwenden lokalisierte Überschriften und Beschriftungen
+* E-Mail-Kompatibilitätsprozentsätze entsprechen Ihrem lokalen Zahlenformat
+* Die Erstellungsdaten der Marke entsprechen Ihrer bevorzugten Sprache und Region
+* Steuerelemente des E-Mail-Editors und Vorlagenbeschriftungen verwenden lokalisierten Text
+* Erforderliche Verbindungsfelder erklären Validierungsfehler in Ihrer Sprache
+* Standardabzeichen und Steuerelemente zur Logo-Bearbeitung bleiben lesbar
+* Ältere Kampagnen und Essentials-Links führen zu Kollegen für Teams
+* Die Abmeldeaktion wird bei der Testeinrichtung deutlicher
 
 **Veröffentlichungsdatum: 21. Oktober 2026**
 
@@ -313,8 +383,6 @@ Die Versionen von Coworker for Teams basieren auf einem kontinuierlichen Bereits
 * Domains &amp; Senders verfügt über einen geführten Einrichtungsassistenten zum Überprüfen von Domains und Hinzufügen von Absendern
 * In Kampagnenentwürfen werden Sie jetzt aufgefordert, die Einrichtung von E-Mail und Kanal abzuschließen, bevor Sie versenden
 * Die Domain- und Absendervalidierung erfasst mehr Probleme, einschließlich Edge-Fällen von DNS-Einträgen
-* Das Profilmenü wurde in die Seitenleiste verschoben, um schneller darauf zugreifen zu können
-* Source PDF-Dokumente werden jetzt als Pille auf den Details des Brand Kits angezeigt
 * Verschiedene Leistungs- und Zuverlässigkeitsverbesserungen in
 
 **Veröffentlichungsdatum: 26. Juni 2026**
@@ -324,7 +392,6 @@ Die Versionen von Coworker for Teams basieren auf einem kontinuierlichen Bereits
 * Kontextuelle Tipps werden im Campaign-Board angezeigt, um Sie durch die nächsten Schritte zu führen
 * Beim Onboarding von neuen Benutzern werden Ihre echten Markendaten verwendet, um das Setup-Erlebnis zu personalisieren
 * Die Markenfarbauswahl verarbeitet kurze Hexadezimalcodes und wird in einem aufgeräumten Popover geöffnet
-* UTM-Parameter und Nachrichtenbegrenzung können jetzt über die App-Einstellungen konfiguriert werden
 * Hilfe-Links öffnen jetzt die neuesten Inhalte direkt in Experience League
 * Verschiedene Leistungs- und Zuverlässigkeitsverbesserungen in
 
@@ -355,8 +422,6 @@ Die Versionen von Coworker for Teams basieren auf einem kontinuierlichen Bereits
 * Durchsuchen und Wiederherstellen früherer Versionen Ihrer E-Mail mit einem neuen Bedienfeld Versionsverlauf
 * Bearbeiten von Markenfarben mit einer Auswahl „Hex-First“ und Inline-Bearbeitung auf der Markenseite
 * Die Markenbibliothek lädt beim Scrollen automatisch weitere Marken
-* Das Profilmenü wurde in die Seitenleiste verschoben, um schneller darauf zugreifen zu können
-* Source PDF-Dokumente werden jetzt als Pille auf den Details des Brand Kits angezeigt
 * Verschiedene Leistungs- und Zuverlässigkeitsverbesserungen in
 
 **Veröffentlichungsdatum: 12. Juni 2026**
@@ -370,9 +435,6 @@ Die Versionen von Coworker for Teams basieren auf einem kontinuierlichen Bereits
 * Aus den Chatantworten heraus wird vorgeschlagen, was Sie als Nächstes mit Eingabeaufforderungen mit einem Klick fragen sollten
 * Campaign PDF-Exporte zeigen Symbole, Produkt-Branding und eine Markenbezeichnung zuverlässig an
 * Sprechen Sie mit einem Experten und laden Sie Ihre Testdetails zuverlässiger
-* Schriftstil-Tags werden erweitert, um Volltext und Link zur Markenseite anzuzeigen
-* Eine Marke aus dem leeren Bibliotheksstatus mit hilfreichen Kategorien starten
-* Melden Sie sich nach Ablauf Ihrer Sitzung wieder reibungslos an
 * Die App lebt jetzt auf coworker-campaigns.adobe.com mit dem gleichen Erlebnis
 * Die Testanmeldung leitet Sie nach der Erstellung Ihres Kontos zum nächsten Schritt weiter
 * Verschiedene Leistungs- und Zuverlässigkeitsverbesserungen in
@@ -385,8 +447,6 @@ Die Versionen von Coworker for Teams basieren auf einem kontinuierlichen Bereits
 * CSV-Audience-Importe zeigen auf der Audience-Karte keine doppelte Liste mehr an
 * Der Chateintrag in der Seitenleiste wird hervorgehoben, wenn Sie einen neuen Chat beginnen
 * Die App-Kopfzeile zeigt jetzt beim Bearbeiten einer E-Mail nur noch den E-Mail-Betreff (oder „Entwurf„) an und entfernt das Präfix „E-Mail: N“ für einen aufgeräumteren Titel
-* Das Profilmenü wurde in die Seitenleiste verschoben, um schneller darauf zugreifen zu können
-* Source PDF-Dokumente werden jetzt als Pille auf den Details des Brand Kits angezeigt
 * Verschiedene Leistungs- und Zuverlässigkeitsverbesserungen in
 
 **Veröffentlichungsdatum: 10. Juni 2026**
@@ -400,7 +460,6 @@ Die Versionen von Coworker for Teams basieren auf einem kontinuierlichen Bereits
 * Speichern erneut versuchen, wenn der E-Mail-Editor auf einen temporären Fehler stößt
 * Ersetzen von E-Mail-Bildern durch die richtige Größe und Adobe Express-Abmessungen
 * Hochladen von Audience-Listen aus CSV mithilfe eines klareren Importdialogfelds im Chat
-* Schriftstil-Tags werden erweitert, um Volltext und Link zur Markenseite anzuzeigen
 * Eine Marke aus dem leeren Bibliotheksstatus mit hilfreichen Kategorien starten
 * Melden Sie sich nach Ablauf Ihrer Sitzung wieder reibungslos an
 * Verschiedene Leistungs- und Zuverlässigkeitsverbesserungen in
@@ -511,7 +570,6 @@ Die Versionen von Coworker for Teams basieren auf einem kontinuierlichen Bereits
 * Die App-Kopfzeile zeigt jetzt beim Bearbeiten einer E-Mail nur noch den E-Mail-Betreff (oder „Entwurf„) an und entfernt das Präfix „E-Mail: N“ für einen aufgeräumteren Titel
 * Das Profilmenü wurde in die Seitenleiste verschoben, um schneller darauf zugreifen zu können
 * Source PDF-Dokumente werden jetzt als Pille auf den Details des Brand Kits angezeigt
-* Das Profilmenü wurde in die Seitenleiste verschoben, um schneller darauf zugreifen zu können
 * Verschiedene Leistungs- und Zuverlässigkeitsverbesserungen in
 
 **Veröffentlichungsdatum: 18. April 2026**
