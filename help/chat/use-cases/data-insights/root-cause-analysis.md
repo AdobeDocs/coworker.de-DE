@@ -25,7 +25,7 @@ Verwenden Sie den Adobe CX Enterprise Coworker-Chat, um zu untersuchen, warum si
 
 Das folgende Video zeigt, wie Coworker konversative KI mit Customer Journey Analytics kombiniert. Erfahren Sie, wie Sie Fragen in natürlicher Sprache stellen, Ergebnisse visualisieren, aussagekräftige Trends identifizieren und Faktoren entdecken, die die Leistung fördern, ohne manuelle Abfragen zu erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496847/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496859/?captions=ger&learn=on&enablevpops)
 
 ### Voraussetzungen
 
