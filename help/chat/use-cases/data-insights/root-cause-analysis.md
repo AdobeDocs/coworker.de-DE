@@ -53,7 +53,7 @@ Ein Mitarbeiter kann untersuchen, warum sich eine Metrik in einer Adobe Analytic
 
 Bevor Sie beginnen:
 
-1. **Zugriff auf den Coworker Chat und Adobe Analytics verbinden.** Navigieren Sie in der **zu „Anpassungen“ > „Integrationen** und vergewissern Sie sich, dass die `aa-mcp`-Integration aufgeführt und verbunden ist. Wenn es nicht verfügbar ist, bitten Sie Ihren Administrator, die Einrichtung Ihres Unternehmens zu überprüfen. Siehe [Erste Schritte mit dem Analysieren von Daten mit dem Coworker Chat](https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/data-insights/analytics-chat) für eine Einrichtungsanleitung.
+1. **Zugriff auf den Coworker Chat und Adobe Analytics verbinden.** Navigieren Sie in der **zu „Anpassungen“ > „Integrationen** und vergewissern Sie sich, dass die `aa-mcp`-Integration aufgeführt und verbunden ist. Wenn es nicht verfügbar ist, bitten Sie Ihren Administrator, die Einrichtung Ihres Unternehmens zu überprüfen. Siehe [Erste Schritte mit dem Analysieren von Daten mit dem Coworker Chat](https://experienceleague.adobe.com/de/docs/coworker/content/chat/use-cases/data-insights/analytics-chat) für eine Einrichtungsanleitung.
 1. **Sie haben Ansichtszugriff auf die Adobe Analytics Report Suite, die Sie analysieren möchten.** Coworker erbt Ihre Adobe Analytics-Berechtigungen und kann nur die Report Suites und Komponenten verwenden, die Ihnen in Analysis Workspace zur Verfügung stehen.
 1. **Wählen Sie die Report Suite aus, die die relevanten Daten enthält.** Wenn Sie auf mehrere Report Suites zugreifen können, benennen Sie die Report Suite, die der Mitarbeiter verwenden soll.
 1. **Identifizieren Sie die Änderung, die untersucht werden soll.** Geben Sie die Metrik und den Zeitraum an. Für eine zielgerichtetere Analyse sollten Sie einen Vergleichszeitraum, relevante Dimensionen oder Segmente und jede Hypothese einschließen, die von einem Mitarbeiter getestet werden soll.
@@ -68,5 +68,5 @@ Ersetzen Sie den in Klammern eingeschlossenen Text durch Komponentennamen und Ze
 
 ## Verwandte Ressourcen
 
-* [Analysieren von Daten mit dem Adobe CX Enterprise Coworker-Chat](https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/data-insights/analytics-overview)
-* [Erste Schritte mit der Datenanalyse mit dem Coworker Chat](https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/data-insights/analytics-chat)
+* [Analysieren von Daten mit dem Adobe CX Enterprise Coworker-Chat](https://experienceleague.adobe.com/de/docs/coworker/content/chat/use-cases/data-insights/analytics-overview)
+* [Erste Schritte mit der Datenanalyse mit dem Coworker Chat](https://experienceleague.adobe.com/de/docs/coworker/content/chat/use-cases/data-insights/analytics-chat)
