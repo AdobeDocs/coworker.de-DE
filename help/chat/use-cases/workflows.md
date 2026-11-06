@@ -4,9 +4,9 @@ title: Chat-Workflows für Kollegen
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 41216c2254d4c98f05c608f02bc6da31da3dd3c6
+source-git-commit: 0d2b1c7e146114fac57a894ce1b61727456d263f
 workflow-type: tm+mt
-source-wordcount: '8820'
+source-wordcount: '9190'
 ht-degree: 8%
 ---
 # Chat-Workflows für Kollegen {#use-cases}
@@ -258,6 +258,20 @@ Verwenden Sie den Coworker Chat, um Kampagnennachrichtenkopien und E-Mail-HTML z
 **Verwandte Informationen**
 
 * [Mitarbeiter für Content-Management](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/content-management/content-management-coworker-skills){target="_blank"} bietet Details zu Content-Management-Tools und verfügbaren Kenntnissen in Adobe Journey Optimizer.
+
+## Orchestrierte Kampagnen
+
+Verwenden Sie den Kollegen-Chat, um in Adobe Journey Optimizer orchestrierte Kampagnen zu finden und zu untersuchen und Workflow-Diagramme zu rendern. Diese Fähigkeiten sind schreibgeschützt: Das Erstellen oder Bearbeiten orchestrierter Kampagnen wird vom aktuellen Toolset nicht unterstützt und orchestrierte Kampagnenanalysen und Leistungsberichte werden nicht unterstützt.
+
+| Workflow | Beschreibung | Skills | Anwendung | Eingabeaufforderungen |
+| --- | --- | --- | --- | --- |
+| [Suchen und Durchsuchen von orchestrierten Kampagnen](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrated/orchestrated-campaigns-coworker-skills#orchestrated-campaign-list){target="_blank"} | Auflisten, Durchsuchen, Filtern, Suchen, Zählen oder einen Überblick über Ihre orchestrierten Kampagnen erhalten, die als Dashboard mit Metrikkarten, Diagrammen und einer Kampagnentabelle gerendert werden | Orchestrierte Kampagnenliste | Adobe Journey Optimizer (AJO) | „Listen Sie alle meine orchestrierten Kampagnen auf.“ <br> „Zeigen Sie mir die LIVE-orchestrierten Kampagnen.“ <br> „Wie viele orchestrierte Kampagnen verwenden E-Mails?“ <br> „Von xavier erstellte orchestrierte Kampagnen anzeigen.“ <br> „Durchsuchen von orchestrierten Kampagnen in der Produktions-Sandbox.“ <br> „Orchestrierte Kampagnen nach dem Status „ENTWURF“ filtern.“ |
+| [Überprüfen einer orchestrierten Kampagne](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrated/orchestrated-campaigns-coworker-skills#orchestrated-campaign-get){target="_blank"} | Alles über eine einzelne benannte oder identifizierte orchestrierte Kampagne erfahren: Details, Status, Metadaten, Lebenszyklusverlauf und Ausführungsverlauf, und ihr Aktivitätsdiagramm visualisieren | Orchestrierte Kampagne abrufen | Adobe Journey Optimizer (AJO) | „Zeigen Sie mir die Details der orchestrierten Kampagne zur Rückgewinnung von Interaktionen im Sommer.“ <br> „Wer hat die Welcome Series OC veröffentlicht?“ <br> „Zeigen Sie den Lebenszyklusverlauf meiner Kampagne im 3. Quartal an.“ <br> „Wie oft wurde die von der Weihnachtsaktion orchestrierte Kampagne ausgeführt?“ <br> „Zeichnen/Visualisieren des Diagramms für das Onboarding-OC.“ <br> „Ist die von Ihnen koordinierte Kampagne zum Warenkorbabbruch fehlgeschlagen?“ |
+| [Rendern eines Workflow-Diagramms](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrated/orchestrated-campaigns-coworker-skills#orchestrated-campaign-workflow-renderer){target="_blank"} | Rendern Sie einen Workflow oder ein Orchestrierungsdiagramm, das als JSON-Payload mit Knoten und Kanten bereitgestellt wird, als visuelles Diagramm. <br> Verwenden Sie sie nur, wenn sich die Diagramm-Payload bereits in der Konversation befindet. <br> Um den Graphen einer Kampagne nach Name oder ID zu zeichnen, verwenden Sie Orchestrierte Kampagnen abrufen . | Orchestrierter Kampagnen-Workflow-Renderer | Adobe Journey Optimizer (AJO) | „Dieses Workflow-Diagramm als Diagramm rendern.“ <br> „Visualisieren Sie dieses Orchestrierungsdiagramm.“ |
+
+**Verwandte Informationen**
+
+* [Mitarbeiter für orchestrierte Kampagnen](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrated/orchestrated-campaigns-coworker-skills){target="_blank"} bietet detaillierte Anleitungen, Anwendungsfälle und Beispielaufforderungen für die Kenntnisse „Orchestrierte Kampagnenliste“, „Orchestrierte Kampagnen abrufen“ und „Orchestrierte Kampagnen-Workflow-Renderer“ in Adobe Journey Optimizer.
 
 ## Campaign v8
 
