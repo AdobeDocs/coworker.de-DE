@@ -6,9 +6,9 @@ description: Erfahren Sie mehr über KI-Tools in CX Enterprise. Verbessern Sie I
 solution: Coworker
 role: Admin,User,Developer,Leader
 nudge: true
-source-git-commit: bdee1fbac171345d41a0bcdfdaaadb025f860a55
+source-git-commit: b7d069b0ebd8fb68e3ffae62cc57d4b91dd248f5
 workflow-type: tm+mt
-source-wordcount: '350'
+source-wordcount: '359'
 ht-degree: 15%
 ---
 
@@ -54,10 +54,12 @@ ht-degree: 15%
       - [Verwalten der Data Lake-Aufbewahrung](./chat/use-cases/data-management/manage-data-lake-retention.md)
     - Zielgruppen {#audiences}
       - [Plattformintegrität bewerten und Zielgruppen erstellen](./chat/use-cases/audiences/create-audience-from-natural-language.md)
+      - [Warum ist meine Zielgruppe stark/schwach geworden?](./chat/use-cases/audiences/why-your-audience-size-changed.md)
     - Journeys {#journeys}
       - [Erstellen einer Journey in natürlicher Sprache](./chat/use-cases/journeys/create-journey-from-natural-language.md)
       - [Erstellen einer Journey aus einem Abbild](./chat/use-cases/journeys/create-journey-from-image.md)
       - [Simulieren einer Journey mit einem Kollegen](./chat/use-cases/journeys/simulate-journey-using-coworker.md)
+      - [Schnellere Kundeninteraktion](./chat/use-cases/journeys/accelerate-personalized-customer-engagement.md)
       - [Vergleichen von Journey-Versionen mit Coworker](./chat/use-cases/journeys/journey-version-comparison.md)
       - [Erstellen, Simulieren und Analysieren von Cross-Channel-Journey](./chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker.md)
     - Treue {#loyalty}
