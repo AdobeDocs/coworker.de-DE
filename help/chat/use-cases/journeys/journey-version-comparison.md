@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie mit Coworker Versionen einer Adobe Journey Optimizer-Journey vergleichen. Informieren Sie sich über visuelle Vergleiche und detaillierte Zusammenfassungen, um Änderungen an Aktivitäten, Verzweigungen und Journey-Eigenschaften zu identifizieren und zu verfolgen, wann bestimmte Aktualisierungen vorgenommen wurden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3507163/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3507253/?captions=ger&learn=on&enablevpops)
