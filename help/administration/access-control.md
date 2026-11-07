@@ -38,7 +38,7 @@ Ein Mitarbeiter-Administrator ist ein Benutzer mit der Rolle **[!UICONTROL Produ
 
 In diesem Video erfahren Sie, wie Sie Kollegen-Administratoren hinzufügen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3507041?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3507048?captions=ger&learn=on){transcript=true}
 
 ## Verwalten des Benutzerzugriffs {#manage-user-access}
 
@@ -55,7 +55,7 @@ In diesem Video erfahren Sie, wie Sie Kollegen-Administratoren hinzufügen.
 
    In diesem Video erfahren Sie, wie Sie Kollegen verwalten.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3507151?learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3507158?captions=ger&learn=on){transcript=true}
 
 4. Verwenden Sie in **[!UICONTROL Benutzer]**, um den Zugriff für Einzelpersonen zu verwalten, oder **[!UICONTROL Benutzergruppen]** um den Zugriff für Benutzergruppen zu verwalten. Eine Benutzergruppeneinstellung gilt für ihre Mitglieder.
 
