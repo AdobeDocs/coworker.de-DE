@@ -30,7 +30,7 @@ Erfahren Sie, wie [!DNL CX Enterprise Coworker] Ihnen dabei helfen können, uner
 
 In diesem Video erfahren Sie, wie Sie in Coworker einfache Eingabeaufforderungen verwenden können, um einen unerwarteten Anstieg einer Adobe Experience Platform-Zielgruppe vor einem Kampagnenstart zu untersuchen. In dieser exemplarischen Vorgehensweise wird gezeigt, wie durch die Kausalanalyse Änderungen der Zielgruppengröße mit Betriebsdaten verbunden, Konfigurationsänderungen ausgeschlossen und wahrscheinliche Erklärungen ohne eine technische Untersuchung aufgedeckt werden können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3507342/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3507350/?captions=ger&learn=on&enablevpops)
 
 Sie lernen Folgendes:
 
