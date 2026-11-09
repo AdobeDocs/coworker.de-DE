@@ -4,16 +4,27 @@ description: Erfahren Sie mehr über Adobe CX Enterprise Coworker, ein KI-gestü
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 81e7de5e1b3b322fc74fa7bab8cb16841d627349
+source-git-commit: 4d1a45924304a21da9f23287c307e7616bb86219
 workflow-type: tm+mt
-source-wordcount: '1233'
-ht-degree: 16%
+source-wordcount: '1367'
+ht-degree: 14%
 ---
 # Übersicht über CX Enterprise Coworker {#overview}
 
 [!DNL Coworker] ist ein KI-gestützter Teamkollege, der die Art der Arbeit für Organisationen, Teams und Einzelpersonen neu erfindet. Sie automatisiert Kundenerlebnis- und Marketing-Workflows, damit sich Unternehmen auf das Erreichen von Geschäftszielen und die Verbesserung von Ergebnissen konzentrieren können, anstatt Aufgaben zu koordinieren. Als Agent-Engine verfolgt Coworker einen innovativen Ansatz in der Geschäftsprozessautomatisierung. Es verbessert die Leistung und Genauigkeit des KI-Modells, indem es Unternehmenskontext, Daten, Intelligenz, Zusammenarbeit und die Ausführung agentischer Fähigkeiten zusammenführt, wobei Governance und menschliche Aufsicht integriert sind.
 
 Coworker wurde für Unternehmen entwickelt, die komplexe, funktionsübergreifende Workflows für Kundenerlebnisse ausführen. Es führt Coworker Chat- und Coworker-Projekte zusammen und ermöglicht es Anwendern, von einer einzelnen Aufgabe zu einem vollständigen Workflow mit mehreren Teams innerhalb der Coworker-Erfahrung zu wechseln. Governance, Genehmigungen und menschliche Aufsicht sind von Anfang an integriert. Weitere Informationen zu [Adobe for Business](https://business.adobe.com/de/products/cx-enterprise-coworker.html).
+
+## Bausteine {#building-blocks}
+
+Coworker Chat und Coworker Projects nutzen die folgenden Bausteine, sofern nicht anders angegeben. Coworker Projects kommt bald.
+
+* **Unternehmensgeschirr:** Verwandeln Sie Ihr Ziel in abgeschlossene Arbeit durch eine kontinuierliche Schleife des Denkens, der Kompetenzauswahl, der Ausführung und der Validierung, mit Fehlerbehebung und paralleler Ausführung.
+* **Kenntnisse:** Verwenden Sie wiederverwendbare Playbooks im einfachen Markdown für gängige Aufgaben im Bereich Kundenerlebnisse.
+* **MCP-Connectoren:** Handeln über Adobe und externe Systeme durch verwalteten Zugriff mithilfe integrierter Connectoren oder Ihrer eigenen.
+* **Governance:** Behalten Sie die Kontrolle durch Validierungs-Gates, von Ihrer Adobe-Organisation übernommene Berechtigungen, Prüfungen vor der Ausführung von Aktionen und ein Audit-Protokoll.
+* **Arbeitsspeicher:** Wenden Sie Voreinstellungen, Entscheidungen und Korrekturen sitzungsübergreifend an, von Organisationsregeln bis hin zu Ihren persönlichen Voreinstellungen.
+* **Collaboration (nur Kooperationsprojekte):** Halten Sie alle Stakeholder in einem Projekt-Thread und verknüpfen Sie Reviews, Genehmigungen und Agentenausgaben mit der Arbeit von kurz bis Start.
 
 ## Erlebnis auswählen
 

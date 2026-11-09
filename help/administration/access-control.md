@@ -8,9 +8,9 @@ jira: KT-22980
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 96c54754b978ac1be0fc5bb0741e9ed073017953
+source-git-commit: 11db1488d950f39ccb8c8019f644e54e1f3b8fa6
 workflow-type: tm+mt
-source-wordcount: '519'
+source-wordcount: '522'
 ht-degree: 0%
 ---
 # Zugriffssteuerung für Kollegen {#access-control}
@@ -34,7 +34,7 @@ Der Zugriff durch Kollegen wird durch eine organisationsweite Einstellung und op
 
 ## Kollegen-Administratoren hinzufügen {#add-coworker-admins}
 
-Ein Mitarbeiter-Administrator ist ein Benutzer mit der Rolle **[!UICONTROL Produktadministrator]** für [!DNL Adobe Experience Platform] in [!DNL Adobe Admin Console].
+Ein Mitarbeiter-Administrator ist ein Benutzer mit der Zuweisung **[!UICONTROL Produktadministrator]** oder **[!UICONTROL Systemadministrator]** für die [!DNL Adobe Experience Platform] in [!DNL Adobe Admin Console].
 
 In diesem Video erfahren Sie, wie Sie Kollegen-Administratoren hinzufügen.
 
