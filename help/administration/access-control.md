@@ -8,9 +8,9 @@ jira: KT-22980
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 96c54754b978ac1be0fc5bb0741e9ed073017953
+source-git-commit: 11db1488d950f39ccb8c8019f644e54e1f3b8fa6
 workflow-type: tm+mt
-source-wordcount: '519'
+source-wordcount: '522'
 ht-degree: 0%
 ---
 # Zugriffssteuerung für Kollegen {#access-control}
@@ -19,7 +19,7 @@ Verwenden Sie die Adobe CX Enterprise Coworker-Zugriffssteuerung, um zu verwalte
 
 >[!NOTE]
 >
->Diese Funktion kann nur von Kollegen in Ihrer Organisation verwendet werden. Weiterführende Informationen finden Sie in der [Übersicht zum Coworker Chat](https://experienceleague.adobe.com/de/docs/coworker/content/chat/overview).
+>Diese Funktion kann nur von Kollegen in Ihrer Organisation verwendet werden. Weiterführende Informationen finden Sie in der [Übersicht zum Coworker Chat](https://experienceleague.adobe.com/en/docs/coworker/content/chat/overview).
 
 ## Wie der Zugriff bestimmt wird {#how-access-is-determined}
 
@@ -34,11 +34,11 @@ Der Zugriff durch Kollegen wird durch eine organisationsweite Einstellung und op
 
 ## Kollegen-Administratoren hinzufügen {#add-coworker-admins}
 
-Ein Mitarbeiter-Administrator ist ein Benutzer mit der Rolle **[!UICONTROL Produktadministrator]** für [!DNL Adobe Experience Platform] in [!DNL Adobe Admin Console].
+Ein Mitarbeiter-Administrator ist ein Benutzer mit der Zuweisung **[!UICONTROL Produktadministrator]** oder **[!UICONTROL Systemadministrator]** für die [!DNL Adobe Experience Platform] in [!DNL Adobe Admin Console].
 
 In diesem Video erfahren Sie, wie Sie Kollegen-Administratoren hinzufügen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3507048?captions=ger&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3507041?learn=on){transcript=true}
 
 ## Verwalten des Benutzerzugriffs {#manage-user-access}
 
@@ -55,7 +55,7 @@ In diesem Video erfahren Sie, wie Sie Kollegen-Administratoren hinzufügen.
 
    In diesem Video erfahren Sie, wie Sie Kollegen verwalten.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3507158?captions=ger&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3507151?learn=on){transcript=true}
 
 4. Verwenden Sie in **[!UICONTROL Benutzer]**, um den Zugriff für Einzelpersonen zu verwalten, oder **[!UICONTROL Benutzergruppen]** um den Zugriff für Benutzergruppen zu verwalten. Eine Benutzergruppeneinstellung gilt für ihre Mitglieder.
 
