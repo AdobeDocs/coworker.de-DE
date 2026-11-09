@@ -4,10 +4,10 @@ title: Adobe CX Enterprise Coworker Chat - Übersicht
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
+source-git-commit: 4d1a45924304a21da9f23287c307e7616bb86219
 workflow-type: tm+mt
-source-wordcount: '721'
-ht-degree: 6%
+source-wordcount: '546'
+ht-degree: 8%
 ---
 # Über den Coworker Chat {#overview}
 
@@ -15,7 +15,7 @@ Der Coworker Chat ist eine Gesprächsoberfläche, um Kundenerlebnisaufgaben zu e
 
 Der Wert: Arbeit, die sich über mehrere Bildschirme, Teams und Tage erstreckte, geschieht jetzt in einem Gespräch in Minuten. Sie delegieren das Ergebnis und behalten die Kontrolle durch Überprüfung und Genehmigung. Der Coworker Chat führt die Schritte aus, behebt Fehler auf dem Weg und wird immer klarer, während er lernt, wie Ihr Team arbeitet.
 
-Informationen zu den ersten Schritten finden [&#x200B; unter „Erste Schritte mit dem Coworker Chat](ui-guide.md).
+Informationen zu den ersten Schritten finden [ unter „Erste Schritte mit dem Coworker Chat](ui-guide.md).
 
 >[!AVAILABILITY]
 >
@@ -27,7 +27,7 @@ Informationen zu den ersten Schritten finden [&#x200B; unter „Erste Schritte m
 
 ## Eine Weiterentwicklung des KI-Assistenten
 
-Der Coworker Chat ist der nächste Schritt nach [AI Assistant](https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/ai-assistant/ai-assistant-ui) und Adobe Experience Platform Agent Orchestrator. Alles, was Sie heute in AI Assistant tun können, einschließlich Produktkenntnissen und Einblicken in Betrieb und Daten, bleibt weiterhin verfügbar. Coworker Chat fügt die [Bausteine“ hinzu](#building-blocks) die ein Gespräch die Arbeit vervollständigen können, nicht nur Fragen beantworten.
+Der Coworker Chat ist der nächste Schritt nach [AI Assistant](https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/ai-assistant/ai-assistant-ui) und Adobe Experience Platform Agent Orchestrator. Alles, was Sie heute in AI Assistant tun können, einschließlich Produktkenntnissen und Einblicken in Betrieb und Daten, bleibt weiterhin verfügbar. Der Coworker Chat verwendet die freigegebenen [Coworker-Bausteine](/help/home.md#building-blocks) um Arbeit durch Konversation zu vervollständigen, nicht nur Fragen zu beantworten.
 
 ## Das Chaterlebnis
 
@@ -54,16 +54,6 @@ Die folgenden CX Enterprise-Programme sind mit dem Coworker Chat kompatibel:
 * _Adobe Journey Optimizer B2B Edition (in Kürze verfügbar)_
 * _Customer Journey Analytics B2B edition (in Kürze verfügbar)_
 
-## Bausteine
-
-Der Coworker Chat basiert auf den Bausteinen der Kollegen. Die folgenden Bausteine sind heute verfügbar.
-
-* **Enterprise-Kabelbaum:** die Engine, die Ihr Ziel in abgeschlossene Arbeit umwandelt. Es führt eine kontinuierliche, selbstkorrigierende Schleife aus (Grund, eine Qualifikation auswählen, ausführen, validieren, wiederholen), Fehler beheben und parallel arbeiten, bis der Auftrag erledigt ist, nicht nur versucht wird.
-* **Fähigkeiten:** wiederverwendbare Playbooks, im einfachen Markdown, für jede Aufgabe gut zu machen. Im Rahmen des Coworker Chat werden die gängigsten Kundenerlebnisaufgaben von heute erläutert. Ziel ist es, die Arbeit aller Adobe CX Enterprise-Programme im Laufe der Zeit zu erfassen.
-* **MCP-Connectoren:** regulierter Zugriff, um über Adobe- und Drittanbietersysteme hinweg zu agieren, mit vorkonfigurierten Connectoren und der Möglichkeit, Ihre eigenen hinzuzufügen.
-* **Governance** Validierungs-Gates, von Ihrer Adobe-Organisation übernommene Berechtigungen, Prüfungen, die vor der Ausführung einer Aktion ausgeführt werden, und ein vollständiges Audit-Protokoll.
-* **Arbeitsspeicher:** Coworker Chat lernt Ihre Voreinstellungen, Entscheidungen und Korrekturen über Sitzungen hinweg kennen, von organisationsweiten Regeln bis hin zu Ihren persönlichen Voreinstellungen, sodass es immer klarer wird, je mehr Sie damit arbeiten.
-
 ## Videoüberblick
 
->[!VIDEO](https://video.tv.adobe.com/v/3495974?captions=ger&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3495967?learn=on){transcript=true}
