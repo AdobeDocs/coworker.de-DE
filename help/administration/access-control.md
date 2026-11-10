@@ -19,7 +19,7 @@ Verwenden Sie die Adobe CX Enterprise Coworker-Zugriffssteuerung, um zu verwalte
 
 >[!NOTE]
 >
->Diese Funktion kann nur von Kollegen in Ihrer Organisation verwendet werden. Die Zugriffssteuerung wird nach und nach verfügbar und wird möglicherweise nicht für alle Mitarbeiter-Organisationen beim Start aktiviert.Weiterführende Informationen finden Sie in der [Übersicht zum Coworker Chat](https://experienceleague.adobe.com/en/docs/coworker/content/chat/overview).
+>Diese Funktion kann nur von Kollegen in Ihrer Organisation verwendet werden. Die Zugriffssteuerung wird nach und nach verfügbar und wird möglicherweise nicht für alle Mitarbeiter-Organisationen beim Start aktiviert.Weiterführende Informationen finden Sie in der [Übersicht zum Coworker Chat](https://experienceleague.adobe.com/de/docs/coworker/content/chat/overview).
 
 ## Wie der Zugriff bestimmt wird {#how-access-is-determined}
 

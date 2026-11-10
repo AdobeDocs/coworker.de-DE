@@ -19,7 +19,7 @@ Erfahren Sie, wie Sie Ereignisse in Adobe CX Enterprise Coworker prüfen. Audit 
 
 >[!NOTE]
 >
->Diese Funktion kann nur von Kollegen in Ihrer Organisation verwendet werden. Audit wird nach und nach verfügbar und wird möglicherweise nicht für alle Mitarbeiter-Organisationen bei Start aktiviert. Weiterführende Informationen finden Sie in der [Übersicht zum Coworker Chat](https://experienceleague.adobe.com/en/docs/coworker/content/chat/overview).
+>Diese Funktion kann nur von Kollegen in Ihrer Organisation verwendet werden. Audit wird nach und nach verfügbar und wird möglicherweise nicht für alle Mitarbeiter-Organisationen bei Start aktiviert. Weiterführende Informationen finden Sie in der [Übersicht zum Coworker Chat](https://experienceleague.adobe.com/de/docs/coworker/content/chat/overview).
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3507041?learn=on){transcript=true}
