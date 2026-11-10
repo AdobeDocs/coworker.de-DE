@@ -4,9 +4,9 @@ description: Weitere Informationen finden Sie in den neuen und aktualisierten Ar
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 52a5bd4f877300cb0ee6b7acbb7d0d0e4fddd3db
+source-git-commit: b2a8aa48302c80efa48416dede5f5d66005b8e7c
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '419'
 ht-degree: 0%
 ---
 # Dokumentation – Aktualisierungen {#documentation-updates}
@@ -17,7 +17,7 @@ Auf dieser Seite finden Sie neue und wesentlich aktualisierte Inhalte in der Dok
 
 **10. November 2026**
 
-* Aktualisiert: [Erste Schritte mit dem Coworker Chat](../chat/ui-guide.md). Die Verfügbarkeitstabelle listet jetzt Customer Journey Analytics B2B edition, Content Analytics und Marketing Campaign Analytics auf. Der Coworker Chat steht für alle drei in den interaktiven und produktinternen Erlebnissen zur Verfügung.
+* Aktualisiert: [Erste Schritte mit dem Coworker Chat](../chat/ui-guide.md). Die Verfügbarkeitstabelle listet jetzt Customer Journey Analytics B2B edition, Content Analytics und Marketing Campaign Analytics auf. Das immersive Erlebnis ist für alle drei verfügbar. Das produktinterne Erlebnis ist in Customer Journey Analytics B2B edition und Content Analytics verfügbar und wird in Kürze in Marketing Campaign Analytics verfügbar sein.
 
 **4. November 2026**
 
