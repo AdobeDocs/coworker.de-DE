@@ -8,18 +8,20 @@ jira: KT-22980
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 756748b585685de6cd0544a46014bc44a4cddc63
+source-git-commit: d9dae093a2a6366154366a9da320f07a891114f2
 workflow-type: tm+mt
-source-wordcount: '519'
+source-wordcount: '535'
 ht-degree: 0%
 ---
 # Zugriffssteuerung für Kollegen {#access-control}
 
 Verwenden Sie die Adobe CX Enterprise Coworker-Zugriffssteuerung, um zu verwalten, wer Coworker verwenden kann und welche Funktionen sie verwenden können.
 
+Die Zugriffssteuerung gilt für Mitarbeiter sowohl in der rechten Leiste als auch im Vollbildmodus.
+
 >[!NOTE]
 >
->Die Zugriffssteuerung wird schrittweise für alle Kunden mit Coworker-Zugriff eingeführt. Möglicherweise wird [!UICONTROL Zugriffssteuerung] in Ihrer Organisation noch nicht angezeigt. Weiterführende Informationen finden Sie in der [Übersicht zum Coworker Chat](/help/chat/overview.md).
+>Die Zugriffssteuerung wird schrittweise für alle Kunden mit Coworker-Zugriff eingeführt. Möglicherweise wird [!UICONTROL Zugriffssteuerung] in Ihrer Organisation noch nicht angezeigt. Weitere Informationen finden Sie unter [Hilfe beim Zugriff erhalten](#get-help-with-access).
 
 ## Wie der Zugriff bestimmt wird {#how-access-is-determined}
 
@@ -51,7 +53,7 @@ Ein Mitarbeiter-Administrator ist ein Benutzer, der entweder als **[!UICONTROL S
 
    In diesem Video erfahren Sie, wie Sie Kollegen verwalten.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3507158?captions=ger&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3507151?learn=on){transcript=true}
 
 4. Verwenden Sie in **[!UICONTROL Benutzer]**, um den Zugriff für Einzelpersonen zu verwalten, oder **[!UICONTROL Benutzergruppen]** um den Zugriff für Benutzergruppen zu verwalten. Eine Benutzergruppeneinstellung gilt für ihre Mitglieder.
 
