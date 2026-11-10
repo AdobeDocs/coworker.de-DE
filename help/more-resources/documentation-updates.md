@@ -4,16 +4,20 @@ description: Weitere Informationen finden Sie in den neuen und aktualisierten Ar
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: bdee1fbac171345d41a0bcdfdaaadb025f860a55
+source-git-commit: 52a5bd4f877300cb0ee6b7acbb7d0d0e4fddd3db
 workflow-type: tm+mt
-source-wordcount: '363'
-ht-degree: 1%
+source-wordcount: '402'
+ht-degree: 0%
 ---
 # Dokumentation – Aktualisierungen {#documentation-updates}
 
 Auf dieser Seite finden Sie neue und wesentlich aktualisierte Inhalte in der Dokumentation zu CX Enterprise Coworker. Die Aktualisierungen werden nach Monat aufgelistet, wobei die aktuellsten zuerst aufgeführt werden. Produktänderungen für Mitarbeiter für Teams finden Sie in den Versionshinweisen [Mitarbeiter für Teams](../coworker-for-teams/release-notes.md).
 
 ## November 2026 {#nov-2026}
+
+**10. November 2026**
+
+* Aktualisiert: [Erste Schritte mit dem Coworker Chat](../chat/ui-guide.md). Die Verfügbarkeitstabelle listet jetzt Customer Journey Analytics B2B edition, Content Analytics und Marketing Campaign Analytics auf. Der Coworker Chat steht für alle drei in den interaktiven und produktinternen Erlebnissen zur Verfügung.
 
 **4. November 2026**
 

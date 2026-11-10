@@ -8,9 +8,9 @@ jira: KT-22980
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: a14bd350d7259294368acdcb08549ea6e084f1c1
+source-git-commit: 756748b585685de6cd0544a46014bc44a4cddc63
 workflow-type: tm+mt
-source-wordcount: '534'
+source-wordcount: '519'
 ht-degree: 0%
 ---
 # Zugriffssteuerung für Kollegen {#access-control}
@@ -19,7 +19,7 @@ Verwenden Sie die Adobe CX Enterprise Coworker-Zugriffssteuerung, um zu verwalte
 
 >[!NOTE]
 >
->Diese Funktion kann nur von Kollegen in Ihrer Organisation verwendet werden. Die Zugriffssteuerung wird nach und nach verfügbar und wird möglicherweise nicht für alle Mitarbeiter-Organisationen beim Start aktiviert. Weiterführende Informationen finden Sie in der [Übersicht zum Coworker Chat](https://experienceleague.adobe.com/de/docs/coworker/content/chat/overview).
+>Die Zugriffssteuerung wird schrittweise für alle Kunden mit Coworker-Zugriff eingeführt. Möglicherweise wird [!UICONTROL Zugriffssteuerung] in Ihrer Organisation noch nicht angezeigt. Weiterführende Informationen finden Sie in der [Übersicht zum Coworker Chat](/help/chat/overview.md).
 
 ## Wie der Zugriff bestimmt wird {#how-access-is-determined}
 
