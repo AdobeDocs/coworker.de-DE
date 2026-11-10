@@ -8,7 +8,7 @@ jira: KT-23097
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 9a02e6d68364af452b69da12bbbe0028eaeeb4cf
+source-git-commit: 1ef0292caf8def8dcd19512eef1b7950f308d2f5
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Erfahren Sie, wie Sie Ereignisse in Adobe CX Enterprise Coworker prüfen. Audit 
 
 >[!NOTE]
 >
->Diese Funktion kann nur von Kollegen in Ihrer Organisation verwendet werden. Audit wird nach und nach verfügbar und wird möglicherweise nicht für alle Mitarbeiter-Organisationen bei Start aktiviert. Weiterführende Informationen finden Sie in der [Übersicht zum Coworker Chat](https://experienceleague.adobe.com/de/docs/coworker/content/chat/overview).
+>Diese Funktion kann nur von Kollegen in Ihrer Organisation verwendet werden. Audit wird nach und nach verfügbar und wird möglicherweise nicht für alle Mitarbeiter-Organisationen bei Start aktiviert. Weiterführende Informationen finden Sie in der [Übersicht zum Coworker Chat](https://experienceleague.adobe.com/en/docs/coworker/content/chat/overview).
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3507048?captions=ger&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3508073?learn=on){transcript=true}
