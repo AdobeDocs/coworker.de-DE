@@ -8,9 +8,9 @@ jira: KT-22980
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 11db1488d950f39ccb8c8019f644e54e1f3b8fa6
+source-git-commit: 61a0368cd6119139cce74c9e374257e99809ea00
 workflow-type: tm+mt
-source-wordcount: '522'
+source-wordcount: '534'
 ht-degree: 0%
 ---
 # Zugriffssteuerung für Kollegen {#access-control}
@@ -19,7 +19,7 @@ Verwenden Sie die Adobe CX Enterprise Coworker-Zugriffssteuerung, um zu verwalte
 
 >[!NOTE]
 >
->Diese Funktion kann nur von Kollegen in Ihrer Organisation verwendet werden. Weiterführende Informationen finden Sie in der [Übersicht zum Coworker Chat](https://experienceleague.adobe.com/de/docs/coworker/content/chat/overview).
+>Diese Funktion kann nur von Kollegen in Ihrer Organisation verwendet werden. Die Zugriffssteuerung wird nach und nach verfügbar und wird möglicherweise nicht für alle Mitarbeiter-Organisationen beim Start aktiviert.Weiterführende Informationen finden Sie in der [Übersicht zum Coworker Chat](https://experienceleague.adobe.com/en/docs/coworker/content/chat/overview).
 
 ## Wie der Zugriff bestimmt wird {#how-access-is-determined}
 
@@ -32,13 +32,9 @@ Der Zugriff durch Kollegen wird durch eine organisationsweite Einstellung und op
 | Kompatible Anwendungsberechtigungen | Die Zugriffssteuerung für Mitarbeiter legt fest, ob Sie auf allgemein verfügbare Funktionen von Kollegen zugreifen können. Coworker erbt Ihre Benutzerberechtigungen von Coworker-kompatiblen CX Enterprise-Anwendungen und berücksichtigt die Berechtigungen, die jede Anwendung bereits erzwingt. |
 
 
-## Kollegen-Administratoren hinzufügen {#add-coworker-admins}
+## Mitarbeiter-Administratoren {#add-coworker-admins}
 
-Ein Mitarbeiter-Administrator ist ein Benutzer mit der Zuweisung **[!UICONTROL Produktadministrator]** oder **[!UICONTROL Systemadministrator]** für die [!DNL Adobe Experience Platform] in [!DNL Adobe Admin Console].
-
-In diesem Video erfahren Sie, wie Sie Kollegen-Administratoren hinzufügen.
-
->[!VIDEO](https://video.tv.adobe.com/v/3507048?captions=ger&learn=on){transcript=true}
+Ein Mitarbeiter-Administrator ist ein Benutzer, der entweder als **[!UICONTROL Systemadministrator]** für das Unternehmen oder als **[!UICONTROL Produktadministrator]** von [!DNL Adobe Experience Platform] in [!DNL Adobe Admin Console] zugewiesen ist.
 
 ## Verwalten des Benutzerzugriffs {#manage-user-access}
 
@@ -55,7 +51,7 @@ In diesem Video erfahren Sie, wie Sie Kollegen-Administratoren hinzufügen.
 
    In diesem Video erfahren Sie, wie Sie Kollegen verwalten.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3507158?captions=ger&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3507151?learn=on){transcript=true}
 
 4. Verwenden Sie in **[!UICONTROL Benutzer]**, um den Zugriff für Einzelpersonen zu verwalten, oder **[!UICONTROL Benutzergruppen]** um den Zugriff für Benutzergruppen zu verwalten. Eine Benutzergruppeneinstellung gilt für ihre Mitglieder.
 

@@ -6,10 +6,10 @@ description: Erfahren Sie mehr über KI-Tools in CX Enterprise. Verbessern Sie I
 solution: Coworker
 role: Admin,User,Developer,Leader
 auto-video-transcripts: true
-source-git-commit: 3c5387c838bedf96b9f3a3c826b39b6f3414c229
+source-git-commit: 5377963a32db6b195349a198c4158ffb99eaeeec
 workflow-type: tm+mt
-source-wordcount: '364'
-ht-degree: 15%
+source-wordcount: '367'
+ht-degree: 14%
 ---
 
 # CX Enterprise Coworker {#content}
@@ -18,6 +18,7 @@ ht-degree: 15%
 - [Adobe CX Enterprise Coworker für KI-Plattformen](/help/ai-platforms.md)
 - Administration {#administration}
   - [Zugriffssteuerung für Kollegen](./administration/access-control.md)
+  - [Audit-Mitarbeiter-Ereignisse](./administration/audit.md)
 - Kollege-Chat {#chat}
   - [Über den Coworker Chat](./chat/overview.md)
   - [Erste Schritte mit dem Kollegen-Chat](./chat/ui-guide.md)
