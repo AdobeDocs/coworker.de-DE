@@ -4,7 +4,7 @@ description: Erfahren Sie mehr über Adobe CX Enterprise Coworker, ein KI-gestü
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 4d1a45924304a21da9f23287c307e7616bb86219
+source-git-commit: abb341180786a0d250db4313ad1719a1947151ca
 workflow-type: tm+mt
 source-wordcount: '1367'
 ht-degree: 14%
@@ -14,6 +14,8 @@ ht-degree: 14%
 [!DNL Coworker] ist ein KI-gestützter Teamkollege, der die Art der Arbeit für Organisationen, Teams und Einzelpersonen neu erfindet. Sie automatisiert Kundenerlebnis- und Marketing-Workflows, damit sich Unternehmen auf das Erreichen von Geschäftszielen und die Verbesserung von Ergebnissen konzentrieren können, anstatt Aufgaben zu koordinieren. Als Agent-Engine verfolgt Coworker einen innovativen Ansatz in der Geschäftsprozessautomatisierung. Es verbessert die Leistung und Genauigkeit des KI-Modells, indem es Unternehmenskontext, Daten, Intelligenz, Zusammenarbeit und die Ausführung agentischer Fähigkeiten zusammenführt, wobei Governance und menschliche Aufsicht integriert sind.
 
 Coworker wurde für Unternehmen entwickelt, die komplexe, funktionsübergreifende Workflows für Kundenerlebnisse ausführen. Es führt Coworker Chat- und Coworker-Projekte zusammen und ermöglicht es Anwendern, von einer einzelnen Aufgabe zu einem vollständigen Workflow mit mehreren Teams innerhalb der Coworker-Erfahrung zu wechseln. Governance, Genehmigungen und menschliche Aufsicht sind von Anfang an integriert. Weitere Informationen zu [Adobe for Business](https://business.adobe.com/de/products/cx-enterprise-coworker.html).
+
+<div id="recs-overview-body-1"></div>
 
 ## Bausteine {#building-blocks}
 
@@ -162,6 +164,13 @@ CARDS
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
+
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
 
 ### Experience League LIVE beitreten
 

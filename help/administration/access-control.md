@@ -8,9 +8,9 @@ jira: KT-22980
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: d9dae093a2a6366154366a9da320f07a891114f2
+source-git-commit: ef8141ff251a2900b9f10b77942e1c9097cba59f
 workflow-type: tm+mt
-source-wordcount: '535'
+source-wordcount: '562'
 ht-degree: 0%
 ---
 # Zugriffssteuerung für Kollegen {#access-control}
@@ -40,14 +40,20 @@ Ein Mitarbeiter-Administrator ist ein Benutzer, der entweder als **[!UICONTROL S
 
 ## Verwalten des Benutzerzugriffs {#manage-user-access}
 
+Verwenden Sie [!UICONTROL Zugriffssteuerung] in Coworker, um den Zugriff für Einzelpersonen oder Benutzergruppen zu verwalten.
+
+>[!NOTE]
+>
+>Wählen Sie bis zu 100 Benutzer oder Benutzergruppen pro Massenaktion aus. Beim Exportieren von Benutzenden umfasst der Export nur geladene Benutzende.
+
 1. Öffnen Sie das Coworker-Erlebnis. Anweisungen finden Sie unter [Bei Kollegen anmelden](/help/chat/ui-guide.md#sign-in).
-2. Öffnen Sie das Profilmenü und wählen Sie **[!UICONTROL Admin-Einstellungen]**.
+1. Öffnen Sie das Profilmenü und wählen Sie **[!UICONTROL Admin-Einstellungen]**.
 
    ![Startseite des Kollegen mit hervorgehobenem Profilmenü-Steuerelement.](./assets/access-control/coworker-home.png)
 
    ![Profilmenü „Mitarbeiter“ mit hervorgehobenen Administratoreinstellungen.](./assets/access-control/admin-settings.png)
 
-3. Wählen Sie **[!UICONTROL Zugriffssteuerung]** aus.
+1. Wählen Sie **[!UICONTROL Zugriffssteuerung]** aus.
 
    ![Admin-Einstellungen mit hervorgehobener Karte „Zugriffssteuerung“.](./assets/access-control/access-control.png)
 
@@ -55,7 +61,7 @@ Ein Mitarbeiter-Administrator ist ein Benutzer, der entweder als **[!UICONTROL S
 
    >[!VIDEO](https://video.tv.adobe.com/v/3507158?captions=ger&learn=on){transcript=true}
 
-4. Verwenden Sie in **[!UICONTROL Benutzer]**, um den Zugriff für Einzelpersonen zu verwalten, oder **[!UICONTROL Benutzergruppen]** um den Zugriff für Benutzergruppen zu verwalten. Eine Benutzergruppeneinstellung gilt für ihre Mitglieder.
+1. Wählen Sie **[!UICONTROL Benutzer]** aus, um den individuellen Zugriff zu verwalten, oder **[!UICONTROL Benutzergruppen]**, um den Gruppenzugriff zu verwalten. Eine Benutzergruppeneinstellung gilt für ihre Mitglieder.
 
    Die Benutzergruppen der Kollegen sind von den [!DNL Adobe Admin Console] Gruppen getrennt. Das Synchronisieren von Benutzergruppen von [!DNL Adobe Admin Console] mit einem Kollegen ist in Kürze verfügbar.
 
