@@ -6,9 +6,9 @@ description: Erfahren Sie mehr über KI-Tools in CX Enterprise. Verbessern Sie I
 solution: Coworker
 role: Admin,User,Developer,Leader
 auto-video-transcripts: true
-source-git-commit: 5377963a32db6b195349a198c4158ffb99eaeeec
+source-git-commit: bafd318fee6017f992d4feab453058b5332005ce
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '373'
 ht-degree: 14%
 ---
 
@@ -57,6 +57,7 @@ ht-degree: 14%
       - [Verwalten der Data Lake-Aufbewahrung](./chat/use-cases/data-management/manage-data-lake-retention.md)
     - Zielgruppen {#audiences}
       - [Plattformintegrität bewerten und Zielgruppen erstellen](./chat/use-cases/audiences/create-audience-from-natural-language.md)
+      - [Von der Idee zur aktivierungsbereiten Zielgruppe](./chat/use-cases/audiences/from-idea-to-activation-ready-audience-with-coworker.md)
       - [Warum ist meine Zielgruppe stark/schwach geworden?](./chat/use-cases/audiences/why-your-audience-size-changed.md)
     - Journeys {#journeys}
       - [Erstellen einer Journey in natürlicher Sprache](./chat/use-cases/journeys/create-journey-from-natural-language.md)
