@@ -59,7 +59,7 @@ Verwenden Sie [!UICONTROL Zugriffssteuerung] in Coworker, um den Zugriff für Ei
 
    In diesem Video erfahren Sie, wie Sie Kollegen verwalten.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3507151?learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3507158?captions=ger&learn=on){transcript=true}
 
 1. Wählen Sie **[!UICONTROL Benutzer]** aus, um den individuellen Zugriff zu verwalten, oder **[!UICONTROL Benutzergruppen]**, um den Gruppenzugriff zu verwalten. Eine Benutzergruppeneinstellung gilt für ihre Mitglieder.
 
