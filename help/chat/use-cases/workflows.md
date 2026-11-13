@@ -4,9 +4,9 @@ title: Chat-Workflows für Kollegen
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 0d2b1c7e146114fac57a894ce1b61727456d263f
+source-git-commit: e8010a31192b717a762510d189f3a8a344b3e2fe
 workflow-type: tm+mt
-source-wordcount: '9190'
+source-wordcount: '9318'
 ht-degree: 8%
 ---
 # Chat-Workflows für Kollegen {#use-cases}
@@ -212,6 +212,18 @@ Mit dem Coworker Chat können Sie Ihre [!DNL Experience Platform]-Daten in natü
 **Verwandte Informationen**
 
 * [Coworker for Decisioning](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-coworker-skills){target="_blank"} bietet detaillierte Anleitungen, Anwendungsfälle und prompte Best Practices für die Entscheidungskompetenz in Adobe Journey Optimizer.
+
+## Prozess-Management
+
+>[!AVAILABILITY]
+>
+>Process Manager befindet sich in **Betaversion**. Weitere Informationen zu Process Manager finden Sie im Abschnitt [Process Manager - Übersicht](https://experienceleague.adobe.com/de/docs/experience-platform/process-manager/home).
+
+| Workflow | Beschreibung | Skills | Anwendung | Eingabeaufforderungen |
+| --- | --- | --- | --- | --- |
+| Process Manager Builder | Prozesse in Process Manager entwerfen, erstellen, aktualisieren, umbenennen und löschen. Auflisten der verfügbaren Aufgabentypen für Process Manager. | `process-manager-builder` | Prozess-Management | „Listen Sie alle Prozesse auf, die für die Verwendung in Process Manager verfügbar sind.“ |
+| Process Manager-Operator ausführen | Starten Sie einen Durchgang, überprüfen Sie den Status und den Verlauf Ihrer Durchgänge, finden Sie heraus, warum ein Durchgang fehlgeschlagen ist, führen Sie einen vorhandenen Durchgang erneut aus, brechen Sie einen laufenden Durchgang ab. | `process-manager-run-operator` | Prozess-Management | „Überprüfen Sie den Verlauf der Ausführungen im Beispielprozess.“ |
+| Process Manager-Planung | Erstellen, Ändern, Pausieren, Fortsetzen, Auflisten und Entfernen von Process Manager-Zeitplänen | `process-manager-scheduler` | Prozess-Management | „Listen Sie die Zeitpläne für den Beispielprozess auf.“ |
 
 ## Kanäle
 
