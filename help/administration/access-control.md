@@ -8,9 +8,9 @@ jira: KT-22980
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: ef8141ff251a2900b9f10b77942e1c9097cba59f
+source-git-commit: d3438a28430c6c845cea881e28ab8e22a636edbb
 workflow-type: tm+mt
-source-wordcount: '562'
+source-wordcount: '571'
 ht-degree: 0%
 ---
 # Zugriffssteuerung für Kollegen {#access-control}
@@ -25,7 +25,7 @@ Die Zugriffssteuerung gilt für Mitarbeiter sowohl in der rechten Leiste als auc
 
 ## Wie der Zugriff bestimmt wird {#how-access-is-determined}
 
-Der Zugriff durch Kollegen wird durch eine organisationsweite Einstellung und optionale Benutzer- oder Gruppenüberschreibungen gesteuert. Die Einstellung Unternehmensweit ermöglicht oder deaktiviert den Zugriff durch Kollegen für Benutzende in Ihrer Organisation. Der Zugriff ist standardmäßig für alle aktiviert.
+Der Zugriff durch Kollegen wird durch eine organisationsweite Einstellung und optionale Benutzer- oder Gruppenüberschreibungen gesteuert. Die Einstellung Unternehmensweit ermöglicht oder deaktiviert den Zugriff durch Kollegen für Benutzende in Ihrer Organisation. Der Zugriff kann für Ihre Organisation standardmäßig aktiviert oder deaktiviert sein.
 
 | Einstellung | Auswirkungen auf den Zugriff |
 | --- | --- |
@@ -65,7 +65,7 @@ Verwenden Sie [!UICONTROL Zugriffssteuerung] in Coworker, um den Zugriff für Ei
 
    Die Benutzergruppen der Kollegen sind von den [!DNL Adobe Admin Console] Gruppen getrennt. Das Synchronisieren von Benutzergruppen von [!DNL Adobe Admin Console] mit einem Kollegen ist in Kürze verfügbar.
 
-   Die Benutzerliste enthält Benutzer in Ihrer Organisation. Der Zugriff durch Kollegen ist für diese Benutzer standardmäßig aktiviert.
+   Die Benutzerliste enthält Benutzer in Ihrer Organisation. Ihr Zugriff hängt von der Standardeinstellung Ihrer Organisation und von beliebigen Benutzer- oder Gruppenüberschreibungen ab.
 
    * **Aktiviert:** Der Benutzer oder die Benutzergruppe ist aktiv.
    * **Deaktiviert:** Der Benutzer oder die Benutzergruppe ist inaktiv.
