@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie das Adobe Asset-Beschaffungsportal für AEM Assets mit Kollegen konfigurieren und Anbietern Zugriff auf das Portal gewähren. Ordnen Sie benutzerdefinierte Metadatenfelder in Adobe Experience Manager Assets zu und synchronisieren Sie Metadaten automatisch, wenn Sie Assets aufnehmen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3508276/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3508283/?captions=ger&learn=on&enablevpops)
