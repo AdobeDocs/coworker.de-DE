@@ -6,9 +6,9 @@ description: Erfahren Sie mehr über KI-Tools in CX Enterprise. Verbessern Sie I
 solution: Coworker
 role: Admin,User,Developer,Leader
 auto-video-transcripts: true
-source-git-commit: bafd318fee6017f992d4feab453058b5332005ce
+source-git-commit: 3a1fbd2a3ed69c47fd4450c0c1e07bb7398f2dbe
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '380'
 ht-degree: 14%
 ---
 
@@ -82,6 +82,7 @@ ht-degree: 14%
       - [Prüfung der Markenkonformität](./chat/use-cases/brand-visibility/brand-compliance.md)
       - [Erstellen von AEM Sites-Seiten](./chat/use-cases/brand-visibility/author-web-pages.md)
       - [Integrieren von AEM Assets](./chat/use-cases/brand-visibility/onboard-aem-assets.md)
+      - [Erstellen eines Asset-Beschaffungsportals mit einem Kollegen](./chat/use-cases/brand-visibility/set-up-asset-sourcing-portal.md)
       - [Generieren von Marketing-Assets](./chat/use-cases/brand-visibility/generate-assets.md)
     - Workflow und Planung {#workflow-and-planning}
       - [Planen eines Launches einer digitalen Kampagne](./chat/use-cases/workflow-and-planning/plan-digital-campaign-launch.md)
