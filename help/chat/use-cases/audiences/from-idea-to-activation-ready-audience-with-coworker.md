@@ -25,4 +25,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie mit Coworker eine Klarsprachanfrage in eine zielgerichtete Marketing-Audience umwandeln können. Beantworten Sie klärende Fragen, um Ihre Audience zu verfeinern, und lassen Sie sie dann von Kollegen direkt in der Plattform erstellen, bereit zur Aktivierung über Ziele hinweg.
 
->[!VIDEO](https://video.tv.adobe.com/v/3508216/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3508223/?captions=ger&learn=on&enablevpops)
