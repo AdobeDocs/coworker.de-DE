@@ -4,10 +4,10 @@ title: Adobe CX Enterprise Coworker Chat - Übersicht
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 4d1a45924304a21da9f23287c307e7616bb86219
+source-git-commit: 69468cabd86925ee6a7f3f86022ffefb26ffa66c
 workflow-type: tm+mt
-source-wordcount: '546'
-ht-degree: 8%
+source-wordcount: '514'
+ht-degree: 9%
 ---
 # Über den Coworker Chat {#overview}
 
@@ -15,7 +15,7 @@ Der Coworker Chat ist eine Gesprächsoberfläche, um Kundenerlebnisaufgaben zu e
 
 Der Wert: Arbeit, die sich über mehrere Bildschirme, Teams und Tage erstreckte, geschieht jetzt in einem Gespräch in Minuten. Sie delegieren das Ergebnis und behalten die Kontrolle durch Überprüfung und Genehmigung. Der Coworker Chat führt die Schritte aus, behebt Fehler auf dem Weg und wird immer klarer, während er lernt, wie Ihr Team arbeitet.
 
-Informationen zu den ersten Schritten finden [&#x200B; unter „Erste Schritte mit dem Coworker Chat](ui-guide.md).
+Informationen zu den ersten Schritten finden [ unter „Erste Schritte mit dem Coworker Chat](ui-guide.md).
 
 >[!AVAILABILITY]
 >
@@ -23,7 +23,7 @@ Informationen zu den ersten Schritten finden [&#x200B; unter „Erste Schritte m
 
 >[!NOTE]
 >
->Der Coworker Chat ist ein Modul von Adobe CX Enterprise Coworker. Zwei weitere Module erweitern die gleiche Grundlage: Mitarbeiter für Teams (stehen auf und starten eine vollständige Kampagne aus einer Konversation) und Mitarbeiter-Projekte (ein ständig verfügbarer Arbeitsbereich für End-to-End-Workflows mit mehreren Teams). Diese Seite behandelt den Coworker Chat.
+>Coworker Chat und [Coworker Projects](/help/projects/overview.md) sind Module von Adobe CX Enterprise Coworker. Diese Seite behandelt den Coworker Chat.
 
 ## Eine Weiterentwicklung des KI-Assistenten
 
@@ -56,4 +56,4 @@ Die folgenden CX Enterprise-Programme sind mit dem Coworker Chat kompatibel:
 
 ## Videoüberblick
 
->[!VIDEO](https://video.tv.adobe.com/v/3495974?captions=ger&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3495967?learn=on){transcript=true}
