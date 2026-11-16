@@ -4,9 +4,9 @@ description: Erfahren Sie mehr über Adobe CX Enterprise Coworker, ein KI-gestü
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: abb341180786a0d250db4313ad1719a1947151ca
+source-git-commit: 69468cabd86925ee6a7f3f86022ffefb26ffa66c
 workflow-type: tm+mt
-source-wordcount: '1367'
+source-wordcount: '1369'
 ht-degree: 14%
 ---
 # Übersicht über CX Enterprise Coworker {#overview}
@@ -36,7 +36,7 @@ Sie definieren ein Ziel, und der Mitarbeiter führt die Schritte aus und führt 
 | --- | --- | --- |
 | [Kollege [!UICONTROL Chat]](./chat/overview.md) | Fordern Sie Einblicke, Inhalte und Aktionen in allen Adobe-Programmen in natürlicher Sprache an. | Lizenziert über Ihr Adobe-Account-Team. Siehe [Verfügbarkeit prüfen](#chat-availability). |
 | [Mitarbeiter [!UICONTROL für Teams]](./coworker-for-teams/overview.md) | Gehen Sie als kleines, agiles Marketing-Team von einem Kampagnenziel zur koordinierten Ausführung. | Kostenlose Testversion bis zum 31. Dezember 2026. Nur Nordamerika. |
-| Mitarbeiter [!UICONTROL Projekte] | Führen Sie langwierige, funktionsübergreifende Workflows aus, in denen Ihre Teams die Prozesse, Genehmigungen und die Autonomie der Kollegen festlegen. | Bald verfügbar. |
+| [Kooperationsprojekte](/help/projects/overview.md) | Koordinieren Sie Workflows teamübergreifend mit gemeinsamen Fortschritten, Genehmigungen und Governance. | Eingeschränkte Verfügbarkeit Wenden Sie sich an Ihren Adobe-Kundenbetreuer, um Informationen zur zukünftigen Verfügbarkeit zu erhalten. |
 
 ## Kollege-Chat
 
