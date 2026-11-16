@@ -82,6 +82,6 @@ Verwenden Sie Kooperationsprojekte, um Workflows rund um Ihre Geschäftsziele zu
 
 In diesem Video erfahren Sie mehr über Co-Worker-Projekte.
 
->[!VIDEO](https://video.tv.adobe.com/v/3508234?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3508242?captions=ger&learn=on){transcript=true}
 
 
