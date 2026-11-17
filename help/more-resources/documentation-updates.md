@@ -17,7 +17,7 @@ Auf dieser Seite finden Sie neue und wesentlich aktualisierte Inhalte in der Dok
 
 **16. November 2026**
 
-* Neu: [Über ](../projects/overview.md). Kooperationsprojekte sind nur begrenzt verfügbar.
+* Neu: [Über &#x200B;](../projects/overview.md). Kooperationsprojekte sind nur begrenzt verfügbar.
 * Aktualisiert: [Über den Coworker Chat](../chat/overview.md). Die Liste kompatibler Anwendungen enthält jetzt Customer Journey Analytics B2B edition, Content Analytics und Marketing Campaign Analytics. Der Artikel verweist auch auf Kooperationsprojekte.
 
 **13. November 2026**
