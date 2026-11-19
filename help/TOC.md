@@ -6,10 +6,10 @@ description: Erfahren Sie mehr über KI-Tools in CX Enterprise. Verbessern Sie I
 solution: Coworker
 role: Admin,User,Developer,Leader
 auto-video-transcripts: true
-source-git-commit: 69468cabd86925ee6a7f3f86022ffefb26ffa66c
+source-git-commit: e80cad8019c00fdf6bf101f113e9bbef780d5923
 workflow-type: tm+mt
-source-wordcount: '385'
-ht-degree: 14%
+source-wordcount: '389'
+ht-degree: 21%
 ---
 
 # CX Enterprise Coworker {#content}
@@ -29,7 +29,7 @@ ht-degree: 14%
       - [Über die Datenanalyse](./chat/use-cases/data-insights/analytics-overview.md)
       - [Erste Schritte mit der Datenanalyse](./chat/use-cases/data-insights/analytics-chat.md)
       - Intelligente Implementierung und Verwaltung {#intelligent-implementation-and-administration}
-        - [Überblick](./chat/use-cases/data-insights/data-governance-and-validation.md)
+        - [Übersicht](./chat/use-cases/data-insights/data-governance-and-validation.md)
         - [Implementierung planen](./chat/use-cases/data-insights/implementation-guide.md)
         - [Erstellen einer Checkliste für die Implementierung](./chat/use-cases/data-insights/intelligent-checklist.md)
         - [Validieren von AA zu CJA-Daten beim Upgrade](./chat/use-cases/data-insights/data-validation-aa-cja.md)
@@ -40,17 +40,17 @@ ht-degree: 14%
         - [Experience Platform-Anomalien erkennen](./chat/use-cases/data-insights/anomaly-detection.md)
         - [Beschleunigen von Dateneinblicken](./chat/use-cases/data-insights/accelerate-data-insights.md)
       - Journey-Analyse {#journey-analysis}
-        - [Überblick](./chat/use-cases/data-insights/journey-analysis.md)
+        - [Übersicht](./chat/use-cases/data-insights/journey-analysis.md)
       - Zielgruppen- und Segmentanalyse {#audience-and-segment-analysis}
-        - [Überblick](./chat/use-cases/data-insights/audience-and-segment-analysis.md)
+        - [Übersicht](./chat/use-cases/data-insights/audience-and-segment-analysis.md)
       - Geschäftsergebnis {#business-performance}
-        - [Überblick](./chat/use-cases/data-insights/business-performance.md)
+        - [Übersicht](./chat/use-cases/data-insights/business-performance.md)
         - [Trends und Grundursachen untersuchen](./chat/use-cases/data-insights/root-cause-analysis.md)
       - Content-Performance {#content-performance}
-        - [Überblick](./chat/use-cases/data-insights/content-performance.md)
+        - [Übersicht](./chat/use-cases/data-insights/content-performance.md)
         - [Fragen zu Inhalten stellen](./chat/use-cases/data-insights/ask-content-questions.md)
       - Marketing-Messung und -Attribution {#marketing-measurement-and-attribution}
-        - [Überblick](./chat/use-cases/data-insights/marketing-measurement-and-attribution.md)
+        - [Übersicht](./chat/use-cases/data-insights/marketing-measurement-and-attribution.md)
     - Daten-Onboarding {#data-onboarding}
       - {hide-from-toc}[Onboarding von Daten mit Kollegen](./agents/data-onboarding-skill.md)
     - Daten-Management {#data-management}
@@ -61,13 +61,13 @@ ht-degree: 14%
       - [Warum ist meine Zielgruppe stark/schwach geworden?](./chat/use-cases/audiences/why-your-audience-size-changed.md)
     - Journeys {#journeys}
       - [Erstellen einer Journey in natürlicher Sprache](./chat/use-cases/journeys/create-journey-from-natural-language.md)
-      - [Erstellen einer Journey aus einem Abbild](./chat/use-cases/journeys/create-journey-from-image.md)
-      - [Simulieren einer Journey mit einem Kollegen](./chat/use-cases/journeys/simulate-journey-using-coworker.md)
+      - [Erstellen einer Journey aus einem Bild](./chat/use-cases/journeys/create-journey-from-image.md)
+      - [Simulieren einer Journey mit Coworker](./chat/use-cases/journeys/simulate-journey-using-coworker.md)
       - [Schnellere Kundeninteraktion](./chat/use-cases/journeys/accelerate-personalized-customer-engagement.md)
       - [Vergleichen von Journey-Versionen mit Coworker](./chat/use-cases/journeys/journey-version-comparison.md)
-      - [Erstellen, Simulieren und Analysieren von Cross-Channel-Journey](./chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker.md)
+      - [Erstellen, Simulieren und Analysieren kanalübergreifender Journeys](./chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker.md)
     - Treue {#loyalty}
-      - [Erstellen einer Herausforderung zur Treue und Aufdecken von Einblicken](./chat/use-cases/journeys/create-loyalty-challenge.md)
+      - [Erstellen von Treue-Challenges und Gewinnen von Erkenntnissen](./chat/use-cases/journeys/create-loyalty-challenge.md)
     - Optimierung {#optimization}
       - [Target-Aktivitäten starten](./chat/use-cases/optimization/target.md)
       - [Experiment beschleunigen](./chat/use-cases/optimization/accelerate-experimentation.md)
@@ -97,6 +97,7 @@ ht-degree: 14%
     - [Kenntnisse verwalten und iterieren](./customizations/skills/manage-and-iterate-on-skills.md)
   - Integrationen {#integrations}
     - [Was sind Integrationen?](./customizations/integrations/understanding-integrations-in-coworker.md)
+    - [Aktivieren der ersten Integration](./customizations/integrations/enable-your-first-integration.md)
   - Plug-ins {#plugins}
     - [Was sind Plug-ins?](./customizations/plugins/what-are-plugins.md)
     - [Verwalten von Plug-ins für Ihre Organisation](./customizations/plugins/manage-plugins-for-your-org.md)
@@ -109,7 +110,7 @@ ht-degree: 14%
   - Speicher {#memory}
     - [Was ist Speicher?](./customizations/memory/what-is-memory.md)
 - Mitarbeiter für Teams {#coworker-for-teams}
-  - [Überblick](./coworker-for-teams/overview.md)
+  - [Übersicht](./coworker-for-teams/overview.md)
   - [Erstellen einer E-Mail-Kampagne](./coworker-for-teams/create-an-email-campaign.md)
   - [Starten und Verwalten einer Kampagne](./coworker-for-teams/launch-manage-campaign.md)
   - [Anwendungsszenarien](./coworker-for-teams/use-cases.md)
