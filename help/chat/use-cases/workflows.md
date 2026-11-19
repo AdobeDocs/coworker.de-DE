@@ -4,9 +4,9 @@ title: Chat-Workflows für Kollegen
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 195ec9f05a901294bbd3631ef91435e58f016cd0
+source-git-commit: 0089deb08fffb7ff7318d3b8ad0d89d465999793
 workflow-type: tm+mt
-source-wordcount: '9326'
+source-wordcount: '9483'
 ht-degree: 8%
 ---
 # Chat-Workflows für Kollegen {#use-cases}
@@ -205,13 +205,16 @@ Mit dem Coworker Chat können Sie Ihre [!DNL Experience Platform]-Daten in natü
 
 ## Entscheidungsfindung
 
+Verwenden Sie den Kollegen-Chat, um Entscheidungsobjekte in Adobe Journey Optimizer zu verwalten: Erstellen und verwalten Sie Eignungsregeln, Rangfolgeformeln, Frequenzlimitierungsausdrücke und Entscheidungselemente aus Eingabeaufforderungen in natürlicher Sprache.
+
 | Workflow | Beschreibung | Skills | Anwendung | Eingabeaufforderungen |
 | --- | --- | --- | --- | --- |
-| [Entscheidungsregeln generieren, erklären, simulieren und optimieren](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-coworker-skills#rules-ranking){target="_blank"} | Verwenden Sie die natürliche Sprache, um Eignungsregeln und Rangfolgeformeln zu erstellen, und erhalten Sie eine Erklärung in einfachem Englisch. <br> Testen Sie sie mit bis zu drei Profilen. <br> Schreiben Sie sie neu, um sie an die Größenbeschränkungen von PQL anzupassen, ohne die PQL-Syntax manuell zu schreiben. | Entscheidungsregel-Workflow | Adobe Journey Optimizer (AJO) | „Erstellen Sie eine Eignungsregel für Mitglieder des Treueprogramms der Stufe 2 oder höher.“<br><br>„Erklären Sie mir diese Regel in natürlicher Sprache.“<br><br>„Simulieren Sie diese Regel mit Testprofilen.“<br><br>„Optimieren Sie diese PQL-Regel für mich.“ |
+| [Entscheidungsregeln erstellen, verwalten, simulieren und optimieren](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-coworker-skills#rules-ranking){target="_blank"} | Verwenden Sie die natürliche Sprache, um Eignungsregeln, Rangfolgeformeln und Frequenzlimitierungsausdrücke für Angebotselemente zu erstellen, zu finden, zu korrigieren und zu löschen und eine englischsprachige Erklärung zu erhalten. <br> Validieren und Testen mit bis zu drei Profilen. <br> Schreiben Sie sie neu, um sie an die Größenbeschränkungen von PQL anzupassen, ohne die PQL-Syntax manuell zu schreiben. | Entscheidungsregel-Workflow | Adobe Journey Optimizer (AJO) | „Erstellen Sie eine Eignungsregel für Mitglieder des Treueprogramms der Stufe 2 oder höher.“<br><br>„Erklären Sie mir diese Regel in natürlicher Sprache.“<br><br>„Simulieren Sie diese Regel mit Testprofilen.“<br><br>„Optimieren Sie diese PQL-Regel für mich.“<br><br>„Auflisten von Rangfolgeformeln.“<br><br>„Erstellen Sie eine Begrenzungsregel, die Klickereignisse zählt.“ |
+| [Entscheidungselemente erstellen und verwalten](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-coworker-skills#decisioning-offer-item-workflow){target="_blank"} | Erstellen Sie Entscheidungselemente (Angebote), indem Sie sie im Chat beschreiben, einschließlich Kennzeichnungen oder Tags, Eignung, Zeitplänen, Frequenzlimitierung, Inhaltsfragmenten und benutzerdefinierten Attributen. <br> Elemente aktualisieren, genehmigen, Genehmigung aufheben, archivieren oder dauerhaft löschen. <br> Gleichzeitiges Erstellen oder Aktualisieren mehrerer Elemente aus einer CSV-Datei oder Liste. | Decisioning-Workflow für Angebotselemente | Adobe Journey Optimizer (AJO) | „Erstellen Sie ein Angebot, das auf eine Platzierung mit dem Namen „drc“ begrenzt ist<br><br>„Erstellen Sie Entscheidungselemente aus dieser CSV-Datei.“<br><br>„Genehmigen Sie das Sommerverkaufselement.“<br><br>„Archivieren Sie dieses Angebot.“ |
 
 **Verwandte Informationen**
 
-* [Coworker for Decisioning](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-coworker-skills){target="_blank"} bietet detaillierte Anleitungen, Anwendungsfälle und prompte Best Practices für die Entscheidungskompetenz in Adobe Journey Optimizer.
+* [Mitarbeiter für Entscheidungen](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-coworker-skills){target="_blank"} bietet detaillierte Anleitungen, Anwendungsfälle und auffordernde Best Practices für den Workflow für Entscheidungsregeln und die Workflow-Fähigkeiten für Entscheidungsangebotselemente in Adobe Journey Optimizer.
 
 ## Prozess-Management
 
