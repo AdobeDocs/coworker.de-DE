@@ -4,9 +4,9 @@ description: Informationen zu Adobe CX Enterprise Coworker für KI-Plattformen. 
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: b9c3e1915b1f3f182cc91452e60eea13b05f12fa
+source-git-commit: 9210150fc17e1d10484e5aff3997dc0cfbc429de
 workflow-type: tm+mt
-source-wordcount: '2104'
+source-wordcount: '2161'
 ht-degree: 1%
 ---
 
@@ -25,7 +25,7 @@ Die Verwendung von Coworker in KI-Plattformen verursacht keine zusätzlichen Kos
 Bevor Sie Coworker in einer KI-Plattform verwenden können, vergewissern Sie sich, dass Sie Folgendes tun.
 
 * Adobe CX Enterprise Coworker für Ihr Unternehmen und Ihren eigenen Zugriff darauf in Adobe bereitgestellt.
-* Adobe Experience Platform und mindestens eines von Adobe Real-Time CDP, Adobe Journey Optimizer oder Adobe Customer Journey Analytics.
+* Eine der [Adobe CX Enterprise](https://business.adobe.com/de/solutions/customer-experience-orchestration.html)-Anwendungen.
 * Zugriff auf eine KI-Plattform, die unter &quot;[&#x200B; einrichten“ aufgeführt &#x200B;](#set-up-coworker).
 
 ## Datenzugriff und Berechtigungen {#data-access-and-permissions}
@@ -56,7 +56,7 @@ Eine verfügbare Plattform für Einrichtungsanweisungen auswählen. Nach dem Set
 * [ChatGPT](#chatgpt)
 * [Claude](#claude)
 * [Gemini Enterprise](#gemini-enterprise)
-* [Amazon Quick](#amazon-quick)
+* [AWS Quick](#amazon-quick)
 * [IBM watsonx Orchestrate](#ibm-watsonx-orchestrate)
 * [Databricks](#databricks)
 
@@ -186,17 +186,17 @@ Nachdem Ihr Admin einen Mitarbeiter veröffentlicht hat, öffnen Sie ihn in [!DN
 
 Für Ideen sollten Sie sich die [wichtigsten Anwendungsfälle](#key-use-cases) und [Beispielaufforderungen](#example-prompts) ansehen.
 
-### [!DNL Amazon Quick] {#amazon-quick}
+### [!DNL AWS Quick] {#amazon-quick}
 
-Verwenden Sie einen Kollegen, um Marketing-Einblicke in [!DNL Amazon Quick] zu erhalten.
+Verwenden Sie einen Kollegen, um Marketing-Einblicke in [!DNL AWS Quick] zu erhalten.
 
-Bevor Sie beginnen, bestätigen Sie, dass Sie Zugriff auf [!DNL Amazon Quick] und Ihr Adobe-Konto haben.
+Bevor Sie beginnen, bestätigen Sie, dass Sie Zugriff auf [!DNL AWS Quick] und Ihr Adobe-Konto haben.
 
 #### Mitarbeiter verbinden {#amazon-quick-connection}
 
-Verbinden Sie einen Kollegen in [!DNL Amazon Quick] mithilfe des Model Context Protocol (MCP). Adobe hat [!DNL Amazon Quick] für diese Verbindung bereits genehmigt.
+Verbinden Sie einen Kollegen in [!DNL AWS Quick] mithilfe des Model Context Protocol (MCP). Adobe hat [!DNL AWS Quick] für diese Verbindung bereits genehmigt.
 
-1. Navigieren Sie [!DNL Amazon Quick] zu **[!UICONTROL Connectoren]**.
+1. Navigieren Sie [!DNL AWS Quick] zu **[!UICONTROL Connectoren]**.
 1. Suchen Sie nach MCP und öffnen Sie das Connector-Setup.
 1. Geben Sie `https://mcp.coworker.experience.adobe.io` als MCP-Server-URL ein.
 
@@ -207,7 +207,7 @@ Verbinden Sie einen Kollegen in [!DNL Amazon Quick] mithilfe des Model Context P
 
 #### Kollegen zugreifen {#amazon-quick-access}
 
-Nachdem Sie Coworker verbunden haben, verwenden Sie es in [!DNL Amazon Quick], um Fragen zu Ihren Adobe-Daten zu stellen.
+Nachdem Sie Coworker verbunden haben, verwenden Sie es in [!DNL AWS Quick], um Fragen zu Ihren Adobe-Daten zu stellen.
 
 Für Ideen sollten Sie sich die [wichtigsten Anwendungsfälle](#key-use-cases) und [Beispielaufforderungen](#example-prompts) ansehen.
 
@@ -336,7 +336,7 @@ Für Ideen sollten Sie sich die [wichtigsten Anwendungsfälle](#key-use-cases) u
 
 <!-- Setup steps for Microsoft 365 Copilot, ChatGPT, and Claude reflect the real customer-facing flow confirmed by PM (Siddhartha Srivastava) on 2026-09-02: an org admin approves the connector or plugin, then end users find and add it in their platform's catalog and sign in. The previous version of this file described a manual MCP-connector setup for ChatGPT (Settings > Connectors > paste server URL) -- PM clarified that flow is for internal testing only, not the customer path, so it was removed here. -->
 
-<!-- Amazon Quick setup follows PM guidance from the October 28, 2026 email, "Coworker in AI Platforms screenshots - Gemini / Amazon Quick." End users connect through MCP and sign in with Adobe credentials. -->
+<!-- AWS Quick setup follows PM guidance from the October 28, 2026 email, "Coworker in AI Platforms screenshots - Gemini / Amazon Quick." End users connect through MCP and sign in with Adobe credentials. -->
 
 ## Beispiel-Prompts {#example-prompts}
 
@@ -346,6 +346,17 @@ Nachdem Sie Coworker in einer unterstützten Plattform eingerichtet haben, versu
 * Eine Metrik für den letzten Monat anzeigen.
 * Ihre aktiven Workfront-Projekte anzeigen.
 * Journey mit Treueprogramm-Zielgruppen anzeigen.
+
+## Authentifizierung und Informationsquellen {#authentication-and-information-sources}
+
+Wählen Sie Ihr Unternehmen aus, wenn Sie sich mit Ihren Adobe-Anmeldeinformationen anmelden. Der -Kollege verwendet Ihre Standard-Sandbox und die Datenansicht als Informationsquellen.
+
+Um eine Informationsquelle zu ändern, geben Sie eine der folgenden Eingabeaufforderungen ein. Ersetzen Sie den Platzhalter durch den Namen der Datenansicht oder Sandbox, die Sie verwenden möchten.
+
+* `switch dataview to <dataview>`
+* `switch sandbox to <sandbox>`
+
+Mitarbeiter antwortet, um die Änderung zu bestätigen. Die Bestätigung variiert je nach KI-Plattform.
 
 ## Bekannte Einschränkungen {#known-limitations}
 
