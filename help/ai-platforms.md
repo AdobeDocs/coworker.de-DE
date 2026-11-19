@@ -25,7 +25,7 @@ Die Verwendung von Coworker in KI-Plattformen verursacht keine zusätzlichen Kos
 Bevor Sie Coworker in einer KI-Plattform verwenden können, vergewissern Sie sich, dass Sie Folgendes tun.
 
 * Adobe CX Enterprise Coworker für Ihr Unternehmen und Ihren eigenen Zugriff darauf in Adobe bereitgestellt.
-* Eine der [Adobe CX Enterprise](https://business.adobe.com/solutions/customer-experience-orchestration.html)-Anwendungen.
+* Eine der [Adobe CX Enterprise](https://business.adobe.com/de/solutions/customer-experience-orchestration.html)-Anwendungen.
 * Zugriff auf eine KI-Plattform, die unter &quot;[&#x200B; einrichten“ aufgeführt &#x200B;](#set-up-coworker).
 
 ## Datenzugriff und Berechtigungen {#data-access-and-permissions}
