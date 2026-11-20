@@ -23,7 +23,7 @@ ht-degree: 1%
 
 Beschreiben Sie die Journey, die Sie erstellen möchten, und Coworker entwirft sie in Adobe Journey Optimizer. In diesem Video erfahren Sie, wie Coworker Trigger, Timing, Kanäle und Entscheidungslogik konfiguriert, damit Sie sich auf die Überprüfung und Verfeinerung der Journey konzentrieren können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496867/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496883/?captions=ger&learn=on&enablevpops)
 
 ## Siehe auch
 

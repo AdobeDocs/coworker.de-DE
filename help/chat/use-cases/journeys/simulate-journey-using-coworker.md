@@ -30,7 +30,7 @@ ht-degree: 1%
 
 Verwenden Sie den -Mitarbeiter, um eine Adobe Journey Optimizer-Journey mit automatisch generierten Testprofilen und -ereignissen zu simulieren. In diesem Video erfahren Sie, wie Sie Journey-Pfade testen, Testversandnachrichten empfangen und vor der Veröffentlichung die Pfadabdeckung und die Simulationsergebnisse überprüfen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3507004?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507038?captions=ger&learn=on)
 
 ## Siehe auch
 
