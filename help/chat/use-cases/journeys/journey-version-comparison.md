@@ -21,6 +21,6 @@ Erfahren Sie, wie Sie mit Coworker Versionen einer Adobe Journey Optimizer-Journ
 
 ## Siehe auch
 
-- [Mitarbeiter für Journey](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-tools){target="_blank"} Journey-Tools für den Versionsvergleich und Beispielaufforderungen.
-- [Mitarbeiterfähigkeiten für Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/ai-features#cx-coworker-skills){target="_blank"}, ein Überblick über Mitarbeiterfähigkeiten in Journey Optimizer.
+- [Mitarbeiter für Journey](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-tools){target="_blank"} Journey-Tools für den Versionsvergleich und Beispielaufforderungen.
+- [Mitarbeiterfähigkeiten für Journey Optimizer](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/get-started/ai-features#cx-coworker-skills){target="_blank"}, ein Überblick über Mitarbeiterfähigkeiten in Journey Optimizer.
 - [Weitere Workflows für den Coworker-Chat](../workflows.md#journeys)

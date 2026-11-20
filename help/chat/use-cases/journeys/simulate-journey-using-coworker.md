@@ -34,6 +34,6 @@ Verwenden Sie den -Mitarbeiter, um eine Adobe Journey Optimizer-Journey mit auto
 
 ## Siehe auch
 
-- [Coworker for Journey: Journey Simulation](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-simulation){target="_blank"} mit wichtigen Anwendungsfällen und Einschränkungen der Simulation von Journey mit Coworker.
-- [Mitarbeiterfähigkeiten für Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/ai-features#cx-coworker-skills){target="_blank"}, ein Überblick über Mitarbeiterfähigkeiten in Journey Optimizer.
+- [Coworker for Journey: Journey Simulation](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-simulation){target="_blank"} mit wichtigen Anwendungsfällen und Einschränkungen der Simulation von Journey mit Coworker.
+- [Mitarbeiterfähigkeiten für Journey Optimizer](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/get-started/ai-features#cx-coworker-skills){target="_blank"}, ein Überblick über Mitarbeiterfähigkeiten in Journey Optimizer.
 - [Weitere Workflows für den Coworker-Chat](../workflows.md#journeys)

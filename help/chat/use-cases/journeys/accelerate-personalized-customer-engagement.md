@@ -22,7 +22,7 @@ Erfahren Sie, wie Adobe CX Enterprise Coworker dabei hilft, ein Marketing-Ziel i
 
 ## Siehe auch
 
-- [Mitarbeiter für Journey: Journey Create](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-create){target="_blank"} mit wichtigen Anwendungsfällen, ansprechenden Best Practices und umfassenden Kenntnissen zum Erstellen von Journey in Adobe Journey Optimizer.
-- [Mitarbeiter für Journey](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#channel-content-create){target="_blank"} Kanalinhalt erstellen zum Generieren kanalspezifischer Nachrichteninhalte in Adobe Journey Optimizer.
-- [Mitarbeiterfähigkeiten für Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/ai-features#cx-coworker-skills){target="_blank"}, ein Überblick über Mitarbeiterfähigkeiten in Journey Optimizer.
+- [Mitarbeiter für Journey: Journey Create](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-create){target="_blank"} mit wichtigen Anwendungsfällen, ansprechenden Best Practices und umfassenden Kenntnissen zum Erstellen von Journey in Adobe Journey Optimizer.
+- [Mitarbeiter für Journey](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#channel-content-create){target="_blank"} Kanalinhalt erstellen zum Generieren kanalspezifischer Nachrichteninhalte in Adobe Journey Optimizer.
+- [Mitarbeiterfähigkeiten für Journey Optimizer](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/get-started/ai-features#cx-coworker-skills){target="_blank"}, ein Überblick über Mitarbeiterfähigkeiten in Journey Optimizer.
 - [Weitere Workflows für den Coworker-Chat](../workflows.md#journeys)
