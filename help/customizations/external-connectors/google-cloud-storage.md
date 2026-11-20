@@ -66,7 +66,7 @@ Ein [!DNL Google Cloud] führt die folgenden Schritte aus:
 | [!UICONTROL Storage Bucket Viewer] (`roles/storage.bucketViewer`) oder eine benutzerdefinierte schreibgeschützte Rolle | Das Projekt, das die Buckets enthält | Auflisten von Buckets und Lesen von Bucket-Metadaten (`storage.buckets.list` und `storage.buckets.get`). |
 | [!UICONTROL Speicherobjekt-Viewer] (`roles/storage.objectViewer`) | Jeder autorisierte Bucket oder die Projektmitglieder können alle zugehörigen Buckets lesen | Listenobjekte, Metadaten von Objekten lesen und Objektinhalte lesen (`storage.objects.list` und `storage.objects.get`). |
 
-Gewähren Sie &quot;[!UICONTROL  Admin“ nicht ] Listeneinträgen. Mitglieder ohne Berechtigung zum Auflisten von Buckets können weiterhin einen autorisierten Bucket lesen, wenn sie dessen Namen angeben. Weitere Informationen finden Sie unter [Cloud-Speicher-IAM](https://docs.cloud.google.com/storage/docs/access-control/iam-roles) in der [!DNL Google Cloud].
+Gewähren Sie &quot;[!UICONTROL &#x200B; Admin“ nicht &#x200B;] Listeneinträgen. Mitglieder ohne Berechtigung zum Auflisten von Buckets können weiterhin einen autorisierten Bucket lesen, wenn sie dessen Namen angeben. Weitere Informationen finden Sie unter [Cloud-Speicher-IAM](https://docs.cloud.google.com/storage/docs/access-control/iam-roles) in der [!DNL Google Cloud].
 
 [!DNL Google] bietet außerdem eine optionale IAM-Ablehnungsrichtlinie, die Lese- und Schreib-MCP-Tools für andere MCP-Clients blockiert. Der Coworker -Connector verwendet bereits eine schreibgeschützte Tool-Auswahl und einen schreibgeschützten Bereich. Überprüfen Sie die projektweiten Auswirkungen mit Ihrem [!DNL Google Cloud], bevor Sie die Richtlinie anwenden. Weitere Informationen finden Sie unter [Verhindern der Verwendung des Lese-/Schreib-MCP-](https://docs.cloud.google.com/mcp/prevent-read-write-tool-use).
 
@@ -87,7 +87,7 @@ Weitere Informationen finden Sie unter [Verwenden des Remote-MCP-Servers von Clo
 
 Administratoren stellen den [!DNL Google Cloud Storage]-Connector für alle Personen in der Organisation zur Verfügung. Änderungen auf der Seite „Organisation“ gelten für alle Mitglieder Ihrer Organisation.
 
-1. Öffnen Sie **[!UICONTROL Anpassungen]**, wählen Sie **[!UICONTROL Organisation]** und dann **[!UICONTROL Externe Connectoren]** aus. Wählen Sie auf der Karte {0 ]**Google Cloud Storage**[!UICONTROL  die Option „Konfigurieren ]**aus.**[!UICONTROL 
+1. Öffnen Sie **[!UICONTROL Anpassungen]**, wählen Sie **[!UICONTROL Organisation]** und dann **[!UICONTROL Externe Connectoren]** aus. Wählen Sie auf der Karte &lbrace;0 **Google Cloud Storage**&#x200B;[!UICONTROL &#x200B; die Option „Konfigurieren &#x200B;]&#x200B;**aus.**
 
    Wenn der Connector bereits konfiguriert ist, öffnen Sie stattdessen die gespeicherte Konfiguration.
 
@@ -159,7 +159,7 @@ Nachdem ein Administrator den Connector konfiguriert hat, meldet sich jedes Mitg
 
 1. Öffnen Sie **[!UICONTROL Anpassungen]**, wählen Sie **[!UICONTROL Benutzer]** und dann **[!UICONTROL Externe Connectoren]** aus. Wählen Sie auf der Karte **[!UICONTROL Google Cloud-]** Speicher **[!UICONTROL die Option „Anmelden]** aus.
 
-   Vor der Anmeldung wird auf der Karte **[!UICONTROL Nicht angemeldet]** angezeigt. Wenn die Karte &quot;**[!UICONTROL konfiguriert“]**, bitten Sie Ihren Administrator, den [ zu konfigurieren](#configure-organization).
+   Vor der Anmeldung wird auf der Karte **[!UICONTROL Nicht angemeldet]** angezeigt. Wenn die Karte &quot;**[!UICONTROL konfiguriert“]**, bitten Sie Ihren Administrator, den [&#x200B; zu konfigurieren](#configure-organization).
 
 1. Wählen Sie auf dem Bildschirm [!DNL Google] **[!UICONTROL Konto auswählen]** das Konto aus, das über den erforderlichen IAM-Zugriff verfügt, oder wählen Sie **[!UICONTROL Anderes Konto verwenden]** aus. Führen Sie alle für Ihr Unternehmen erforderlichen Anmeldeschritte aus, z. B. Single Sign-on (SSO) oder Multifaktor-Authentifizierung (MFA).
 
