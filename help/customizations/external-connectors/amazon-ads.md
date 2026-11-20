@@ -73,7 +73,7 @@ Wenn Sie Ihre eigene OAuth-Anwendung verwenden, registrieren Sie die Coworker-Um
 1. Öffnen Sie in der **[!UICONTROL das Dialogfeld &quot;Amazon Ads für Ihr]** konfigurieren“, wie unter [Konfigurieren des Connectors für Ihr Unternehmen](#configure-organization) beschrieben. Wählen Sie **[!UICONTROL Eigene OAuth-Anwendung verwenden]** aus, um die **[!UICONTROL Umleitungs-URL]** anzuzeigen, und kopieren Sie dann den vollständigen Wert.
 1. Suchen Sie in [Anmeldung mit der Amazon](https://developer.amazon.com/loginwithamazon/console/site/lwa/overview.html) das Sicherheitsprofil für Ihre App. Wählen Sie **[!UICONTROL Verwalten]** > **[!UICONTROL Web-Einstellungen]** und klicken Sie dann auf **[!UICONTROL Bearbeiten]**.
 1. Fügen Sie die vollständige Umleitungs-URL unter **[!UICONTROL Zulässige Rückgabe-URLs]** hinzu und speichern Sie dann. Wenn andere Teams die App gemeinsam nutzen, behalten Sie die vorhandenen URLs bei und lassen Sie sich vom App-Inhaber genehmigen, bevor Sie die Einstellungen ändern.
-1. Notieren Sie sich die OAuth-Client-ID und das Client-Geheimnis aus demselben Sicherheitsprofil. Sie werden beim Konfigurieren [ Connectors ](#configure-organization).
+1. Notieren Sie sich die OAuth-Client-ID und das Client-Geheimnis aus demselben Sicherheitsprofil. Sie werden beim Konfigurieren [&#x200B; Connectors &#x200B;](#configure-organization).
 
 Kopieren Sie immer die Umleitungs-URL aus dem Dialogfeld „Mitarbeiter“ in die Umgebung, die Sie einrichten. Erstellen Sie die URL nicht selbst, verwenden Sie die URL der Coworker-Seite in Ihrem Browser oder verwenden Sie eine Umleitungs-URL aus einer anderen Umgebung oder einem MCP-Client. Weitere Informationen finden Sie unter [Registrieren bei Amazon](https://developer.amazon.com/docs/login-with-amazon/register-web.html) in der [!DNL Amazon].
 
@@ -101,7 +101,7 @@ Wählen Sie die am wenigsten privilegierte Rolle aus, die die von Ihnen geplante
 
 Administratoren stellen den [!DNL Amazon Ads]-Connector für alle Personen in der Organisation zur Verfügung. Änderungen auf der Seite „Organisation“ gelten für alle Benutzer in Ihrer Organisation. Mitglieder können die Organisationsverbindung nicht über den Bereich **[!UICONTROL Benutzer]** konfigurieren.
 
-1. Öffnen Sie **[!UICONTROL Anpassungen]**, wählen Sie **[!UICONTROL Organisation]** und dann **[!UICONTROL Externe Connectoren]** aus. Wählen Sie auf der Karte {0 ]**Amazon Ads**[!UICONTROL  die Option „Konfigurieren ]**aus.**[!UICONTROL 
+1. Öffnen Sie **[!UICONTROL Anpassungen]**, wählen Sie **[!UICONTROL Organisation]** und dann **[!UICONTROL Externe Connectoren]** aus. Wählen Sie auf der Karte &lbrace;0 **Amazon Ads**&#x200B;[!UICONTROL &#x200B; die Option „Konfigurieren &#x200B;]&#x200B;**aus.**
 
    Das Dialogfeld **[!UICONTROL Amazon Ads für Ihr Unternehmen konfigurieren]** wird mit den Abschnitten **[!UICONTROL Verbindungsdetails]**, **[!UICONTROL Tools für Benutzer verfügbar]** und **[!UICONTROL Zugriff und Berechtigungen]** geöffnet. Nach dem Speichern der Konfiguration zeigt die Karte **[!UICONTROL Konfiguration gespeichert]** und **[!UICONTROL Konfigurieren]** Änderungen an **[!UICONTROL Konfiguration anzeigen]**.
 
@@ -123,7 +123,7 @@ Administratoren stellen den [!DNL Amazon Ads]-Connector für alle Personen in de
 
    * **[!UICONTROL Eigene OAuth-Anwendung verwenden]:** Jedes Mitglied autorisiert Ihre Organisations-App mit seinem eigenen [!DNL Amazon]. Führen **[!UICONTROL unter „Ihr Amazon]** Programm“ die folgenden Schritte aus:
 
-     1. Stellen Sie sicher, dass die **[!UICONTROL Umleitungs-URL]** in Ihrer App registriert ist. Weitere Informationen finden Sie unter &quot;[ der Umleitungs-URL](#register-redirect-url).
+     1. Stellen Sie sicher, dass die **[!UICONTROL Umleitungs-URL]** in Ihrer App registriert ist. Weitere Informationen finden Sie unter &quot;[&#x200B; der Umleitungs-URL](#register-redirect-url).
      1. Geben Sie die **[!UICONTROL Amazon-App]** ID und das **[!UICONTROL Geheimnis der Amazon-App]** ein. Das Feld **[!UICONTROL Amazon-App]** ID1 akzeptiert die OAuth-Client-ID, keine Advertiser-ID, keine Manager-Account-ID oder [!DNL Amazon] Anwendungs-ID. Coworker speichert die Werte, die Sie als Organisationsgeheimnisse eingeben.
      1. Um stattdessen gespeicherte Anmeldeinformationen wiederzuverwenden, wählen Sie **[!UICONTROL Vorhandene geheime Daten verwenden]** aus. Wählen Sie dann das **[!UICONTROL Geheimnis, das die App-ID]**, und das **[!UICONTROL Geheimnis, das das App-Geheimnis]**. Wenn Ihre Organisation noch keine Geheimnisse hat, fügen Sie sie in **[!UICONTROL Einstellungen]** > **[!UICONTROL Geheimnisse]** hinzu.
 
@@ -182,7 +182,7 @@ Nachdem ein Administrator den Connector konfiguriert hat, meldet sich jedes Mitg
 
 1. Öffnen Sie **[!UICONTROL Anpassungen]**, wählen Sie **[!UICONTROL Benutzer]** und dann **[!UICONTROL Externe Connectoren]** aus. Suchen Sie die Karte **[!UICONTROL Amazon Ads]**.
 
-1. Wenn die Karte &quot;**[!UICONTROL konfiguriert“]**, bitten Sie Ihren Administrator, den [ zu konfigurieren](#configure-organization). Mitglieder können den Connector nicht konfigurieren.
+1. Wenn die Karte &quot;**[!UICONTROL konfiguriert“]**, bitten Sie Ihren Administrator, den [&#x200B; zu konfigurieren](#configure-organization). Mitglieder können den Connector nicht konfigurieren.
 
 1. Wenn die Karte **[!UICONTROL Nicht angemeldet“]**, wählen Sie **[!UICONTROL Anmelden]** aus. Lassen Sie das Anmelde-Popup zu und melden Sie sich dann mit dem [!DNL Amazon] Konto an, das Zugriff auf Ihre Werbekonten hat.
 
