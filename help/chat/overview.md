@@ -1,13 +1,13 @@
 ---
-description: Erfahren, wie Coworker Chat eine dialogorientierte Oberfläche verwendet, um innerhalb von Minuten Arbeiten mit dem Kundenerlebnis über Adobe und vernetzte Systeme hinweg zu planen, auszuführen und abzuschließen.
+description: Erfahren Sie, wie Coworker Chat eine dialogorientierte Oberfläche verwendet, um innerhalb von Minuten Arbeiten mit dem Kundenerlebnis über Adobe und vernetzte Systeme hinweg zu planen, auszuführen und abzuschließen.
 title: Adobe CX Enterprise Coworker Chat - Übersicht
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: f2c2de80ebe4026b736463626ee8122ac88bd5c5
+source-git-commit: 1fd895142c5f222c3a5f47e30390d2cf9072fad1
 workflow-type: tm+mt
 source-wordcount: '515'
-ht-degree: 9%
+ht-degree: 10%
 ---
 # Über den Coworker Chat {#overview}
 
@@ -15,7 +15,7 @@ Der Coworker Chat ist eine Gesprächsoberfläche, um Kundenerlebnisaufgaben zu e
 
 Der Wert: Arbeit, die sich über mehrere Bildschirme, Teams und Tage erstreckte, geschieht jetzt in einem Gespräch in Minuten. Sie delegieren das Ergebnis und behalten die Kontrolle durch Überprüfung und Genehmigung. Der Coworker Chat führt die Schritte aus, behebt Fehler auf dem Weg und wird immer klarer, während er lernt, wie Ihr Team arbeitet.
 
-Informationen zu den ersten Schritten finden [&#x200B; unter „Erste Schritte mit dem Coworker Chat](ui-guide.md).
+Informationen zu den ersten Schritten finden [ unter „Erste Schritte mit dem Coworker Chat](ui-guide.md).
 
 >[!AVAILABILITY]
 >
@@ -44,6 +44,7 @@ Die folgenden CX Enterprise-Programme sind mit dem Coworker Chat kompatibel:
 
 * Real-Time CDP B2C Edition
 * Adobe Journey Optimizer B2C Edition
+* Adobe Journey Optimizer B2B Edition
 * Customer Journey Analytics
 * Customer Journey Analytics B2B edition
 * Content Analytics
@@ -53,9 +54,9 @@ Die folgenden CX Enterprise-Programme sind mit dem Coworker Chat kompatibel:
 * AEM
 * Workfront
 * Marketo Engage
+* Marketo Optimizer
 * _Real-Time CDP B2B edition (in Kürze verfügbar)_
-* _Adobe Journey Optimizer B2B Edition (in Kürze verfügbar)_
 
 ## Videoüberblick
 
->[!VIDEO](https://video.tv.adobe.com/v/3495974?captions=ger&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3495967?learn=on){transcript=true}
