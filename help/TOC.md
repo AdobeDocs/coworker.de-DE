@@ -6,9 +6,9 @@ description: Erfahren Sie mehr über KI-Tools in CX Enterprise. Verbessern Sie I
 solution: Coworker
 role: Admin,User,Developer,Leader
 auto-video-transcripts: true
-source-git-commit: 98439066e28b43d6f97f1ac769dfb9d45e698ea9
+source-git-commit: 4c82db341547bf3009009a3fea4a88e294ce6c24
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '408'
 ht-degree: 22%
 ---
 
@@ -34,6 +34,7 @@ ht-degree: 22%
         - [Erstellen einer Checkliste für die Implementierung](./chat/use-cases/data-insights/intelligent-checklist.md)
         - [Validieren von AA zu CJA-Daten beim Upgrade](./chat/use-cases/data-insights/data-validation-aa-cja.md)
         - [Migrieren von AA-Projekten nach CJA](./chat/use-cases/data-insights/migrate-projects-aa-cja.md)
+        - [Erstellen eines Content Analytics-Plans](./chat/use-cases/data-insights/content-analytics-implementation-plan.md)
         - [Validieren der Implementierung von Streaming-Medien](./chat/use-cases/data-insights/streaming-media-validation.md)
         - [Validieren der Datensatzqualität für CJA-Berichte](./chat/use-cases/data-insights/validate-dataset-quality-for-cja.md)
         - [Validieren der Experience Platform-Daten](./chat/use-cases/data-insights/data-validation-aep.md)
