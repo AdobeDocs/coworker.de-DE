@@ -23,14 +23,20 @@ topic_v2:
     internal-label: Artificial intelligence
   - id: da31900f-0b2e-4267-a5f8-69290b954752
     internal-label: Customer experience management
-source-git-commit: b5b8b4188aaa1c81c63a2b089c5dd12b408dbcda
+source-git-commit: cf3c531cc5daacec7b917cad472fe95b08f31b9a
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 0%
+source-wordcount: '142'
+ht-degree: 5%
 ---
 
-# Erstellen einer Journey aus einem Abbild
+# Erstellen einer Journey aus einem Bild
 
 Laden Sie ein Flussdiagrammbild, z. B. eine PowerPoint-Folie, in CX Enterprise Coworker hoch. In diesem Video erfahren Sie, wie Sie die aus dem Bild extrahierte Eingabeaufforderung überprüfen, das Trigger -Ereignis angeben und einen bearbeitbaren Journey-Entwurf in Adobe Journey Optimizer speichern.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504872/?captions=ger&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504865/?learn=on&enablevpops)
+
+## Siehe auch
+
+- [Mitarbeiter für Journey: Journey Create](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-create){target="_blank"} mit wichtigen Anwendungsfällen, ansprechenden Best Practices und umfassenden Kenntnissen zum Erstellen von Journey in Adobe Journey Optimizer.
+- [Mitarbeiterfähigkeiten für Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/ai-features#cx-coworker-skills){target="_blank"}, ein Überblick über Mitarbeiterfähigkeiten in Journey Optimizer.
+- [Weitere Workflows für den Coworker-Chat](../workflows.md#journeys)
