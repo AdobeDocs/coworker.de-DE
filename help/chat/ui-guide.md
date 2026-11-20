@@ -63,7 +63,7 @@ Links unten in der Benutzeroberfläche können Sie Optionen und Voreinstellungen
 | Einstellung/Option | Verwenden Sie sie für folgende Zwecke: |
 | --- | --- |
 | Kontoname und E-Mail | Bestätigen Sie, mit welchem Adobe-Konto Sie angemeldet sind. |
-| **[!UICONTROL Benachrichtigungen]** (Glockensymbol) | Anzeigen Ihrer [Benachrichtigungen](https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences#subscribe-to-notifications-in-experience-cloud). |
+| **[!UICONTROL Benachrichtigungen]** (Glockensymbol) | Anzeigen Ihrer [Benachrichtigungen](https://experienceleague.adobe.com/de/docs/core-services/interface/features/account-preferences#subscribe-to-notifications-in-experience-cloud). |
 | **[!UICONTROL Design]** | Wechseln Sie zwischen den hellen und dunklen Designs. |
 | **[!UICONTROL App-Einstellungen]** | Anzeigen von Kontodetails und Arbeitsbereich-Einstellungen. |
 | **[!UICONTROL Voreinstellungen]** | Öffnen Sie Ihr Konto [Voreinstellungen](https://experienceleague.adobe.com/de/docs/core-services/interface/features/account-preferences). Der Pfeil zeigt an, dass die Seite außerhalb von Coworker geöffnet wird. |
