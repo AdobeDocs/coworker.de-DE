@@ -13,9 +13,9 @@ product_v2:
     internal-label: Coworker
   - id: cb954087-f4fc-4456-afb9-e939cabcdc79
     internal-label: Journey Optimizer
-source-git-commit: b5b8b4188aaa1c81c63a2b089c5dd12b408dbcda
+source-git-commit: da823df94cfeb096cfa02fd939e3025c54e6372b
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '166'
 ht-degree: 1%
 ---
 
@@ -27,5 +27,7 @@ Beschreiben Sie die Journey, die Sie erstellen möchten, und Coworker entwirft s
 
 ## Siehe auch
 
+- [Mitarbeiter für Journey: Journey Create](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-create){target="_blank"} mit wichtigen Anwendungsfällen, ansprechenden Best Practices und umfassenden Kenntnissen zum Erstellen von Journey in Adobe Journey Optimizer.
+- [Mitarbeiterfähigkeiten für Journey Optimizer](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/get-started/ai-features#cx-coworker-skills){target="_blank"}, ein Überblick über Mitarbeiterfähigkeiten in Journey Optimizer.
 - [Journey Agent](https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent#journey-create), die zugrunde liegende KI-Funktion, die die Journey-Erstellung im Coworker Chat ermöglicht.
 - [Weitere Workflows für den Coworker-Chat](../workflows.md#journeys)

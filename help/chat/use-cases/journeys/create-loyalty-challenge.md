@@ -12,10 +12,10 @@ product_v2:
     internal-label: Coworker
   - id: cb954087-f4fc-4456-afb9-e939cabcdc79
     internal-label: Journey Optimizer
-source-git-commit: 195ec9f05a901294bbd3631ef91435e58f016cd0
+source-git-commit: 44d80cde607adc9f8c688f85489dba2b932f0fbe
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 1%
+source-wordcount: '220'
+ht-degree: 0%
 ---
 
 # Adobe Journey Optimizer und Mitarbeiter - Treueprogramm erstellen und Einblicke gewinnen
@@ -32,4 +32,6 @@ Verwenden Sie einfache Eingabeaufforderungen, um mit CX Enterprise Coworker Hera
 
 - [Journey Agent](https://experienceleague.adobe.com/de/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent) für andere AJO-KI-Funktionen, die über den Coworker Chat verfügbar sind, wie z. B. die Erstellung, Analyse und Simulation von Journey.
 - [Verwaltung von Loyalitätsproblemen](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/loyalty-challenges/loyalty-coworker-skills#loyalty-challenge-management){target="_blank"} in der Dokumentation zu Adobe Journey Optimizer.
-- [Weitere Workflows für den Coworker-Chat](../workflows.md#journeys)
+- [Treueeinblicke](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/loyalty-challenges/loyalty-coworker-skills#loyalty-data-insight){target="_blank"} in der Adobe Journey Optimizer-Dokumentation zur Abfrage von Treuepunkten, Ebenen und Umsatzmetriken.
+- [Mitarbeiterfähigkeiten für Journey Optimizer](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/get-started/ai-features#cx-coworker-skills){target="_blank"}, ein Überblick über Mitarbeiterfähigkeiten in Journey Optimizer.
+- [Weitere Workflows für den Coworker-Chat](../workflows.md#loyalty)

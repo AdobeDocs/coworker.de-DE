@@ -20,10 +20,10 @@ level_v2:
     internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: d7f1f470a99880d46f518b42f4e766066c6fa52e
+source-git-commit: cf3c531cc5daacec7b917cad472fe95b08f31b9a
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 0%
+source-wordcount: '133'
+ht-degree: 1%
 ---
 
 # Simulieren einer Adobe Journey Optimizer-Journey mit Coworker
@@ -31,3 +31,9 @@ ht-degree: 0%
 Verwenden Sie den -Mitarbeiter, um eine Adobe Journey Optimizer-Journey mit automatisch generierten Testprofilen und -ereignissen zu simulieren. In diesem Video erfahren Sie, wie Sie Journey-Pfade testen, Testversandnachrichten empfangen und vor der Veröffentlichung die Pfadabdeckung und die Simulationsergebnisse überprüfen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3507038?captions=ger&learn=on)
+
+## Siehe auch
+
+- [Coworker for Journey: Journey Simulation](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-simulation){target="_blank"} mit wichtigen Anwendungsfällen und Einschränkungen der Simulation von Journey mit Coworker.
+- [Mitarbeiterfähigkeiten für Journey Optimizer](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/get-started/ai-features#cx-coworker-skills){target="_blank"}, ein Überblick über Mitarbeiterfähigkeiten in Journey Optimizer.
+- [Weitere Workflows für den Coworker-Chat](../workflows.md#journeys)
