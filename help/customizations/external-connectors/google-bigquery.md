@@ -50,7 +50,7 @@ Bereiten Sie in [!DNL Google Cloud] den Projekt- und Memberzugriff vor, bevor Si
 
 Ein [!DNL Google Cloud] bereitet das Projekt vor, das Abfrageaufträge ausführt:
 
-1. Wählen oder erstellen Sie in der {0](https://console.cloud.google.com/) Google Cloud-Konsole ein Projekt.[
+1. Wählen oder erstellen Sie in der &lbrace;0[&#128279;](https://console.cloud.google.com/) Google Cloud-Konsole ein Projekt.
 1. Aktivieren Sie die [!DNL BigQuery]-API, falls sie noch nicht aktiviert ist. Durch Aktivierung der API wird auch der [!DNL BigQuery] Remote-MCP-Server aktiviert.
 1. Wählen Sie Abrechnung oder die [BigQuery-Sandbox](https://docs.cloud.google.com/bigquery/docs/sandbox) und legen Sie dann die entsprechenden täglichen [benutzerdefinierten Abfragekontingente](https://docs.cloud.google.com/bigquery/docs/custom-quotas) für das Abfrageprojekt fest.
 
@@ -70,7 +70,7 @@ Gewähren Sie den [!DNL Google] Identitäten Ihrer Mitglieder die folgenden Roll
 | [!UICONTROL BigQuery Job-Benutzer] (`roles/bigquery.jobUser`) | Das Abfrageprojekt | Abfrageaufträge ausführen. |
 | [!UICONTROL BigQuery Data Viewer] (`roles/bigquery.dataViewer`) | Die autorisierten Datensätze oder Datenprojekte | Lesen von Daten und Metadaten. |
 
-Gewähren Sie nicht, [!UICONTROL BigQuery Data Editor], [!UICONTROL BigQuery Data Owner] oder [!UICONTROL BigQuery Admin] nur diesen schreibgeschützten Connector zu verwenden. Als zusätzliche Sicherheitsmaßnahme sollten Sie eine Richtlinie [Ablehnen“ für Lese-/Schreib-MCP-Tools ](https://docs.cloud.google.com/mcp/prevent-read-write-tool-use). Bitten Sie Ihren [!DNL Google Cloud], zunächst den Umfang der Ablehnungsrichtlinie zu überprüfen, da sie sich auf andere [!DNL Google] MCP-Clients und -Services auswirken kann. Weitere Informationen finden Sie unter [BigQuery IAM-Rollen und -](https://docs.cloud.google.com/bigquery/docs/access-control).
+Gewähren Sie nicht, [!UICONTROL BigQuery Data Editor], [!UICONTROL BigQuery Data Owner] oder [!UICONTROL BigQuery Admin] nur diesen schreibgeschützten Connector zu verwenden. Als zusätzliche Sicherheitsmaßnahme sollten Sie eine Richtlinie [Ablehnen“ für Lese-/Schreib-MCP-Tools &#x200B;](https://docs.cloud.google.com/mcp/prevent-read-write-tool-use). Bitten Sie Ihren [!DNL Google Cloud], zunächst den Umfang der Ablehnungsrichtlinie zu überprüfen, da sie sich auf andere [!DNL Google] MCP-Clients und -Services auswirken kann. Weitere Informationen finden Sie unter [BigQuery IAM-Rollen und -](https://docs.cloud.google.com/bigquery/docs/access-control).
 
 ## Konfigurieren des Connectors für Ihre Organisation {#configure-organization}
 
@@ -144,7 +144,7 @@ Nachdem ein Administrator den Connector konfiguriert hat, meldet sich jedes Mitg
 
 1. Öffnen Sie **[!UICONTROL Anpassungen]**, wählen Sie **[!UICONTROL Benutzer]** und dann **[!UICONTROL Externe Connectoren]** aus. Wählen Sie auf der Karte **[!UICONTROL Google BigQuery]**, die **[!UICONTROL Nicht angemeldet]** anzeigt, **[!UICONTROL Anmelden]** aus.
 
-   Wenn auf der Karte steht, dass ein Administrator den Connector einrichten muss, bitten Sie Ihren Administrator, den [ zu konfigurieren](#configure-organization).
+   Wenn auf der Karte steht, dass ein Administrator den Connector einrichten muss, bitten Sie Ihren Administrator, den [&#x200B; zu konfigurieren](#configure-organization).
 
 1. Wählen Sie auf dem Bildschirm [!DNL Google] **[!UICONTROL Konto auswählen]** das Konto aus, das über den erforderlichen IAM-Zugriff verfügt, oder wählen Sie **[!UICONTROL Anderes Konto verwenden]** aus. Führen Sie dann alle für Ihr Unternehmen erforderlichen Anmeldeschritte aus, z. B. Single Sign-on (SSO) oder Multi-Faktor-Authentifizierung (MFA).
 
