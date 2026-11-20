@@ -83,7 +83,7 @@ Der Connector verwendet Benutzer-OAuth-Bereiche, die das Konto jedes Mitglieds a
 
 Der `chat:write` Benutzerbereich ermöglicht es Kollegen, Nachrichten als angemeldetes Mitglied zu senden. Wenn Ihr Unternehmen nicht plant, Nachrichten zu senden, lassen Sie es aus.
 
-Ihr Arbeitsbereich oder [!DNL Slack] Unternehmen benötigt möglicherweise eine App-Genehmigung und eine Überprüfung des Umfangs. Die App-Genehmigung ersetzt nicht das Einverständnis jedes Mitglieds. Eine Richtlinie, die nur [!DNL Slack Marketplace] Apps zulässt, kann eine interne App blockieren. Weitere Informationen finden Sie unter [App-Genehmigung für Ihren Arbeitsbereich ](https://slack.com/help/articles/222386767-Manage-app-approval-for-your-workspace).
+Ihr Arbeitsbereich oder [!DNL Slack] Unternehmen benötigt möglicherweise eine App-Genehmigung und eine Überprüfung des Umfangs. Die App-Genehmigung ersetzt nicht das Einverständnis jedes Mitglieds. Eine Richtlinie, die nur [!DNL Slack Marketplace] Apps zulässt, kann eine interne App blockieren. Weitere Informationen finden Sie unter [App-Genehmigung für Ihren Arbeitsbereich &#x200B;](https://slack.com/help/articles/222386767-Manage-app-approval-for-your-workspace).
 
 Wenn Ihre App zulässige IP-Adressbeschränkungen verwendet, wendet [!DNL Slack] diese auch auf MCP-Anfragen an. Wenden Sie sich an den Adobe-Support, um die Adressen zu bestätigen, die zugelassen werden sollen. IP-Adressbereiche nicht raten. Einige Funktionen, z. B. die semantische Suche, können von Ihrem [!DNL Slack]-Plan abhängen.
 
@@ -104,7 +104,7 @@ Der [!DNL Slack] MCP-Server unterstützt keine dynamische Client-Registrierung o
 
 Administratoren stellen den [!DNL Slack]-Connector für alle Personen in der Organisation zur Verfügung. Änderungen auf der Seite „Organisation“ gelten für alle Benutzer in Ihrer Organisation. Schließen Sie [Slack-App vorbereiten](#prepare-slack-app) ab, bevor sich Mitglieder anmelden.
 
-1. Öffnen Sie **[!UICONTROL Anpassungen]**, wählen Sie **[!UICONTROL Organisation]** und dann **[!UICONTROL Externe Connectoren]** aus. Wählen Sie auf der Karte **** Slack **[!UICONTROL die Option „Konfigurieren]** aus.
+1. Öffnen Sie **[!UICONTROL Anpassungen]**, wählen Sie **[!UICONTROL Organisation]** und dann **[!UICONTROL Externe Connectoren]** aus. Wählen Sie auf der Karte **&#x200B;**&#x200B;Slack **[!UICONTROL die Option „Konfigurieren]** aus.
 
    Das **[!UICONTROL Slack verbinden]**-Dialogfeld wird geöffnet. Der Connector verwendet die feste [!DNL Slack] MCP-Server-URL `https://mcp.slack.com/mcp`. Verwenden Sie den Organisationsbereich für diese Konfiguration, keine persönliche Verbindung.
 
